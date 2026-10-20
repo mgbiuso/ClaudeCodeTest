@@ -19,7 +19,8 @@
     "2018 National League Championship Series"
    ],
    "about": "Christian Yelich",
-   "headline": "The Los Angeles Dodgers advanced to the World Series",
+   "key": "ebcbb8ba6c08aec0",
+   "headline": "Dodgers beat Brewers 5-1 in Game 7, advance to World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_0018_Christian_Yelich.jpg/960px-IMG_0018_Christian_Yelich.jpg",
     "credit": "hueytaxi on Flickr (Original version) UCinternational (Crop)",
@@ -27,7 +28,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:IMG_0018_Christian_Yelich.jpg",
     "alt": "Christian Yelich",
     "source": "commons",
-    "of": "Christian Yelich"
+    "of": "Christian Yelich",
+    "w": 1500,
+    "h": 1500
    },
    "extract": "Christian Stephen Yelich is an American professional baseball left fielder and designated hitter who captains the Milwaukee Brewers of Major League Baseball (MLB). He has previously played in MLB for the Miami Marlins. Internationally, Yelich represents the United States. In the 2017 World Baseball Classic (WBC), he…",
    "page": "https://en.wikipedia.org/wiki/Christian_Yelich",
@@ -46,15 +49,18 @@
     "Derryl Cousins"
    ],
    "about": "Derryl Cousins",
-   "headline": "Derryl Cousins, 74, Major League Baseball umpire whose career spanned",
+   "key": "551e7ff61bae9934",
+   "headline": "Umpire Derryl Cousins dies at 74",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Derryl_Cousins_2009.jpg",
-    "credit": "Derryl_Cousins_and_Lou_Piniella.jpg: ttarasiuk derivative work: Delaywaves talk",
+    "credit": "ttarasiuk Delaywaves",
     "license": "CC BY 2.0",
     "page": "https://commons.wikimedia.org/wiki/File:Derryl_Cousins_2009.jpg",
     "alt": "Derryl Cousins",
     "source": "commons",
-    "of": "Derryl Cousins"
+    "of": "Derryl Cousins",
+    "w": 284,
+    "h": 363
    },
    "extract": "Derryl Cousins was an American umpire in Major League Baseball (MLB), who worked in the American League (AL) from 1979 to 1999, and umpired throughout both leagues from 2000 until his retirement following the 2012 season, ending his career as a crew chief.",
    "page": "https://en.wikipedia.org/wiki/Derryl_Cousins"
@@ -72,15 +78,18 @@
    "abouts": [
     "Robin Yount"
    ],
+   "key": "7de917946acfcaa5",
    "headline": "Yount threw out the first pitch before Game 7 of the National League",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Robin_Yount.jpg/960px-Robin_Yount.jpg",
-    "credit": "Scott Ableman Original uploader was Quakerwildcat at en.wikipedia",
+    "credit": "Scott Ableman Quakerwildcat at en.wikipedia",
     "license": "CC BY-SA 2.0",
     "page": "https://commons.wikimedia.org/wiki/File:Robin_Yount.jpg",
     "alt": "Robin Yount",
     "source": "commons",
-    "of": "Robin Yount"
+    "of": "Robin Yount",
+    "w": 3008,
+    "h": 2000
    },
    "extract": "Robin R. Yount, nicknamed \"the Kid\" and \"Rockin' Robin\", is an American former professional baseball player. He spent his entire 20-year career in Major League Baseball as a shortstop and center fielder for the Milwaukee Brewers from 1974 to 1993.",
    "page": "https://en.wikipedia.org/wiki/Robin_Yount"
@@ -98,7 +107,8 @@
    "abouts": [
     "Kokomo Jackrabbits"
    ],
-   "headline": "Greg Van Horn was named the first Field Manager in Jackrabbits history",
+   "key": "df962ecb021530e6",
+   "headline": "Greg Van Horn named first Field Manager in Jackrabbits history",
    "image": null,
    "extract": "The Kokomo Jackrabbits were a collegiate summer league baseball team of the Northwoods League. They were based in Kokomo, Indiana and played their home games at Kokomo Municipal Stadium. Before joining the Northwoods League, the Jackrabbits played in the Prospect League.",
    "page": "https://en.wikipedia.org/wiki/Kokomo_Jackrabbits"
@@ -118,7 +128,8 @@
     "Hank Aaron"
    ],
    "about": "Dave May",
-   "headline": "Dave May, 68, All-Star outfielder who spent 12 seasons in the majors",
+   "key": "96e98251b3f1bddd",
+   "headline": "Dave May, 68, All-Star outfielder with 12 major league seasons, dies",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dave_May_67-70.jpg",
     "credit": "Baltimore Orioles / MLB",
@@ -126,7 +137,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Dave_May_67-70.jpg",
     "alt": "Dave May",
     "source": "commons",
-    "of": "Dave May"
+    "of": "Dave May",
+    "w": 345,
+    "h": 415
    },
    "extract": "David LaFrance May was an American professional baseball player. He played in Major League Baseball as an outfielder from 1967 through 1978 for the Baltimore Orioles, Milwaukee Brewers, Atlanta Braves, Texas Rangers and the Pittsburgh Pirates. May was a member of the AL pennant winning Orioles team in 1969 and, was an…",
    "page": "https://en.wikipedia.org/wiki/Dave_May"
@@ -148,7 +161,8 @@
     "New York Yankees"
    ],
    "about": "Yankee Stadium (1923)",
-   "headline": "At Yankee Stadium, the Boston Red Sox pull off one of the greatest",
+   "key": "f3a860f8464ac00f",
+   "headline": "Red Sox beat Yankees four straight after losing first three in ALCS",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yankee_Stadium_aerial_from_Blackhawk.jpg/960px-Yankee_Stadium_aerial_from_Blackhawk.jpg",
     "credit": "Severin St. Martin",
@@ -156,7 +170,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_aerial_from_Blackhawk.jpg",
     "alt": "Yankee Stadium (1923)",
     "source": "commons",
-    "of": "Yankee Stadium (1923)"
+    "of": "Yankee Stadium (1923)",
+    "w": 1952,
+    "h": 1480
    },
    "extract": "The original Yankee Stadium was located in the Bronx in New York City. It was the home of the New York Yankees from 1923 to 2008, except for 1974–1975 when it was renovated. It hosted 6,581 Yankees regular season home games during its 85-year history. It was also the home of the New York Giants of the National…",
    "page": "https://en.wikipedia.org/wiki/Yankee_Stadium_(1923)"
@@ -174,7 +190,8 @@
     "Chuck Hiller"
    ],
    "about": "Chuck Hiller",
-   "headline": "Chuck Hiller, 70, second baseman for four NL teams",
+   "key": "684cf161c55faee4",
+   "headline": "Chuck Hiller, 70, first NL player to hit World Series grand slam, dies",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Chuck_Hiller_1961.JPG",
     "credit": "San Francisco Giants / MLB",
@@ -182,7 +199,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Chuck_Hiller_1961.JPG",
     "alt": "Chuck Hiller",
     "source": "commons",
-    "of": "Chuck Hiller"
+    "of": "Chuck Hiller",
+    "w": 933,
+    "h": 1133
    },
    "extract": "Charles Joseph Hiller was an American Major League Baseball second baseman. In the 1962 World Series, he became the first National League player to hit a grand slam in a World Series.",
    "page": "https://en.wikipedia.org/wiki/Chuck_Hiller"
@@ -200,7 +219,8 @@
    "abouts": [
     "Quad Cities River Bandits"
    ],
-   "headline": "The team was renamed the \"Swing of the Quad Cities\"",
+   "key": "066f2366c0e4d812",
+   "headline": "Team renamed Swing of the Quad Cities after another contest",
    "image": null,
    "extract": "The Quad Cities River Bandits are a Minor League Baseball team of the Midwest League and the High-A affiliate of the Kansas City Royals. Their home games are played at Modern Woodmen Park in Davenport, Iowa, one of the Quad Cities.",
    "page": "https://en.wikipedia.org/wiki/Quad_Cities_River_Bandits"
@@ -220,7 +240,8 @@
     "Clark Griffith"
    ],
    "about": "Calvin Griffith",
-   "headline": "Calvin Griffith, 87, succeeded uncle Clark Griffith",
+   "key": "f7b658a509fd305d",
+   "headline": "Calvin Griffith dies at 87, moved Senators to Minnesota",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Calvin_Griffith_LCCN2016840728.jpg/960px-Calvin_Griffith_LCCN2016840728.jpg",
     "credit": "National Photo Company Collection",
@@ -228,7 +249,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Calvin_Griffith_LCCN2016840728.jpg",
     "alt": "Calvin Griffith",
     "source": "commons",
-    "of": "Calvin Griffith"
+    "of": "Calvin Griffith",
+    "w": 4309,
+    "h": 5265
    },
    "extract": "Calvin Robertson Griffith, born Calvin Griffith Robertson, was a Canadian-born American Major League Baseball team owner. As president, majority owner and de facto general manager of the Washington Senators/Minnesota Twins franchise of the American League from 1955 through 1984, he orchestrated the transfer of the…",
    "page": "https://en.wikipedia.org/wiki/Calvin_Griffith"
@@ -250,7 +273,8 @@
     "Cincinnati Reds"
    ],
    "about": "José Rijo",
-   "headline": "The talk of an Oakland Athletics dynasty is proven premature",
+   "key": "69c32f1bbd2f5f91",
+   "headline": "Reds beat Oakland 2-1, complete stunning World Series sweep",
    "image": null,
    "extract": "José Antonio Rijo Abreu is a Dominican former pitcher in Major League Baseball (MLB) who spent the majority of his career with the Cincinnati Reds. Signed by the New York Yankees as an amateur free agent in 1980, Rijo made his MLB debut with them in 1984, and also played in MLB for the Oakland Athletics. He pitched…",
    "page": "https://en.wikipedia.org/wiki/Jos%C3%A9_Rijo"
@@ -272,7 +296,8 @@
     "Oakland Athletics"
    ],
    "about": "1988 World Series",
-   "headline": "Orel Hershiser caps his dream season with a 5–2",
+   "key": "643d433bbd9f7904",
+   "headline": "Hershiser pitches Dodgers to 5-2 win, World Series title",
    "image": null,
    "extract": "The 1988 World Series was the championship series of Major League Baseball's (MLB) 1988 season. The 85th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Oakland Athletics and the National League (NL) champion Los Angeles Dodgers, with the Dodgers upsetting…",
    "page": "https://en.wikipedia.org/wiki/1988_World_Series"
@@ -290,7 +315,8 @@
    "abouts": [
     "1988 Major League Baseball postseason"
    ],
-   "headline": "The playoffs began on October 4, 1988, and concluded on October 20",
+   "key": "03c48997bc9a653d",
+   "headline": "Dodgers shock Athletics in five games in 1988 World Series",
    "image": null,
    "extract": "The 1988 Major League Baseball postseason was the playoff tournament of Major League Baseball for the 1988 season. The winners of each division advance to the postseason and face each other in a League Championship Series to determine the pennant winners that face each other in the World Series.",
    "page": "https://en.wikipedia.org/wiki/1988_Major_League_Baseball_postseason"
@@ -312,7 +338,8 @@
     "Cincinnati Reds"
    ],
    "about": "Bill Bergesch",
-   "headline": "The Cincinnati Reds hire longtime executive Bill Bergesch",
+   "key": "aef707fb993706e8",
+   "headline": "Reds hire Bill Bergesch, 63, as general manager",
    "image": null,
    "extract": "Louis William Bergesch was an American Major League Baseball executive. Beginning as a minor league front-office executive and scouting director in the St. Louis Cardinals organization, he would serve in a variety of management and front office roles over a career spanning almost five decades, except for a brief…",
    "page": "https://en.wikipedia.org/wiki/Bill_Bergesch"
@@ -334,7 +361,8 @@
     "New York Mets"
    ],
    "about": "George Bamberger",
-   "headline": "Pitching guru and former Milwaukee Brewers pilot George Bamberger",
+   "key": "c3b1e3e31f8df734",
+   "headline": "George Bamberger, 58, named manager of New York Mets",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/George_Bamberger_1977.jpg",
     "credit": "Unknown authorUnknown author",
@@ -342,7 +370,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:George_Bamberger_1977.jpg",
     "alt": "George Bamberger",
     "source": "commons",
-    "of": "George Bamberger"
+    "of": "George Bamberger",
+    "w": 296,
+    "h": 489
    },
    "extract": "George Irvin Bamberger was an American professional baseball player, pitching coach and manager. In Major League Baseball, the right-handed pitcher appeared in ten games, nine in relief, for the 1951–52 New York Giants and the 1959 Baltimore Orioles. He later spent ten seasons (1968–77) as the Orioles' pitching coach…",
    "page": "https://en.wikipedia.org/wiki/George_Bamberger"
@@ -360,7 +390,8 @@
     "Cy Slapnicka"
    ],
    "about": "Cy Slapnicka",
-   "headline": "Cy Slapnicka, 93, pitcher, scout",
+   "key": "432efc73e86bd278",
+   "headline": "Cy Slapnicka dies at 93, celebrated Cleveland Indians scout",
    "image": null,
    "extract": "Cyril Charles Slapnicka was an American Major League Baseball pitcher and executive. He played for the Chicago Cubs (1911) and Pittsburgh Pirates (1918). His playing career was unusual in that he went almost seven years between major league appearances. He also played 18 years of minor league ball.",
    "page": "https://en.wikipedia.org/wiki/Cy_Slapnicka"
@@ -382,7 +413,8 @@
     "St. Louis Cardinals"
    ],
    "about": "Mike Caldwell (baseball)",
-   "headline": "The San Francisco Giants and St. Louis Cardinals make",
+   "key": "9338d43096e3dbc3",
+   "headline": "Giants and Cardinals make three-for-three trade to open offseason",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mike_Caldwell_1983.jpg",
     "credit": "Milwaukee Brewers",
@@ -390,7 +422,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Mike_Caldwell_1983.jpg",
     "alt": "Mike Caldwell (baseball)",
     "source": "commons",
-    "of": "Mike Caldwell (baseball)"
+    "of": "Mike Caldwell (baseball)",
+    "w": 552,
+    "h": 691
    },
    "extract": "Ralph Michael Caldwell is an American former professional baseball left-handed pitcher.",
    "page": "https://en.wikipedia.org/wiki/Mike_Caldwell_(baseball)"
@@ -412,7 +446,8 @@
     "San Diego Padres"
    ],
    "about": "Willie Davis (baseball)",
-   "headline": "Willie Davis is on the move again. The veteran center fielder",
+   "key": "a907d4ed305b1d0a",
+   "headline": "Willie Davis traded from Cardinals to Padres for Dick Sharon",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Willie_Davis_1973.jpeg",
     "credit": "Unknown authorUnknown author",
@@ -420,7 +455,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Willie_Davis_1973.jpeg",
     "alt": "Willie Davis (baseball)",
     "source": "commons",
-    "of": "Willie Davis (baseball)"
+    "of": "Willie Davis (baseball)",
+    "w": 472,
+    "h": 659
    },
    "extract": "William Henry Davis was an American professional baseball player. He played in Major League Baseball and the Nippon Professional Baseball league as a center fielder from 1960 through 1979, most prominently as an integral member of the Los Angeles Dodgers teams that won three National League pennants and two World…",
    "page": "https://en.wikipedia.org/wiki/Willie_Davis_(baseball)"
@@ -438,7 +475,8 @@
     "Allen Russell"
    ],
    "about": "Allen Russell",
-   "headline": "Allen Russell, 72, pitcher in 345 games for the New York Yankees",
+   "key": "67b60c4146fc88d4",
+   "headline": "Allen Russell dies at 72, led American League with nine saves",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Allen_Russell_1924.jpg/960px-Allen_Russell_1924.jpg",
     "credit": "National Photo Company Collection",
@@ -446,7 +484,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Allen_Russell_1924.jpg",
     "alt": "Allen Russell",
     "source": "commons",
-    "of": "Allen Russell"
+    "of": "Allen Russell",
+    "w": 1578,
+    "h": 2767
    },
    "extract": "Allan E. \"Rubberarm\" Russell was an American professional baseball player. He was a right-handed pitcher over parts of 11 seasons (1915–1925) with the New York Yankees, Boston Red Sox and Washington Senators. For his career, he compiled a 71–76 record in 345 appearances, with a 3.52 earned run average and 603…",
    "page": "https://en.wikipedia.org/wiki/Allen_Russell"
@@ -466,7 +506,8 @@
     "Los Angeles Angels"
    ],
    "about": "Dick Walsh (executive)",
-   "headline": "The fallout from the California Angels' disastrous 1971 season",
+   "key": "46e2a60ad2072b3e",
+   "headline": "California Angels fire general manager Dick Walsh after bad 1971",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Dick_Walsh_LCCN2016826927.jpg/960px-Dick_Walsh_LCCN2016826927.jpg",
     "credit": "National Photo Company Collection",
@@ -474,7 +515,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Dick_Walsh_LCCN2016826927.jpg",
     "alt": "Dick Walsh (executive)",
     "source": "commons",
-    "of": "Dick Walsh (executive)"
+    "of": "Dick Walsh (executive)",
+    "w": 4222,
+    "h": 5217
    },
    "extract": "Richard Bishop Walsh Jr. was an American professional sports and events industry executive who, during a 50-plus year career, held high-level positions in Major League Baseball, professional soccer, and in convention center management. He was born in South Bend, Indiana, spent his early years in Evanston, Illinois,…",
    "page": "https://en.wikipedia.org/wiki/Dick_Walsh_(executive)"
@@ -496,7 +539,8 @@
     "Milwaukee Brewers"
    ],
    "about": "George Lauzerique",
-   "headline": "The Milwaukee Brewers trade pitchers George Lauzerique",
+   "key": "6e2d7ea1b2600934",
+   "headline": "Brewers trade three players to Cardinals for Jim Ellis and Carl Taylor",
    "image": null,
    "extract": "George Albert Lauzerique is a Cuban former professional baseball player. He played in Major League Baseball as a right-handed pitcher from 1967 to 1970 for the Kansas City / Oakland Athletics and the Milwaukee Brewers.",
    "page": "https://en.wikipedia.org/wiki/George_Lauzerique"
@@ -518,7 +562,8 @@
     "New York Mets"
    ],
    "about": "Major League Baseball All-Star Game",
-   "headline": "The Mets obtain eleven-time All-Star",
+   "key": "db563d9e44bd9b1a",
+   "headline": "Mets acquire All-Star third baseman Ken Boyer from Cardinals",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bruce_Bochy_at_the_2011_Major_League_Baseball_All-Star_Game.jpg",
     "credit": "Eric Kilby on Flickr (Original version) SecretName101 (Crop)",
@@ -526,7 +571,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Bruce_Bochy_at_the_2011_Major_League_Baseball_All-Star_Game.jpg",
     "alt": "Major League Baseball All-Star Game",
     "source": "commons",
-    "of": "Major League Baseball All-Star Game"
+    "of": "Major League Baseball All-Star Game",
+    "w": 442,
+    "h": 467
    },
    "extract": "The Major League Baseball All-Star Game, also known as the \"Midsummer Classic\", is an annual professional baseball game sanctioned by Major League Baseball (MLB) and contested between the all-stars from the American League (AL) and National League (NL). Starting position players and designated hitters are selected by…",
    "page": "https://en.wikipedia.org/wiki/Major_League_Baseball_All-Star_Game"
@@ -544,7 +591,8 @@
     "Lou Gertenrich"
    ],
    "about": "Lou Gertenrich",
-   "headline": "Lou Gertenrich, 58. outfielder who played",
+   "key": "674395984f0ae862",
+   "headline": "Lou Gertenrich dies at 58, former Brewers and Pirates outfielder",
    "image": null,
    "extract": "Louis Wilhelm Gertenrich was an American professional baseball player. He played parts of two seasons in Major League Baseball as an outfielder for the Milwaukee Brewers and Pittsburgh Pirates.",
    "page": "https://en.wikipedia.org/wiki/Lou_Gertenrich"
@@ -562,7 +610,8 @@
    "abouts": [
     "Yankee Stadium (1923)"
    ],
-   "headline": "The first college football game played in Yankee Stadium was a 3-0",
+   "key": "bb501fbc150f65bf",
+   "headline": "Syracuse beats Pittsburgh 3-0 in first Yankee Stadium football game",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yankee_Stadium_aerial_from_Blackhawk.jpg/960px-Yankee_Stadium_aerial_from_Blackhawk.jpg",
     "credit": "Severin St. Martin",
@@ -570,7 +619,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_aerial_from_Blackhawk.jpg",
     "alt": "Yankee Stadium (1923)",
     "source": "commons",
-    "of": "Yankee Stadium (1923)"
+    "of": "Yankee Stadium (1923)",
+    "w": 1952,
+    "h": 1480
    },
    "extract": "The original Yankee Stadium was located in the Bronx in New York City. It was the home of the New York Yankees from 1923 to 2008, except for 1974–1975 when it was renovated. It hosted 6,581 Yankees regular season home games during its 85-year history. It was also the home of the New York Giants of the National…",
    "page": "https://en.wikipedia.org/wiki/Yankee_Stadium_(1923)"
@@ -588,7 +639,8 @@
     "Buck Ewing"
    ],
    "about": "Buck Ewing",
-   "headline": "Buck Ewing, 47, catcher, most notably for the New York Giants",
+   "key": "9c4286b086a4ff90",
+   "headline": "Buck Ewing dies at 47, Giants catcher and later Cincinnati manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/BuckEwing.jpeg",
     "credit": "Unknown authorUnknown author",
@@ -596,7 +648,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:BuckEwing.jpeg",
     "alt": "Buck Ewing",
     "source": "commons",
-    "of": "Buck Ewing"
+    "of": "Buck Ewing",
+    "w": 376,
+    "h": 562
    },
    "extract": "William \"Buck\" Ewing was an American Major League Baseball player and manager. He was renowned for both his offensive and defensive skills during his playing career. In 1939, Ewing was elected to the Baseball Hall of Fame, becoming the first catcher to receive the honor.",
    "page": "https://en.wikipedia.org/wiki/Buck_Ewing"
@@ -616,7 +670,8 @@
     "hitting for the cycle"
    ],
    "about": "Curry Foley",
-   "headline": "Curry Foley, 42, Irish outfielder/first baseman/pitcher who played",
+   "key": "931f57ce5e755b9b",
+   "headline": "Curry Foley dies at 42, first major leaguer to hit for the cycle",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Curry_Foley_cropped.jpg",
     "credit": "Howland -- Photographer",
@@ -624,7 +679,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Curry_Foley_cropped.jpg",
     "alt": "Curry Foley",
     "source": "commons",
-    "of": "Curry Foley"
+    "of": "Curry Foley",
+    "w": 387,
+    "h": 470
    },
    "extract": "Charles Joseph \"Curry\" Foley was an American professional baseball player who played in the National League (NL) for five seasons from 1879 to 1883. He played as a pitcher, outfielder and first baseman for two teams in the NL: the Boston Red Caps (1879–80) and the Buffalo Bisons (1881–83).",
    "page": "https://en.wikipedia.org/wiki/Curry_Foley"
@@ -643,7 +700,8 @@
     "New York Giants (baseball)"
    ],
    "about": "New York Giants (baseball)",
-   "headline": "The Giants score five runs in the bottom of the eighth inning to take",
+   "key": "aabcb723ee988f7a",
+   "headline": "Giants score five in eighth to beat 6-4 and take 4-1 series lead",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Monte_Ward%2C_New_York_Giants%2C_baseball_card_portrait_LOC_3971750600.jpg",
     "credit": "The Library of Congress",
@@ -651,7 +709,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Monte_Ward,_New_York_Giants,_baseball_card_portrait_LOC_3971750600.jpg",
     "alt": "New York Giants (baseball)",
     "source": "commons",
-    "of": "New York Giants (baseball)"
+    "of": "New York Giants (baseball)",
+    "w": 640,
+    "h": 423
    },
    "extract": "The New York Giants were a Major League Baseball team in the National League that began play in the 1883 season as the New York Gothams and became known as the Giants in 1885. They continued as the New York Giants until the team moved to San Francisco after the 1957 season, where the team continues its history as the…",
    "page": "https://en.wikipedia.org/wiki/New_York_Giants_(baseball)"
@@ -669,7 +729,8 @@
     "Tommy Bond (baseball)"
    ],
    "about": "Tommy Bond (baseball)",
-   "headline": "Tommy Bond demonstrates proof that a curveball really does curve",
+   "key": "5e1da47e210c2310",
+   "headline": "Tommy Bond shows curveball curves by throwing around stakes",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tommy_bond_baseball.jpg",
     "credit": "Wikimedia Commons",
@@ -677,7 +738,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Tommy_bond_baseball.jpg",
     "alt": "Tommy Bond (baseball)",
     "source": "commons",
-    "of": "Tommy Bond (baseball)"
+    "of": "Tommy Bond (baseball)",
+    "w": 518,
+    "h": 760
    },
    "extract": "Thomas Henry Bond was an Irish-born Major League Baseball player who was a pitcher and a right fielder for a total of ten seasons. A native of Granard, Ireland, he is the first man born in Ireland to play Major League Baseball. Bond was also the last survivor of the National League's first season (1876).",
    "page": "https://en.wikipedia.org/wiki/Tommy_Bond_(baseball)"
@@ -697,7 +760,8 @@
     "Athletic of Philadelphia"
    ],
    "about": "Boston Braves",
-   "headline": "The Boston Base Ball Club win their 3rd consecutive pennant",
+   "key": "7e3daa2b056280f1",
+   "headline": "Boston wins third straight pennant with 14-7 win over Athletic",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Boston_Braves_Baseball_Team_of_1948_%2878732%29.jpg/960px-Boston_Braves_Baseball_Team_of_1948_%2878732%29.jpg",
     "credit": "Tichnor Bros. Inc., Boston, Mass.",
@@ -705,7 +769,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Boston_Braves_Baseball_Team_of_1948_(78732).jpg",
     "alt": "Boston Braves",
     "source": "commons",
-    "of": "Boston Braves"
+    "of": "Boston Braves",
+    "w": 3311,
+    "h": 2144
    },
    "extract": "The Boston Braves were a Major League Baseball team that played in Boston for the National League from 1871 to 1952. The team relocated to Milwaukee after the 1952 season, becoming the Milwaukee Braves, and subsequently moved to Atlanta in 1966.",
    "page": "https://en.wikipedia.org/wiki/Boston_Braves"
@@ -723,7 +789,8 @@
    "abouts": [
     "Jocko Fields"
    ],
-   "headline": "John Joseph \"Jocko\" Fields (October 20, 1864 – October 14",
+   "key": "33db494eb2a4a716",
+   "headline": "Jocko Fields born October 20, 1864, American professional player",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jocko_Fields.jpg",
     "credit": "Old Judge",
@@ -731,7 +798,9 @@
     "page": "https://commons.wikimedia.org/wiki/File:Jocko_Fields.jpg",
     "alt": "Jocko Fields",
     "source": "commons",
-    "of": "Jocko Fields"
+    "of": "Jocko Fields",
+    "w": 245,
+    "h": 386
    },
    "extract": "John Joseph \"Jocko\" Fields was an American professional baseball player. He was born on October 20, 1864, in Cork, Ireland. Fields made his Major League debut on May 31, 1887. He played for the Pittsburgh Pirates, Pittsburgh Burghers, Philadelphia Phillies and New York Giants. Fields played 341 games in the majors,…",
    "page": "https://en.wikipedia.org/wiki/Jocko_Fields"

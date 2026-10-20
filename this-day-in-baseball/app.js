@@ -74,6 +74,7 @@ function figureFor(story, accent) {
   const pic = el("img", "photo");
   pic.src = img.url;
   pic.alt = img.alt || story.about || "";
+  if (img.w && img.h) { pic.width = img.w; pic.height = img.h; }  // reserves the right shape before the photo loads
   pic.loading = "lazy";
   pic.decoding = "async";
   pic.addEventListener("error", () => { fig.replaceChildren(plateFor(story, accent)); });

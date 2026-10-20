@@ -125,8 +125,9 @@ main:focus { outline: none; }
 .body .more a { color: var(--accent); }
 
 figure { margin: 0 0 10px; }
-.photo { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; background: var(--paper-2); border: 1px solid var(--rule); }
-figcaption { margin-top: 5px; font-size: 12.5px; line-height: 1.35; color: var(--ink-soft); }
+/* Photos keep their own shape: nothing is cropped. Very tall portraits stop at a maximum height and sit on a paper mat. */
+.photo { display: block; width: 100%; height: auto; max-height: 560px; object-fit: contain; background: var(--paper-2); border: 1px solid var(--rule); }
+figcaption { overflow-wrap: anywhere; margin-top: 5px; font-size: 12.5px; line-height: 1.35; color: var(--ink-soft); }
 figcaption a { text-decoration-thickness: 1px; }
 
 .plate {
@@ -179,6 +180,11 @@ figcaption a { text-decoration-thickness: 1px; }
   .top .lead.has-photo .head { grid-column: 1 / -1; }
   .side { border-left: 1px solid var(--rule); padding-left: var(--col-gap); }
 
+  /* Cap photo heights on the front page so a tall portrait cannot stretch a column and leave a blank hole beside it. */
+  .photo { max-height: 420px; }
+  .lead .photo { max-height: 500px; }
+  .side .photo { max-height: 320px; }
+
   .std-grid { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 4px solid var(--ink); margin-top: 8px; }
   .std-grid > .story { border-top: 1px solid var(--rule); padding: 16px 22px 20px; }
   .std-grid > .story:nth-child(-n+3) { border-top: 0; }
@@ -210,7 +216,20 @@ figcaption a { text-decoration-thickness: 1px; }
   .story > figure, .story .media { margin-left: calc(var(--gutter) * -1); margin-right: calc(var(--gutter) * -1); }
   .story figcaption { padding: 0 var(--gutter); }
   .photo, .plate { border-left: 0; border-right: 0; }
-  .memoriam figure { max-width: none; }
+  .photo { max-height: 75vh; }
+  /* In memoriam on a phone: small thumbnail beside the headline and text, not a full-width photo */
+  .memoriam .story {
+    display: grid; grid-template-columns: 104px 1fr; column-gap: 14px; align-items: start;
+    grid-template-areas: "fig head" "fig body";
+  }
+  .memoriam .story:not(:has(figure)) { grid-template-columns: 1fr; grid-template-areas: "head" "body"; }
+  .memoriam .story .head { grid-area: head; }
+  .memoriam .story > figure { grid-area: fig; margin: 0; }
+  .memoriam .story .body { grid-area: body; }
+  .memoriam .photo { max-height: 150px; }
+  .memoriam .story figcaption { padding: 0; font-size: 11px; }
+  .memoriam .headline { font-size: 22px; }
+  .memoriam .kicker .yr { font-size: 36px; }
   .briefs-list li { font-size: 17px; }
   .kicker .yr { font-size: 52px; }
   .date-head .count { display: none; }

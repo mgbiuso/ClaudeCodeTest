@@ -320,6 +320,19 @@ def headline(text, limit=70):
     return tidy(window.rsplit(" ", 1)[0])
 
 
+def story_key(year, text):
+    """Stable id for a story, used to cache AI headlines across rebuilds."""
+    return hashlib.sha1(f"{year}\n{text}".encode()).hexdigest()[:16]
+
+
+def load_headline_cache():
+    f = ROOT / "data" / "headlines.json"
+    try:
+        return json.loads(f.read_text())
+    except (OSError, ValueError):
+        return {}
+
+
 def dedupe_by_subject(rows):
     best = {}
     for r in rows:
@@ -335,6 +348,9 @@ def dedupe_by_subject(rows):
         else:
             out.append(r)
     return out
+
+
+HEADLINES = load_headline_cache()  # AI headlines from write_headlines.py, keyed by story_key
 
 
 def rank(rows):
@@ -374,7 +390,8 @@ def rank(rows):
         cands += people + [l for l in r["links"] if l in teams and l not in cands]
         r["abouts"] = cands[:3]
         r["about"] = r["abouts"][0] if r["abouts"] else None
-        r["headline"] = headline(r["text"])
+        r["key"] = story_key(r["year"], r["text"])
+        r["headline"] = HEADLINES.get(r["key"]) or headline(r["text"])
     lead, rest = kept[:1], kept[1:]
     rest.sort(key=lambda r: r["year"], reverse=True)  # newest year first
     if lead:
@@ -402,6 +419,16 @@ def clean_html(s):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", s or ""))).strip()
 
 
+def clean_credit(s):
+    """Tidy a Commons 'Artist' field: drop file names, 'derivative work' notes and trailing 'talk'; keep it short."""
+    t = clean_html(s)
+    t = re.sub(r"\S+\.(?:jpe?g|png|gif|tiff?)\s*:?", "", t, flags=re.I)
+    t = re.sub(r"\b(?:derivative work|original uploader was|uploader was)\b:?", "", t, flags=re.I)
+    t = re.sub(r"\s+talk\b", "", t)
+    t = re.sub(r"\s+", " ", t).strip(" :;,-")
+    return (t[:70].rsplit(" ", 1)[0] if len(t) > 70 else t) or "Wikimedia Commons"
+
+
 def clean(text, limit):
     text = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", text or ""))).strip()
     return text if len(text) <= limit else text[:limit].rsplit(" ", 1)[0] + "…"
@@ -420,8 +447,8 @@ def commons_info(file_titles):
             lic = md.get("LicenseShortName", {}).get("value", "")
             nonfree = md.get("NonFree", {}).get("value", "").lower() == "true"
             if lic and OK_LICENSE.match(lic) and not nonfree:
-                out[p["title"]] = {"license": lic, "credit": clean_html(md.get("Artist", {}).get("value", "")) or "Wikimedia Commons",
-                                   "page": ii.get("descriptionurl", ""), "url": ii.get("url", ""), "width": ii.get("width", 0)}
+                out[p["title"]] = {"license": lic, "credit": clean_credit(md.get("Artist", {}).get("value", "")),
+                                   "page": ii.get("descriptionurl", ""), "url": ii.get("url", ""), "width": ii.get("width", 0), "height": ii.get("height", 0)}
     return out
 
 
@@ -480,7 +507,8 @@ def add_photos(stories):
             if f and f in info:
                 i = info[f]
                 st["image"] = {"url": thumb_url(sm["originalimage"]["source"], orig_width=sm["originalimage"].get("width")), "credit": i["credit"], "license": i["license"],
-                               "page": i["page"], "alt": sm.get("description") or t, "source": "wikipedia", "of": t}
+                               "page": i["page"], "alt": sm.get("description") or t, "source": "wikipedia", "of": t,
+                               "w": sm["originalimage"].get("width") or i.get("width"), "h": sm["originalimage"].get("height") or i.get("height")}
     # second chance: search Commons for stories still without a photo
     for st in stories:
         if st["image"] or not st.get("about") or st["about"] not in trusted:
@@ -491,7 +519,8 @@ def add_photos(stories):
         i = commons_info([f]).get(f)
         if i and i["url"]:
             st["image"] = {"url": thumb_url(i["url"], orig_width=i.get("width")), "credit": i["credit"], "license": i["license"], "page": i["page"],
-                           "alt": st["about"], "source": "commons", "of": st["about"]}
+                           "alt": st["about"], "source": "commons", "of": st["about"],
+                           "w": i.get("width"), "h": i.get("height")}
     return stories
 
 
