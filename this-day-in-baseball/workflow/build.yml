@@ -1,0 +1,49 @@
+name: Build This Day in Baseball
+
+on:
+  schedule:
+    - cron: "15 6 * * *"   # daily, 06:15 UTC
+  workflow_dispatch:
+    inputs:
+      all_days:
+        description: "Rebuild every day of the year (slow; uses the cache)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/cache@v4
+        with:
+          path: this-day-in-baseball/.cache
+          key: wikipedia-cache-${{ github.run_id }}
+          restore-keys: wikipedia-cache-
+      - name: Build today
+        if: ${{ !inputs.all_days }}
+        working-directory: this-day-in-baseball
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          python3 -I scripts/build_days.py "$(date -u +%m/%d)" --write --rss
+      - name: Build every day
+        if: ${{ inputs.all_days }}
+        working-directory: this-day-in-baseball
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          python3 -I scripts/build_days.py --all --write
+          python3 -I scripts/build_days.py --rss
+      - name: Commit changes
+        run: |
+          git config user.name "this-day-in-baseball[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add this-day-in-baseball/data this-day-in-baseball/this-day-in-baseball.xml
+          git diff --cached --quiet || git commit -m "Update baseball data" && git push

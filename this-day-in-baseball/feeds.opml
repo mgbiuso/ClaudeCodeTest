@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>RSS Reader feeds</title></head>
+  <body>
+    <outline text="News">
+      <outline type="rss" text="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news"/>
+      <outline type="rss" text="NPR" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org"/>
+      <outline type="rss" text="The Guardian World" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world"/>
+      <outline type="rss" text="New York Times" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com"/>
+      <outline type="rss" text="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com"/>
+      <outline type="rss" text="WSJ World News" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" htmlUrl="https://www.wsj.com/news/world"/>
+      <outline type="rss" text="CBC Top Stories" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-topstories" htmlUrl="https://www.cbc.ca/news"/>
+      <outline type="rss" text="The Atlantic" xmlUrl="https://www.theatlantic.com/feed/all/" htmlUrl="https://www.theatlantic.com"/>
+    </outline>
+    <outline text="Tech">
+      <outline type="rss" text="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com"/>
+      <outline type="rss" text="Hacker News" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com"/>
+      <outline type="rss" text="Wired" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com"/>
+      <outline type="rss" text="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com"/>
+    </outline>
+    <outline text="Science">
+      <outline type="rss" text="Nature" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="https://www.nature.com/nature"/>
+      <outline type="rss" text="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com"/>
+    </outline>
+    <outline text="Blogs">
+      <outline type="rss" text="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net"/>
+      <outline type="rss" text="Simon Willison" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net"/>
+      <outline type="rss" text="xkcd" xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com"/>
+    </outline>
+  </body>
+</opml>

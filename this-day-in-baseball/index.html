@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>This Day in Baseball</title>
+<meta name="description" content="Baseball history for every day of the year: games, trades, records, ballparks and farewells, laid out like the old sports page.">
+<meta property="og:title" content="This Day in Baseball">
+<meta property="og:description" content="Baseball history for every day of the year, laid out like the old sports page.">
+<meta property="og:type" content="website">
+<link rel="alternate" type="application/rss+xml" title="This Day in Baseball" href="this-day-in-baseball.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@700;900&family=UnifrakturCook:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+<a class="skip" href="#edition">Skip to the stories</a>
+
+<header class="masthead">
+  <div class="flag-row">
+    <span>Late Edition</span>
+    <span id="dateline-top"></span>
+    <span>Always Free</span>
+  </div>
+  <h1 class="nameplate">This Day in Baseball</h1>
+  <p class="tagline">Everything that ever happened on this date, from the first pitch to the last out</p>
+  <nav class="datebar" aria-label="Choose a date">
+    <a id="prev" class="btn" href="#">&larr; <span>Previous day</span></a>
+    <div class="picker">
+      <label class="sr" for="month">Month</label>
+      <select id="month"></select>
+      <label class="sr" for="day">Day</label>
+      <select id="day"></select>
+      <button id="today" class="btn" type="button">Today</button>
+    </div>
+    <a id="next" class="btn" href="#"><span>Next day</span> &rarr;</a>
+  </nav>
+</header>
+
+<main id="edition" tabindex="-1">
+  <div id="status" class="status" role="status">Setting the type&hellip;</div>
+  <div id="stories"></div>
+</main>
+
+<footer class="colophon" id="colophon" hidden>
+  <div class="end-box">
+    <p class="end-title" id="end-title"></p>
+    <p>That is all the news for this date. Come back tomorrow, or turn the page.</p>
+    <p class="end-links"><a id="prev2" href="#">&larr; Previous day</a> <span aria-hidden="true">&middot;</span> <a id="next2" href="#">Next day &rarr;</a></p>
+  </div>
+  <p class="fine">Stories are drawn from Wikipedia and Wikidata. Photographs come from Wikimedia Commons under their listed licenses, with credit under each picture. <a href="about.html">About, sources and corrections</a> &middot; <a href="this-day-in-baseball.xml">RSS</a></p>
+</footer>
+
+<script src="app.js?v=2"></script>
+</body>
+</html>
