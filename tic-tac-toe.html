@@ -1,0 +1,175 @@
+<title>Tic Tac Toe</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;700&family=DM+Sans:wght@400;600&display=swap">
+<style>
+/* Layout: one centered column — status bar, 3x3 board, scoreboard, controls. Chalk-on-slate feel. */
+:root {
+  --bg: #eef1f0;
+  --surface: #ffffff;
+  --fg: #1d2b2a;
+  --muted: #5d6e6c;
+  --line: #c9d3d1;
+  --x: #d6452f;
+  --o: #1f7a8c;
+  --win: #fff2c2;
+  --font-display: "Fredoka", "Trebuchet MS", sans-serif;
+  --font-body: "DM Sans", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #14201f; --surface: #1c2b2a; --fg: #e8f0ee; --muted: #93a8a5;
+    --line: #3a4f4d; --x: #ff7a63; --o: #5cc4d8; --win: #4a4220; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #14201f; --surface: #1c2b2a; --fg: #e8f0ee; --muted: #93a8a5;
+  --line: #3a4f4d; --x: #ff7a63; --o: #5cc4d8; --win: #4a4220; color-scheme: dark;
+}
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--font-body);
+  padding-block: 24px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+main { max-width: 380px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+h1 { font: 700 2rem/1 var(--font-display); margin: 0; text-align: left; }
+#status { font: 500 1.25rem var(--font-display); min-height: 1.5em; margin: 0; }
+#status .x { color: var(--x); } #status .o { color: var(--o); }
+#board { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.cell {
+  aspect-ratio: 1; border: 2px solid var(--line); border-radius: 10px; background: var(--surface);
+  font: 700 clamp(2.5rem, 16vw, 4rem)/1 var(--font-display); cursor: pointer; padding: 0;
+  transition: background .15s, transform .1s;
+}
+.cell:hover:not(:disabled) { transform: translateY(-2px); border-color: var(--muted); }
+.cell:focus-visible, button:focus-visible { outline: 3px solid var(--o); outline-offset: 2px; }
+.cell:disabled { cursor: default; }
+.cell.x { color: var(--x); } .cell.o { color: var(--o); }
+.cell.win { background: var(--win); }
+#score { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; text-align: center; font-variant-numeric: tabular-nums; }
+#score div { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 10px 4px; }
+#score b { display: block; font: 700 1.5rem var(--font-display); }
+#score span { font-size: .75rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.controls { display: flex; gap: 8px; flex-wrap: wrap; }
+button.ctl {
+  flex: 1; min-width: 120px; padding: 12px; font: 600 1rem var(--font-body); cursor: pointer;
+  border-radius: 8px; border: 2px solid var(--fg); background: var(--fg); color: var(--bg);
+}
+button.ctl.alt { background: transparent; color: var(--fg); }
+@media (prefers-reduced-motion: reduce) { .cell { transition: none; } }
+</style>
+
+<main>
+  <h1>Tic Tac Toe</h1>
+  <p id="status" aria-live="polite"></p>
+  <div id="board" role="grid" aria-label="Tic tac toe board"></div>
+  <div id="score">
+    <div><b id="sx">0</b><span>X wins</span></div>
+    <div><b id="sd">0</b><span>Draws</span></div>
+    <div><b id="so">0</b><span>O wins</span></div>
+  </div>
+  <div class="controls">
+    <button class="ctl" id="again" type="button">New game</button>
+    <button class="ctl alt" id="mode" type="button">Mode: vs computer</button>
+  </div>
+</main>
+
+<script>
+(function () {
+  var LINES = [[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]];
+  var board, turn, over, vsCpu = true, startTurn = 'X';
+  var score = { X: 0, O: 0, D: 0 };
+  var boardEl = document.getElementById('board'), statusEl = document.getElementById('status');
+  var cells = [];
+
+  for (var i = 0; i < 9; i++) {
+    var b = document.createElement('button');
+    b.type = 'button'; b.className = 'cell'; b.setAttribute('aria-label', 'Cell ' + (i + 1));
+    b.addEventListener('click', (function (n) { return function () { play(n, true); }; })(i));
+    boardEl.appendChild(b); cells.push(b);
+  }
+
+  function winner(bd) {
+    for (var k = 0; k < LINES.length; k++) {
+      var l = LINES[k];
+      if (bd[l[0]] && bd[l[0]] === bd[l[1]] && bd[l[0]] === bd[l[2]]) return { p: bd[l[0]], line: l };
+    }
+    return null;
+  }
+
+  function mark(p) { return '<span class="' + p.toLowerCase() + '">' + p + '</span>'; }
+
+  function render() {
+    cells.forEach(function (c, i) {
+      c.textContent = board[i] || '';
+      c.className = 'cell' + (board[i] ? ' ' + board[i].toLowerCase() : '');
+      c.disabled = over || !!board[i] || (vsCpu && turn === 'O');
+    });
+  }
+
+  function newGame() {
+    board = Array(9).fill(''); over = false;
+    startTurn = startTurn === 'X' ? 'O' : 'X'; // alternate who opens
+    if (!vsCpu) startTurn = 'X';
+    turn = vsCpu ? 'X' : startTurn;
+    statusEl.innerHTML = mark(turn) + "'s turn";
+    render();
+  }
+
+  function play(i, human) {
+    if (over || board[i]) return;
+    board[i] = turn;
+    var w = winner(board);
+    if (w) {
+      over = true; score[w.p]++;
+      statusEl.innerHTML = mark(w.p) + ' wins!';
+      render(); w.line.forEach(function (n) { cells[n].classList.add('win'); });
+    } else if (board.every(Boolean)) {
+      over = true; score.D++; statusEl.textContent = "It's a draw.";
+      render();
+    } else {
+      turn = turn === 'X' ? 'O' : 'X';
+      statusEl.innerHTML = mark(turn) + "'s turn";
+      render();
+      if (vsCpu && turn === 'O') setTimeout(cpu, 350);
+    }
+    document.getElementById('sx').textContent = score.X;
+    document.getElementById('so').textContent = score.O;
+    document.getElementById('sd').textContent = score.D;
+  }
+
+  // Minimax: computer plays O and never loses.
+  function minimax(bd, p) {
+    var w = winner(bd);
+    if (w) return w.p === 'O' ? 1 : -1;
+    if (bd.every(Boolean)) return 0;
+    var best = p === 'O' ? -2 : 2;
+    for (var i = 0; i < 9; i++) if (!bd[i]) {
+      bd[i] = p;
+      var s = minimax(bd, p === 'O' ? 'X' : 'O');
+      bd[i] = '';
+      best = p === 'O' ? Math.max(best, s) : Math.min(best, s);
+    }
+    return best;
+  }
+  function cpu() {
+    if (over) return;
+    var best = -2, moves = [];
+    for (var i = 0; i < 9; i++) if (!board[i]) {
+      board[i] = 'O'; var s = minimax(board, 'X'); board[i] = '';
+      if (s > best) { best = s; moves = [i]; } else if (s === best) moves.push(i);
+    }
+    play(moves[Math.floor(Math.random() * moves.length)]);
+  }
+
+  document.getElementById('again').addEventListener('click', newGame);
+  document.getElementById('mode').addEventListener('click', function () {
+    vsCpu = !vsCpu;
+    this.textContent = 'Mode: ' + (vsCpu ? 'vs computer' : '2 players');
+    score = { X: 0, O: 0, D: 0 }; newGame();
+    ['sx','so','sd'].forEach(function (id) { document.getElementById(id).textContent = 0; });
+  });
+
+  startTurn = 'O'; newGame();
+})();
+</script>
