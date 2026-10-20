@@ -325,6 +325,13 @@ def story_key(year, text):
     return hashlib.sha1(f"{year}\n{text}".encode()).hexdigest()[:16]
 
 
+def load_photo_cache():
+    try:
+        return json.loads((ROOT / "data" / "photos.json").read_text())
+    except (OSError, ValueError):
+        return {}
+
+
 def load_headline_cache():
     f = ROOT / "data" / "headlines.json"
     try:
@@ -454,7 +461,7 @@ def commons_info(file_titles):
 
 def commons_file_from_url(src):
     m = re.match(r"https://upload\.wikimedia\.org/wikipedia/commons/(?:thumb/)?[0-9a-f]/[0-9a-f]{2}/([^/]+)", src or "")
-    return "File:" + urllib.parse.unquote(m.group(1)).replace("_", " ") if m else None
+    return "File:" + urllib.parse.unquote(m.group(1).split("?")[0]).replace("_", " ") if m else None
 
 
 def commons_search(title):
@@ -509,6 +516,7 @@ def add_photos(stories):
                 st["image"] = {"url": thumb_url(sm["originalimage"]["source"], orig_width=sm["originalimage"].get("width")), "credit": i["credit"], "license": i["license"],
                                "page": i["page"], "alt": sm.get("description") or t, "source": "wikipedia", "of": t,
                                "w": sm["originalimage"].get("width") or i.get("width"), "h": sm["originalimage"].get("height") or i.get("height")}
+    # (decisions made by pick_photos.py override everything below, including "no photo")
     # second chance: search Commons for stories still without a photo
     for st in stories:
         if st["image"] or not st.get("about") or st["about"] not in trusted:
@@ -521,6 +529,11 @@ def add_photos(stories):
             st["image"] = {"url": thumb_url(i["url"], orig_width=i.get("width")), "credit": i["credit"], "license": i["license"], "page": i["page"],
                            "alt": st["about"], "source": "commons", "of": st["about"],
                            "w": i.get("width"), "h": i.get("height")}
+    decisions = load_photo_cache()
+    for st in stories:
+        d = decisions.get(st.get("key"))
+        if d is not None:
+            st["image"] = d["image"]
     return stories
 
 

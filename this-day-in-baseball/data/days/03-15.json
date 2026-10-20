@@ -22,15 +22,16 @@
    "key": "10d7405be992dd1e",
    "headline": "Cardinals welcome back Red Schoendienst, 38, as free agent",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Red_Schoendienst.jpg",
-    "credit": "Bowman Gum",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Red_Schoendienst.jpg",
-    "alt": "Red Schoendienst",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Red_Schoendienst1983.jpg",
+    "credit": "Johnmaxmena (talk)john Mena",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_Schoendienst1983.jpg",
+    "alt": "Older man in Cardinals jersey #2, red cap, stadium background",
+    "source": "checked",
     "of": "Red Schoendienst",
-    "w": 254,
-    "h": 394
+    "w": 848,
+    "h": 882,
+    "tier": "person"
    },
    "extract": "Albert Fred \"Red\" Schoendienst was an American professional baseball second baseman and manager. He played 19 seasons in Major League Baseball (MLB) for the St. Louis Cardinals, New York Giants, and Milwaukee Braves from 1945 to 1963, and was named to 10 All-Star teams. He then managed the Cardinals from 1965 to 1976…",
    "page": "https://en.wikipedia.org/wiki/Red_Schoendienst",
@@ -55,17 +56,7 @@
    "about": "2025 Los Angeles Dodgers season",
    "key": "75ed4224652b5e12",
    "headline": "Cubs and Dodgers play exhibitions in Tokyo against NPB clubs",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%E5%B1%B1%E6%9C%AC%E7%94%B1%E4%BC%B8_MLB_Tokyo_Series_by_Guggenheim_Pre-season_games_Los_Angeles_Dodgers_vs_%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84_%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0_2025%E5%B9%B43%E6%9C%8815%E6%97%A5%E3%81%AE%E6%9D%B1%E4%BA%AC_202503151733_DSCN2810.jpg/960px-%E5%B1%B1%E6%9C%AC%E7%94%B1%E4%BC%B8_MLB_Tokyo_Series_by_Guggenheim_Pre-season_games_Los_Angeles_Dodgers_vs_%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84_%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0_2025%E5%B9%B43%E6%9C%8815%E6%97%A5%E3%81%AE%E6%9D%B1%E4%BA%AC_202503151733_DSCN2810.jpg",
-    "credit": "ウィ貴公子",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E6%9C%AC%E7%94%B1%E4%BC%B8_MLB_Tokyo_Series_by_Guggenheim_Pre-season_games_Los_Angeles_Dodgers_vs_%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84_%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0_2025%E5%B9%B43%E6%9C%8815%E6%97%A5%E3%81%AE%E6%9D%B1%E4%BA%AC_202503151733_DSCN2810.jpg",
-    "alt": "2025 Los Angeles Dodgers season",
-    "source": "commons",
-    "of": "2025 Los Angeles Dodgers season",
-    "w": 1558,
-    "h": 3263
-   },
+   "image": null,
    "extract": "The 2025 Los Angeles Dodgers season was the 136th season for the Los Angeles Dodgers franchise in Major League Baseball (MLB), their 68th season in Los Angeles, California, and their 64th season playing their home games at Dodger Stadium. They entered the season as the defending World Series champions after winning…",
    "page": "https://en.wikipedia.org/wiki/2025_Los_Angeles_Dodgers_season"
   },
@@ -84,7 +75,18 @@
    ],
    "key": "3a4295cf2b7b98ad",
    "headline": "After striking out the side in the ninth inning against the Dominican",
-   "image": null,
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mets_closer_Edwin_Diaz_throwing_the_cheese_%2851267940604%29_%28cropped%29.jpg/960px-Mets_closer_Edwin_Diaz_throwing_the_cheese_%2851267940604%29_%28cropped%29.jpg",
+    "credit": "All-Pro Reels from District of Columbia, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mets_closer_Edwin_Diaz_throwing_the_cheese_(51267940604)_(cropped).jpg",
+    "alt": "Pitcher in gray New York Mets uniform, number 39, throwing from mound",
+    "source": "checked",
+    "of": "Edwin Díaz",
+    "w": 2640,
+    "h": 2124,
+    "tier": "person"
+   },
    "extract": "Edwin Orlando Díaz Laboy is a Puerto Rican professional baseball pitcher for the Los Angeles Dodgers of Major League Baseball (MLB). He has previously played in MLB for the Seattle Mariners and New York Mets. Díaz was selected by the Mariners in the third round of the 2012 MLB draft and made his MLB debut with them in…",
    "page": "https://en.wikipedia.org/wiki/Edwin_D%C3%ADaz"
   },
@@ -108,11 +110,12 @@
     "credit": "Johntex",
     "license": "CC BY 2.5",
     "page": "https://commons.wikimedia.org/wiki/File:UT_baseball_coach_Augie_Garrido_2007-02-10.jpg",
-    "alt": "Augie Garrido",
-    "source": "commons",
+    "alt": "Older man in orange Texas cap and orange Texas jacket, nighttime field",
+    "source": "checked",
     "of": "Augie Garrido",
     "w": 1709,
-    "h": 2300
+    "h": 2300,
+    "tier": "person"
    },
    "extract": "August Edmun Garrido Jr. was an American professional baseball player and coach in NCAA Division I college baseball, best known for his stints with the Cal State Fullerton Titans and Texas Longhorns.",
    "page": "https://en.wikipedia.org/wiki/Augie_Garrido"
@@ -136,7 +139,18 @@
    "about": "Ed Charles",
    "key": "40dd6ccb06ae8534",
    "headline": "Ed Charles, 84, Miracle Mets third baseman, dies",
-   "image": null,
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Edcharles.jpg/960px-Edcharles.jpg",
+    "credit": "Terryballard",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Edcharles.jpg",
+    "alt": "Elderly man in cap and glasses signing a bat with a marker",
+    "source": "checked",
+    "of": "Ed Charles",
+    "w": 1528,
+    "h": 982,
+    "tier": "person"
+   },
    "extract": "Edwin Douglas Charles was an American professional baseball third baseman in Major League Baseball. A right-handed hitter, Charles played for the Kansas City Athletics (1962–67) and New York Mets (1967–69). He was listed as 5 feet 10 inches (1.78 m) tall and 170 pounds (77 kg).",
    "page": "https://en.wikipedia.org/wiki/Ed_Charles"
   },
@@ -159,17 +173,7 @@
    "about": "Bob Bruce",
    "key": "78b670163337b11b",
    "headline": "Bob Bruce, 83, dies; pitched immaculate inning in 1964",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bob_Bruce_1963.jpg",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Bob_Bruce_1963.jpg",
-    "alt": "Bob Bruce",
-    "source": "commons",
-    "of": "Bob Bruce",
-    "w": 278,
-    "h": 389
-   },
+   "image": null,
    "extract": "Robert James Bruce was an American professional baseball player, a right-handed pitcher who appeared in 219 games in Major League Baseball from 1959 to 1967 for the Detroit Tigers, Houston Colt .45s / Astros, and Atlanta Braves.",
    "page": "https://en.wikipedia.org/wiki/Bob_Bruce"
   },
@@ -192,17 +196,7 @@
    "about": "baseball in Cuba",
    "key": "a1b91a82b61ea0f9",
    "headline": "The United States Department of the Treasury announced that American",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Kit_baseball_cap_cuba_2023wbc.png",
-    "credit": "Cocu15",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Kit_baseball_cap_cuba_2023wbc.png",
-    "alt": "baseball in Cuba",
-    "source": "commons",
-    "of": "baseball in Cuba",
-    "w": 100,
-    "h": 30
-   },
+   "image": null,
    "extract": "Baseball is the most popular sport in Cuba, followed by association football. Baseball was popularized in Cuba by Nemesio Guillot, who founded the first major baseball club in the country. It became the most played sport in the country in the 1870s, before the period of American intervention.",
    "page": "https://en.wikipedia.org/wiki/Baseball_in_Cuba"
   },
@@ -245,11 +239,12 @@
     "credit": "Unknown authorUnknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Dave_Philley_Athletics.jpg",
-    "alt": "Dave Philley",
-    "source": "commons",
-    "of": "Dave Philley",
+    "alt": "Man in dark cap with white 'A' and collared uniform, black-and-white photo",
+    "source": "checked",
+    "of": "Dave Philley (Commons search)",
     "w": 608,
-    "h": 993
+    "h": 993,
+    "tier": "person"
    },
    "extract": "David Earl Philley was an American professional baseball outfielder who played in Major League Baseball. A switch hitter who threw right-handed, he debuted on September 6, 1941 and played his final game on August 6, 1962. He was born in Paris, Texas and attended East Texas State University prior to his MLB career.",
    "page": "https://en.wikipedia.org/wiki/Dave_Philley"
@@ -299,11 +294,12 @@
     "credit": "Major League Baseball",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Bowie_Kuhn_1982.jpg",
-    "alt": "Bowie Kuhn",
-    "source": "commons",
+    "alt": "Black-and-white portrait of smiling older man in suit and tie",
+    "source": "checked",
     "of": "Bowie Kuhn",
     "w": 677,
-    "h": 887
+    "h": 887,
+    "tier": "person"
    },
    "extract": "Bowie Kent Kuhn was an American lawyer and sports administrator who served as the fifth commissioner of Major League Baseball from February 4, 1969, to September 30, 1984. He served as legal counsel for Major League Baseball owners for almost 20 years prior to his election as commissioner.",
    "page": "https://en.wikipedia.org/wiki/Bowie_Kuhn"
@@ -343,15 +339,16 @@
    "key": "b5ca5d1632f29f5b",
    "headline": "Orioles release Dwight Evans, ending 20-year career",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Dwight_Evans_1976.jpg",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Dwight_Evans_1976.jpg",
-    "alt": "Dwight Evans (baseball)",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dwightevans.JPG/960px-Dwightevans.JPG",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dwightevans.JPG",
+    "alt": "Older man with mustache seated at table signing, event backdrop",
+    "source": "checked",
     "of": "Dwight Evans (baseball)",
-    "w": 279,
-    "h": 486
+    "w": 1920,
+    "h": 2560,
+    "tier": "person"
    },
    "extract": "Dwight Michael \"Dewey\" Evans is an American former professional baseball right fielder and right-handed batter who played with the Boston Red Sox (1972–1990) and Baltimore Orioles (1991) in Major League Baseball (MLB). He was a three-time All-Star, won eight Gold Glove Awards, and won two Silver Slugger Awards. Evans…",
    "page": "https://en.wikipedia.org/wiki/Dwight_Evans_(baseball)"
@@ -376,11 +373,12 @@
     "credit": "St. Louis Cardinals",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Mike_Tyson_Cardinals.jpg",
-    "alt": "Mike Tyson (baseball)",
-    "source": "commons",
+    "alt": "Smiling man with mustache in Cardinals cap and jersey, black-and-white portrait",
+    "source": "checked",
     "of": "Mike Tyson (baseball)",
     "w": 426,
-    "h": 604
+    "h": 604,
+    "tier": "person"
    },
    "extract": "Michael Ray Tyson is a former Major League Baseball second baseman and shortstop. He played in the majors from 1972 to 1981 for the St. Louis Cardinals and Chicago Cubs.",
    "page": "https://en.wikipedia.org/wiki/Mike_Tyson_(baseball)"
@@ -484,7 +482,18 @@
    "about": "Double-A (baseball)",
    "key": "0eadf7fbfdc9a93a",
    "headline": "New Orleans Pelicans disband after drawing just 71,577 fans",
-   "image": null,
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/1910NOLAPelicans.jpg",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1910NOLAPelicans.jpg",
+    "alt": "Team photo of players in uniforms, numbered 1-14, labeled New Orleans Team, Southern Association champions.",
+    "source": "checked",
+    "of": "New Orleans Pelicans (baseball)",
+    "w": 800,
+    "h": 476,
+    "tier": "team"
+   },
    "extract": "Double-A is the second-highest level of play in Minor League Baseball in the United States since 1946, below only Triple-A. There are 30 teams classified at the Double-A level, one for each team in Major League Baseball, organized into three leagues: the Eastern League, the Southern League, and the Texas League.",
    "page": "https://en.wikipedia.org/wiki/Double-A_(baseball)"
   },
@@ -503,17 +512,7 @@
    "about": "Bill Cissell",
    "key": "ae692971c85af7b2",
    "headline": "Bill Cissell, 45, infielder for five teams in 1928-1938, dies",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/BillCissellGoudeycard.jpg",
-    "credit": "Goudey",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:BillCissellGoudeycard.jpg",
-    "alt": "Bill Cissell",
-    "source": "commons",
-    "of": "Bill Cissell",
-    "w": 315,
-    "h": 386
-   },
+   "image": null,
    "extract": "Chalmer William Cissell born in Perryville, Missouri, was an American professional baseball infielder in Major League Baseball for the Chicago White Sox (1928–32), Cleveland Indians (1932–33), Boston Red Sox (1934), Philadelphia Athletics (1937) and New York Giants (1938).",
    "page": "https://en.wikipedia.org/wiki/Bill_Cissell"
   },
@@ -537,11 +536,12 @@
     "credit": "Harris & Ewing",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Bill_Dickey_1937_cropped.jpg",
-    "alt": "Bill Dickey",
-    "source": "commons",
+    "alt": "Man in pinstriped Yankees uniform and NY cap, black-and-white.",
+    "source": "checked",
     "of": "Bill Dickey",
     "w": 431,
-    "h": 593
+    "h": 593,
+    "tier": "person"
    },
    "extract": "William Malcolm Dickey was an American professional baseball catcher and manager. He played in Major League Baseball with the New York Yankees for 17 seasons. Dickey managed the Yankees as a player-manager in 1946 in his last season as a player.",
    "page": "https://en.wikipedia.org/wiki/Bill_Dickey"
@@ -566,15 +566,16 @@
    "key": "23e2688977618f59",
    "headline": "Walter Johnson and Frankie Frisch named to broadcasting teams",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/National_Baseball_Hall_of_Fame_and_Museum%2C_Cooperstown%2C_NY.jpg/960px-National_Baseball_Hall_of_Fame_and_Museum%2C_Cooperstown%2C_NY.jpg",
-    "credit": "Kenneth C. Zirkel",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:National_Baseball_Hall_of_Fame_and_Museum,_Cooperstown,_NY.jpg",
-    "alt": "National Baseball Hall of Fame and Museum",
-    "source": "commons",
-    "of": "National Baseball Hall of Fame and Museum",
-    "w": 3600,
-    "h": 1757
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Walter_Johnson_1924.jpg/960px-Walter_Johnson_1924.jpg",
+    "credit": "Jackson, William Henry, 1843-1942, photographer",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Walter_Johnson_1924.jpg",
+    "alt": "Black-and-white portrait of a man in a 'W' cap and jersey",
+    "source": "checked",
+    "of": "Walter Johnson",
+    "w": 1499,
+    "h": 2076,
+    "tier": "person"
    },
    "extract": "The National Baseball Hall of Fame and Museum is a history museum and hall of fame in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying baseball-related artifacts and exhibits, honoring those who…",
    "page": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
@@ -597,15 +598,16 @@
    "key": "03d6622e4b9b404d",
    "headline": "St. Louis groundskeeper begins covering bases during rain",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Henry_Chadwick_Baseball.jpg",
-    "credit": "Unknown author",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Henry_Chadwick_%28NYPL_b13537024-56451%29_%28cropped%29.jpg/960px-Henry_Chadwick_%28NYPL_b13537024-56451%29_%28cropped%29.jpg",
+    "credit": "G. Frank E. Pearsall",
     "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Henry_Chadwick_Baseball.jpg",
-    "alt": "Henry Chadwick (writer)",
-    "source": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Henry_Chadwick_(NYPL_b13537024-56451)_(cropped).jpg",
+    "alt": "Elderly bearded man in dark coat and bow tie, studio portrait.",
+    "source": "checked",
     "of": "Henry Chadwick (writer)",
-    "w": 300,
-    "h": 394
+    "w": 1679,
+    "h": 2361,
+    "tier": "person"
    },
    "extract": "Henry Chadwick was an English-American sportswriter, baseball statistician and historian, often called the \"Father of Baseball\" for his early reporting on and contributions to the development of the game. He edited the first baseball guide sold to the public. He is credited with creating box scores, as well as…",
    "page": "https://en.wikipedia.org/wiki/Henry_Chadwick_(writer)"

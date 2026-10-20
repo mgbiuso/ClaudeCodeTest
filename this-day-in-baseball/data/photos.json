@@ -1,0 +1,1338 @@
+{
+ "03c48997bc9a653d": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Greeting_World_Baseball_Champion_Los_Angeles_Dodgers_in_Rose_Garden_and_Being_Presented_with_Jersey.png",
+   "credit": "White House Photographic Office",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Greeting_World_Baseball_Champion_Los_Angeles_Dodgers_in_Rose_Garden_and_Being_Presented_with_Jersey.png",
+   "alt": "Men and a woman applauding as a man holds a Dodgers #1 jersey",
+   "source": "checked",
+   "of": "1988 World Series",
+   "w": 868,
+   "h": 444,
+   "tier": "event"
+  },
+  "reason": "event: Men and a woman applauding as a man holds a Dodgers #1 jersey",
+  "model": "claude-haiku-5-5"
+ },
+ "03d6622e4b9b404d": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Henry_Chadwick_%28NYPL_b13537024-56451%29_%28cropped%29.jpg/960px-Henry_Chadwick_%28NYPL_b13537024-56451%29_%28cropped%29.jpg",
+   "credit": "G. Frank E. Pearsall",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Henry_Chadwick_(NYPL_b13537024-56451)_(cropped).jpg",
+   "alt": "Elderly bearded man in dark coat and bow tie, studio portrait.",
+   "source": "checked",
+   "of": "Henry Chadwick (writer)",
+   "w": 1679,
+   "h": 2361,
+   "tier": "person"
+  },
+  "reason": "person: Elderly bearded man in dark coat and bow tie, studio portrait.",
+  "model": "claude-haiku-5-5"
+ },
+ "066f2366c0e4d812": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Modern_Woodmen_Park.jpg",
+   "credit": "Iowahwyman",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Modern_Woodmen_Park.jpg",
+   "alt": "Brick ballpark facade with 'Modern Woodmen Park' sign, arched entrances, street scene",
+   "source": "checked",
+   "of": "Quad Cities River Bandits",
+   "w": 750,
+   "h": 332,
+   "tier": "venue"
+  },
+  "reason": "venue: Brick ballpark facade with 'Modern Woodmen Park' sign, arched entrances, street scene",
+  "model": "claude-haiku-5-5"
+ },
+ "0eadf7fbfdc9a93a": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/1910NOLAPelicans.jpg",
+   "credit": "Wikimedia Commons",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:1910NOLAPelicans.jpg",
+   "alt": "Team photo of players in uniforms, numbered 1-14, labeled New Orleans Team, Southern Association champions.",
+   "source": "checked",
+   "of": "New Orleans Pelicans (baseball)",
+   "w": 800,
+   "h": 476,
+   "tier": "team"
+  },
+  "reason": "team: Team photo of players in uniforms, numbered 1-14, labeled New Orleans Team, Southern Association champions.",
+  "model": "claude-haiku-5-5"
+ },
+ "10d7405be992dd1e": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Red_Schoendienst1983.jpg",
+   "credit": "Johnmaxmena (talk)john Mena",
+   "license": "CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_Schoendienst1983.jpg",
+   "alt": "Older man in Cardinals jersey #2, red cap, stadium background",
+   "source": "checked",
+   "of": "Red Schoendienst",
+   "w": 848,
+   "h": 882,
+   "tier": "person"
+  },
+  "reason": "person: Older man in Cardinals jersey #2, red cap, stadium background",
+  "model": "claude-haiku-5-5"
+ },
+ "187785776b8e6e14": {
+  "image": null,
+  "reason": "weak pick (0.15): Pee Wee Reese is a Dodgers player mentioned generally; a 1954 card is within about a year, but the story is about team standings, not Reese as main subject.",
+  "model": "claude-haiku-5-5"
+ },
+ "18c1e3a9fbdb8bd4": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Adam_Dunn_on_June_28%2C_2009.jpg/960px-Adam_Dunn_on_June_28%2C_2009.jpg",
+   "credit": "Keith Allison on Flickr",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Adam_Dunn_on_June_28,_2009.jpg",
+   "alt": "Player in gray Washington road jersey #44, holding bat, batting helmet.",
+   "source": "checked",
+   "of": "Adam Dunn",
+   "w": 1989,
+   "h": 2723,
+   "tier": "person"
+  },
+  "reason": "person: Player in gray Washington road jersey #44, holding bat, batting helmet.",
+  "model": "claude-haiku-5-5"
+ },
+ "1950764b7444a01e": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "1bdd4cb80ac76abb": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
+ "2059332e3e4de93f": {
+  "image": null,
+  "reason": "rejected Juan Marichal 2008 by Andy Shaindlin.jpg: Nothing visible is baseball-related: no uniform, team logo, ballpark, or equipment. The scene is a street with a subway entrance and no sports setting. The file name names the right person, but the photo cannot be confirmed as showing a baseball event or the 1975 story's subject, so it does not fit this historical page.",
+  "model": "claude-haiku-5-5"
+ },
+ "20f06dfde34c9c27": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/1962_Bell_Brand_Sandy_Koufax.jpg",
+   "credit": "Bell Brand",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:1962_Bell_Brand_Sandy_Koufax.jpg",
+   "alt": "Pitcher in Dodgers uniform on mound, signed card reading Sandy Koufax",
+   "source": "checked",
+   "of": "Los Angeles Dodgers",
+   "w": 733,
+   "h": 1065,
+   "tier": "person"
+  },
+  "reason": "person: Pitcher in Dodgers uniform on mound, signed card reading Sandy Koufax",
+  "model": "claude-haiku-5-5"
+ },
+ "229ee5f886d82a5c": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
+ "237d352d0b27fcfd": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/World_Series_Trophy_%2848266104832%29.jpg/960px-World_Series_Trophy_%2848266104832%29.jpg",
+   "credit": "Erik Drost",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:World_Series_Trophy_(48266104832).jpg",
+   "alt": "World Series championship trophy with gold pennants and 'Presented by the Commissioner' plate",
+   "source": "checked",
+   "of": "1985 World Series",
+   "w": 4032,
+   "h": 6048,
+   "tier": "event"
+  },
+  "reason": "event: World Series championship trophy with gold pennants and 'Presented by the Commissioner' plate",
+  "model": "claude-haiku-5-5"
+ },
+ "23e2688977618f59": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Walter_Johnson_1924.jpg/960px-Walter_Johnson_1924.jpg",
+   "credit": "Jackson, William Henry, 1843-1942, photographer",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Walter_Johnson_1924.jpg",
+   "alt": "Black-and-white portrait of a man in a 'W' cap and jersey",
+   "source": "checked",
+   "of": "Walter Johnson",
+   "w": 1499,
+   "h": 2076,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white portrait of a man in a 'W' cap and jersey",
+  "model": "claude-haiku-5-5"
+ },
+ "2b8c8a869f316d9c": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/1932_Pittsburgh_Crawfords.jpg/960px-1932_Pittsburgh_Crawfords.jpg",
+   "credit": "Harrison Studio",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:1932_Pittsburgh_Crawfords.jpg",
+   "alt": "Team photo of 1932 Crawfords baseball players in uniforms, outdoors.",
+   "source": "checked",
+   "of": "Satchel Paige",
+   "w": 2204,
+   "h": 1385,
+   "tier": "team"
+  },
+  "reason": "team: Team photo of 1932 Crawfords baseball players in uniforms, outdoors.",
+  "model": "claude-haiku-5-5"
+ },
+ "2f4293f108428d75": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mordecai_Brown_Baseball_%28cropped%29.jpg",
+   "credit": "Wikimedia Commons",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Mordecai_Brown_Baseball_(cropped).jpg",
+   "alt": "Man in white baseball-style jersey, vintage black-and-white photo, outdoors near stands",
+   "source": "checked",
+   "of": "Mordecai Brown",
+   "w": 426,
+   "h": 381,
+   "tier": "person"
+  },
+  "reason": "person: Man in white baseball-style jersey, vintage black-and-white photo, outdoors near stands",
+  "model": "claude-haiku-5-5"
+ },
+ "31949e165ccc019f": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "33db494eb2a4a716": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Jocko_Fields%2C_Pittsburgh_Alleghenys%2C_baseball_card_portrait_LCCN2007686933.jpg",
+   "credit": "Goodwin & Co., sponsor",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Jocko_Fields,_Pittsburgh_Alleghenys,_baseball_card_portrait_LCCN2007686933.jpg",
+   "alt": "Sepia baseball card portrait of player in uniform, Old Judge Cigarettes, 'Fields, C. Pittsburg'",
+   "source": "checked",
+   "of": "Jocko Fields (Commons search)",
+   "w": 566,
+   "h": 1024,
+   "tier": "person"
+  },
+  "reason": "person: Sepia baseball card portrait of player in uniform, Old Judge Cigarettes, 'Fields, C. Pittsburg'",
+  "model": "claude-haiku-5-5"
+ },
+ "344bb08b43bf2f91": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "3578c0ff137fcbeb": {
+  "image": null,
+  "reason": "rejected 2012 07 11 EL Ross Grimsley.jpg: The story is about 1982 Orioles and a 1982-era pitcher, but the photo shows a 2012 minor-league setting with a Bassitt-style jersey, and the file name says 2012. The 2012 date and minor-league uniform contradict the 1982 Orioles story, so it does not match.",
+  "model": "claude-haiku-5-5"
+ },
+ "3a4295cf2b7b98ad": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mets_closer_Edwin_Diaz_throwing_the_cheese_%2851267940604%29_%28cropped%29.jpg/960px-Mets_closer_Edwin_Diaz_throwing_the_cheese_%2851267940604%29_%28cropped%29.jpg",
+   "credit": "All-Pro Reels from District of Columbia, USA",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mets_closer_Edwin_Diaz_throwing_the_cheese_(51267940604)_(cropped).jpg",
+   "alt": "Pitcher in gray New York Mets uniform, number 39, throwing from mound",
+   "source": "checked",
+   "of": "Edwin Díaz",
+   "w": 2640,
+   "h": 2124,
+   "tier": "person"
+  },
+  "reason": "person: Pitcher in gray New York Mets uniform, number 39, throwing from mound",
+  "model": "claude-haiku-5-5"
+ },
+ "40dd6ccb06ae8534": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Edcharles.jpg/960px-Edcharles.jpg",
+   "credit": "Terryballard",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Edcharles.jpg",
+   "alt": "Elderly man in cap and glasses signing a bat with a marker",
+   "source": "checked",
+   "of": "Ed Charles",
+   "w": 1528,
+   "h": 982,
+   "tier": "person"
+  },
+  "reason": "person: Elderly man in cap and glasses signing a bat with a marker",
+  "model": "claude-haiku-5-5"
+ },
+ "432efc73e86bd278": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "436ed0b02b404673": {
+  "image": null,
+  "reason": "weak pick (0.2): Carlos Santana is a main subject of the story (hit a home run), but photo is a 2011 concert shot from his music career, not a baseball career photo, so it fails the baseball-career requirement.",
+  "model": "claude-haiku-5-5"
+ },
+ "43f7c3dbbf55e609": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Del_E._Webb%2C_1964.jpg",
+   "credit": "Los Angeles Times",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Del_E._Webb,_1964.jpg",
+   "alt": "Black-and-white portrait of a bespectacled older man in suit and tie outdoors",
+   "source": "checked",
+   "of": "Del Webb",
+   "w": 853,
+   "h": 942,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white portrait of a bespectacled older man in suit and tie outdoors",
+  "model": "claude-haiku-5-5"
+ },
+ "445a0406352a9d0b": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Miller_Park_in_Milwaukee%2C_Wisconsin.jpg/960px-Miller_Park_in_Milwaukee%2C_Wisconsin.jpg",
+   "credit": "Carol H. Highsmith",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Miller_Park_in_Milwaukee,_Wisconsin.jpg",
+   "alt": "Exterior of Miller Park, Milwaukee, with its retractable roof and Brewers signage",
+   "source": "checked",
+   "of": "Miller Park",
+   "w": 2366,
+   "h": 1199,
+   "tier": "venue"
+  },
+  "reason": "venue: Exterior of Miller Park, Milwaukee, with its retractable roof and Brewers signage",
+  "model": "claude-haiku-5-5"
+ },
+ "46e2a60ad2072b3e": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "489304929de9de98": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bill_Dickey_1937_cropped.jpg",
+   "credit": "Harris & Ewing",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Bill_Dickey_1937_cropped.jpg",
+   "alt": "Man in pinstriped Yankees uniform and NY cap, black-and-white.",
+   "source": "checked",
+   "of": "Bill Dickey",
+   "w": 431,
+   "h": 593,
+   "tier": "person"
+  },
+  "reason": "person: Man in pinstriped Yankees uniform and NY cap, black-and-white.",
+  "model": "claude-haiku-5-5"
+ },
+ "48ed9f20161aa614": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mike_Tyson_Cardinals.jpg",
+   "credit": "St. Louis Cardinals",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Mike_Tyson_Cardinals.jpg",
+   "alt": "Smiling man with mustache in Cardinals cap and jersey, black-and-white portrait",
+   "source": "checked",
+   "of": "Mike Tyson (baseball)",
+   "w": 426,
+   "h": 604,
+   "tier": "person"
+  },
+  "reason": "person: Smiling man with mustache in Cardinals cap and jersey, black-and-white portrait",
+  "model": "claude-haiku-5-5"
+ },
+ "4dbccbff7ef00856": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tom_Seaver%27s_Last_Pitch.jpg/960px-Tom_Seaver%27s_Last_Pitch.jpg",
+   "credit": "slgckgc",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tom_Seaver%27s_Last_Pitch.jpg",
+   "alt": "Man in Mets jersey throwing ball from pitcher's mound at stadium",
+   "source": "checked",
+   "of": "Tom Seaver",
+   "w": 2375,
+   "h": 1485,
+   "tier": "person"
+  },
+  "reason": "person: Man in Mets jersey throwing ball from pitcher's mound at stadium",
+  "model": "claude-haiku-5-5"
+ },
+ "4e2359a2d55e4fbf": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "51c109777968d47d": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "539359546008b848": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "542a9ab34c6a26c6": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/1989_Kansas_City_Royals_away_uniform.jpg/960px-1989_Kansas_City_Royals_away_uniform.jpg",
+   "credit": "Amineshaker",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:1989_Kansas_City_Royals_away_uniform.jpg",
+   "alt": "Royals light-blue jersey with script wordmark and crown logo patch",
+   "source": "checked",
+   "of": "Kansas City Royals",
+   "w": 3648,
+   "h": 2736,
+   "tier": "team"
+  },
+  "reason": "team: Royals light-blue jersey with script wordmark and crown logo patch",
+  "model": "claude-haiku-5-5"
+ },
+ "551e7ff61bae9934": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Derryl_Cousins_and_Lou_Piniella.jpg/960px-Derryl_Cousins_and_Lou_Piniella.jpg",
+   "credit": "ttarasiuk",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Derryl_Cousins_and_Lou_Piniella.jpg",
+   "alt": "Umpire in black jacket talking with manager in blue pinstripes on grass",
+   "source": "checked",
+   "of": "Derryl Cousins (Commons search)",
+   "w": 1024,
+   "h": 768,
+   "tier": "person"
+  },
+  "reason": "person: Umpire in black jacket talking with manager in blue pinstripes on grass",
+  "model": "claude-haiku-5-5"
+ },
+ "5760199d4c03e65c": {
+  "image": null,
+  "reason": "weak pick (0.25): 1886 Boston Beaneaters photo of a New York vs. Boston game; right franchise lineage (Boston Braves) but about 13 years after the 1873 story, outside the ~5-year window, and it depicts a different era's team.",
+  "model": "claude-haiku-5-5"
+ },
+ "5e1da47e210c2310": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tommy_bond_baseball.jpg",
+   "credit": "Wikimedia Commons",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Tommy_bond_baseball.jpg",
+   "alt": "Sepia cabinet portrait of a mustached man in a suit.",
+   "source": "checked",
+   "of": "Tommy Bond (baseball)",
+   "w": 518,
+   "h": 760,
+   "tier": "person"
+  },
+  "reason": "person: Sepia cabinet portrait of a mustached man in a suit.",
+  "model": "claude-haiku-5-5"
+ },
+ "5e64411c34b7e919": {
+  "image": null,
+  "reason": "rejected Don Kessinger Gold Glove, Chicago Cubs Store, Wrigley Field, Chicago, Illinois (42675552764).jpg: The photo shows a commemorative gold glove trophy in a store, not a 1978 White Sox managerial event. It is related to Kessinger's career but does not depict the story's event, and the story's subject is a managerial change rather than an award display.",
+  "model": "claude-haiku-5-5"
+ },
+ "5fd9a438711e0280": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/David_Ortiz_on_July_27%2C_2013.jpg/960px-David_Ortiz_on_July_27%2C_2013.jpg",
+   "credit": "Keith Allison from Hanover, MD, USA",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:David_Ortiz_on_July_27,_2013.jpg",
+   "alt": "Smiling man in Red Sox cap and navy Boston jersey, bearded, outdoors at ballpark",
+   "source": "checked",
+   "of": "David Ortiz",
+   "w": 2790,
+   "h": 3429,
+   "tier": "person"
+  },
+  "reason": "person: Smiling man in Red Sox cap and navy Boston jersey, bearded, outdoors at ballpark",
+  "model": "claude-haiku-5-5"
+ },
+ "60fe6967bce229c6": {
+  "image": null,
+  "reason": "rejected 1924worldseries.jpg: Caption and file name point to the 1924 World Series, not the 1927 doubleheader described in the story; the photo does not match the story's event or date.",
+  "model": "claude-haiku-5-5"
+ },
+ "643d433bbd9f7904": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/20140919_Orel_Hershiser_%281%29.JPG",
+   "credit": "TonyTheTiger",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:20140919_Orel_Hershiser_(1).JPG",
+   "alt": "Man in navy suit and patterned tie before a tan wall",
+   "source": "checked",
+   "of": "Orel Hershiser",
+   "w": 882,
+   "h": 939,
+   "tier": "person"
+  },
+  "reason": "person: Man in navy suit and patterned tie before a tan wall",
+  "model": "claude-haiku-5-5"
+ },
+ "6488d019a0d61b97": {
+  "image": null,
+  "reason": "weak pick (0.1): 1987 World Series photo of Reagan with Twins jersey; unrelated to Martin hiring or Yankees, and not a qualifying subject match.",
+  "model": "claude-haiku-5-5"
+ },
+ "66833b73db4984c4": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/AGSpalding.jpg/960px-AGSpalding.jpg",
+   "credit": "George Grantham Bain",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:AGSpalding.jpg",
+   "alt": "Black-and-white portrait of a middle-aged man in a suit and tie.",
+   "source": "checked",
+   "of": "Albert Spalding",
+   "w": 1000,
+   "h": 1486,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white portrait of a middle-aged man in a suit and tie.",
+  "model": "claude-haiku-5-5"
+ },
+ "66aa23c925f616fa": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "674395984f0ae862": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "67b60c4146fc88d4": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Allen_Russell_1924.jpg/960px-Allen_Russell_1924.jpg",
+   "credit": "National Photo Company Collection",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Allen_Russell_1924.jpg",
+   "alt": "Black-and-white photo of a pitcher in Washington uniform with W sleeve patch, glove, outdoors.",
+   "source": "checked",
+   "of": "Allen Russell",
+   "w": 1578,
+   "h": 2767,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white photo of a pitcher in Washington uniform with W sleeve patch, glove, outdoors.",
+  "model": "claude-haiku-5-5"
+ },
+ "684cf161c55faee4": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Chuck_Hiller_1961.JPG",
+   "credit": "San Francisco Giants / MLB",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Chuck_Hiller_1961.JPG",
+   "alt": "Black-and-white portrait of a player in SF Giants cap holding a bat",
+   "source": "checked",
+   "of": "Chuck Hiller",
+   "w": 933,
+   "h": 1133,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white portrait of a player in SF Giants cap holding a bat",
+  "model": "claude-haiku-5-5"
+ },
+ "696e391334c06814": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "69c32f1bbd2f5f91": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/1985_Mother%27s_Cookies_-_Oakland_Coliseum.JPG/960px-1985_Mother%27s_Cookies_-_Oakland_Coliseum.JPG",
+   "credit": "Mother's Cookies",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:1985_Mother%27s_Cookies_-_Oakland_Coliseum.JPG",
+   "alt": "Oakland Coliseum baseball game, full stadium, green field, scoreboard",
+   "source": "checked",
+   "of": "Oakland Athletics",
+   "w": 1530,
+   "h": 1096,
+   "tier": "venue"
+  },
+  "reason": "venue: Oakland Coliseum baseball game, full stadium, green field, scoreboard",
+  "model": "claude-haiku-5-5"
+ },
+ "6b63475d8fd8bb01": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "6d3fb970115ae8af": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "6e2d7ea1b2600934": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/CountyStadium2000FirstBaseSide.jpg/960px-CountyStadium2000FirstBaseSide.jpg",
+   "credit": "Barrel Man Sammy",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:CountyStadium2000FirstBaseSide.jpg",
+   "alt": "Packed baseball stadium with infielders and batter during a game, outfield signage visible",
+   "source": "checked",
+   "of": "Milwaukee Brewers",
+   "w": 1024,
+   "h": 745,
+   "tier": "venue"
+  },
+  "reason": "venue: Packed baseball stadium with infielders and batter during a game, outfield signage visible",
+  "model": "claude-haiku-5-5"
+ },
+ "6e40e335394d3c2a": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "6f9b183c1cd1f438": {
+  "image": null,
+  "reason": "rejected Jim Gentile.jpg: The photo shows an older man in a dark suit against leafy greenery, with no baseball uniform, field, ballpark, or team visible. The file name names Jim Gentile, but the story is about a 1959 event involving him as a 25-year-old player, and nothing in the image is consistent with that baseball context.",
+  "model": "claude-haiku-5-5"
+ },
+ "75670ab04dd65078": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "75ed4224652b5e12": {
+  "image": null,
+  "reason": "weak pick (0.2): Hanshin Koshien Stadium interior, the Tigers' home park, but a 2009 high school final rather than the Tokyo event.",
+  "model": "claude-haiku-5-5"
+ },
+ "78b670163337b11b": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "78e189e965ae57d2": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/World_Series_20011_Game_7_Carpenter_Relieved.jpg/960px-World_Series_20011_Game_7_Carpenter_Relieved.jpg",
+   "credit": "Jleybov",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:World_Series_20011_Game_7_Carpenter_Relieved.jpg",
+   "alt": "Red-clad Cardinals infielders gathered at mound during World Series game, stadium crowd, World Series logo.",
+   "source": "checked",
+   "of": "Chris Carpenter",
+   "w": 3264,
+   "h": 2448,
+   "tier": "event"
+  },
+  "reason": "event: Red-clad Cardinals infielders gathered at mound during World Series game, stadium crowd, World Series logo.",
+  "model": "claude-haiku-5-5"
+ },
+ "7a6534a1a668f81c": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Astrodome_1965.jpeg/960px-Astrodome_1965.jpeg",
+   "credit": "Ted Rozumalski",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Astrodome_1965.jpeg",
+   "alt": "Astrodome exterior at night with parked 1960s cars, black-and-white photo",
+   "source": "checked",
+   "of": "Houston Astros",
+   "w": 1926,
+   "h": 951,
+   "tier": "venue"
+  },
+  "reason": "venue: Astrodome exterior at night with parked 1960s cars, black-and-white photo",
+  "model": "claude-haiku-5-5"
+ },
+ "7bf78b97ae37b661": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Carlos_Correa_2018.jpg/960px-Carlos_Correa_2018.jpg",
+   "credit": "Keith Allison",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Carlos_Correa_2018.jpg",
+   "alt": "Player in orange Astros jersey number 1 fielding a ball on the field",
+   "source": "checked",
+   "of": "2019 American League Championship Series",
+   "w": 2577,
+   "h": 3007,
+   "tier": "team"
+  },
+  "reason": "team: Player in orange Astros jersey number 1 fielding a ball on the field",
+  "model": "claude-haiku-5-5"
+ },
+ "7de917946acfcaa5": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Robin_Yount.jpg/960px-Robin_Yount.jpg",
+   "credit": "Scott Ableman Quakerwildcat at en.wikipedia",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Robin_Yount.jpg",
+   "alt": "Man in navy Brewers jersey #19 on a ballfield, holding paper",
+   "source": "checked",
+   "of": "Robin Yount",
+   "w": 3008,
+   "h": 2000,
+   "tier": "person"
+  },
+  "reason": "person: Man in navy Brewers jersey #19 on a ballfield, holding paper",
+  "model": "claude-haiku-5-5"
+ },
+ "7e3daa2b056280f1": {
+  "image": null,
+  "reason": "rejected Baseball Players Practicing.jpg: The image is a painted artwork, not a photograph, so it cannot document the 1874 event or the photo described in the story.",
+  "model": "claude-haiku-5-5"
+ },
+ "861ed9b85d9676b7": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/UT_baseball_coach_Augie_Garrido_2007-02-10.jpg/960px-UT_baseball_coach_Augie_Garrido_2007-02-10.jpg",
+   "credit": "Johntex",
+   "license": "CC BY 2.5",
+   "page": "https://commons.wikimedia.org/wiki/File:UT_baseball_coach_Augie_Garrido_2007-02-10.jpg",
+   "alt": "Older man in orange Texas cap and orange Texas jacket, nighttime field",
+   "source": "checked",
+   "of": "Augie Garrido",
+   "w": 1709,
+   "h": 2300,
+   "tier": "person"
+  },
+  "reason": "person: Older man in orange Texas cap and orange Texas jacket, nighttime field",
+  "model": "claude-haiku-5-5"
+ },
+ "903a992ce10c6095": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Albert_Pujols_in_2009_%283854091492%29_%28cropped%29.jpg",
+   "credit": "Barbara moore",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Albert_Pujols_in_2009_(3854091492)_(cropped).jpg",
+   "alt": "Cardinals player in red-and-white home uniform #5, red cap, red wristband, stadium crowd behind",
+   "source": "checked",
+   "of": "St. Louis Cardinals",
+   "w": 431,
+   "h": 643,
+   "tier": "venue"
+  },
+  "reason": "venue: Cardinals player in red-and-white home uniform #5, red cap, red wristband, stadium crowd behind",
+  "model": "claude-haiku-5-5"
+ },
+ "91e7a7662b2907bc": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "931f57ce5e755b9b": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Curry_Foley_%28NYPL_b13537024-56697%29.jpg/960px-Curry_Foley_%28NYPL_b13537024-56697%29.jpg",
+   "credit": "Scan by NYPL",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Curry_Foley_(NYPL_b13537024-56697).jpg",
+   "alt": "Sepia studio portrait of a mustached man in a suit, cabinet card.",
+   "source": "checked",
+   "of": "Curry Foley (Commons search)",
+   "w": 2320,
+   "h": 2992,
+   "tier": "person"
+  },
+  "reason": "person: Sepia studio portrait of a mustached man in a suit, cabinet card.",
+  "model": "claude-haiku-5-5"
+ },
+ "9338d43096e3dbc3": {
+  "image": null,
+  "reason": "rejected Mike Caldwell 1983.jpg: The story is about a 1976 Giants-Cardinals trade, but the photo shows a Brewers uniform and the file is dated 1983. The team and period don't match the event described.",
+  "model": "claude-haiku-5-5"
+ },
+ "958396ccdf3f125e": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PhilliesWallofFame.jpg/960px-PhilliesWallofFame.jpg",
+   "credit": "Flickr user pvsbond",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:PhilliesWallofFame.jpg",
+   "alt": "Brick wall with bronze plaques of Phillies players, plus a 'Phillies Centennial Team' plaque, at a ballpark",
+   "source": "checked",
+   "of": "Steve Carlton",
+   "w": 3058,
+   "h": 2446,
+   "tier": "person"
+  },
+  "reason": "person: Brick wall with bronze plaques of Phillies players, plus a 'Phillies Centennial Team' plaque, at a ballpark",
+  "model": "claude-haiku-5-5"
+ },
+ "96e98251b3f1bddd": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "9c4286b086a4ff90": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Buck_Ewing%2C_1887.jpeg/960px-Buck_Ewing%2C_1887.jpeg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Buck_Ewing,_1887.jpeg",
+   "alt": "Man in baseball uniform holding bat, studio backdrop, caption Buck Ewing",
+   "source": "checked",
+   "of": "Buck Ewing (Commons search)",
+   "w": 1057,
+   "h": 1515,
+   "tier": "person"
+  },
+  "reason": "person: Man in baseball uniform holding bat, studio backdrop, caption Buck Ewing",
+  "model": "claude-haiku-5-5"
+ },
+ "9d73befcfad06945": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lou_Gehrig_in_1923_%28cropped%29.jpg/960px-Lou_Gehrig_in_1923_%28cropped%29.jpg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Lou_Gehrig_in_1923_(cropped).jpg",
+   "alt": "Smiling man in pinstriped New York Yankees uniform and NY cap, black-and-white.",
+   "source": "checked",
+   "of": "Lou Gehrig",
+   "w": 2339,
+   "h": 3000,
+   "tier": "person"
+  },
+  "reason": "person: Smiling man in pinstriped New York Yankees uniform and NY cap, black-and-white.",
+  "model": "claude-haiku-5-5"
+ },
+ "a13f8bec20be0cfa": {
+  "image": null,
+  "reason": "rejected Multicoloured Wukesong Arena Facade (crop).jpg: The photo shows the Wukesong arena exterior at night, which matches the venue, but the story is about a baseball game and the image shows no baseball field, players, or teams. The file name and article point to the venue, but the image itself does not depict the 2008 baseball event or any baseball activity.",
+  "model": "claude-haiku-5-5"
+ },
+ "a1b91a82b61ea0f9": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "a907d4ed305b1d0a": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Willie_Davis_1973.jpeg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Willie_Davis_1973.jpeg",
+   "alt": "Smiling man in LA cap holding a baseball, black-and-white portrait",
+   "source": "checked",
+   "of": "Willie Davis (baseball)",
+   "w": 472,
+   "h": 659,
+   "tier": "person"
+  },
+  "reason": "person: Smiling man in LA cap holding a baseball, black-and-white portrait",
+  "model": "claude-haiku-5-5"
+ },
+ "aabcb723ee988f7a": {
+  "image": null,
+  "reason": "rejected 1883 New York Gothams.jpeg: The story describes a specific 1888 game and series, but the photo is a team portrait from the early 1880s, labeled as the 1883 New York Gothams, with no visible game, date, or 1888 context. The file name and caption point to a different season than the event described.",
+  "model": "claude-haiku-5-5"
+ },
+ "ae00c48ea545f4d3": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/West_Side_Park_postcard%2C_1909.jpg",
+   "credit": "V.O., Hammon",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:West_Side_Park_postcard,_1909.jpg",
+   "alt": "Postcard aerial view of West Side Ball Park (Cubs), crowded stands, baseball diamond.",
+   "source": "checked",
+   "of": "West Side Grounds",
+   "w": 860,
+   "h": 562,
+   "tier": "venue"
+  },
+  "reason": "venue: Postcard aerial view of West Side Ball Park (Cubs), crowded stands, baseball diamond.",
+  "model": "claude-haiku-5-5"
+ },
+ "ae692971c85af7b2": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "aef707fb993706e8": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "aefd08552d5e13c5": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "af2361d7b698cdfa": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Enrique_Hern%C3%A1ndez_May_20%2C_2018_%2850120690083%29_%28cropped%29.jpg/960px-Enrique_Hern%C3%A1ndez_May_20%2C_2018_%2850120690083%29_%28cropped%29.jpg",
+   "credit": "All-Pro Reels from District of Columbia, USA",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Enrique_Hern%C3%A1ndez_May_20,_2018_(50120690083)_(cropped).jpg",
+   "alt": "Dodgers player in gray road uniform #14 running bases, blue helmet.",
+   "source": "checked",
+   "of": "Enrique Hernández (baseball)",
+   "w": 1322,
+   "h": 1849,
+   "tier": "person"
+  },
+  "reason": "person: Dodgers player in gray road uniform #14 running bases, blue helmet.",
+  "model": "claude-haiku-5-5"
+ },
+ "b00f89c028a516f0": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Happy_Townsend.jpg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Happy_Townsend.jpg",
+   "alt": "Man in knit turtleneck sweater and flat cap, arms crossed, outdoors by a stadium",
+   "source": "checked",
+   "of": "Happy Townsend",
+   "w": 448,
+   "h": 618,
+   "tier": "person"
+  },
+  "reason": "person: Man in knit turtleneck sweater and flat cap, arms crossed, outdoors by a stadium",
+  "model": "claude-haiku-5-5"
+ },
+ "b2994cd2f46e6b02": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
+ "b30403ef5b2a89a0": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Marcus_Stroman_on_September_12%2C_2015.jpg/960px-Marcus_Stroman_on_September_12%2C_2015.jpg",
+   "credit": "Arturo Pardavila III on Flickr (Original version) UCinternational",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Marcus_Stroman_on_September_12,_2015.jpg",
+   "alt": "Pitcher in Blue Jays road uniform delivering pitch on mound",
+   "source": "checked",
+   "of": "Marcus Stroman",
+   "w": 1700,
+   "h": 1700,
+   "tier": "team"
+  },
+  "reason": "team: Pitcher in Blue Jays road uniform delivering pitch on mound",
+  "model": "claude-haiku-5-5"
+ },
+ "b46d7592ca128509": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
+ "b5ca5d1632f29f5b": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dwightevans.JPG/960px-Dwightevans.JPG",
+   "credit": "Wikimedia Commons",
+   "license": "CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Dwightevans.JPG",
+   "alt": "Older man with mustache seated at table signing, event backdrop",
+   "source": "checked",
+   "of": "Dwight Evans (baseball)",
+   "w": 1920,
+   "h": 2560,
+   "tier": "person"
+  },
+  "reason": "person: Older man with mustache seated at table signing, event backdrop",
+  "model": "claude-haiku-5-5"
+ },
+ "b6cbfa8c251e4a8f": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "bb501fbc150f65bf": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yankee_Stadium_aerial_from_Blackhawk.jpg/960px-Yankee_Stadium_aerial_from_Blackhawk.jpg",
+   "credit": "Severin St. Martin",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_aerial_from_Blackhawk.jpg",
+   "alt": "Aerial view of Yankee Stadium with its exterior and surrounding Bronx neighborhood.",
+   "source": "checked",
+   "of": "Yankee Stadium (1923)",
+   "w": 1952,
+   "h": 1480,
+   "tier": "venue"
+  },
+  "reason": "venue: Aerial view of Yankee Stadium with its exterior and surrounding Bronx neighborhood.",
+  "model": "claude-haiku-5-5"
+ },
+ "bb7e5751fd15c477": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Jake_Westbrook.jpg/960px-Jake_Westbrook.jpg",
+   "credit": "Josh Hallett (hyku) from Winter Haven, FL, USA",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Jake_Westbrook.jpg",
+   "alt": "Pitcher in navy jersey #37 mid-delivery on a mound",
+   "source": "checked",
+   "of": "Jake Westbrook",
+   "w": 1600,
+   "h": 1074,
+   "tier": "person"
+  },
+  "reason": "person: Pitcher in navy jersey #37 mid-delivery on a mound",
+  "model": "claude-haiku-5-5"
+ },
+ "c0eb75bafd580ff2": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bobby_Jenks_on_April_17%2C_2008.jpg/960px-Bobby_Jenks_on_April_17%2C_2008.jpg",
+   "credit": "Keith Allison on Flickr",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Bobby_Jenks_on_April_17,_2008.jpg",
+   "alt": "Pitcher in black White Sox jersey and cap mid-delivery on mound",
+   "source": "checked",
+   "of": "Bobby Jenks",
+   "w": 2592,
+   "h": 3888,
+   "tier": "person"
+  },
+  "reason": "person: Pitcher in black White Sox jersey and cap mid-delivery on mound",
+  "model": "claude-haiku-5-5"
+ },
+ "c181075982509cda": {
+  "image": null,
+  "reason": "weak pick (0.1): Pirates spring training facility photographed in 2018, not the 1970 event; weak match at best.",
+  "model": "claude-haiku-5-5"
+ },
+ "c390bd21e8bc321b": {
+  "image": null,
+  "reason": "weak pick (0.2): Charles Comiskey was the Browns' first baseman and manager in 1886, but this is a 1888 card and he is not the main subject of the story (Caruthers and O'Neill are).",
+  "model": "claude-haiku-5-5"
+ },
+ "c3b1e3e31f8df734": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/George_Bamberger_1950.jpg/960px-George_Bamberger_1950.jpg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:George_Bamberger_1950.jpg",
+   "alt": "Black-and-white photo of a baseball pitcher in cap and uniform, mid-windup, with stadium seating behind him.",
+   "source": "checked",
+   "of": "George Bamberger (Commons search)",
+   "w": 1947,
+   "h": 2043,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white photo of a baseball pitcher in cap and uniform, mid-windup, with stadium seating behind him.",
+  "model": "claude-haiku-5-5"
+ },
+ "c561637ed68dcc1c": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mickey_Welch_baseball_card.jpg/960px-Mickey_Welch_baseball_card.jpg",
+   "credit": "Goodwin & Company",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Mickey_Welch_baseball_card.jpg",
+   "alt": "Sepia baseball card of pitcher in New York uniform, 1888 Old Judge",
+   "source": "checked",
+   "of": "Mickey Welch",
+   "w": 1592,
+   "h": 3000,
+   "tier": "person"
+  },
+  "reason": "person: Sepia baseball card of pitcher in New York uniform, 1888 Old Judge",
+  "model": "claude-haiku-5-5"
+ },
+ "c5fd6d683f756506": {
+  "image": null,
+  "reason": "rejected 1888 Reds.jpg: The story is about the 1957 season, but the photo is a team portrait from 1888. Its caption and file name date it nearly 70 years before the event, so it doesn't depict the 1957 race or its teams.",
+  "model": "claude-haiku-5-5"
+ },
+ "c6fee22d9b15bb61": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dave_Philley_Athletics.jpg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Dave_Philley_Athletics.jpg",
+   "alt": "Man in dark cap with white 'A' and collared uniform, black-and-white photo",
+   "source": "checked",
+   "of": "Dave Philley (Commons search)",
+   "w": 608,
+   "h": 993,
+   "tier": "person"
+  },
+  "reason": "person: Man in dark cap with white 'A' and collared uniform, black-and-white photo",
+  "model": "claude-haiku-5-5"
+ },
+ "c9ecdc59eeecf491": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1903_Philadelphia_Athletics.jpg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:1903_Philadelphia_Athletics.jpg",
+   "alt": "Sepia team photo of a 1900s baseball club in 'A' jerseys",
+   "source": "checked",
+   "of": "1903 Philadelphia Athletics season",
+   "w": 640,
+   "h": 466,
+   "tier": "team"
+  },
+  "reason": "team: Sepia team photo of a 1900s baseball club in 'A' jerseys",
+  "model": "claude-haiku-5-5"
+ },
+ "ccf9671738374ed4": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "cf50aeb3dff3c863": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dsc_6431_Pesky%27s_Pole.jpg/960px-Dsc_6431_Pesky%27s_Pole.jpg",
+   "credit": "User Francesco Crippa on Flickr",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Dsc_6431_Pesky%27s_Pole.jpg",
+   "alt": "Fenway Park's Green Monster and left-field seats with Pesky's Pole visible",
+   "source": "checked",
+   "of": "Fenway Park",
+   "w": 1920,
+   "h": 1277,
+   "tier": "venue"
+  },
+  "reason": "venue: Fenway Park's Green Monster and left-field seats with Pesky's Pole visible",
+  "model": "claude-haiku-5-5"
+ },
+ "d103a0bb77ce69a8": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bowie_Kuhn_1982.jpg",
+   "credit": "Major League Baseball",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Bowie_Kuhn_1982.jpg",
+   "alt": "Black-and-white portrait of smiling older man in suit and tie",
+   "source": "checked",
+   "of": "Bowie Kuhn",
+   "w": 677,
+   "h": 887,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white portrait of smiling older man in suit and tie",
+  "model": "claude-haiku-5-5"
+ },
+ "d1ac76ebac9abd43": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hugh_Duffy_HOF_plaque.jpg/960px-Hugh_Duffy_HOF_plaque.jpg",
+   "credit": "Penale52",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hugh_Duffy_HOF_plaque.jpg",
+   "alt": "Bronze Hall of Fame plaque of Hugh Duffy with name and text.",
+   "source": "checked",
+   "of": "Hugh Duffy",
+   "w": 1495,
+   "h": 1944,
+   "tier": "person"
+  },
+  "reason": "person: Bronze Hall of Fame plaque of Hugh Duffy with name and text.",
+  "model": "claude-haiku-5-5"
+ },
+ "d5de6fad2ca26e18": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "d93920818e3d9a29": {
+  "image": null,
+  "reason": "weak pick (0.18): Ty Cobb is a Tigers star from 1913, but the story is about the 1988 team standings; he is not a main subject and the photo is from a different era.",
+  "model": "claude-haiku-5-5"
+ },
+ "db432d226888aa14": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/John_C._%22Jack%22_Martin%2C_Boston_NL_%28baseball%29_LCCN2014697620.jpg/960px-John_C._%22Jack%22_Martin%2C_Boston_NL_%28baseball%29_LCCN2014697620.jpg",
+   "credit": "Bain News Service, publisher",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:John_C._%22Jack%22_Martin,_Boston_NL_(baseball)_LCCN2014697620.jpg",
+   "alt": "Black-and-white portrait of a smiling man in a baseball uniform, labeled MARTIN",
+   "source": "checked",
+   "of": "Jack Martin (baseball) (Commons search)",
+   "w": 5760,
+   "h": 4154,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white portrait of a smiling man in a baseball uniform, labeled MARTIN",
+  "model": "claude-haiku-5-5"
+ },
+ "db563d9e44bd9b1a": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "dc3a1b6bfc7c00e0": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "df718ab055a8a151": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JimmyFoxxGoudeycard.jpg/960px-JimmyFoxxGoudeycard.jpg",
+   "credit": "Goudey",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:JimmyFoxxGoudeycard.jpg",
+   "alt": "Painted baseball card of a batter in white uniform, labeled JIMMY FOXX",
+   "source": "checked",
+   "of": "Jimmie Foxx",
+   "w": 1315,
+   "h": 1609,
+   "tier": "person"
+  },
+  "reason": "person: Painted baseball card of a batter in white uniform, labeled JIMMY FOXX",
+  "model": "claude-haiku-5-5"
+ },
+ "df962ecb021530e6": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
+ "e255760cff130d4d": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/George_Mullin.jpg/960px-George_Mullin.jpg",
+   "credit": "American Tobacco Company",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:George_Mullin.jpg",
+   "alt": "Vintage tobacco-style baseball card of a pitcher in a Detroit uniform, captioned MULLEN, DETROIT.",
+   "source": "checked",
+   "of": "George Mullin (baseball)",
+   "w": 1679,
+   "h": 3000,
+   "tier": "person"
+  },
+  "reason": "person: Vintage tobacco-style baseball card of a pitcher in a Detroit uniform, captioned MULLEN, DETROIT.",
+  "model": "claude-haiku-5-5"
+ },
+ "e416679cb04a0daf": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Shane_Victorino_on_July_28%2C_2013.jpg/960px-Shane_Victorino_on_July_28%2C_2013.jpg",
+   "credit": "Keith Allison on Flickr",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Shane_Victorino_on_July_28,_2013.jpg",
+   "alt": "Bald bearded player in gray Boston road uniform, #18, mid-game",
+   "source": "checked",
+   "of": "Shane Victorino",
+   "w": 3974,
+   "h": 3213,
+   "tier": "person"
+  },
+  "reason": "person: Bald bearded player in gray Boston road uniform, #18, mid-game",
+  "model": "claude-haiku-5-5"
+ },
+ "ebcbb8ba6c08aec0": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2016-10-22_Clayton_Kershaw_1_%28cropped%29.jpg/960px-2016-10-22_Clayton_Kershaw_1_%28cropped%29.jpg",
+   "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:2016-10-22_Clayton_Kershaw_1_(cropped).jpg",
+   "alt": "Pitcher in Dodgers road grey uniform delivering a pitch on mound",
+   "source": "checked",
+   "of": "2018 National League Championship Series",
+   "w": 3396,
+   "h": 3205,
+   "tier": "person"
+  },
+  "reason": "person: Pitcher in Dodgers road grey uniform delivering a pitch on mound",
+  "model": "claude-haiku-5-5"
+ },
+ "ebd9c124fab7b381": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "ef02e83d02ab0513": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "ef242a609c067342": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hooks_Wiltse.jpg",
+   "credit": "unknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Hooks_Wiltse.jpg",
+   "alt": "Black-and-white photo of a pitcher in striped baseball uniform, glove raised overhead, outdoors",
+   "source": "checked",
+   "of": "Hooks Wiltse",
+   "w": 908,
+   "h": 1377,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white photo of a pitcher in striped baseball uniform, glove raised overhead, outdoors",
+  "model": "claude-haiku-5-5"
+ },
+ "f17b282d3433ed78": {
+  "image": null,
+  "reason": "weak pick (0.2): 1962 Dodgers card, not a team photo from within about 5 years of 1978; weak fit at best.",
+  "model": "claude-haiku-5-5"
+ },
+ "f3a860f8464ac00f": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2004alcs.png/960px-2004alcs.png",
+   "credit": "Long2181998",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:2004alcs.png",
+   "alt": "Fans in stands holding sign 'The Greatest Comeback in Sports History!' with ALCS scoreboard showing NYY vs BOS",
+   "source": "checked",
+   "of": "2004 American League Championship Series",
+   "w": 1201,
+   "h": 810,
+   "tier": "event"
+  },
+  "reason": "event: Fans in stands holding sign 'The Greatest Comeback in Sports History!' with ALCS scoreboard showing NYY vs BOS",
+  "model": "claude-haiku-5-5"
+ },
+ "f5af3bad5c05aeb8": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/NY_Metropolitans.jpg/960px-NY_Metropolitans.jpg",
+   "credit": "The Library of Congress",
+   "license": "No restrictions",
+   "page": "https://commons.wikimedia.org/wiki/File:NY_Metropolitans.jpg",
+   "alt": "Team photo of 1882 Metropolitan baseball nine in uniform, Sarony studio cabinet card",
+   "source": "checked",
+   "of": "New York Metropolitans",
+   "w": 1024,
+   "h": 683,
+   "tier": "team"
+  },
+  "reason": "team: Team photo of 1882 Metropolitan baseball nine in uniform, Sarony studio cabinet card",
+  "model": "claude-haiku-5-5"
+ },
+ "f6010df7989b1e29": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/1951_Gene_Conley_Hartford_Chiefs.jpg/960px-1951_Gene_Conley_Hartford_Chiefs.jpg",
+   "credit": "WUlbrich18",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:1951_Gene_Conley_Hartford_Chiefs.jpg",
+   "alt": "Pitcher in Hartford-style uniform on a ballfield, glove on hand, stadium behind",
+   "source": "checked",
+   "of": "Gene Conley (Commons search)",
+   "w": 1311,
+   "h": 1608,
+   "tier": "person"
+  },
+  "reason": "person: Pitcher in Hartford-style uniform on a ballfield, glove on hand, stadium behind",
+  "model": "claude-haiku-5-5"
+ },
+ "f7b658a509fd305d": {
+  "image": null,
+  "reason": "weak pick (0.1): Shows Clark Griffith, the uncle, not the main subject Calvin Griffith; only mentioned in the story.",
+  "model": "claude-haiku-5-5"
+ },
+ "f80b4db6943e95ab": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
+ "fce0ace07178da6c": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pete_Rose_%28cropped%29.jpg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Pete_Rose_(cropped).jpg",
+   "alt": "Black-and-white portrait of a young man in pinstriped Reds uniform and cap",
+   "source": "checked",
+   "of": "Pete Rose",
+   "w": 750,
+   "h": 996,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white portrait of a young man in pinstriped Reds uniform and cap",
+  "model": "claude-haiku-5-5"
+ },
+ "fce4ee31589505db": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
+ "ffb3f47ae0c17b45": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Atlanta-Fulton_County_Stadium_%282897768910%29.jpg/960px-Atlanta-Fulton_County_Stadium_%282897768910%29.jpg",
+   "credit": "rjcox",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Atlanta-Fulton_County_Stadium_(2897768910).jpg",
+   "alt": "Wide view of a night baseball game in a large stadium with crowd",
+   "source": "checked",
+   "of": "Atlanta–Fulton County Stadium",
+   "w": 5536,
+   "h": 3673,
+   "tier": "event"
+  },
+  "reason": "event: Wide view of a night baseball game in a large stadium with crowd",
+  "model": "claude-haiku-5-5"
+ }
+}

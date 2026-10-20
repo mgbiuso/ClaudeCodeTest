@@ -22,15 +22,16 @@
    "key": "4dbccbff7ef00856",
    "headline": "Seaver's no-hit bid broken up in ninth by Leron Lee single",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tom_Seaver_2011.jpg",
-    "credit": "Krusty from Saint Paul, MN",
-    "license": "CC BY-SA 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Tom_Seaver_2011.jpg",
-    "alt": "Tom Seaver",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tom_Seaver%27s_Last_Pitch.jpg/960px-Tom_Seaver%27s_Last_Pitch.jpg",
+    "credit": "slgckgc",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tom_Seaver%27s_Last_Pitch.jpg",
+    "alt": "Man in Mets jersey throwing ball from pitcher's mound at stadium",
+    "source": "checked",
     "of": "Tom Seaver",
-    "w": 870,
-    "h": 745
+    "w": 2375,
+    "h": 1485,
+    "tier": "person"
    },
    "extract": "George Thomas Seaver, nicknamed \"Tom Terrific\" and \"the Franchise\", was an American professional baseball pitcher who played 20 seasons in Major League Baseball (MLB). He played for the New York Mets, Cincinnati Reds, Chicago White Sox, and Boston Red Sox from 1967 to 1986. Commonly described as the most iconic player…",
    "page": "https://en.wikipedia.org/wiki/Tom_Seaver",
@@ -52,15 +53,16 @@
    "key": "c0eb75bafd580ff2",
    "headline": "Bobby Jenks, 44, former White Sox pitcher, dies",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bobby_Jenks_2011.jpg/960px-Bobby_Jenks_2011.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bobby_Jenks_on_April_17%2C_2008.jpg/960px-Bobby_Jenks_on_April_17%2C_2008.jpg",
     "credit": "Keith Allison on Flickr",
     "license": "CC BY-SA 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bobby_Jenks_2011.jpg",
-    "alt": "Bobby Jenks",
-    "source": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Bobby_Jenks_on_April_17,_2008.jpg",
+    "alt": "Pitcher in black White Sox jersey and cap mid-delivery on mound",
+    "source": "checked",
     "of": "Bobby Jenks",
-    "w": 1919,
-    "h": 2078
+    "w": 2592,
+    "h": 3888,
+    "tier": "person"
    },
    "extract": "Robert Scott Jenks was an American professional baseball pitcher. He played in Major League Baseball (MLB) for the Chicago White Sox and Boston Red Sox from 2005 through 2011, and was a two-time All-Star. A relief pitcher, Jenks served as a closer for most of his career, and he ranks second in career saves among White…",
    "page": "https://en.wikipedia.org/wiki/Bobby_Jenks"
@@ -85,15 +87,16 @@
    "key": "f6010df7989b1e29",
    "headline": "Gene Conley, pitcher and two-sport champion, dies at 86",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gene_Conley_-_Boston_Red_Sox_-_1961.jpg",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Gene_Conley_-_Boston_Red_Sox_-_1961.jpg",
-    "alt": "Gene Conley",
-    "source": "commons",
-    "of": "Gene Conley",
-    "w": 328,
-    "h": 458
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/1951_Gene_Conley_Hartford_Chiefs.jpg/960px-1951_Gene_Conley_Hartford_Chiefs.jpg",
+    "credit": "WUlbrich18",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1951_Gene_Conley_Hartford_Chiefs.jpg",
+    "alt": "Pitcher in Hartford-style uniform on a ballfield, glove on hand, stadium behind",
+    "source": "checked",
+    "of": "Gene Conley (Commons search)",
+    "w": 1311,
+    "h": 1608,
+    "tier": "person"
    },
    "extract": "Donald Eugene Conley was an American professional baseball and basketball player. He pitched for four teams in Major League Baseball (MLB) from 1952 to 1963. Conley also played as a forward in the 1952–53 season and from 1958 to 1964 for two teams in the National Basketball Association (NBA). He is the second person,…",
    "page": "https://en.wikipedia.org/wiki/Gene_Conley"
@@ -115,17 +118,7 @@
    "about": "Earl Robinson (baseball)",
    "key": "6e40e335394d3c2a",
    "headline": "Earl Robinson, Dodgers and Orioles outfielder, dies at 77",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Earl_Robinson_Orioles.jpg",
-    "credit": "Jay Publishing",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Earl_Robinson_Orioles.jpg",
-    "alt": "Earl Robinson (baseball)",
-    "source": "commons",
-    "of": "Earl Robinson (baseball)",
-    "w": 301,
-    "h": 395
-   },
+   "image": null,
    "extract": "Earl John Robinson was an American professional baseball outfielder and third baseman who played in Major League Baseball (MLB) for the Los Angeles Dodgers and Baltimore Orioles. He attended the University of California, Berkeley, where he played both baseball and basketball, helping Cal to three straight conference…",
    "page": "https://en.wikipedia.org/wiki/Earl_Robinson_(baseball)"
   },
@@ -149,15 +142,16 @@
    "key": "5fd9a438711e0280",
    "headline": "David Ortiz joins 400 home run club, ties game in Oakland",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/David_Ortiz.JPG",
-    "credit": "User Googie man on en.wikipedia",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:David_Ortiz.JPG",
-    "alt": "David Ortiz",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/David_Ortiz_on_July_27%2C_2013.jpg/960px-David_Ortiz_on_July_27%2C_2013.jpg",
+    "credit": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Ortiz_on_July_27,_2013.jpg",
+    "alt": "Smiling man in Red Sox cap and navy Boston jersey, bearded, outdoors at ballpark",
+    "source": "checked",
     "of": "David Ortiz",
-    "w": 785,
-    "h": 775
+    "w": 2790,
+    "h": 3429,
+    "tier": "person"
    },
    "extract": "David Américo Ortiz Arias, nicknamed \"Big Papi\", is a Dominican-American former professional baseball designated hitter who played 20 seasons in Major League Baseball (MLB) from 1997 to 2016, primarily for the Boston Red Sox. After playing parts of six seasons with the Minnesota Twins, Ortiz moved to the Red Sox,…",
    "page": "https://en.wikipedia.org/wiki/David_Ortiz"
@@ -180,15 +174,16 @@
    "key": "18c1e3a9fbdb8bd4",
    "headline": "Adam Dunn hits 300th home run off Tommy Hanson",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Adam_Dunn_on_August_10%2C_2011.jpg/960px-Adam_Dunn_on_August_10%2C_2011.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Adam_Dunn_on_June_28%2C_2009.jpg/960px-Adam_Dunn_on_June_28%2C_2009.jpg",
     "credit": "Keith Allison on Flickr",
     "license": "CC BY-SA 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Adam_Dunn_on_August_10,_2011.jpg",
-    "alt": "Adam Dunn",
-    "source": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Adam_Dunn_on_June_28,_2009.jpg",
+    "alt": "Player in gray Washington road jersey #44, holding bat, batting helmet.",
+    "source": "checked",
     "of": "Adam Dunn",
-    "w": 1098,
-    "h": 1932
+    "w": 1989,
+    "h": 2723,
+    "tier": "person"
    },
    "extract": "Adam Troy Dunn, nicknamed \"Big Donkey\", is an American former professional baseball left fielder and first baseman. He played 14 seasons in Major League Baseball (MLB), primarily for the Cincinnati Reds. A two-time MLB All-Star, Dunn was known for his prodigious power and his high propensity to strike out. He hit 38…",
    "page": "https://en.wikipedia.org/wiki/Adam_Dunn"
@@ -213,11 +208,12 @@
     "credit": "Josh Hallett (hyku) from Winter Haven, FL, USA",
     "license": "CC BY-SA 2.0",
     "page": "https://commons.wikimedia.org/wiki/File:Jake_Westbrook.jpg",
-    "alt": "Jake Westbrook",
-    "source": "commons",
+    "alt": "Pitcher in navy jersey #37 mid-delivery on a mound",
+    "source": "checked",
     "of": "Jake Westbrook",
     "w": 1600,
-    "h": 1074
+    "h": 1074,
+    "tier": "person"
    },
    "extract": "Jacob Cauthen Westbrook is an American former professional baseball pitcher in Major League Baseball. He was known as a sinker ball pitcher. Westbrook made his major league debut with the New York Yankees, but was soon traded to the Cleveland Indians, where he spent ten years. Cleveland eventually dealt him to the St.…",
    "page": "https://en.wikipedia.org/wiki/Jake_Westbrook"
@@ -265,15 +261,16 @@
    "key": "958396ccdf3f125e",
    "headline": "Steve Carlton, released by Phillies, signs with Giants",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Steve_Carlton_-_Philadelphia_Phillies_-_1983.jpg",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Steve_Carlton_-_Philadelphia_Phillies_-_1983.jpg",
-    "alt": "Steve Carlton",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PhilliesWallofFame.jpg/960px-PhilliesWallofFame.jpg",
+    "credit": "Flickr user pvsbond",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:PhilliesWallofFame.jpg",
+    "alt": "Brick wall with bronze plaques of Phillies players, plus a 'Phillies Centennial Team' plaque, at a ballpark",
+    "source": "checked",
     "of": "Steve Carlton",
-    "w": 290,
-    "h": 216
+    "w": 3058,
+    "h": 2446,
+    "tier": "person"
    },
    "extract": "Steven Norman Carlton is an American former professional baseball player. He played in Major League Baseball (MLB) as a left-handed pitcher for six different teams from 1965 to 1988, most notably as a member of the Philadelphia Phillies with whom he won four Cy Young Awards as well as the 1980 World Series. He was…",
    "page": "https://en.wikipedia.org/wiki/Steve_Carlton"
@@ -298,15 +295,16 @@
    "key": "ffb3f47ae0c17b45",
    "headline": "Mets outlast Braves 16–13 in 19-inning holiday marathon",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Atlanta%E2%80%93Fulton_County_Stadium_Postcard_%281960s-70s%29.jpg",
-    "credit": "Don Ceppi/Scenic South Card Co.",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Atlanta%E2%80%93Fulton_County_Stadium_Postcard_(1960s-70s).jpg",
-    "alt": "Atlanta–Fulton County Stadium",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Atlanta-Fulton_County_Stadium_%282897768910%29.jpg/960px-Atlanta-Fulton_County_Stadium_%282897768910%29.jpg",
+    "credit": "rjcox",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Atlanta-Fulton_County_Stadium_(2897768910).jpg",
+    "alt": "Wide view of a night baseball game in a large stadium with crowd",
+    "source": "checked",
     "of": "Atlanta–Fulton County Stadium",
-    "w": 250,
-    "h": 159
+    "w": 5536,
+    "h": 3673,
+    "tier": "event"
    },
    "extract": "Atlanta–Fulton County Stadium, often referred to as Fulton County Stadium and originally named Atlanta Stadium, was a multi-purpose stadium located in Atlanta, Georgia. The stadium was home of the Atlanta Braves of Major League Baseball (MLB) from 1966 until 1996 and the Atlanta Falcons of the National Football League…",
    "page": "https://en.wikipedia.org/wiki/Atlanta%E2%80%93Fulton_County_Stadium"
@@ -353,7 +351,18 @@
    "about": "AL West",
    "key": "542a9ab34c6a26c6",
    "headline": "Royals lead AL West by half-game at season's midpoint",
-   "image": null,
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/1989_Kansas_City_Royals_away_uniform.jpg/960px-1989_Kansas_City_Royals_away_uniform.jpg",
+    "credit": "Amineshaker",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1989_Kansas_City_Royals_away_uniform.jpg",
+    "alt": "Royals light-blue jersey with script wordmark and crown logo patch",
+    "source": "checked",
+    "of": "Kansas City Royals",
+    "w": 3648,
+    "h": 2736,
+    "tier": "team"
+   },
    "extract": "The American League West is one of Major League Baseball's six divisions. The division has five teams as of the 2013 season, but had four teams from 1994 to 2012, and had as many as seven teams before the 1994 realignment. Although its teams currently only reside along the West Coast and in Texas, historically the…",
    "page": "https://en.wikipedia.org/wiki/American_League_West"
   },
@@ -373,15 +382,16 @@
    "key": "db432d226888aa14",
    "headline": "Jack Martin, shortstop for Highlanders and Braves, dies at 93",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jack_Martin_%281912_Highlanders%29_2.jpg",
-    "credit": "Unknown authorUnknown author",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/John_C._%22Jack%22_Martin%2C_Boston_NL_%28baseball%29_LCCN2014697620.jpg/960px-John_C._%22Jack%22_Martin%2C_Boston_NL_%28baseball%29_LCCN2014697620.jpg",
+    "credit": "Bain News Service, publisher",
     "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Jack_Martin_(1912_Highlanders)_2.jpg",
-    "alt": "Jack Martin (baseball)",
-    "source": "commons",
-    "of": "Jack Martin (baseball)",
-    "w": 180,
-    "h": 270
+    "page": "https://commons.wikimedia.org/wiki/File:John_C._%22Jack%22_Martin,_Boston_NL_(baseball)_LCCN2014697620.jpg",
+    "alt": "Black-and-white portrait of a smiling man in a baseball uniform, labeled MARTIN",
+    "source": "checked",
+    "of": "Jack Martin (baseball) (Commons search)",
+    "w": 5760,
+    "h": 4154,
+    "tier": "person"
    },
    "extract": "John Christopher Martin was an American weak-hitting, slick-fielding infielder in Major League Baseball, playing mainly at shortstop for three different teams between the 1912 and 1914 seasons. Listed at 5 ft 9 in (1.75 m), 159 lb., he batted and threw right-handed.",
    "page": "https://en.wikipedia.org/wiki/Jack_Martin_(baseball)"
@@ -448,15 +458,16 @@
    "key": "43f7c3dbbf55e609",
    "headline": "Del Webb, Yankees co-owner and chairman, dies at 75",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Del_Webb%2C_Robert_H._Cobb%2C_Branch_Rickey_and_Wid_Matthews_1951.jpg/960px-Del_Webb%2C_Robert_H._Cobb%2C_Branch_Rickey_and_Wid_Matthews_1951.jpg",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Del_Webb,_Robert_H._Cobb,_Branch_Rickey_and_Wid_Matthews_1951.jpg",
-    "alt": "Del Webb",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Del_E._Webb%2C_1964.jpg",
+    "credit": "Los Angeles Times",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Del_E._Webb,_1964.jpg",
+    "alt": "Black-and-white portrait of a bespectacled older man in suit and tie outdoors",
+    "source": "checked",
     "of": "Del Webb",
-    "w": 2582,
-    "h": 1377
+    "w": 853,
+    "h": 942,
+    "tier": "person"
    },
    "extract": "Delbert Eugene Webb was an American real-estate developer and a co-owner of the New York Yankees baseball club. He founded and developed the retirement community of Sun City, Arizona, which was built by his Del E. Webb Construction Company.",
    "page": "https://en.wikipedia.org/wiki/Del_Webb"
@@ -549,17 +560,7 @@
    "about": "National League (baseball)",
    "key": "4e2359a2d55e4fbf",
    "headline": "Giants hold 2½-game lead over Pirates in National League",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/National_League_and_American_Association_delegates%2C_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg/960px-National_League_and_American_Association_delegates%2C_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg",
-    "credit": "Betz, John Jr",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:National_League_and_American_Association_delegates,_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg",
-    "alt": "National League (baseball)",
-    "source": "commons",
-    "of": "National League (baseball)",
-    "w": 1116,
-    "h": 800
-   },
+   "image": null,
    "extract": "The National League of Professional Baseball Clubs, known simply as the National League (NL), is the older of two leagues constituting Major League Baseball (MLB) in the United States and Canada, and the world's oldest extant professional team sports league. Founded on February 2, 1876, to replace the National…",
    "page": "https://en.wikipedia.org/wiki/National_League_(baseball)"
   },
@@ -582,7 +583,18 @@
    "about": "Los Angeles",
    "key": "20f06dfde34c9c27",
    "headline": "Dodgers and Giants lead their leagues at season's midpoint",
-   "image": null,
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/1962_Bell_Brand_Sandy_Koufax.jpg",
+    "credit": "Bell Brand",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1962_Bell_Brand_Sandy_Koufax.jpg",
+    "alt": "Pitcher in Dodgers uniform on mound, signed card reading Sandy Koufax",
+    "source": "checked",
+    "of": "Los Angeles Dodgers",
+    "w": 733,
+    "h": 1065,
+    "tier": "person"
+   },
    "extract": "Sanford Koufax, nicknamed \"the Left Arm of God\", is an American former professional baseball player. Widely considered one of the greatest pitchers of all time, he played 12 seasons in Major League Baseball (MLB) for the Brooklyn / Los Angeles Dodgers from 1955 to 1966. Koufax was the first three-time winner of the Cy…",
    "page": "https://en.wikipedia.org/wiki/Sandy_Koufax"
   },
@@ -605,17 +617,7 @@
    "about": "National League (baseball)",
    "key": "6b63475d8fd8bb01",
    "headline": "Giants hold half-game lead over Braves in National League",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/National_League_and_American_Association_delegates%2C_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg/960px-National_League_and_American_Association_delegates%2C_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg",
-    "credit": "Betz, John Jr",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:National_League_and_American_Association_delegates,_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg",
-    "alt": "National League (baseball)",
-    "source": "commons",
-    "of": "National League (baseball)",
-    "w": 1116,
-    "h": 800
-   },
+   "image": null,
    "extract": "The National League of Professional Baseball Clubs, known simply as the National League (NL), is the older of two leagues constituting Major League Baseball (MLB) in the United States and Canada, and the world's oldest extant professional team sports league. Founded on February 2, 1876, to replace the National…",
    "page": "https://en.wikipedia.org/wiki/National_League_(baseball)"
   },
@@ -638,17 +640,7 @@
    "about": "National League (baseball)",
    "key": "91e7a7662b2907bc",
    "headline": "Braves hold 1½-game lead in NL as holiday games conclude",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/National_League_and_American_Association_delegates%2C_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg/960px-National_League_and_American_Association_delegates%2C_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg",
-    "credit": "Betz, John Jr",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:National_League_and_American_Association_delegates,_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg",
-    "alt": "National League (baseball)",
-    "source": "commons",
-    "of": "National League (baseball)",
-    "w": 1116,
-    "h": 800
-   },
+   "image": null,
    "extract": "The National League of Professional Baseball Clubs, known simply as the National League (NL), is the older of two leagues constituting Major League Baseball (MLB) in the United States and Canada, and the world's oldest extant professional team sports league. Founded on February 2, 1876, to replace the National…",
    "page": "https://en.wikipedia.org/wiki/National_League_(baseball)"
   },
@@ -671,17 +663,7 @@
    "about": "Cincinnati Redlegs",
    "key": "c5fd6d683f756506",
    "headline": "Reds lead five-team National League race at midpoint",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Stan_Palys_Cincinnati_Redlegs_portrait.jpg",
-    "credit": "baseball reference LLC",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Stan_Palys_Cincinnati_Redlegs_portrait.jpg",
-    "alt": "Cincinnati Redlegs",
-    "source": "commons",
-    "of": "Cincinnati Redlegs",
-    "w": 120,
-    "h": 180
-   },
+   "image": null,
    "extract": "The Cincinnati Reds are an American professional baseball team based in Cincinnati. The Reds compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. They were a charter member of the American Association in 1882 before joining the NL in 1890.",
    "page": "https://en.wikipedia.org/wiki/Cincinnati_Reds"
   },
@@ -704,17 +686,7 @@
    "about": "National League (baseball)",
    "key": "187785776b8e6e14",
    "headline": "Dodgers and Yankees lead their leagues at season's midpoint",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/National_League_and_American_Association_delegates%2C_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg/960px-National_League_and_American_Association_delegates%2C_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg",
-    "credit": "Betz, John Jr",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:National_League_and_American_Association_delegates,_Baltimore_-_DPLA_-_847e9e07287d3e87425baf411e6f480d.jpg",
-    "alt": "National League (baseball)",
-    "source": "commons",
-    "of": "National League (baseball)",
-    "w": 1116,
-    "h": 800
-   },
+   "image": null,
    "extract": "The National League of Professional Baseball Clubs, known simply as the National League (NL), is the older of two leagues constituting Major League Baseball (MLB) in the United States and Canada, and the world's oldest extant professional team sports league. Founded on February 2, 1876, to replace the National…",
    "page": "https://en.wikipedia.org/wiki/National_League_(baseball)"
   },
@@ -738,15 +710,16 @@
    "key": "cf50aeb3dff3c863",
    "headline": "Red Sox score 14 in eighth, rout Athletics 19–5",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Messageboard_John_Hancock_Fenway_Park.jpg/960px-Messageboard_John_Hancock_Fenway_Park.jpg",
-    "credit": "EgorovaSvetlana",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Messageboard_John_Hancock_Fenway_Park.jpg",
-    "alt": "Fenway Park",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dsc_6431_Pesky%27s_Pole.jpg/960px-Dsc_6431_Pesky%27s_Pole.jpg",
+    "credit": "User Francesco Crippa on Flickr",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dsc_6431_Pesky%27s_Pole.jpg",
+    "alt": "Fenway Park's Green Monster and left-field seats with Pesky's Pole visible",
+    "source": "checked",
     "of": "Fenway Park",
-    "w": 2560,
-    "h": 1920
+    "w": 1920,
+    "h": 1277,
+    "tier": "venue"
    },
    "extract": "Fenway Park is a ballpark in Boston, Massachusetts, United States, close to Kenmore Square. Since 1912, it has been the home field of Major League Baseball's (MLB) Boston Red Sox. While the stadium was built in 1912, it was substantially rebuilt in 1934, and underwent major renovations and modifications in the 21st…",
    "page": "https://en.wikipedia.org/wiki/Fenway_Park"
@@ -766,17 +739,7 @@
    "about": "Jeff Sweeney",
    "key": "31949e165ccc019f",
    "headline": "Jeff Sweeney, Highlanders and Yankees catcher, dies at 58",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jeff_Sweeney%2C_New_York_AL_%28baseball%29_LCCN2014691879.jpg/960px-Jeff_Sweeney%2C_New_York_AL_%28baseball%29_LCCN2014691879.jpg",
-    "credit": "Bain News Service, publisher",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Jeff_Sweeney,_New_York_AL_(baseball)_LCCN2014691879.jpg",
-    "alt": "Jeff Sweeney",
-    "source": "commons",
-    "of": "Jeff Sweeney",
-    "w": 5735,
-    "h": 4191
-   },
+   "image": null,
    "extract": "Edward Francis Sweeney, often referred to as \"Big Ed Sweeney\", was an American professional baseball catcher. He played in Major League Baseball for the New York Highlanders / Yankees of the American League from 1908 to 1915 and the Pittsburgh Pirates of the National League in 1919.",
    "page": "https://en.wikipedia.org/wiki/Ed_Sweeney_(baseball)"
   },
@@ -819,15 +782,16 @@
    "key": "9d73befcfad06945",
    "headline": "Lou Gehrig calls himself luckiest man, announces retirement",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Babe_Ruth_and_Lou_Gehrig_1928_barnstorming_tour.jpg/960px-Babe_Ruth_and_Lou_Gehrig_1928_barnstorming_tour.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lou_Gehrig_in_1923_%28cropped%29.jpg/960px-Lou_Gehrig_in_1923_%28cropped%29.jpg",
     "credit": "Unknown authorUnknown author",
     "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Babe_Ruth_and_Lou_Gehrig_1928_barnstorming_tour.jpg",
-    "alt": "Lou Gehrig",
-    "source": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Lou_Gehrig_in_1923_(cropped).jpg",
+    "alt": "Smiling man in pinstriped New York Yankees uniform and NY cap, black-and-white.",
+    "source": "checked",
     "of": "Lou Gehrig",
-    "w": 1859,
-    "h": 2015
+    "w": 2339,
+    "h": 3000,
+    "tier": "person"
    },
    "extract": "Henry Louis Gehrig was an American professional baseball first baseman who played 17 seasons in Major League Baseball (MLB) for the New York Yankees. Gehrig was renowned for his prowess as a hitter and for his durability, which earned him the nickname \"the Iron Horse\", and he is regarded as one of the greatest…",
    "page": "https://en.wikipedia.org/wiki/Lou_Gehrig"
@@ -852,15 +816,16 @@
    "key": "2b8c8a869f316d9c",
    "headline": "Satchel Paige throws two shutouts in two cities on same day",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Satchel_Paige_seated_next_to_bleachers_%282%29.jpg/960px-Satchel_Paige_seated_next_to_bleachers_%282%29.jpg",
-    "credit": "Los Angeles Times",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Satchel_Paige_seated_next_to_bleachers_(2).jpg",
-    "alt": "Satchel Paige",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/1932_Pittsburgh_Crawfords.jpg/960px-1932_Pittsburgh_Crawfords.jpg",
+    "credit": "Harrison Studio",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1932_Pittsburgh_Crawfords.jpg",
+    "alt": "Team photo of 1932 Crawfords baseball players in uniforms, outdoors.",
+    "source": "checked",
     "of": "Satchel Paige",
-    "w": 3761,
-    "h": 4864
+    "w": 2204,
+    "h": 1385,
+    "tier": "team"
    },
    "extract": "Leroy Robert \"Satchel\" Paige was an American professional baseball pitcher who played in Negro league baseball and Major League Baseball (MLB). His career spanned five decades and culminated with his induction into the National Baseball Hall of Fame.",
    "page": "https://en.wikipedia.org/wiki/Satchel_Paige"
@@ -922,7 +887,18 @@
    "about": "Doubleheader (baseball)",
    "key": "e255760cff130d4d",
    "headline": "George Mullin tosses no-hitter as Tigers beat Browns 7–0",
-   "image": null,
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/George_Mullin.jpg/960px-George_Mullin.jpg",
+    "credit": "American Tobacco Company",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:George_Mullin.jpg",
+    "alt": "Vintage tobacco-style baseball card of a pitcher in a Detroit uniform, captioned MULLEN, DETROIT.",
+    "source": "checked",
+    "of": "George Mullin (baseball)",
+    "w": 1679,
+    "h": 3000,
+    "tier": "person"
+   },
    "extract": "In the sport of baseball, a doubleheader is a set of two games played between the same two teams on the same day. Historically, doubleheaders have been played in immediate succession, in front of the same crowd. Contemporarily, the term is also used to refer to two games played between two teams in a single day in…",
    "page": "https://en.wikipedia.org/wiki/Doubleheader_(baseball)"
   },
@@ -950,11 +926,12 @@
     "credit": "unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Hooks_Wiltse.jpg",
-    "alt": "Hooks Wiltse",
-    "source": "commons",
+    "alt": "Black-and-white photo of a pitcher in striped baseball uniform, glove raised overhead, outdoors",
+    "source": "checked",
     "of": "Hooks Wiltse",
     "w": 908,
-    "h": 1377
+    "h": 1377,
+    "tier": "person"
    },
    "extract": "George Leroy \"Hooks\" Wiltse was an American professional baseball pitcher. He played 12 seasons in Major League Baseball (MLB) from 1904 to 1915. He was the younger brother of pitcher Snake Wiltse.",
    "page": "https://en.wikipedia.org/wiki/Hooks_Wiltse"
@@ -976,7 +953,18 @@
    "about": "Connie McGeehan",
    "key": "c9ecdc59eeecf491",
    "headline": "Connie McGeehan, 1903 Athletics pitcher and left fielder, dies",
-   "image": null,
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1903_Philadelphia_Athletics.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1903_Philadelphia_Athletics.jpg",
+    "alt": "Sepia team photo of a 1900s baseball club in 'A' jerseys",
+    "source": "checked",
+    "of": "1903 Philadelphia Athletics season",
+    "w": 640,
+    "h": 466,
+    "tier": "team"
+   },
    "extract": "Cornelius Bernard McGeehan was an American right-handed pitcher and left fielder who played in Major League Baseball during the 1903 season.",
    "page": "https://en.wikipedia.org/wiki/Connie_McGeehan"
   },
@@ -1000,15 +988,16 @@
    "key": "2f4293f108428d75",
    "headline": "Brown and Leifield each allow one hit in 1–0 Cubs win",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mordecai_Peter_Centennial_Brown.jpg",
-    "credit": "George Grantham Bain Collection",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mordecai_Brown_Baseball_%28cropped%29.jpg",
+    "credit": "Wikimedia Commons",
     "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Mordecai_Peter_Centennial_Brown.jpg",
-    "alt": "Mordecai Brown",
-    "source": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Mordecai_Brown_Baseball_(cropped).jpg",
+    "alt": "Man in white baseball-style jersey, vintage black-and-white photo, outdoors near stands",
+    "source": "checked",
     "of": "Mordecai Brown",
-    "w": 642,
-    "h": 1448
+    "w": 426,
+    "h": 381,
+    "tier": "person"
    },
    "extract": "Mordecai Peter Centennial Brown, nicknamed \"Three Finger Brown\" or \"Miner\", was an American Major League Baseball pitcher and manager during the first two decades of the 20th century. Due to a farm-machinery accident in his youth, Brown lost part of his right index finger. He later broke his middle finger, causing it…",
    "page": "https://en.wikipedia.org/wiki/Mordecai_Brown"
@@ -1044,15 +1033,16 @@
    "key": "ae00c48ea545f4d3",
    "headline": "Fans fire pistols to celebrate July 4 as Chicago tops Philadelphia 5–4",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/West_Side_Grounds_II%2C_Reds_vs._Cubs%2C_1908.jpg",
-    "credit": "Chicago Daily News, Inc., photographer.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/West_Side_Park_postcard%2C_1909.jpg",
+    "credit": "V.O., Hammon",
     "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:West_Side_Grounds_II,_Reds_vs._Cubs,_1908.jpg",
-    "alt": "West Side Grounds",
-    "source": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:West_Side_Park_postcard,_1909.jpg",
+    "alt": "Postcard aerial view of West Side Ball Park (Cubs), crowded stands, baseball diamond.",
+    "source": "checked",
     "of": "West Side Grounds",
-    "w": 619,
-    "h": 446
+    "w": 860,
+    "h": 562,
+    "tier": "venue"
    },
    "extract": "West Side Park was the name used for two different ballparks that formerly stood in Chicago, Illinois. They were both home fields of the team now known as the Chicago Cubs of the National League. Both ballparks hosted baseball championships. The latter of the two parks, where the franchise played for nearly a quarter…",
    "page": "https://en.wikipedia.org/wiki/West_Side_Park"
@@ -1075,15 +1065,16 @@
    "key": "66833b73db4984c4",
    "headline": "Albert Spalding has two ticket speculators arrested and jailed",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1871_Albert_Spalding_Baseball-card-Boston_Red_Stockings.jpg",
-    "credit": "Boston Red Stockings",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/AGSpalding.jpg/960px-AGSpalding.jpg",
+    "credit": "George Grantham Bain",
     "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:1871_Albert_Spalding_Baseball-card-Boston_Red_Stockings.jpg",
-    "alt": "Albert Spalding",
-    "source": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:AGSpalding.jpg",
+    "alt": "Black-and-white portrait of a middle-aged man in a suit and tie.",
+    "source": "checked",
     "of": "Albert Spalding",
-    "w": 748,
-    "h": 958
+    "w": 1000,
+    "h": 1486,
+    "tier": "person"
    },
    "extract": "Albert Goodwill Spalding was an American pitcher, manager, and executive in the early years of professional baseball, and the co-founder of the Spalding sporting goods company. He was born and raised in Byron, Illinois, and graduated from Rockford Central High School in Rockford, Illinois. He played major league…",
    "page": "https://en.wikipedia.org/wiki/Albert_Spalding"
@@ -1146,15 +1137,16 @@
    "key": "f5af3bad5c05aeb8",
    "headline": "Tim Keefe wins both games of doubleheader over Columbus Buckeyes",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tim_Keefe_0558fu.jpg/960px-Tim_Keefe_0558fu.jpg",
-    "credit": "Goodwin & Company",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Tim_Keefe_0558fu.jpg",
-    "alt": "Tim Keefe",
-    "source": "commons",
-    "of": "Tim Keefe",
-    "w": 1744,
-    "h": 2992
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/NY_Metropolitans.jpg/960px-NY_Metropolitans.jpg",
+    "credit": "The Library of Congress",
+    "license": "No restrictions",
+    "page": "https://commons.wikimedia.org/wiki/File:NY_Metropolitans.jpg",
+    "alt": "Team photo of 1882 Metropolitan baseball nine in uniform, Sarony studio cabinet card",
+    "source": "checked",
+    "of": "New York Metropolitans",
+    "w": 1024,
+    "h": 683,
+    "tier": "team"
    },
    "extract": "Timothy John Keefe, nicknamed \"Smiling Tim\" and \"Sir Timothy\", was an American professional baseball pitcher in Major League Baseball. He stood 5 feet 10 inches (1.78 m) tall and weighed 185 pounds (84 kg). He was one of the most dominating pitchers of the 19th century and posted impressive statistics in one category…",
    "page": "https://en.wikipedia.org/wiki/Tim_Keefe"
@@ -1183,11 +1175,12 @@
     "credit": "Goodwin & Company",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Mickey_Welch_baseball_card.jpg",
-    "alt": "Mickey Welch",
-    "source": "commons",
+    "alt": "Sepia baseball card of pitcher in New York uniform, 1888 Old Judge",
+    "source": "checked",
     "of": "Mickey Welch",
     "w": 1592,
-    "h": 3000
+    "h": 3000,
+    "tier": "person"
    },
    "extract": "Michael Francis Welch, nicknamed \"Smiling Mickey\", was an American professional baseball pitcher. He stood 5 feet 8 inches (1.73 m) tall and weighed 160 pounds (73 kg). He was the third pitcher to accumulate 300 career victories. Welch was born in Brooklyn, New York, and played 13 seasons in the major leagues, three…",
    "page": "https://en.wikipedia.org/wiki/Mickey_Welch"

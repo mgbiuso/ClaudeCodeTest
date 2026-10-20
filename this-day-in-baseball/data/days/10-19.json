@@ -22,15 +22,16 @@
    "key": "b30403ef5b2a89a0",
    "headline": "Blue Jays beat Royals 11–8 to get back in ALCS",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/001H0388_Ben_Zobrist.jpg/960px-001H0388_Ben_Zobrist.jpg",
-    "credit": "User Keith Allison on Flickr",
-    "license": "CC BY-SA 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:001H0388_Ben_Zobrist.jpg",
-    "alt": "Ben Zobrist",
-    "source": "commons",
-    "of": "Ben Zobrist",
-    "w": 1664,
-    "h": 2291
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Marcus_Stroman_on_September_12%2C_2015.jpg/960px-Marcus_Stroman_on_September_12%2C_2015.jpg",
+    "credit": "Arturo Pardavila III on Flickr (Original version) UCinternational",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marcus_Stroman_on_September_12,_2015.jpg",
+    "alt": "Pitcher in Blue Jays road uniform delivering pitch on mound",
+    "source": "checked",
+    "of": "Marcus Stroman",
+    "w": 1700,
+    "h": 1700,
+    "tier": "team"
    },
    "extract": "Benjamin Thomas Zobrist is an American former professional baseball second baseman and outfielder. He played in Major League Baseball (MLB) for the Tampa Bay Devil Rays/Rays, Oakland Athletics, Kansas City Royals, and Chicago Cubs. Zobrist played in three World Series and won the last two, becoming a two-time World…",
    "page": "https://en.wikipedia.org/wiki/Ben_Zobrist",
@@ -55,7 +56,18 @@
    "about": "DJ LeMahieu",
    "key": "7bf78b97ae37b661",
    "headline": "Astros beat Yankees 6–4, advance to World Series",
-   "image": null,
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Carlos_Correa_2018.jpg/960px-Carlos_Correa_2018.jpg",
+    "credit": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Correa_2018.jpg",
+    "alt": "Player in orange Astros jersey number 1 fielding a ball on the field",
+    "source": "checked",
+    "of": "2019 American League Championship Series",
+    "w": 2577,
+    "h": 3007,
+    "tier": "team"
+   },
    "extract": "David John LeMahieu is an American former professional baseball infielder who currently serves as the manager for the Royal Oak Leprechauns of the Northwoods League. He played in Major League Baseball (MLB) for the Chicago Cubs, Colorado Rockies, and New York Yankees from 2011 to 2025.",
    "page": "https://en.wikipedia.org/wiki/DJ_LeMahieu"
   },
@@ -79,15 +91,16 @@
    "key": "445a0406352a9d0b",
    "headline": "Brewers beat Dodgers 7–2 to even NL Championship Series",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Miller_Park0001.jpg/960px-Miller_Park0001.jpg",
-    "credit": "Spaluch1",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Miller_Park0001.jpg",
-    "alt": "Miller Park",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Miller_Park_in_Milwaukee%2C_Wisconsin.jpg/960px-Miller_Park_in_Milwaukee%2C_Wisconsin.jpg",
+    "credit": "Carol H. Highsmith",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Miller_Park_in_Milwaukee,_Wisconsin.jpg",
+    "alt": "Exterior of Miller Park, Milwaukee, with its retractable roof and Brewers signage",
+    "source": "checked",
     "of": "Miller Park",
-    "w": 1024,
-    "h": 682
+    "w": 2366,
+    "h": 1199,
+    "tier": "venue"
    },
    "extract": "American Family Field, known as Miller Park until 2020, is a retractable roof stadium in Milwaukee, Wisconsin. Located southwest of the intersection of Interstate 94 and Brewers Boulevard, it is the ballpark of Major League Baseball's Milwaukee Brewers. It opened in 2001 under the name Miller Park as a replacement for…",
    "page": "https://en.wikipedia.org/wiki/American_Family_Field"
@@ -112,15 +125,16 @@
    "key": "af2361d7b698cdfa",
    "headline": "Dodgers beat Cubs 11–1, reach World Series for first time in 29 years",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Enrique_Hern%C3%A1ndez_on_June_5%2C_2014.jpg/960px-Enrique_Hern%C3%A1ndez_on_June_5%2C_2014.jpg",
-    "credit": "Minda Haas on Flickr (Original version) UCinternational (Crop)",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Enrique_Hern%C3%A1ndez_on_June_5,_2014.jpg",
-    "alt": "Enrique Hernández (baseball)",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Enrique_Hern%C3%A1ndez_May_20%2C_2018_%2850120690083%29_%28cropped%29.jpg/960px-Enrique_Hern%C3%A1ndez_May_20%2C_2018_%2850120690083%29_%28cropped%29.jpg",
+    "credit": "All-Pro Reels from District of Columbia, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Enrique_Hern%C3%A1ndez_May_20,_2018_(50120690083)_(cropped).jpg",
+    "alt": "Dodgers player in gray road uniform #14 running bases, blue helmet.",
+    "source": "checked",
     "of": "Enrique Hernández (baseball)",
-    "w": 1850,
-    "h": 3000
+    "w": 1322,
+    "h": 1849,
+    "tier": "person"
    },
    "extract": "Enrique José Hernández González Jr., nicknamed Kike, is a Puerto Rican professional baseball utility player for the Los Angeles Dodgers of Major League Baseball (MLB). He has previously played in MLB for the Houston Astros, Miami Marlins, and Boston Red Sox.",
    "page": "https://en.wikipedia.org/wiki/Enrique_Hern%C3%A1ndez_(baseball)"
@@ -172,11 +186,12 @@
     "credit": "Keith Allison on Flickr",
     "license": "CC BY-SA 2.0",
     "page": "https://commons.wikimedia.org/wiki/File:Shane_Victorino_on_July_28,_2013.jpg",
-    "alt": "Shane Victorino",
-    "source": "commons",
+    "alt": "Bald bearded player in gray Boston road uniform, #18, mid-game",
+    "source": "checked",
     "of": "Shane Victorino",
     "w": 3974,
-    "h": 3213
+    "h": 3213,
+    "tier": "person"
    },
    "extract": "Shane Patrick Victorino, nicknamed \"the Flyin' Hawaiian\", is an American former professional baseball outfielder. He played in Major League Baseball (MLB) for the San Diego Padres, Philadelphia Phillies, Los Angeles Dodgers, Boston Red Sox, and Los Angeles Angels of Anaheim. He was primarily a switch-hitter until the…",
    "page": "https://en.wikipedia.org/wiki/Shane_Victorino"
@@ -201,15 +216,16 @@
    "key": "78e189e965ae57d2",
    "headline": "Chris Carpenter wins Game 1, passes Bob Gibson in postseason",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bob_Gibson_crop.JPG/960px-Bob_Gibson_crop.JPG",
-    "credit": "Monowi",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/World_Series_20011_Game_7_Carpenter_Relieved.jpg/960px-World_Series_20011_Game_7_Carpenter_Relieved.jpg",
+    "credit": "Jleybov",
     "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bob_Gibson_crop.JPG",
-    "alt": "Bob Gibson",
-    "source": "commons",
-    "of": "Bob Gibson",
-    "w": 1077,
-    "h": 1377
+    "page": "https://commons.wikimedia.org/wiki/File:World_Series_20011_Game_7_Carpenter_Relieved.jpg",
+    "alt": "Red-clad Cardinals infielders gathered at mound during World Series game, stadium crowd, World Series logo.",
+    "source": "checked",
+    "of": "Chris Carpenter",
+    "w": 3264,
+    "h": 2448,
+    "tier": "event"
    },
    "extract": "Pack Robert Gibson Jr., nicknamed \"Gibby\" and \"Hoot\", was an American professional baseball pitcher in Major League Baseball (MLB) who played his entire career for the St. Louis Cardinals from 1959 to 1975. Known for his fiercely competitive nature, Gibson tallied 251 wins, 3,117 strikeouts, and a 2.91 earned run…",
    "page": "https://en.wikipedia.org/wiki/Bob_Gibson"
@@ -255,15 +271,16 @@
    "key": "903a992ce10c6095",
    "headline": "Cardinals beat Mets 4-3, win pennant, face Tigers",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Yadier_Molina_%2851004965737%29.jpg",
-    "credit": "Jeffrey Hayes",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Yadier_Molina_(51004965737).jpg",
-    "alt": "Yadier Molina",
-    "source": "commons",
-    "of": "Yadier Molina",
-    "w": 960,
-    "h": 1280
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Albert_Pujols_in_2009_%283854091492%29_%28cropped%29.jpg",
+    "credit": "Barbara moore",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Albert_Pujols_in_2009_(3854091492)_(cropped).jpg",
+    "alt": "Cardinals player in red-and-white home uniform #5, red cap, red wristband, stadium crowd behind",
+    "source": "checked",
+    "of": "St. Louis Cardinals",
+    "w": 431,
+    "h": 643,
+    "tier": "venue"
    },
    "extract": "Yadier Benjamín Molina is a Puerto Rican professional baseball manager, adviser, and former catcher who is the manager of Navegantes del Magallanes of the Venezuelan Professional Baseball League (LVBP) and a special assistant to the president of baseball operations for the St. Louis Cardinals of Major League Baseball…",
    "page": "https://en.wikipedia.org/wiki/Yadier_Molina"
@@ -287,7 +304,18 @@
    "about": "2005 World Series",
    "key": "7a6534a1a668f81c",
    "headline": "Astros beat Cardinals 5-1, reach first World Series",
-   "image": null,
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Astrodome_1965.jpeg/960px-Astrodome_1965.jpeg",
+    "credit": "Ted Rozumalski",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Astrodome_1965.jpeg",
+    "alt": "Astrodome exterior at night with parked 1960s cars, black-and-white photo",
+    "source": "checked",
+    "of": "Houston Astros",
+    "w": 1926,
+    "h": 951,
+    "tier": "venue"
+   },
    "extract": "The 2005 World Series was the championship series of Major League Baseball's (MLB) 2005 season. The 101st edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Chicago White Sox and the National League (NL) champion Houston Astros. The White Sox swept the Astros in four…",
    "page": "https://en.wikipedia.org/wiki/2005_World_Series"
   },
@@ -306,17 +334,7 @@
    "about": "Atley Donald",
    "key": "b46d7592ca128509",
    "headline": "Atley Donald, 82, Yankees pitcher and three-time champion, dies",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Atley_Donald_1940_Play_Ball_card.jpeg",
-    "credit": "Play Ball cards, published by Bowman Gum",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Atley_Donald_1940_Play_Ball_card.jpeg",
-    "alt": "Atley Donald",
-    "source": "commons",
-    "of": "Atley Donald",
-    "w": 275,
-    "h": 318
-   },
+   "image": null,
    "extract": "Richard Atley Donald was an American Major League Baseball pitcher. A native of Morton, Mississippi, the right-hander played for the New York Yankees from 1938 to 1945. \"Swampy\", as he was nicknamed, stood 6 ft 1 in (1.85 m) and weighed 186 lbs.",
    "page": "https://en.wikipedia.org/wiki/Atley_Donald"
   },
@@ -363,15 +381,16 @@
    "key": "237d352d0b27fcfd",
    "headline": "Lonnie Smith plays in World Series against Cardinals, who traded him",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/President_Reagan_Receives_a_Royals_Jacket%2C_Hat_and_Bat_from_Manager_Dick_Howser_during_a_Ceremony_to_Congratulate_the_1985_World_Series_Champion_Kansas_City_Royals_Baseball_Team_in_-_DPLA_-_67dec5ada4bb1b116636430e930469ee.jpg/960px-President_Reagan_Receives_a_Royals_Jacket%2C_Hat_and_Bat_from_Manager_Dick_Howser_during_a_Ceremony_to_Congratulate_the_1985_World_Series_Champion_Kansas_City_Royals_Baseball_Team_in_-_DPLA_-_67dec5ada4bb1b116636430e930469ee.jpg",
-    "credit": "President (1981-1989 : Reagan). White House Photographic Office.",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:President_Reagan_Receives_a_Royals_Jacket,_Hat_and_Bat_from_Manager_Dick_Howser_during_a_Ceremony_to_Congratulate_the_1985_World_Series_Champion_Kansas_City_Royals_Baseball_Team_in_-_DPLA_-_67dec5ada4bb1b116636430e930469ee.jpg",
-    "alt": "1985 World Series",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/World_Series_Trophy_%2848266104832%29.jpg/960px-World_Series_Trophy_%2848266104832%29.jpg",
+    "credit": "Erik Drost",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:World_Series_Trophy_(48266104832).jpg",
+    "alt": "World Series championship trophy with gold pennants and 'Presented by the Commissioner' plate",
+    "source": "checked",
     "of": "1985 World Series",
-    "w": 3150,
-    "h": 2077
+    "w": 4032,
+    "h": 6048,
+    "tier": "event"
    },
    "extract": "The 1985 World Series was the championship series of Major League Baseball's (MLB) 1985 season. The 82nd edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Kansas City Royals and the National League (NL) champion St. Louis Cardinals. The Royals upset the…",
    "page": "https://en.wikipedia.org/wiki/1985_World_Series"
@@ -396,15 +415,16 @@
    "key": "fce0ace07178da6c",
    "headline": "Phillies release Pete Rose, 42, after World Series defeat",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Pete_Rose_1972.jpg",
-    "credit": "Cincinnati Reds",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pete_Rose_%28cropped%29.jpg",
+    "credit": "Unknown authorUnknown author",
     "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Pete_Rose_1972.jpg",
-    "alt": "Pete Rose",
-    "source": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Pete_Rose_(cropped).jpg",
+    "alt": "Black-and-white portrait of a young man in pinstriped Reds uniform and cap",
+    "source": "checked",
     "of": "Pete Rose",
-    "w": 370,
-    "h": 450
+    "w": 750,
+    "h": 996,
+    "tier": "person"
    },
    "extract": "Peter Edward Rose Sr., nicknamed \"Charlie Hustle\", was an American professional baseball player and manager. He played in Major League Baseball (MLB) from 1963 to 1986, most prominently as a member of the Cincinnati Reds lineup known as the Big Red Machine for their dominance of the National League in the 1970s. He…",
    "page": "https://en.wikipedia.org/wiki/Pete_Rose"
@@ -428,17 +448,7 @@
    "about": "Don Stanhouse",
    "key": "3578c0ff137fcbeb",
    "headline": "Orioles release pitchers Ross Grimsley, 32, and Don Stanhouse, 31",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Don_Stanhouse_Dodgers.jpg",
-    "credit": "Los Angeles Dodgers",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Don_Stanhouse_Dodgers.jpg",
-    "alt": "Don Stanhouse",
-    "source": "commons",
-    "of": "Don Stanhouse",
-    "w": 216,
-    "h": 289
-   },
+   "image": null,
    "extract": "Donald Joseph Stanhouse is an American former professional baseball pitcher who had an eight-year Major League Baseball (MLB) career (1972–1980) with a brief comeback in 1982. He pitched for the Texas Rangers and Baltimore Orioles of the American League and the Montreal Expos and Los Angeles Dodgers of the National…",
    "page": "https://en.wikipedia.org/wiki/Don_Stanhouse"
   },
@@ -484,17 +494,7 @@
    "about": "Don Kessinger",
    "key": "5e64411c34b7e919",
    "headline": "White Sox name Don Kessinger, 36, player-manager, replacing Larry Doby",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Don_Kessinger_1973.jpg",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Don_Kessinger_1973.jpg",
-    "alt": "Don Kessinger",
-    "source": "commons",
-    "of": "Don Kessinger",
-    "w": 303,
-    "h": 422
-   },
+   "image": null,
    "extract": "Donald Eulon Kessinger is an American former professional baseball player and manager. He played in Major League Baseball as a shortstop from 1964 to 1979, most prominently as a member of the Chicago Cubs, where he was a six-time All-Star and two-time Gold Glove Award winner. He ended his career playing for the St.…",
    "page": "https://en.wikipedia.org/wiki/Don_Kessinger"
   },
@@ -517,17 +517,7 @@
    "about": "Danny Murtaugh",
    "key": "ef02e83d02ab0513",
    "headline": "Harry Walker named Pittsburgh Pirates manager, succeeding Danny Murtaugh",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Danny_Murtaugh_1949_Bowman.jpg",
-    "credit": "Bowman Gum",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Danny_Murtaugh_1949_Bowman.jpg",
-    "alt": "Danny Murtaugh",
-    "source": "commons",
-    "of": "Danny Murtaugh",
-    "w": 202,
-    "h": 247
-   },
+   "image": null,
    "extract": "Daniel Edward Murtaugh was an American second baseman, manager, front-office executive, and coach in Major League Baseball (MLB). He played from 1941 to 1951 as a second baseman, with 416 of his 767 career MLB games coming with the Pirates. Murtaugh is best known for his 29-year association with the Pittsburgh…",
    "page": "https://en.wikipedia.org/wiki/Danny_Murtaugh"
   },
@@ -550,17 +540,7 @@
    "about": "Jim Gentile",
    "key": "6f9b183c1cd1f438",
    "headline": "Orioles acquire Jim Gentile, 25, from Dodgers for $50,000 and two players",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Jim_Gentile_1963.jpg",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Jim_Gentile_1963.jpg",
-    "alt": "Jim Gentile",
-    "source": "commons",
-    "of": "Jim Gentile",
-    "w": 313,
-    "h": 384
-   },
+   "image": null,
    "extract": "James Edward Gentile, also nicknamed \"Diamond Jim\", is an American former professional baseball first baseman. He played in Major League Baseball (MLB) for the Brooklyn / Los Angeles Dodgers, Baltimore Orioles, Kansas City Athletics, Houston Astros, and Cleveland Indians between 1957 and 1966. He was an All-Star from…",
    "page": "https://en.wikipedia.org/wiki/Jim_Gentile"
   },
@@ -606,17 +586,7 @@
    "about": "Dave Davenport",
    "key": "6d3fb970115ae8af",
    "headline": "Dave Davenport, 64, Reds and Browns pitcher, dies",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Dave_Davenport.jpg",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Dave_Davenport.jpg",
-    "alt": "Dave Davenport",
-    "source": "commons",
-    "of": "Dave Davenport",
-    "w": 360,
-    "h": 540
-   },
+   "image": null,
    "extract": "David W. Davenport, was a professional baseball player who played pitcher in the Major Leagues from 1914 to 1919. Davenport went on to play for the Cincinnati Reds, St. Louis Terriers, and the St. Louis Browns. He led the Federal League in strikeouts in 1915 while playing for the St. Louis Terriers. Davenport's Major…",
    "page": "https://en.wikipedia.org/wiki/Dave_Davenport"
   },
@@ -640,15 +610,16 @@
    "key": "d1ac76ebac9abd43",
    "headline": "Hugh Duffy, 87, Hall of Fame center fielder who hit .438 in 1894, dies",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hugh_Duffy_portrait.jpg",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Hugh_Duffy_portrait.jpg",
-    "alt": "Hugh Duffy",
-    "source": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hugh_Duffy_HOF_plaque.jpg/960px-Hugh_Duffy_HOF_plaque.jpg",
+    "credit": "Penale52",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hugh_Duffy_HOF_plaque.jpg",
+    "alt": "Bronze Hall of Fame plaque of Hugh Duffy with name and text.",
+    "source": "checked",
     "of": "Hugh Duffy",
-    "w": 303,
-    "h": 547
+    "w": 1495,
+    "h": 1944,
+    "tier": "person"
    },
    "extract": "Hugh Duffy was an American professional baseball outfielder and manager. He was a player or player-manager for the Chicago White Stockings, Chicago Pirates, Boston Reds, Boston Beaneaters, Milwaukee Brewers and Philadelphia Phillies between 1888 and 1906. He had his best years with the Beaneaters, including the 1894…",
    "page": "https://en.wikipedia.org/wiki/Hugh_Duffy"
@@ -671,15 +642,16 @@
    "key": "df718ab055a8a151",
    "headline": "The Baseball Writers' Association of America MVP awards",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Chuck_Klein_1936_Goudey.jpg",
-    "credit": "Goudey Gum",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JimmyFoxxGoudeycard.jpg/960px-JimmyFoxxGoudeycard.jpg",
+    "credit": "Goudey",
     "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Chuck_Klein_1936_Goudey.jpg",
-    "alt": "Chuck Klein",
-    "source": "commons",
-    "of": "Chuck Klein",
-    "w": 288,
-    "h": 356
+    "page": "https://commons.wikimedia.org/wiki/File:JimmyFoxxGoudeycard.jpg",
+    "alt": "Painted baseball card of a batter in white uniform, labeled JIMMY FOXX",
+    "source": "checked",
+    "of": "Jimmie Foxx",
+    "w": 1315,
+    "h": 1609,
+    "tier": "person"
    },
    "extract": "Charles Herbert Klein, nicknamed \"the Hoosier Hammer\" because of his Indiana roots, was an American professional baseball outfielder. Klein played in Major League Baseball (MLB) for the Philadelphia Phillies, Chicago Cubs (1934–1936), and Pittsburgh Pirates (1939).",
    "page": "https://en.wikipedia.org/wiki/Chuck_Klein"
@@ -703,7 +675,18 @@
    "about": "Ed Delahanty",
    "key": "b00f89c028a516f0",
    "headline": "Ed Delahanty and three others jump from Phillies to Senators",
-   "image": null,
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Happy_Townsend.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Happy_Townsend.jpg",
+    "alt": "Man in knit turtleneck sweater and flat cap, arms crossed, outdoors by a stadium",
+    "source": "checked",
+    "of": "Happy Townsend",
+    "w": 448,
+    "h": 618,
+    "tier": "person"
+   },
    "extract": "Edward James Delahanty, nicknamed \"Big Ed\", was an American professional baseball player, who spent his Major League Baseball (MLB) playing career with the Philadelphia Quakers, Cleveland Infants, Philadelphia Phillies, and Washington Senators. He was renowned as one of the game's early power hitters, and while…",
    "page": "https://en.wikipedia.org/wiki/Ed_Delahanty"
   },
@@ -727,17 +710,7 @@
    "about": "Bob Caruthers",
    "key": "c390bd21e8bc321b",
    "headline": "Browns rout White Stockings 12-0 as Bob Caruthers pitches one-hitter",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bob_Caruthers_0560fu.jpg/960px-Bob_Caruthers_0560fu.jpg",
-    "credit": "Goodwin & Company",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Bob_Caruthers_0560fu.jpg",
-    "alt": "Bob Caruthers",
-    "source": "commons",
-    "of": "Bob Caruthers",
-    "w": 1400,
-    "h": 2500
-   },
+   "image": null,
    "extract": "Robert Lee Caruthers, nicknamed \"Parisian Bob\", was an American right-handed pitcher and right fielder in Major League Baseball who played primarily for the St. Louis Browns and Brooklyn Bridegrooms. The star pitcher on five league champions in a ten-year career, he was the top pitcher in the American Association,…",
    "page": "https://en.wikipedia.org/wiki/Bob_Caruthers"
   }
