@@ -56,31 +56,7 @@ monthSel.addEventListener("change", () => { fillDays(+monthSel.value, +daySel.va
 daySel.addEventListener("change", () => go({ month: +monthSel.value, day: +daySel.value }));
 $("today").addEventListener("click", () => { const n = new Date(); go({ month: n.getMonth() + 1, day: n.getDate() }); });
 
-// ---------- rendering ----------
-
-function mediaFor(story, accent) {
-  const fig = el("figure", "media");
-  const img = story.image;
-  if (img) {
-    const pic = el("img", "photo");
-    pic.src = img.url;
-    pic.alt = img.alt || story.about || "";
-    pic.loading = "lazy";
-    pic.decoding = "async";
-    pic.addEventListener("error", () => pic.replaceWith(plateFor(story, accent)));
-    fig.append(pic);
-    const cap = el("figcaption");
-    cap.append(`${img.of || story.about || ""}. Photo: ${img.credit} (`);
-    const link = el("a", "", img.license);
-    link.href = img.page;
-    link.rel = "noopener noreferrer";
-    cap.append(link, ")");
-    fig.append(cap);
-  } else {
-    fig.append(plateFor(story, accent));
-  }
-  return fig;
-}
+// ---------- pieces of a story ----------
 
 function plateFor(story, accent) {
   const plate = el("div", "plate");
@@ -92,14 +68,38 @@ function plateFor(story, accent) {
   return plate;
 }
 
-function textFor(story, long) {
+function figureFor(story, accent) {
+  const fig = el("figure", "media");
+  const img = story.image;
+  const pic = el("img", "photo");
+  pic.src = img.url;
+  pic.alt = img.alt || story.about || "";
+  pic.loading = "lazy";
+  pic.decoding = "async";
+  pic.addEventListener("error", () => { fig.replaceChildren(plateFor(story, accent)); });
+  fig.append(pic);
+  const cap = el("figcaption");
+  cap.append(`${img.of || story.about || ""}. Photo: ${img.credit} (`);
+  const link = el("a", "", img.license);
+  link.href = img.page;
+  link.rel = "noopener noreferrer";
+  cap.append(link, ")");
+  fig.append(cap);
+  return fig;
+}
+
+function kickerFor(story, tag) {
+  const k = el("div", "kicker");
+  k.append(el("span", "yr", story.year), el("span", "tag", tag));
+  return k;
+}
+
+function bodyFor(story, { background }) {
   const body = el("div", "body");
-  const text = el("div", long ? "text-cols copy-text" : "copy-text");
-  text.append(el("p", "", story.text));
-  if (story.extract && !story.text.includes(story.extract.slice(0, 40)) && story.kind !== "death") {
-    text.append(el("p", "bg", story.extract));
+  body.append(el("p", "", story.text));
+  if (background && story.extract && story.kind !== "death" && !story.text.includes(story.extract.slice(0, 40))) {
+    body.append(el("p", "bg", story.extract));
   }
-  body.append(text);
   if (story.page) {
     const more = el("p", "more");
     const a = el("a", "", "Read more on Wikipedia");
@@ -111,66 +111,87 @@ function textFor(story, long) {
   return body;
 }
 
-function storyNode(story, layout, index) {
-  const accent = ACCENTS[index % ACCENTS.length];
-  const node = el("article", `story ${layout}${story.kind === "death" ? " death" : ""}`);
+function card(story, { tag, accent, background, cls }) {
+  const node = el("article", `story ${cls || ""}${story.kind === "death" ? " death" : ""}`);
   node.style.setProperty("--accent", accent);
-
   const head = el("div", "head");
-  const kicker = el("span", "kicker");
-  kicker.append(el("span", "yr", story.year));
-  kicker.append(el("span", "", layout === "lead" ? "Top story" : story.kind === "death" ? "In memoriam" : "On this date"));
-  head.append(kicker, el("h3", "headline", story.headline || story.text));
-
-  const text = textFor(story, layout === "wide");
-  const media = mediaFor(story, accent);
-
-  if (layout === "lead") {
-    const left = el("div", "lead-media");
-    left.append(media);
-    const right = el("div", "lead-text");
-    right.append(head, text);
-    node.append(left, right);
-  } else if (layout === "wide") {
-    node.append(head, media, text);
-  } else {
-    const copy = el("div", "copy");
-    copy.append(head, text);
-    node.append(media, copy);
-  }
+  head.append(kickerFor(story, tag), el("h3", "headline", story.headline || story.text));
+  node.append(head);
+  if (story.image) node.append(figureFor(story, accent));
+  node.append(bodyFor(story, { background }));
   return node;
 }
+
+function brief(story, accent) {
+  const li = el("li");
+  li.style.setProperty("--accent", accent);
+  li.append(el("span", "yr", story.year), `${story.text} `);
+  if (story.page) {
+    const a = el("a", "more", "More");
+    a.href = story.page;
+    a.rel = "noopener noreferrer";
+    li.append(a);
+  }
+  return li;
+}
+
+// ---------- page ----------
 
 function render(data, when) {
   const wrap = $("stories");
   wrap.replaceChildren();
   const stories = data.stories || [];
+
   const head = el("div", "date-head");
-  head.append(el("h2", "", `${MONTHS[when.month - 1]} ${when.day}`));
+  head.append(el("div", "when", `${MONTHS[when.month - 1]} ${when.day}`));
   const years = stories.map((s) => +s.year).filter(Boolean);
-  const range = years.length ? `${stories.length} stories from ${Math.min(...years)} to ${Math.max(...years)}` : "";
-  head.append(el("p", "", range));
+  head.append(el("div", "count", years.length ? `${stories.length} stories · ${Math.min(...years)} to ${Math.max(...years)}` : ""));
   wrap.append(head);
+  if (!stories.length) return;
 
-  const rest = stories.slice(1);
-  if (stories[0]) wrap.append(storyNode(stories[0], "lead", 0));
+  // Tiers: the lead, then photo stories (side column first, then the grid), obituaries, then text-only briefs.
+  const [lead, ...rest] = stories;
+  const deaths = rest.filter((s) => s.kind === "death");
+  const living = rest.filter((s) => s.kind !== "death");
+  const photo = living.filter((s) => s.image);
+  const text = living.filter((s) => !s.image);
+  const sideStories = photo.slice(0, 2);
+  const gridStories = photo.slice(2);
+  let n = 0;
+  const nextAccent = () => ACCENTS[n++ % ACCENTS.length];
 
-  // rhythm: wide, split, split (flipped), then a pair of two stories
-  const rhythm = ["wide", "split", "split flip", "pair"];
-  let i = 0, r = 0, n = 1;
-  while (i < rest.length) {
-    const kind = rhythm[r % rhythm.length];
-    r++;
-    if (kind === "pair") {
-      if (i + 1 >= rest.length) { wrap.append(storyNode(rest[i], "split", n++)); i++; continue; }
-      const pair = el("div", "pair");
-      pair.append(storyNode(rest[i], "pair-item", n++), storyNode(rest[i + 1], "pair-item", n++));
-      wrap.append(pair);
-      i += 2;
-    } else {
-      wrap.append(storyNode(rest[i], kind, n++));
-      i++;
-    }
+  const top = el("section", sideStories.length ? "top" : "top no-side");
+  const leadNode = card(lead, { tag: "Top story", accent: nextAccent(), background: true, cls: `lead${lead.image ? " has-photo" : ""}` });
+  top.append(leadNode);
+  if (sideStories.length) {
+    const side = el("aside", "side");
+    sideStories.forEach((s) => side.append(card(s, { tag: "On this date", accent: nextAccent(), background: true })));
+    top.append(side);
+  }
+  wrap.append(top);
+
+  if (gridStories.length) {
+    const grid = el("section", "std-grid");
+    gridStories.forEach((s) => grid.append(card(s, { tag: "On this date", accent: nextAccent(), background: false })));
+    wrap.append(grid);
+  }
+
+  if (deaths.length) {
+    const box = el("section", "memoriam");
+    box.append(el("h2", "reverse-head", "In memoriam"));
+    const grid = el("div", "memoriam-grid");
+    deaths.forEach((s) => grid.append(card(s, { tag: "Remembered", accent: nextAccent(), background: false })));
+    box.append(grid);
+    wrap.append(box);
+  }
+
+  if (text.length) {
+    const box = el("section", "briefs");
+    box.append(el("h2", "reverse-head", "In brief"));
+    const list = el("ul", "briefs-list");
+    text.forEach((s) => list.append(brief(s, nextAccent())));
+    box.append(list);
+    wrap.append(box);
   }
 }
 

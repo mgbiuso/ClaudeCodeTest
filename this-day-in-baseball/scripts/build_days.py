@@ -297,17 +297,27 @@ def dedupe_articles(rows):
     return [r for r in rows if r["src"] != "article"] + kept
 
 
-def headline(text, limit=84):
-    """Short headline: cut at a semicolon or a comma between 35 and the limit, else at a word boundary."""
+DANGLING = re.compile(r"\s+(a|an|the|of|to|in|on|at|is|are|was|were|and|or|with|by|for|from|his|her|their|its|as|that|who|which|after|over|into)$", re.I)
+
+
+def headline(text, limit=70):
+    """Fallback headline: whole clause, no ellipsis. Cut at ';', then at the last ', ' or ' and/but/as/after' under the limit,
+    else at the last word. The AI headlines (write_headlines.py) replace these when available."""
     t = re.sub(r"^On [A-Z][a-z]+ \d{1,2}, \d{4},? ", "", text.strip(" ."))
     t = t[:1].upper() + t[1:]
-    first = t.split(";")[0]
+    first = t.split(";")[0].strip(" .,")
+    def tidy(h):
+        h = h.strip(" .,;:")
+        while DANGLING.search(h):
+            h = DANGLING.sub("", h).strip(" .,;:")
+        return h
     if len(first) <= limit:
-        return first.strip(" .")
-    m = re.search(r",", first[35:limit])
-    if m:
-        return first[:35 + m.start()].strip(" .")
-    return first[:limit].rsplit(" ", 1)[0].rstrip(",;:") + "…"
+        return tidy(first)
+    window = first[:limit]
+    cuts = [m.start() for m in re.finditer(r", | and | but | as | after | while | with ", window) if m.start() >= 30]
+    if cuts:
+        return tidy(window[:cuts[-1]])
+    return tidy(window.rsplit(" ", 1)[0])
 
 
 def dedupe_by_subject(rows):
