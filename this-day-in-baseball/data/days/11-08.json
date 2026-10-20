@@ -1,0 +1,647 @@
+{
+ "month": 11,
+ "day": 8,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1996",
+   "text": "Bruce Bochy who led the San Diego Padres to their first post season appearance since the 1984 World Series was named National League Manager of the year, just edging out the Montreal Expos' Felipe Alou and the St. Louis Cardinals' Tony LaRussa for the honor.",
+   "links": [
+    "1984 World Series",
+    "Felipe Alou",
+    "Tony LaRussa"
+   ],
+   "score": 92.30292265680433,
+   "abouts": [
+    "1984 World Series",
+    "Felipe Alou",
+    "Tony LaRussa"
+   ],
+   "about": "1984 World Series",
+   "key": "1528b4b9648ffa66",
+   "headline": "Bruce Bochy named National League Manager of the Year for Padres",
+   "image": null,
+   "extract": "The 1984 World Series was the championship series of Major League Baseball's (MLB) 1984 season. The 81st edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Detroit Tigers and the National League (NL) champion San Diego Padres. The Tigers defeated the Padres in…",
+   "page": "https://en.wikipedia.org/wiki/1984_World_Series",
+   "lead": true
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2023",
+   "text": "Following the Rogers Communications acquisition of Shaw Communications, the Winnipeg Goldeyes announced a new 10-year naming rights partnership with Manitoba Blue Cross on November 8, 2023, with the ballpark being renamed Blue Cross Park.",
+   "links": [
+    "Blue Cross Park"
+   ],
+   "about": "Blue Cross Park",
+   "score": 40.8395390500074,
+   "abouts": [
+    "Blue Cross Park"
+   ],
+   "key": "40c80f69a3934501",
+   "headline": "Winnipeg Goldeyes rename ballpark Blue Cross Park in 10-year deal",
+   "image": null,
+   "extract": "Blue Cross Park is a baseball stadium in Winnipeg, Manitoba, Canada. It is located adjacent to The Forks, near the city's downtown, and is home to the Winnipeg Goldeyes of the American Association.",
+   "page": "https://en.wikipedia.org/wiki/Blue_Cross_Park"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2021",
+   "text": "On November 8, 2021, the Dodgers announced the \"2021 Dodger Holiday Festival\" event.",
+   "links": [
+    "Dodger Stadium"
+   ],
+   "about": "Dodger Stadium",
+   "score": 33.326262832517415,
+   "abouts": [
+    "Dodger Stadium"
+   ],
+   "key": "90e05dfeef141230",
+   "headline": "Dodgers announce 2021 Dodger Holiday Festival event",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dodger_Stadium%2C_Los_Angeles%2C_California_%282483470368%29.jpg/960px-Dodger_Stadium%2C_Los_Angeles%2C_California_%282483470368%29.jpg",
+    "credit": "Ken Lund from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dodger_Stadium,_Los_Angeles,_California_(2483470368).jpg",
+    "alt": "Aerial view of an empty baseball diamond and stands at a stadium",
+    "source": "checked",
+    "of": "Dodger Stadium",
+    "w": 1145,
+    "h": 763,
+    "tier": "venue"
+   },
+   "extract": "Dodger Stadium is a ballpark in the Elysian Park neighborhood of Los Angeles, California, United States. It is the home of the Los Angeles Dodgers of Major League Baseball (MLB). Opened in 1962, it was constructed in less than three years at a cost of US$23 million. It is the oldest ballpark in MLB west of the…",
+   "page": "https://en.wikipedia.org/wiki/Dodger_Stadium"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2017",
+   "text": "LeVangie replaced Carl Willis as Boston pitching coach on November 8, 2017, on the staff of new manager Alex Cora.",
+   "links": [
+    "Dana LeVangie"
+   ],
+   "about": "Dana LeVangie",
+   "score": 34.7078962197329,
+   "abouts": [
+    "Dana LeVangie"
+   ],
+   "key": "d2737246068768d5",
+   "headline": "LeVangie replaces Carl Willis as Boston pitching coach",
+   "image": null,
+   "extract": "Dana Alan LeVangie is an American professional baseball scout and coach, who was the pitching coach for the Boston Red Sox of Major League Baseball (MLB) in 2018 and 2019. Formerly a scout and minor league catcher, as an active player he both batted and threw right-handed and was listed at 5 feet 10 inches (1.78 m)…",
+   "page": "https://en.wikipedia.org/wiki/Dana_LeVangie"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2010",
+   "text": "In the wake of Morgan taking an official role with the Cincinnati Reds as a \"special adviser to baseball operations\", it was announced on November 8, 2010, that Morgan would not be returning for the 2011 season as an announcer on ESPN Sunday Night Baseball.",
+   "links": [
+    "Joe Morgan"
+   ],
+   "about": "Joe Morgan",
+   "score": 10.0,
+   "abouts": [
+    "Joe Morgan"
+   ],
+   "key": "9590cbed7e524ff9",
+   "headline": "Morgan leaves ESPN booth for Reds adviser role",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Joe_Morgan_Reds_1972.jpg",
+    "credit": "Cincinnati Reds",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Morgan_Reds_1972.jpg",
+    "alt": "Smiling man in red Cincinnati 'C' cap and red-trimmed jersey",
+    "source": "checked",
+    "of": "Joe Morgan",
+    "w": 564,
+    "h": 743,
+    "tier": "person"
+   },
+   "extract": "Joe Leonard Morgan was an American professional baseball second baseman who played 22 seasons in Major League Baseball (MLB) for the Houston Colt .45s / Astros, Cincinnati Reds, San Francisco Giants, Philadelphia Phillies, and Oakland Athletics from 1963 to 1984. He won two World Series championships with the Reds in…",
+   "page": "https://en.wikipedia.org/wiki/Joe_Morgan"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1990",
+   "text": "After 8 up and down years with The New York Mets, Darryl Strawberry signs a 5-year contract with The Los Angeles Dodgers.",
+   "links": [
+    "Darryl Strawberry"
+   ],
+   "score": 33.392318736836856,
+   "abouts": [
+    "Darryl Strawberry"
+   ],
+   "about": "Darryl Strawberry",
+   "key": "f566c585ca323d7c",
+   "headline": "Darryl Strawberry signs five-year deal with Dodgers",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Darryl_Strawberry_2008-09-28.jpg",
+    "credit": "slgckgc",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Darryl_Strawberry_2008-09-28.jpg",
+    "alt": "Man in white pinstriped Mets-style jersey, hands clasped, on infield dirt.",
+    "source": "checked",
+    "of": "Darryl Strawberry",
+    "w": 598,
+    "h": 929,
+    "tier": "person"
+   },
+   "extract": "Darryl Eugene Strawberry Sr. is an American former professional baseball right fielder who played 17 seasons in Major League Baseball (MLB). Throughout his career, Strawberry was one of the most feared sluggers in the sport, known for his prodigious home runs and his intimidating presence in the batter's box with his…",
+   "page": "https://en.wikipedia.org/wiki/Darryl_Strawberry"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1988",
+   "text": "The National Baseball Hall of Fame and Museum announces the inauguration of Women in Baseball, a permanent display to honor the entire All-American Girls Professional Baseball League rather than any individual figure. The AAGPBL began play in 1943 and lasted a dozen years, giving more than 500 women an opportunity that had never existed before.",
+   "links": [
+    "National Baseball Hall of Fame and Museum",
+    "All-American Girls Professional Baseball League"
+   ],
+   "score": 72.15005259815297,
+   "abouts": [
+    "All-American Girls Professional Baseball League",
+    "National Baseball Hall of Fame and Museum"
+   ],
+   "about": "All-American Girls Professional Baseball League",
+   "key": "0f1e36d7adb86c55",
+   "headline": "Hall of Fame honors All-American Girls league with display",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/All_American_Girls_Professional_Baseball_League_members_performing_calisthenics.jpg",
+    "credit": "Florida Memory",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:All_American_Girls_Professional_Baseball_League_members_performing_calisthenics.jpg",
+    "alt": "Rows of uniformed women in skirted baseball outfits, posing on a field",
+    "source": "checked",
+    "of": "All-American Girls Professional Baseball League",
+    "w": 600,
+    "h": 441,
+    "tier": "event"
+   },
+   "extract": "The All-American Girls Professional Baseball League (AAGPBL) was a professional women's baseball league founded by Philip K. Wrigley, which existed from 1943 to 1954. The AAGPBL is the forerunner of women's professional league sports in the United States. Over 600 women played in the league, which eventually consisted…",
+   "page": "https://en.wikipedia.org/wiki/All-American_Girls_Professional_Baseball_League"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1987",
+   "text": "Korakuen Stadium closed on November 8, 1987, and demolition began the next day, which was completed in February 1988.",
+   "links": [
+    "Korakuen Stadium"
+   ],
+   "about": "Korakuen Stadium",
+   "score": 25.0,
+   "abouts": [
+    "Korakuen Stadium"
+   ],
+   "key": "fdbf6704bd4eeccc",
+   "headline": "Korakuen Stadium closes, demolition begins the next day",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Korakuen_1984.png",
+    "credit": "Wikimedia Commons",
+    "license": "Attribution",
+    "page": "https://commons.wikimedia.org/wiki/File:Korakuen_1984.png",
+    "alt": "Aerial view of a baseball stadium with green field and stands",
+    "source": "checked",
+    "of": "Korakuen Stadium",
+    "w": 500,
+    "h": 500,
+    "tier": "venue"
+   },
+   "extract": "Korakuen Stadium was a stadium in Tokyo, Japan. Completed in 1937, it was originally used for baseball, and was home to the Yomiuri Giants for nearly fifty years. For various periods of time, it was also the home stadium of six other professional Japanese baseball teams, including the Mainichi Orions, the Kokutetsu…",
+   "page": "https://en.wikipedia.org/wiki/Korakuen_Stadium"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1984",
+   "text": "The ranks of players granted free agency swells by 54 names today—and some of them are the biggest in baseball: future Hall of Famers Dennis Eckersley, Rollie Fingers, Tony Pérez and Bruce Sutter; the NL's Cy Young Award-winner, Rick Sutcliffe; and still-elite players like Dave Kingman, Fred Lynn, Rick Reuschel and André Thornton.",
+   "links": [
+    "National Baseball Hall of Fame and Museum",
+    "Dennis Eckersley",
+    "Rollie Fingers"
+   ],
+   "score": 65.0,
+   "abouts": [
+    "National Baseball Hall of Fame and Museum",
+    "Dennis Eckersley",
+    "Rollie Fingers"
+   ],
+   "about": "National Baseball Hall of Fame and Museum",
+   "key": "fe2744b78f1c3c68",
+   "headline": "54 players granted free agency, including future Hall of Famers",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dennis_Eckersley_2008_%28crop%29.jpg/960px-Dennis_Eckersley_2008_%28crop%29.jpg",
+    "credit": "Rubenstein",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dennis_Eckersley_2008_(crop).jpg",
+    "alt": "Man with mullet and mustache in dark blazer, white shirt, holding water bottle outdoors",
+    "source": "checked",
+    "of": "Dennis Eckersley",
+    "w": 1550,
+    "h": 2300,
+    "tier": "person"
+   },
+   "extract": "The National Baseball Hall of Fame and Museum is a history museum and hall of fame in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying baseball-related artifacts and exhibits, honoring those who…",
+   "page": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1979",
+   "text": "The Yankees sign two top-ranked veterans who were granted free agency on November 1: first baseman Bob Watson, 33, formerly of the Boston Red Sox, and left-handed hurler and ex-Yankee Rudy May, 35, formerly of the Montreal Expos. In 1980, Watson will bat .307 in 130 games, and the versatile May will win 15 of 20 decisions and lead the American League in earned run average (2.46).",
+   "links": [
+    "New York Yankees",
+    "Bob Watson",
+    "Boston Red Sox"
+   ],
+   "score": 38.23740386586838,
+   "abouts": [
+    "Bob Watson",
+    "New York Yankees",
+    "Boston Red Sox"
+   ],
+   "about": "Bob Watson",
+   "key": "d71531bb3381f446",
+   "headline": "Yankees sign veterans Bob Watson and Rudy May",
+   "image": null,
+   "extract": "Robert José Watson was an American professional baseball player, coach and general manager. He played in Major League Baseball as a first baseman and left fielder from 1966 to 1984, most prominently as a member of the Houston Astros where he was a two-time All-Star player. Watson had a .295 batting average over a…",
+   "page": "https://en.wikipedia.org/wiki/Bob_Watson"
+  },
+  {
+   "src": "onthisday",
+   "kind": "death",
+   "year": "1977",
+   "text": "Bucky Harris, American baseball player and manager (born 1896)",
+   "links": [
+    "Bucky Harris"
+   ],
+   "score": 21.1675,
+   "abouts": [
+    "Bucky Harris"
+   ],
+   "about": "Bucky Harris",
+   "key": "8def644a5abe807a",
+   "headline": "Bucky Harris, baseball player and manager, dies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Stanley_Harris%2C_Wash._LCCN2016839654_%28cropped%29.jpg/960px-Stanley_Harris%2C_Wash._LCCN2016839654_%28cropped%29.jpg",
+    "credit": "National Photo Company Collection",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Stanley_Harris,_Wash._LCCN2016839654_(cropped).jpg",
+    "alt": "Black-and-white portrait of a smiling man in a W-logo cap and baseball jersey",
+    "source": "checked",
+    "of": "Bucky Harris",
+    "w": 3590,
+    "h": 4567,
+    "tier": "person"
+   },
+   "extract": "Stanley Raymond \"Bucky\" Harris was an American professional baseball second baseman, manager and executive. While Harris played in Major League Baseball (MLB) for the Washington Senators and Detroit Tigers, it was his long managerial career that led to his enshrinement in the Baseball Hall of Fame by the Veterans…",
+   "page": "https://en.wikipedia.org/wiki/Bucky_Harris"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1974",
+   "text": "The San Diego Padres trade outfielder Cito Gaston to the Braves for pitcher Danny Frisella. Gaston is an \"original Padre,\" selected by San Diego (from Atlanta) in the 1968 NL expansion draft.",
+   "links": [
+    "San Diego Padres",
+    "Cito Gaston",
+    "Atlanta Braves"
+   ],
+   "score": 45.02053161639829,
+   "abouts": [
+    "Cito Gaston",
+    "San Diego Padres",
+    "Atlanta Braves"
+   ],
+   "about": "Cito Gaston",
+   "key": "7cd5ed15cefb9d84",
+   "headline": "Padres trade Cito Gaston to Braves for Danny Frisella",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/GastononBlueJaysexcellence.jpg",
+    "credit": "Mikerussell at en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:GastononBlueJaysexcellence.jpg",
+    "alt": "Level of Excellence banners naming Dave Stieb and Cito Gaston, Blue Jays stadium",
+    "source": "checked",
+    "of": "Cito Gaston",
+    "w": 565,
+    "h": 262,
+    "tier": "person"
+   },
+   "extract": "Clarence Edwin \"Cito\" Gaston is an American former Major League Baseball (MLB) outfielder, coach and manager. His major league career as a player lasted from 1967 to 1978, most notably with the San Diego Padres and Atlanta Braves. He spent his entire managerial career with the Toronto Blue Jays, becoming the first…",
+   "page": "https://en.wikipedia.org/wiki/Cito_Gaston"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1973",
+   "text": "Bob Chipman, 55, pitcher who spent all or part of 12 years in the National League (1941–1952) with Brooklyn, Chicago and Boston, appearing in 293 games.",
+   "links": [
+    "Bob Chipman"
+   ],
+   "score": 20.0755,
+   "abouts": [
+    "Bob Chipman"
+   ],
+   "about": "Bob Chipman",
+   "key": "435ce8ffbf404294",
+   "headline": "Bob Chipman, 55, former National League pitcher, dies",
+   "image": null,
+   "extract": "Robert Howard Chipman was an American professional baseball player, a left-handed pitcher who spent all or parts of a dozen seasons in the Major League Baseball from 1941 to 1952 for the Brooklyn Dodgers, Chicago Cubs and Boston Braves. The Brooklyn native stood 6 feet 2 inches (1.88 m) tall and weighed 190 pounds (86…",
+   "page": "https://en.wikipedia.org/wiki/Bob_Chipman"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1972",
+   "text": "The St. Louis Cardinals bring catcher Tim McCarver back to St. Louis, sending young outfielder Jorge Roque to the Montreal Expos in exchange.",
+   "links": [
+    "St. Louis Cardinals",
+    "Tim McCarver",
+    "Jorge Roque"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Tim McCarver",
+    "Jorge Roque",
+    "St. Louis Cardinals"
+   ],
+   "about": "Tim McCarver",
+   "key": "8d8499635a33c16a",
+   "headline": "Cardinals reacquire Tim McCarver from Expos for Jorge Roque",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tim_McCarver_2002.jpg",
+    "credit": "Bret Linford Delaywaves",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tim_McCarver_2002.jpg",
+    "alt": "Older man in dark checked jacket, blue shirt, rust tie, patterned wallpaper",
+    "source": "checked",
+    "of": "Tim McCarver",
+    "w": 905,
+    "h": 1049,
+    "tier": "person"
+   },
+   "extract": "James Timothy McCarver was an American professional baseball catcher and television sports commentator. He played 21 seasons in Major League Baseball (MLB) for the St. Louis Cardinals, Philadelphia Phillies, Montreal Expos, and Boston Red Sox between 1959 and 1980. He was a two time all All-Star and won the World…",
+   "page": "https://en.wikipedia.org/wiki/Tim_McCarver"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1967",
+   "text": "The New York Mets acquire outfielder Art Shamsky from the Cincinnati Reds for utility infielder Bob \"Rocky\" Johnson. Shamsky will be a key figure on the 1969 \"Miracle Mets\", batting .300 in 100 regular-season games and .538 in the Mets' 1969 NLCS sweep.",
+   "links": [
+    "New York Mets",
+    "Art Shamsky",
+    "Cincinnati Reds"
+   ],
+   "score": 39.79713899879745,
+   "abouts": [
+    "Art Shamsky",
+    "New York Mets",
+    "Cincinnati Reds"
+   ],
+   "about": "Art Shamsky",
+   "key": "97c8f1b4e3bb1883",
+   "headline": "Mets acquire Art Shamsky from Reds for Bob Johnson",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Art_Shamsky_2013.jpg/960px-Art_Shamsky_2013.jpg",
+    "credit": "Flcikr user slgckgc",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Art_Shamsky_2013.jpg",
+    "alt": "Older man in black polo, smiling, blue backdrop with mountain logo",
+    "source": "checked",
+    "of": "Art Shamsky",
+    "w": 1471,
+    "h": 2219,
+    "tier": "person"
+   },
+   "extract": "Arthur Louis Shamsky, nicknamed \"Sham\" and \"Smasher\", is an American former Major League Baseball player. He played right field, left field, and first base from 1965 to 1972 for the Cincinnati Reds, New York Mets, Chicago Cubs, and Oakland Athletics. He tied a major league record by homering in four consecutive at…",
+   "page": "https://en.wikipedia.org/wiki/Art_Shamsky"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1966",
+   "text": "Frank Robinson of the world-champion Baltimore Orioles wins the American League Most Valuable Player Award, becoming the first man to gain MVP recognition by the BBWAA in each major league; he had won the NL award in 1961.",
+   "links": [
+    "Frank Robinson",
+    "Baltimore Orioles",
+    "Major League Baseball Most Valuable Player Award"
+   ],
+   "score": 70.0,
+   "abouts": [
+    "Frank Robinson",
+    "Major League Baseball Most Valuable Player Award",
+    "Baltimore Orioles"
+   ],
+   "about": "Frank Robinson",
+   "key": "348b9362a9c27344",
+   "headline": "Frank Robinson wins AL MVP, first to win in both leagues",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/FrankRobinsonBAL.png",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:FrankRobinsonBAL.png",
+    "alt": "Smiling man in Orioles cap and jersey, black-and-white portrait",
+    "source": "checked",
+    "of": "Frank Robinson",
+    "w": 527,
+    "h": 641,
+    "tier": "person"
+   },
+   "extract": "Frank Robinson, nicknamed \"the Judge\", was an American professional baseball outfielder and manager in Major League Baseball (MLB) who played for five teams over 21 seasons: the Cincinnati Reds (1956–1965), Baltimore Orioles (1966–1971), Los Angeles Dodgers (1972), California Angels (1973–1974), and Cleveland Indians…",
+   "page": "https://en.wikipedia.org/wiki/Frank_Robinson"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1955",
+   "text": "In a nine-player transaction, the Washington Senators send pitchers Bob Porterfield and Johnny Schmitz, first baseman Mickey Vernon and outfielder Tom Umphlett to the Boston Red Sox in exchange for pitchers Dick Brodowski, Tex Clevenger and minor-leader Al Curtis, and outfielders Neil Chrisley and Karl Olson. Veterans Porterfield and Vernon are former All-Stars.",
+   "links": [
+    "Washington Senators (1901–1960)",
+    "Bob Porterfield",
+    "Johnny Schmitz"
+   ],
+   "score": 22.42149919673393,
+   "abouts": [
+    "Bob Porterfield",
+    "Johnny Schmitz",
+    "Washington Senators (1901–1960)"
+   ],
+   "about": "Bob Porterfield",
+   "key": "c6984e589e2841b8",
+   "headline": "Senators and Red Sox swap nine players in major trade",
+   "image": null,
+   "extract": "Erwin Coolidge \"Bob\" Porterfield was an American right-handed Major League Baseball pitcher. He played for twelve seasons between 1948 and 1959 for the New York Yankees, Washington Senators, Boston Red Sox, Pittsburgh Pirates and Chicago Cubs. Porterfield appeared in one All-Star game in his career.",
+   "page": "https://en.wikipedia.org/wiki/Bob_Porterfield"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1954",
+   "text": "R. R. M. Carpenter Jr., owner of Philadelphia's lone surviving MLB team, the Phillies, tells the press he will reluctantly purchase Connie Mack Stadium from Arnold Johnson, new owner of the soon-to-be-called Kansas City Athletics. The Phillies have shared the ballpark, built in 1909, as tenants of the Athletics since 1938, and have no other suitable place to play until a modern stadium can be built.",
+   "links": [
+    "R. R. M. Carpenter Jr.",
+    "Philadelphia",
+    "Phillies"
+   ],
+   "score": 40.0,
+   "abouts": [
+    "R. R. M. Carpenter Jr.",
+    "Philadelphia",
+    "Phillies"
+   ],
+   "about": "R. R. M. Carpenter Jr.",
+   "key": "a77cf6d51ec00c12",
+   "headline": "Phillies to buy Connie Mack Stadium from Arnold Johnson",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Robert_Carpenter_1943.jpg/960px-Robert_Carpenter_1943.jpg",
+    "credit": "ACME Newspictures",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Robert_Carpenter_1943.jpg",
+    "alt": "Man in tweed suit and patterned tie, mid-century studio portrait",
+    "source": "checked",
+    "of": "R. R. M. Carpenter Jr.",
+    "w": 992,
+    "h": 1440,
+    "tier": "person"
+   },
+   "extract": "Robert Ruliph Morgan Carpenter Jr. was an American owner and club president of the Philadelphia Phillies of Major League Baseball. When he took command of the Phillies in November 1943 after his father and he purchased the franchise, the 28-year-old Carpenter became the youngest club president in baseball history. He…",
+   "page": "https://en.wikipedia.org/wiki/R._R._M._Carpenter_Jr."
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1954",
+   "text": "After he purchased the Philadelphia Athletics and transferred the franchise to Kansas City on November 8, 1954, Johnson sold Yankee Stadium to John W.",
+   "links": [
+    "Yankee Stadium (1923)"
+   ],
+   "about": "Yankee Stadium (1923)",
+   "score": 40.0,
+   "abouts": [
+    "Yankee Stadium (1923)"
+   ],
+   "key": "c4c667ef3c4a7aef",
+   "headline": "Arnold Johnson sells Yankee Stadium after moving Athletics",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yankee_Stadium_aerial_from_Blackhawk.jpg/960px-Yankee_Stadium_aerial_from_Blackhawk.jpg",
+    "credit": "Severin St. Martin",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_aerial_from_Blackhawk.jpg",
+    "alt": "Aerial view of Yankee Stadium with Yankees signage and surrounding Bronx streets",
+    "source": "checked",
+    "of": "Yankee Stadium (1923)",
+    "w": 1952,
+    "h": 1480,
+    "tier": "venue"
+   },
+   "extract": "The original Yankee Stadium was located in the Bronx in New York City. It was the home of the New York Yankees from 1923 to 2008, except for 1974–1975 when it was renovated. It hosted 6,581 Yankees regular season home games during its 85-year history. It was also the home of the New York Giants of the National…",
+   "page": "https://en.wikipedia.org/wiki/Yankee_Stadium_(1923)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1951",
+   "text": "Campanella's opposite number in The Bronx, Yogi Berra, wins the first of his three American League Most Valuable Player Awards. Cooperstown-bound Berra, 26, batted .294 (27 homers, 88 runs batted in) for the AL champion New York Yankees in 1951. In the balloting, he defeats pitcher Ned Garver by 27 points.",
+   "links": [
+    "The Bronx",
+    "Yogi Berra",
+    "American League Most Valuable Player Award"
+   ],
+   "score": 45.0,
+   "abouts": [
+    "The Bronx",
+    "Yogi Berra",
+    "American League Most Valuable Player Award"
+   ],
+   "about": "The Bronx",
+   "key": "f7bf891a6841f160",
+   "headline": "Yogi Berra, 26, wins first AL Most Valuable Player Award",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Yogi_Berra_%281957%29_%28cropped%29.jpg/960px-Yogi_Berra_%281957%29_%28cropped%29.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Yogi_Berra_(1957)_(cropped).jpg",
+    "alt": "Man in Yankees pinstripes and NY cap holding bat",
+    "source": "checked",
+    "of": "Yogi Berra",
+    "w": 1589,
+    "h": 2187,
+    "tier": "person"
+   },
+   "extract": "Lawrence Peter \"Yogi\" Berra was an American professional baseball catcher who later took on the roles of manager and coach. He played 19 seasons in Major League Baseball (MLB), all but the last for the New York Yankees. He was an 18-time All-Star and won 10 World Series championships as a player—more than any other…",
+   "page": "https://en.wikipedia.org/wiki/Yogi_Berra"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1940",
+   "text": "Clark Griffith, patriarch of the Washington Senators and known as an outspoken opponent of night baseball, changes course and announces that he's investing $130,000 to equip his club's home ballpark with lights. The Senators plan to host seven night contests in 1941.",
+   "links": [
+    "Clark Griffith",
+    "Washington Senators (1901–1960)",
+    "Griffith Stadium"
+   ],
+   "score": 41.96524233208389,
+   "abouts": [
+    "Clark Griffith",
+    "Griffith Stadium",
+    "Washington Senators (1901–1960)"
+   ],
+   "about": "Clark Griffith",
+   "key": "c291b330a1c9436a",
+   "headline": "Clark Griffith invests $130,000 in lights for Senators",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Clark_Griffith_LCCN2016840561_%28cropped%29.jpg/960px-Clark_Griffith_LCCN2016840561_%28cropped%29.jpg",
+    "credit": "National Photo Company Collection",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Clark_Griffith_LCCN2016840561_(cropped).jpg",
+    "alt": "Older man in pinstriped suit and tie, black-and-white studio portrait",
+    "source": "checked",
+    "of": "Clark Griffith",
+    "w": 3734,
+    "h": 4552,
+    "tier": "person"
+   },
+   "extract": "Clark Calvin Griffith, nicknamed \"the Old Fox\", was an American Major League Baseball (MLB) pitcher, manager and team owner. He began his MLB playing career with the St. Louis Browns (1891), Boston Reds (1891), and Chicago Colts/Orphans (1893–1900). He then served as player-manager for the Chicago White Stockings…",
+   "page": "https://en.wikipedia.org/wiki/Clark_Griffith"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1894",
+   "text": "King Kelly, 36, Hall of Fame catcher and right fielder for the Chicago and Boston National League teams, known as a fiery and alert competitor that developed the hit-and-run and caused numerous refinements of sport's rules upon his exploitation of loopholes, who batted .308 lifetime with two batting titles, led the league in runs and doubles three times each, starred on five Chicago champion teams, and managed…",
+   "links": [
+    "King Kelly"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "King Kelly"
+   ],
+   "about": "King Kelly",
+   "key": "83033ac84df19337",
+   "headline": "King Kelly, Hall of Fame catcher, dies at 36",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/King_Kelly_0554fu.jpg/960px-King_Kelly_0554fu.jpg",
+    "credit": "Goodwin & Company",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:King_Kelly_0554fu.jpg",
+    "alt": "Vintage tobacco card of a mustached ballplayer in Boston uniform",
+    "source": "checked",
+    "of": "King Kelly",
+    "w": 1400,
+    "h": 2500,
+    "tier": "person"
+   },
+   "extract": "Michael Joseph \"King\" Kelly, also commonly known as \"$10,000 Kelly\", was an American baseball outfielder, catcher, and player-manager in various professional American baseball leagues including the National League, International Association, Players' League, and the American Association. He spent the majority of his…",
+   "page": "https://en.wikipedia.org/wiki/King_Kelly"
+  }
+ ]
+}

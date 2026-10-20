@@ -1,0 +1,837 @@
+{
+ "month": 10,
+ "day": 31,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2011",
+   "text": "Tony La Russa retires as manager of the St. Louis Cardinals, three days after winning a dramatic, seven-game World Series against the Texas Rangers. La Russa retires third on the all-time wins list (2,728), trailing only Connie Mack (3,731) and John McGraw (2,763). In addition to this season, La Russa won World Championships in Oakland in 1989 and St. Louis in 2006.",
+   "links": [
+    "Tony La Russa",
+    "2011 World Series",
+    "Connie Mack"
+   ],
+   "score": 133.4691321919309,
+   "abouts": [
+    "Connie Mack",
+    "2011 World Series",
+    "Tony La Russa"
+   ],
+   "about": "Connie Mack",
+   "key": "4fc482af2a7178e3",
+   "headline": "Tony La Russa retires as Cardinals manager after Series win",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tony_La_Russa_by_Gage_Skidmore.jpg/960px-Tony_La_Russa_by_Gage_Skidmore.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tony_La_Russa_by_Gage_Skidmore.jpg",
+    "alt": "Older man with graying hair, plaid shirt, sponsor backdrop with baseball graphic",
+    "source": "checked",
+    "of": "Tony La Russa",
+    "w": 1164,
+    "h": 1679,
+    "tier": "person"
+   },
+   "extract": "Cornelius McGillicuddy, better known as Connie Mack, was an American professional baseball catcher, manager, and team owner. Mack holds records for the most wins (3,731), losses (3,948), ties (76), and games managed (7,755) in Major League Baseball (MLB) history. His victory total is 847 more than the second-highest:…",
+   "page": "https://en.wikipedia.org/wiki/Connie_Mack",
+   "lead": true
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2025",
+   "text": "The LG Twins defeat the Hanwha Eagles in game 5 of the 2025 Korean Series to win their fourth championship.",
+   "links": [
+    "LG Twins",
+    "Hanwha Eagles",
+    "2025 Korean Series"
+   ],
+   "score": 49.003585391411924,
+   "abouts": [
+    "2025 Korean Series",
+    "LG Twins",
+    "Hanwha Eagles"
+   ],
+   "about": "2025 Korean Series",
+   "key": "dbb76706f4550d9b",
+   "headline": "LG Twins beat Hanwha Eagles, win fourth championship",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/LG_Twins_Jamsil_Stadium_Game_Photo.jpg/960px-LG_Twins_Jamsil_Stadium_Game_Photo.jpg",
+    "credit": "Drewsamyoo",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:LG_Twins_Jamsil_Stadium_Game_Photo.jpg",
+    "alt": "Players in white and red uniforms on a baseball field at night, Korean stadium signage.",
+    "source": "checked",
+    "of": "LG Twins",
+    "w": 4032,
+    "h": 3024,
+    "tier": "venue"
+   },
+   "extract": "The 2025 Korean Series, was the championship series of the KBO League for the 2025 season. The 44th edition of the Korean Series, it featured the LG Twins and Hanwha Eagles. The LG Twins, who had best record during the regular season, received three round byes and a direct berth into the Series, while the Hanwha…",
+   "page": "https://en.wikipedia.org/wiki/2025_Korean_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2019",
+   "text": "The Kansas City Royals hired Mike Matheny as their new manager, introducing him at a news conference at Kauffman Stadium. Matheny, who previously managed the St. Louis Cardinals for parts of seven seasons from 2012 to 2018, joined the Royals front office as a special advisor to player development. Matheny will replacing the recently retired Ned Yost.",
+   "links": [
+    "Mike Matheny",
+    "Kauffman Stadium",
+    "Ned Yost"
+   ],
+   "score": 82.73296551048152,
+   "abouts": [
+    "Kauffman Stadium",
+    "Ned Yost",
+    "Mike Matheny"
+   ],
+   "about": "Kauffman Stadium",
+   "key": "0ed95b5fcd55ac3c",
+   "headline": "Royals hire Mike Matheny as new manager, replacing Ned Yost",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MikeMathenyphotoday2013.jpg/960px-MikeMathenyphotoday2013.jpg",
+    "credit": "Johnmaxmena2",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MikeMathenyphotoday2013.jpg",
+    "alt": "Man in red St. Louis Cardinals cap and white jersey at a ballpark",
+    "source": "checked",
+    "of": "Mike Matheny",
+    "w": 1872,
+    "h": 2724,
+    "tier": "person"
+   },
+   "extract": "Kauffman Stadium is a ballpark located in Kansas City, Missouri, and the home of Major League Baseball's Kansas City Royals. It is next door to Arrowhead Stadium, home of the National Football League's Kansas City Chiefs. Both make up the Truman Sports Complex. The stadium is named for Ewing Kauffman, the founder and…",
+   "page": "https://en.wikipedia.org/wiki/Kauffman_Stadium"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2018",
+   "text": "Willie McCovey, 80, Hall of Fame first baseman whose career spanned 22 seasons from 1959 to 1980 and included three teams, most prominently with the San Francisco Giants, being selected to six All-Star Games, while compiling a .270/.374/.515 slash line including 2,211 hits, 521 home runs, 353 doubles, 1,345 walks and 1,555 RBI, earning the NL Rookie of the Year Award in 1959, and the NL Most Valuable Player Award in…",
+   "links": [
+    "Willie McCovey",
+    "slash line"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Willie McCovey",
+    "slash line"
+   ],
+   "about": "Willie McCovey",
+   "key": "b63c1219f0c33598",
+   "headline": "Willie McCovey, 80, Hall of Fame first baseman, dies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cypress_Lawn_cemetery%2C_Colma%2C_California_5.jpg/960px-Cypress_Lawn_cemetery%2C_Colma%2C_California_5.jpg",
+    "credit": "Mliu92",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cypress_Lawn_cemetery,_Colma,_California_5.jpg",
+    "alt": "Black granite headstone reading McCovey, with Giants #44 logo, in cemetery",
+    "source": "checked",
+    "of": "Willie McCovey",
+    "w": 3072,
+    "h": 4080,
+    "tier": "person"
+   },
+   "extract": "Willie Lee McCovey, nicknamed \"Stretch\" and \"Willie Mac\", was an American professional baseball player. He played in Major League Baseball (MLB) as a first baseman from 1959 to 1980, most notably as a member of the San Francisco Giants for whom he played 19 seasons. McCovey also played for the San Diego Padres and…",
+   "page": "https://en.wikipedia.org/wiki/Willie_McCovey"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2017",
+   "text": "The Los Angeles Dodgers beat the Houston Astros at Dodger Stadium, 3–1, to even the World Series and force a deciding Game 7.",
+   "links": [
+    "2017 World Series"
+   ],
+   "score": 88.1582840258396,
+   "abouts": [
+    "2017 World Series"
+   ],
+   "about": "2017 World Series",
+   "key": "b1db1be1598bbbb0",
+   "headline": "Dodgers beat Astros 3-1 to force deciding Game 7",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/171025-F-HP195-1244_Falcons_soar_over_L.A._%28cropped%29.jpg",
+    "credit": "Christopher Okula (Original version) UCinternational (Crop)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:171025-F-HP195-1244_Falcons_soar_over_L.A._(cropped).jpg",
+    "alt": "F-16 jet flying over a stadium with packed stands and parking lots",
+    "source": "checked",
+    "of": "2017 World Series",
+    "w": 750,
+    "h": 420,
+    "tier": "venue"
+   },
+   "extract": "The 2017 World Series was the championship series of Major League Baseball's (MLB) 2017 season. The 113th edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion Los Angeles Dodgers and the American League (AL) champion Houston Astros. The series was played between…",
+   "page": "https://en.wikipedia.org/wiki/2017_World_Series"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2016",
+   "text": "The stadium's next name, Guaranteed Rate Field, was announced on October 31, 2016, after the Chicago-based private residential mortgage company Guaranteed Rate bought the naming rights in a 13-year deal.",
+   "links": [
+    "Rate Field"
+   ],
+   "about": "Rate Field",
+   "score": 48.09504902212761,
+   "abouts": [
+    "Rate Field"
+   ],
+   "key": "c319e431fb856357",
+   "headline": "Stadium renamed Guaranteed Rate Field in 13-year naming deal",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/GuaranteedRateField.jpg/960px-GuaranteedRateField.jpg",
+    "credit": "Soxman07",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:GuaranteedRateField.jpg",
+    "alt": "Empty baseball stadium seating with light towers and outfield signage banners.",
+    "source": "checked",
+    "of": "Rate Field",
+    "w": 2592,
+    "h": 1456,
+    "tier": "venue"
+   },
+   "extract": "Rate Field is a baseball stadium on the South Side of Chicago, Illinois. It is the home ballpark of the Chicago White Sox, one of the city's two Major League Baseball teams, and is owned by the state of Illinois through the Illinois Sports Facilities Authority. Built for $137 million, the park opened as Comiskey Park…",
+   "page": "https://en.wikipedia.org/wiki/Rate_Field"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2015",
+   "text": "The Kansas City Royals capitalized an error by New York Mets second baseman Daniel Murphy, and rallied for three runs in the eighth inning for a 5–3 victory at Citi Field and a 3-1 World Series lead. The Royals insurgence against relievers Tyler Clippard and Jeurys Familia wasted a pair of home runs hit by Michael Conforto and a strong start from Steven Matz, to put the Mets on brink of elimination.",
+   "links": [
+    "Daniel Murphy (baseball)",
+    "Citi Field",
+    "Tyler Clippard"
+   ],
+   "score": 92.30087961759014,
+   "abouts": [
+    "Citi Field",
+    "Daniel Murphy (baseball)",
+    "Tyler Clippard"
+   ],
+   "about": "Citi Field",
+   "key": "6b2beaebfd1c85cc",
+   "headline": "Royals rally in eighth, take 3-1 World Series lead over Mets",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/-WorldSeries_Game_1-_Eric_Hosmer_wins_it_%2822861501026%29.jpg/960px--WorldSeries_Game_1-_Eric_Hosmer_wins_it_%2822861501026%29.jpg",
+    "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:-WorldSeries_Game_1-_Eric_Hosmer_wins_it_(22861501026).jpg",
+    "alt": "Batter in Royals home whites swinging, catcher in blue Mets gear behind",
+    "source": "checked",
+    "of": "2015 World Series",
+    "w": 4398,
+    "h": 3304,
+    "tier": "event"
+   },
+   "extract": "Citi Field is a baseball stadium located in Flushing Meadows–Corona Park, in the borough of Queens, New York City, United States. Opened in 2009, Citi Field is the home of Major League Baseball's New York Mets. The ballpark was built as a replacement for the adjacent Shea Stadium, which had been demolished shortly…",
+   "page": "https://en.wikipedia.org/wiki/Citi_Field"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2014",
+   "text": "The Chicago Cubs announce the hiring of Joe Maddon as the team's 54th manager. Maddon replaces Rick Renteria, who had managed the Cubs to a 73–89 record in his only season for the team. Maddon has posted a .517 career winning percentage (781–729), which includes not only his nine seasons with the Tampa Bay Rays but also brief interim stints with the Angels in 1996 and 1999.",
+   "links": [
+    "Joe Maddon",
+    "Rick Renteria",
+    "2008 World Series"
+   ],
+   "score": 69.03363741378001,
+   "abouts": [
+    "Joe Maddon",
+    "2008 World Series",
+    "Rick Renteria"
+   ],
+   "about": "Joe Maddon",
+   "key": "96d5a7933fd6ed6b",
+   "headline": "Cubs hire Joe Maddon as 54th manager, replacing Rick Renteria",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Joe_Maddon_in_2013_%289553142672%29.jpg/960px-Joe_Maddon_in_2013_%289553142672%29.jpg",
+    "credit": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Maddon_in_2013_(9553142672).jpg",
+    "alt": "Older man in Rays cap and sunglasses, baseball field background",
+    "source": "checked",
+    "of": "Joe Maddon",
+    "w": 2436,
+    "h": 3456,
+    "tier": "person"
+   },
+   "extract": "Joseph John Maddon is an American former professional baseball manager. He has managed the Tampa Bay Rays, Chicago Cubs, and Los Angeles Angels of Major League Baseball (MLB).",
+   "page": "https://en.wikipedia.org/wiki/Joe_Maddon"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2014",
+   "text": "Brad Halsey, 33, pitcher who played from 2004 to 2006 for the New York Yankees, Arizona Diamondbacks and Oakland Athletics, who was the starter in the game that Derek Jeter made his signature catch against the Boston Red Sox at Yankee Stadium in 2004.",
+   "links": [
+    "Brad Halsey",
+    "Derek Jeter",
+    "Derek Jeter"
+   ],
+   "score": 20.362,
+   "abouts": [
+    "Brad Halsey",
+    "Derek Jeter",
+    "Derek Jeter"
+   ],
+   "about": "Brad Halsey",
+   "key": "d575642bcb2c20db",
+   "headline": "Brad Halsey, 33, former Yankees and Athletics pitcher, dies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Halseyprint.jpg",
+    "credit": "Jlaff at English Wikipedia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Halseyprint.jpg",
+    "alt": "Pitcher in white Athletics road-style jersey, number 51, mid-delivery at a ballpark.",
+    "source": "checked",
+    "of": "Brad Halsey",
+    "w": 890,
+    "h": 1153,
+    "tier": "person"
+   },
+   "extract": "Bradford Alexander Halsey was an American professional baseball pitcher. He played in Major League Baseball for the New York Yankees in 2004, for the Arizona Diamondbacks in 2005, and for the Oakland Athletics in 2006.",
+   "page": "https://en.wikipedia.org/wiki/Brad_Halsey"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2010",
+   "text": "In Game 4 of the World Series, Madison Bumgarner and Buster Posey of the San Francisco Giants become the first all-rookie battery in a World Series game since 1947. Bumgarner combines with Brian Wilson to three-hit the Texas Rangers in a 4–0 San Francisco victory. Combined with a 9–0 loss to the Giants in Game 2, the Rangers become the first team to be shut out twice in a World Series since 1966.",
+   "links": [
+    "2010 World Series",
+    "Madison Bumgarner",
+    "Buster Posey"
+   ],
+   "score": 71.7001373414133,
+   "abouts": [
+    "Buster Posey",
+    "2010 World Series",
+    "Madison Bumgarner"
+   ],
+   "about": "Buster Posey",
+   "key": "a032c88de286fb25",
+   "headline": "Bumgarner and Posey become first all-rookie World Series battery since 1947",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Madison_Bumgarner_on_June_21%2C_2011.jpg",
+    "credit": "Ed Bierman on Flickr (Original version) UCinternational (Crop)",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Madison_Bumgarner_on_June_21,_2011.jpg",
+    "alt": "Pitcher in white Giants road-style uniform on mound, wearing a Giants cap, holding glove.",
+    "source": "checked",
+    "of": "2010 World Series",
+    "w": 910,
+    "h": 1480,
+    "tier": "person"
+   },
+   "extract": "Gerald Dempsey \"Buster\" Posey III is an American baseball executive and former professional baseball catcher. He is currently the president of baseball operations for the San Francisco Giants of Major League Baseball (MLB). He spent his entire 12-year Major League Baseball (MLB) career with the Giants, from 2009 until…",
+   "page": "https://en.wikipedia.org/wiki/Buster_Posey"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2010",
+   "text": "Artie Wilson, 90, Negro leagues All-Star shortstop.",
+   "links": [
+    "Artie Wilson"
+   ],
+   "score": 20.178,
+   "abouts": [
+    "Artie Wilson"
+   ],
+   "about": "Artie Wilson",
+   "key": "58505a42cccca43d",
+   "headline": "Artie Wilson, 90, Negro leagues All-Star shortstop, dies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Artie_Wilson_1950.jpg/960px-Artie_Wilson_1950.jpg",
+    "credit": "Unknown",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Artie_Wilson_1950.jpg",
+    "alt": "Player in Oakland baseball uniform and cap, glove raised, black-and-white photo",
+    "source": "checked",
+    "of": "Artie Wilson (Commons search)",
+    "w": 1505,
+    "h": 3032,
+    "tier": "person"
+   },
+   "extract": "Arthur Lee Wilson was an American professional baseball player. He was an all-star for the Birmingham Black Barons of Negro league baseball before playing part of one season in Major League Baseball for the New York Giants in 1951. He was born in Springville, Alabama. Wilson is recognized as the last player in a…",
+   "page": "https://en.wikipedia.org/wiki/Artie_Wilson"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2009",
+   "text": "The New York Yankees beat the Philadelphia Phillies 8–5, at Citizens Bank Park, to take a 2–1 advantage in the World Series. Alex Rodriguez belts the first video-reviewed home run in World Series history to support another winning Andy Pettitte effort, while Nick Swisher and Hideki Matsui add solo shots. Cole Hamels is the losing pitcher.",
+   "links": [
+    "Citizens Bank Park",
+    "Alex Rodriguez",
+    "Andy Pettitte"
+   ],
+   "score": 95,
+   "abouts": [
+    "Alex Rodriguez",
+    "Andy Pettitte",
+    "Citizens Bank Park"
+   ],
+   "about": "Alex Rodriguez",
+   "key": "20c60b9dcf6cdfe9",
+   "headline": "Yankees beat Phillies 8-5, take 2-1 World Series lead",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/A-Rod2_adjusted.jpg/960px-A-Rod2_adjusted.jpg",
+    "credit": "Keith Allison Inefable001 (talk)",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:A-Rod2_adjusted.jpg",
+    "alt": "Man in navy New York jersey and gray pants on a ballfield, holding a bat",
+    "source": "checked",
+    "of": "Alex Rodriguez",
+    "w": 1476,
+    "h": 2337,
+    "tier": "person"
+   },
+   "extract": "Alexander Emmanuel Rodriguez, nicknamed \"A-Rod\", is an American former professional baseball shortstop and third baseman and current businessman. Rodriguez played 22 seasons in Major League Baseball (MLB) for the Seattle Mariners (1994–2000), Texas Rangers (2001–2003), and New York Yankees. Rodriguez is the chairman…",
+   "page": "https://en.wikipedia.org/wiki/Alex_Rodriguez"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2009",
+   "text": "The Astros hired Pedrique as their bench coach on October 31, 2009, after previously serving as their Minor League Field Coordinator and third base coach.",
+   "links": [
+    "Al Pedrique"
+   ],
+   "about": "Al Pedrique",
+   "score": 34.87945568200897,
+   "abouts": [
+    "Al Pedrique"
+   ],
+   "key": "32c9d0f31d88968f",
+   "headline": "Astros hire Pedrique as bench coach, former third base coach",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Al_Pedrique_coaching_third_base_SWB_Sept_2016.jpg/960px-Al_Pedrique_coaching_third_base_SWB_Sept_2016.jpg",
+    "credit": "EricEnfermero",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Al_Pedrique_coaching_third_base_SWB_Sept_2016.jpg",
+    "alt": "Coach in SWB pinstripes near third base with umpire and baserunner",
+    "source": "checked",
+    "of": "Al Pedrique",
+    "w": 4272,
+    "h": 2848,
+    "tier": "person"
+   },
+   "extract": "Alfredo José Pedrique García is a Venezuelan professional baseball player, coach, and manager. He played in Major League Baseball (MLB) as a shortstop for the New York Mets (1987), Pittsburgh Pirates (1987–88), and Detroit Tigers (1989).",
+   "page": "https://en.wikipedia.org/wiki/Al_Pedrique"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2005",
+   "text": "When Epstein left his position on October 31, 2005, Hoyer was part of a group of four executives, called the \"Gang of Four\", that kept the club running in Epstein's absence.",
+   "links": [
+    "Jed Hoyer"
+   ],
+   "about": "Jed Hoyer",
+   "score": 29.866793999431987,
+   "abouts": [
+    "Jed Hoyer"
+   ],
+   "key": "91eb8152129911f6",
+   "headline": "Hoyer joins Gang of Four running club after Epstein exits",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jed_Hoyer_2011.jpg/960px-Jed_Hoyer_2011.jpg",
+    "credit": "Natasha Baucas",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jed_Hoyer_2011.jpg",
+    "alt": "Man in dark suit speaking at a podium before a Padres 'SD' logo",
+    "source": "checked",
+    "of": "Jed Hoyer",
+    "w": 1094,
+    "h": 1068,
+    "tier": "person"
+   },
+   "extract": "Jed Hoyer is an American sports executive who is the president of baseball operations for the Chicago Cubs of Major League Baseball (MLB). He has been the general manager of the San Diego Padres and the assistant general manager of the Boston Red Sox.",
+   "page": "https://en.wikipedia.org/wiki/Jed_Hoyer"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1998",
+   "text": "Bob Thurman, 81, slugging outfielder in the Caribbean and Negro leagues between the mid-1940s and early 1950s, and from 1956 through 1959, at the end of his career, in majors with the Cincinnati Redlegs.",
+   "links": [
+    "Bob Thurman"
+   ],
+   "score": 20.114,
+   "abouts": [
+    "Bob Thurman"
+   ],
+   "about": "Bob Thurman",
+   "key": "377a55fecf073a8f",
+   "headline": "Bob Thurman dies at 81; slugging Negro leagues outfielder",
+   "image": null,
+   "extract": "Robert Burns Thurman was an American professional baseball pitcher, outfielder and pinch-hitter. He played in the Negro leagues, the Puerto Rican winter league, and for a few years at the end of his career, in Major League Baseball with the Cincinnati Reds. He is a member of the Puerto Rican Baseball Hall of Fame.",
+   "page": "https://en.wikipedia.org/wiki/Bob_Thurman"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1979",
+   "text": "The Detroit Tigers obtain third baseman Richie Hebner from the New York Mets for infielder Phil Mankowski and outfielder Jerry Morales.",
+   "links": [
+    "Detroit Tigers",
+    "Richie Hebner",
+    "New York Mets"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Richie Hebner",
+    "Detroit Tigers",
+    "New York Mets"
+   ],
+   "about": "Richie Hebner",
+   "key": "ea4330d4530aa944",
+   "headline": "Tigers acquire third baseman Richie Hebner from Mets",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Richie_Hebner.jpg/960px-Richie_Hebner.jpg",
+    "credit": "Stephen V. Russell",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Richie_Hebner.jpg",
+    "alt": "Young ballplayer in Pittsburgh Pirates road-style gray jersey and cap",
+    "source": "checked",
+    "of": "Richie Hebner",
+    "w": 1179,
+    "h": 1771,
+    "tier": "person"
+   },
+   "extract": "Richard Joseph Hebner is an American former professional baseball player and coach. He played in Major League Baseball as a third baseman from 1968 through 1985, most prominently as a member of the Pittsburgh Pirates teams that won five National League Eastern Division titles in six years between 1970 and 1975 and won…",
+   "page": "https://en.wikipedia.org/wiki/Richie_Hebner"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1977",
+   "text": "Mike Torrez, the New York Yankees' premier post-season starting pitcher, is granted free agency. Torrez, 31, threw two complete-game victories in the Bombers' recently completed World Series triumph against the Los Angeles Dodgers.",
+   "links": [
+    "Mike Torrez",
+    "New York Yankees",
+    "1977 World Series"
+   ],
+   "score": 69.72315350928139,
+   "abouts": [
+    "1977 World Series",
+    "Mike Torrez",
+    "New York Yankees"
+   ],
+   "about": "1977 World Series",
+   "key": "d3efb3fbfbedf4a2",
+   "headline": "Mike Torrez, 31, granted free agency after two Series wins",
+   "image": null,
+   "extract": "The 1977 World Series was the championship series of Major League Baseball's (MLB) 1977 season. The 74th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion New York Yankees and the National League (NL) champion Los Angeles Dodgers. The Yankees defeated the…",
+   "page": "https://en.wikipedia.org/wiki/1977_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1974",
+   "text": "Buddy Myer, 70, second baseman for the Washington Senators (1925–1927 and 1929–1941) and Boston Red Sox (1927–1928) who batted .303 lifetime with 2,131 hits; won 1935 American League batting title (.349) and led league in stolen bases (30) in 1928; two-time AL All-Star.",
+   "links": [
+    "Buddy Myer"
+   ],
+   "score": 20.2415,
+   "abouts": [
+    "Buddy Myer"
+   ],
+   "about": "Buddy Myer",
+   "key": "7d61d6d04e18f8c1",
+   "headline": "Buddy Myer dies at 70; 1935 American League batting champ",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Myer%2C_Wash._LCCN2016840564.jpg/960px-Myer%2C_Wash._LCCN2016840564.jpg",
+    "credit": "National Photo Company Collection",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Myer,_Wash._LCCN2016840564.jpg",
+    "alt": "Young man in pinstriped jersey and cap with a 'W' in a dugout",
+    "source": "checked",
+    "of": "Buddy Myer",
+    "w": 4298,
+    "h": 5229,
+    "tier": "person"
+   },
+   "extract": "Charles Solomon \"Buddy\" Myer was an American professional baseball player. He played in Major League Baseball as a second baseman from 1925 through 1941. A two-time All-Star, Myer was notable for being the 1935 American League batting champion and led the American League in stolen bases in 1928. An excellent hitter,…",
+   "page": "https://en.wikipedia.org/wiki/Buddy_Myer"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1973",
+   "text": "The Pittsburgh Pirates acquire southpaw starting pitcher Jerry Reuss from the Houston Astros for young catcher Milt May.",
+   "links": [
+    "Pittsburgh Pirates",
+    "Jerry Reuss",
+    "Houston Astros"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Jerry Reuss",
+    "Pittsburgh Pirates",
+    "Houston Astros"
+   ],
+   "about": "Jerry Reuss",
+   "key": "78d76f15a7540208",
+   "headline": "Pirates acquire Jerry Reuss from Astros for Milt May",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Jerry_Reuss_08-06-09.jpg/960px-Jerry_Reuss_08-06-09.jpg",
+    "credit": "Jerry Reuss",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jerry_Reuss_08-06-09.jpg",
+    "alt": "Smiling older man with white hair and mustache, blue shirt, outdoors",
+    "source": "checked",
+    "of": "Jerry Reuss",
+    "w": 2400,
+    "h": 1600,
+    "tier": "person"
+   },
+   "extract": "Jerry Reuss is an American former left-handed pitcher in Major League Baseball, best known for his years with the Los Angeles Dodgers.",
+   "page": "https://en.wikipedia.org/wiki/Jerry_Reuss"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1972",
+   "text": "Vukovich was traded along with Don Money and Bill Champion by the Phillies to the Brewers for Jim Lonborg, Ken Brett, Ken Sanders and Earl Stephenson on October 31, 1972.",
+   "links": [
+    "John Vukovich"
+   ],
+   "about": "John Vukovich",
+   "score": 66.35920803268249,
+   "abouts": [
+    "John Vukovich"
+   ],
+   "key": "7b97e0a7d9322400",
+   "headline": "Phillies trade Vukovich, Money and Champion to Brewers",
+   "image": null,
+   "extract": "John Christopher Vukovich, nicknamed \"Vuk\" or \"Johnny Vuk\", was an American professional baseball utility infielder, manager, and coach in Major League Baseball, best known for his years with the Philadelphia Phillies. He played in parts of ten seasons between 1970 and 1981 for the Phillies, Cincinnati Reds, and…",
+   "page": "https://en.wikipedia.org/wiki/John_Vukovich"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1972",
+   "text": "Jim Wilson, recently appointed general manager of the Milwaukee Brewers, follows in the footsteps of predecessor \"Frantic\" Frank Lane when he swings a high-profile, seven-player trade with the Philadelphia Phillies. The Brewers send pitchers Ken Brett, Jim Lonborg, Ken Sanders and Earl Stephenson to Philadelphia for pitcher Billy Champion, third baseman Don Money and utilityman John Vukovich.",
+   "links": [
+    "Jim Wilson (pitcher)",
+    "Milwaukee Brewers",
+    "Frank Lane"
+   ],
+   "score": 62.0,
+   "abouts": [
+    "Jim Wilson (pitcher)",
+    "Frank Lane",
+    "Milwaukee Brewers"
+   ],
+   "about": "Jim Wilson (pitcher)",
+   "key": "8725c8f4d9a28aea",
+   "headline": "Brewers swing seven-player trade with Phillies under Wilson",
+   "image": null,
+   "extract": "James Alger Wilson was an American professional baseball pitcher, scout and front-office executive. Although he was well-traveled as a player and compiled a career winning percentage of only .491 in 175 decisions, he threw the first no-hit, no-run game in Milwaukee's Major League history and was a three-time (1954–56)…",
+   "page": "https://en.wikipedia.org/wiki/Jim_Wilson_(pitcher)"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1972",
+   "text": "Dempsey spent a few more seasons shuttling between the Twins and their minor league teams, before being traded to the New York Yankees for Danny Walton on October 31, 1972.",
+   "links": [
+    "Rick Dempsey"
+   ],
+   "about": "Rick Dempsey",
+   "score": 35.0,
+   "abouts": [
+    "Rick Dempsey"
+   ],
+   "key": "3e3f93338c29aee3",
+   "headline": "Twins trade Dempsey to Yankees for Danny Walton",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/NY1973H46.jpg",
+    "credit": "William F. Henderson",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:NY1973H46.jpg",
+    "alt": "White pinstriped Yankees jersey with navy number 46 and patch",
+    "source": "checked",
+    "of": "Rick Dempsey",
+    "w": 960,
+    "h": 960,
+    "tier": "person"
+   },
+   "extract": "John Rikard Dempsey is an American former professional baseball player. He played for 24 seasons as a catcher in Major League Baseball from 1969 to 1992, most prominently for the Baltimore Orioles where he played for 10 years and was a member of the 1983 World Series winning team. Dempsey was known for being one of…",
+   "page": "https://en.wikipedia.org/wiki/Rick_Dempsey"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1960",
+   "text": "The San Francisco Giants acquire infielder Alvin Dark from the Milwaukee Braves in exchange for shortstop Andre Rodgers. Dark, former captain of the old New York Giants, ends his playing career at age 38 and is named to succeed Tom Sheehan as San Francisco's manager for 1961.",
+   "links": [
+    "San Francisco Giants",
+    "Alvin Dark",
+    "Milwaukee Braves"
+   ],
+   "score": 52.04690472125353,
+   "abouts": [
+    "Alvin Dark",
+    "San Francisco Giants",
+    "Milwaukee Braves"
+   ],
+   "about": "Alvin Dark",
+   "key": "045519c9da26a3d9",
+   "headline": "Giants acquire Alvin Dark from Braves for Andre Rodgers",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1949_Bowman_Al_Dark.jpg",
+    "credit": "Bowman Gum",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1949_Bowman_Al_Dark.jpg",
+    "alt": "Vintage baseball card of a player in a gray uniform and blue cap",
+    "source": "checked",
+    "of": "Alvin Dark",
+    "w": 425,
+    "h": 500,
+    "tier": "person"
+   },
+   "extract": "Alvin Ralph Dark, nicknamed \"Blackie\" and \"the Swamp Fox\", was an American professional baseball shortstop and manager. He played fourteen years in Major League Baseball (MLB) for the Boston/Milwaukee Braves, the New York Giants (1950–1956), the St. Louis Cardinals (1956–1958), the Chicago Cubs (1958–59), and the…",
+   "page": "https://en.wikipedia.org/wiki/Alvin_Dark"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1956",
+   "text": "Ebbets Field was sold by O'Malley to real estate developer Marvin Kratter for about $2,000,000 on October 31, 1956.",
+   "links": [
+    "Ebbets Field"
+   ],
+   "about": "Ebbets Field",
+   "score": 31.972783696818283,
+   "abouts": [
+    "Ebbets Field"
+   ],
+   "key": "05a469fb281d1933",
+   "headline": "Ebbets Field sold to Marvin Kratter for about $2,000,000",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crowd_at_Ebbets_Field.jpg/960px-Crowd_at_Ebbets_Field.jpg",
+    "credit": "Bain News Service, publisher",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Crowd_at_Ebbets_Field.jpg",
+    "alt": "Crowd filling stands at Ebbets Field, Gem Safety Razor ads visible",
+    "source": "checked",
+    "of": "Ebbets Field",
+    "w": 4466,
+    "h": 3052,
+    "tier": "venue"
+   },
+   "extract": "Ebbets Field was a Major League Baseball stadium in the Flatbush section of Brooklyn, New York City. It is mainly known for having been the home of the Brooklyn Dodgers baseball team of the National League (1913–1957). It was also home to Negro league baseball's Brooklyn Eagles of the Negro National League II and to…",
+   "page": "https://en.wikipedia.org/wiki/Ebbets_Field"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1944",
+   "text": "The Sporting News names former 30-game-winner (and future Hall of Famer) Dizzy Dean the majors' \"#1 baseball play-by-play announcer\" for 1944. Dean, whose sprinkling of non-grammatical country slang into his broadcasts has sometimes drawn criticism, is the lead announcer for St. Louis' two big-league teams—the World Series champion Cardinals and the AL-champion Browns.",
+   "links": [
+    "The Sporting News",
+    "National Baseball Hall of Fame and Museum",
+    "Dizzy Dean"
+   ],
+   "score": 115.0,
+   "abouts": [
+    "The Sporting News",
+    "National Baseball Hall of Fame and Museum",
+    "Dizzy Dean"
+   ],
+   "about": "The Sporting News",
+   "key": "96bdb13e6a3fe137",
+   "headline": "Sporting News names Dizzy Dean top play-by-play announcer",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dizzy_Dean_Time.jpg",
+    "credit": "Cover credit: Acme (Acme Newspictures, Inc.)Time magazine",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Dizzy_Dean_Time.jpg",
+    "alt": "Vintage Time magazine cover portrait of a baseball player in a cap, captioned Jerome Herman Dean",
+    "source": "checked",
+    "of": "Dizzy Dean",
+    "w": 400,
+    "h": 527,
+    "tier": "person"
+   },
+   "extract": "The National Baseball Hall of Fame and Museum is a history museum and hall of fame in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying baseball-related artifacts and exhibits, honoring those who…",
+   "page": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1937",
+   "text": "Ed Walsh Jr., 32, pitcher and son of Hall of Famer Big Ed Walsh, who played four seasons with the Chicago White Sox before joining the Oakland Oaks of the Pacific Coast League in 1933, when his claim to fame was stopping a young Joe DiMaggio's Minor League record 61-game hitting streak.",
+   "links": [
+    "Ed Walsh Jr.",
+    "Ed Walsh",
+    "Joe DiMaggio"
+   ],
+   "score": 75.0,
+   "abouts": [
+    "Ed Walsh Jr.",
+    "Ed Walsh",
+    "Joe DiMaggio"
+   ],
+   "about": "Ed Walsh Jr.",
+   "key": "af5c94f6d70994a2",
+   "headline": "Ed Walsh Jr. dies at 32; pitcher and son of Big Ed Walsh",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ed_Walsh_and_Ed_Walsh_Jr._1928.jpg",
+    "credit": "Unknown",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ed_Walsh_and_Ed_Walsh_Jr._1928.jpg",
+    "alt": "Two men in White Sox road-style uniforms with 'SOX' logos talking in a dugout",
+    "source": "checked",
+    "of": "Ed Walsh Jr. (Commons search)",
+    "w": 509,
+    "h": 314,
+    "tier": "person"
+   },
+   "extract": "Edward Arthur Walsh was an American professional baseball pitcher in Major League Baseball. He was from Meriden, Connecticut, and was the son of Hall of Famer Ed Walsh. He played four seasons in the Majors, all with Chicago White Sox, from 1928 through 1932.",
+   "page": "https://en.wikipedia.org/wiki/Ed_Walsh_Jr."
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1931",
+   "text": "The St. Louis Cardinals release pitcher Burleigh Grimes. Though Grimes would continue his MLB career, Grimes was the last pitcher who was legally allowed to throw a spitball.",
+   "links": [
+    "St. Louis Cardinals",
+    "Burleigh Grimes"
+   ],
+   "score": 27.0823703955011,
+   "abouts": [
+    "Burleigh Grimes",
+    "St. Louis Cardinals"
+   ],
+   "about": "Burleigh Grimes",
+   "key": "0ed86bd70295a291",
+   "headline": "Cardinals release Burleigh Grimes, last legal spitball pitcher",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burleigh_Grimes.jpg/960px-Burleigh_Grimes.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Burleigh_Grimes.jpg",
+    "alt": "Black-and-white portrait of a baseball player in a cap and Pirates-style jersey with a P",
+    "source": "checked",
+    "of": "Burleigh Grimes",
+    "w": 1401,
+    "h": 1848,
+    "tier": "person"
+   },
+   "extract": "Burleigh Arland Grimes was an American professional baseball player and manager, and the last major league pitcher who was officially permitted to throw the spitball. Grimes made the most of this advantage, as well as his unshaven, menacing presence on the mound, which earned him the nickname \"Ol' Stubblebeard.\" In…",
+   "page": "https://en.wikipedia.org/wiki/Burleigh_Grimes"
+  }
+ ]
+}

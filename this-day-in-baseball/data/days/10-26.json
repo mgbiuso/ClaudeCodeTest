@@ -1,0 +1,930 @@
+{
+ "month": 10,
+ "day": 26,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2000",
+   "text": "The New York Yankees defeat the New York Mets 4–2, to win their 26th World Series in five games. Luis Sojo hits a single in the top of the 9th inning and drives home the winning run for the Yankees. Teammates Bernie Williams and Derek Jeter hit home runs, and Jeter is named the Series MVP.",
+   "links": [
+    "New York Yankees",
+    "New York Mets",
+    "2000 World Series"
+   ],
+   "score": 116.6197650377146,
+   "abouts": [
+    "2000 World Series",
+    "New York Yankees",
+    "New York Mets"
+   ],
+   "about": "2000 World Series",
+   "key": "1042771be37b8937",
+   "headline": "Yankees beat Mets 4-2, win 26th World Series title",
+   "image": null,
+   "extract": "The 2000 World Series was the championship series of Major League Baseball's (MLB) 2000 season. The 96th edition of the World Series, it was a best-of-seven playoff between crosstown opponents, the two-time defending World Series champions and American League (AL) champion New York Yankees and the National League (NL)…",
+   "page": "https://en.wikipedia.org/wiki/2000_World_Series",
+   "lead": true
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2018",
+   "text": "Max Muncy hit a lead-off, walk-off home run against Nathan Eovaldi in the bottom of the 18th inning, to give the Los Angeles Dodgers a 3–2 victory over the Boston Red Sox in Game 3 of the World Series at Dodger Stadium.",
+   "links": [
+    "Max Muncy",
+    "Leadoff hitter",
+    "walk-off home run"
+   ],
+   "score": 85.0,
+   "abouts": [
+    "Max Muncy",
+    "Leadoff hitter",
+    "walk-off home run"
+   ],
+   "about": "Max Muncy",
+   "key": "dc92ccd50c6296ef",
+   "headline": "Max Muncy homers in 18th, Dodgers beat Red Sox 3-2",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_Muncy_LA_Dodgers_2018_%28cropped%29.jpg/960px-Max_Muncy_LA_Dodgers_2018_%28cropped%29.jpg",
+    "credit": "Ian D'Andrea",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Max_Muncy_LA_Dodgers_2018_(cropped).jpg",
+    "alt": "Dodgers player in road grey uniform throwing, glove, stadium scoreboard behind",
+    "source": "checked",
+    "of": "Max Muncy",
+    "w": 2303,
+    "h": 3457,
+    "tier": "person"
+   },
+   "extract": "Maxwell Steven Muncy is an American professional baseball infielder for the Los Angeles Dodgers of Major League Baseball (MLB). He played college baseball for the Baylor Bears. He was selected by the Oakland Athletics in the fifth round of the 2012 Major League Baseball draft. He played in MLB for the Athletics in…",
+   "page": "https://en.wikipedia.org/wiki/Max_Muncy"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2017",
+   "text": "The New York Yankees announced they would not bring Joe Girardi back as their manager in 2018, following a season in which he oversaw a young team that came within a game of the World Series. The Yankees had notified the previous week that Girardi would not return as manager in 2018, opting instead to allow his contract to expire.",
+   "links": [
+    "Joe Girardi"
+   ],
+   "score": 62.0,
+   "abouts": [
+    "Joe Girardi"
+   ],
+   "about": "Joe Girardi",
+   "key": "2c5e0616a1d5c662",
+   "headline": "Yankees will not bring back Joe Girardi as manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Joe_Girardi.png",
+    "credit": "Girardi in 2020",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Girardi.png",
+    "alt": "Middle-aged man with short gray hair in red shirt, dark background",
+    "source": "checked",
+    "of": "Joe Girardi",
+    "w": 622,
+    "h": 758,
+    "tier": "person"
+   },
+   "extract": "Joseph Elliott Girardi is an American sports broadcaster and former professional baseball player and manager in Major League Baseball (MLB). Girardi played the catcher position for the Chicago Cubs, Colorado Rockies, New York Yankees, and St. Louis Cardinals during a big league playing career that spanned from 1989 to…",
+   "page": "https://en.wikipedia.org/wiki/Joe_Girardi"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2009",
+   "text": "The St. Louis Cardinals announce the re-hiring of Tony La Russa as manager for 2010, and the surprise hiring of Mark McGwire as hitting coach, replacing Hal McRae.",
+   "links": [
+    "St. Louis Cardinals",
+    "Tony La Russa",
+    "Mark McGwire"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Tony La Russa",
+    "Mark McGwire",
+    "St. Louis Cardinals"
+   ],
+   "about": "Tony La Russa",
+   "key": "fbda812010038b73",
+   "headline": "Cardinals rehire Tony La Russa, hire Mark McGwire as coach",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mark_McGwire_follow-thru_Piazza_catching-53.jpg/960px-Mark_McGwire_follow-thru_Piazza_catching-53.jpg",
+    "credit": "Jon Gudorf Photography",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mark_McGwire_follow-thru_Piazza_catching-53.jpg",
+    "alt": "Batter in red-and-white uniform swinging at ballpark; catcher and umpire behind plate, crowd.",
+    "source": "checked",
+    "of": "Mark McGwire",
+    "w": 1818,
+    "h": 1228,
+    "tier": "person"
+   },
+   "extract": "Anthony La Russa Jr. is an American former professional baseball infielder and manager. His Major League Baseball (MLB) career spanned from 1963 to 2022, in several roles. He is the former manager of the St. Louis Cardinals, Oakland Athletics, and Chicago White Sox. In 35 seasons as a manager, La Russa guided his…",
+   "page": "https://en.wikipedia.org/wiki/Tony_La_Russa"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2008",
+   "text": "Pitcher Joe Blanton of the Phillies hits a home run in Game 4 of the World Series, becoming the first pitcher to hit a home run in the World Series since 1974.",
+   "links": [
+    "Joe Blanton",
+    "2008 World Series"
+   ],
+   "score": 91.46017217997368,
+   "abouts": [
+    "2008 World Series",
+    "Joe Blanton"
+   ],
+   "about": "2008 World Series",
+   "key": "fb3cd817226937bd",
+   "headline": "Joe Blanton homers in Game 4, first World Series pitcher since 1974",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BlantonPhillies.jpg/960px-BlantonPhillies.jpg",
+    "credit": "Killervogel5 on en.wikipedia",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:BlantonPhillies.jpg",
+    "alt": "Man in Phillies blue jersey and gray pants, holding red cap and glove on grass field",
+    "source": "checked",
+    "of": "Joe Blanton",
+    "w": 1140,
+    "h": 2140,
+    "tier": "person"
+   },
+   "extract": "The 2008 World Series was the championship series of Major League Baseball's (MLB) 2008 season. The 104th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Philadelphia Phillies and the American League (AL) champion Tampa Bay Rays; the Phillies won the series, four…",
+   "page": "https://en.wikipedia.org/wiki/2008_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2006",
+   "text": "The Hokkaido Nippon Ham Fighters win their fourth straight game over the Chunichi Dragons, winning the Japan Series 4–1.",
+   "links": [
+    "Hokkaido Nippon Ham Fighters",
+    "Chunichi Dragons",
+    "2006 Japan Series"
+   ],
+   "score": 21.919076829902156,
+   "abouts": [
+    "2006 Japan Series",
+    "Hokkaido Nippon Ham Fighters",
+    "Chunichi Dragons"
+   ],
+   "about": "2006 Japan Series",
+   "key": "b3a392589c59585d",
+   "headline": "Hokkaido Nippon Ham Fighters win Japan Series 4-1",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/SapporoDome2004-2.jpg/960px-SapporoDome2004-2.jpg",
+    "credit": "Kinori (photographer)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:SapporoDome2004-2.jpg",
+    "alt": "Large silver dome stadium exterior in snow, with urban road",
+    "source": "checked",
+    "of": "Hokkaido Nippon Ham Fighters",
+    "w": 1280,
+    "h": 960,
+    "tier": "venue"
+   },
+   "extract": "The 2006 Japan Series, the 57th edition of Nippon Professional Baseball's championship series, began on October 21 and ended on October 26, and matched the Central League champion Chunichi Dragons against the Pacific League champion, Hokkaido Nippon Ham Fighters. The Fighters were making their first Japan Series…",
+   "page": "https://en.wikipedia.org/wiki/2006_Japan_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2005",
+   "text": "In the World Series, the Chicago White Sox complete a sweep of the Houston Astros with a 1–0 victory in Game Four. Freddy García pitches seven shutout innings, and Series MVP Jermaine Dye connects an RBI single off Brad Lidge in the eighth for the only run of the game, as Juan Uribe adds strong defensive support at shortstop. García becomes the first Venezuelan starting pitcher to win a World Series game.",
+   "links": [
+    "2005 World Series",
+    "Chicago White Sox",
+    "Houston Astros"
+   ],
+   "score": 97.83907103751375,
+   "abouts": [
+    "2005 World Series",
+    "Chicago White Sox",
+    "Houston Astros"
+   ],
+   "about": "2005 World Series",
+   "key": "447a00278ebdb3ad",
+   "headline": "White Sox sweep Astros with 1-0 Game Four win",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Chicago_White_Sox_World_Series.jpg",
+    "credit": "Fuzzy510",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chicago_White_Sox_World_Series.jpg",
+    "alt": "Commissioner's Trophy and American League pennant display in front of Chicago skyline",
+    "source": "checked",
+    "of": "2005 World Series",
+    "w": 604,
+    "h": 453,
+    "tier": "event"
+   },
+   "extract": "The 2005 World Series was the championship series of Major League Baseball's (MLB) 2005 season. The 101st edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Chicago White Sox and the National League (NL) champion Houston Astros. The White Sox swept the Astros in four…",
+   "page": "https://en.wikipedia.org/wiki/2005_World_Series"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2005",
+   "text": "The postseason began on October 4, 2005, and ended on October 26, 2005, with the White Sox sweeping the Astros in the 2005 World Series.",
+   "links": [
+    "2005 Major League Baseball postseason"
+   ],
+   "about": "2005 Major League Baseball postseason",
+   "score": 68.55101007327693,
+   "abouts": [
+    "2005 Major League Baseball postseason"
+   ],
+   "key": "16bdbd5f3b90b020",
+   "headline": "White Sox sweep Astros in 2005 World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Chicago_White_Sox_World_Series.jpg",
+    "credit": "Fuzzy510",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chicago_White_Sox_World_Series.jpg",
+    "alt": "World Series trophy and American League pennant display with Chicago skyline backdrop",
+    "source": "checked",
+    "of": "2005 World Series",
+    "w": 604,
+    "h": 453,
+    "tier": "event"
+   },
+   "extract": "The 2005 Major League Baseball postseason was the playoff tournament of Major League Baseball for the 2005 season. The winners of the League Division Series would move on to the League Championship Series to determine the pennant winners that face each other in the World Series.",
+   "page": "https://en.wikipedia.org/wiki/2005_Major_League_Baseball_postseason"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2004",
+   "text": "Takashi Ishii goes six strong innings and Alex Cabrera hits a towering two-run homer as the Seibu Lions defeat the Chunichi Dragons 7-2 in Game 7 of the Japan Series to win their first championship since 1992. The ball bounces off the glass-enclosed private boxes above the left field seats. It is Cabrera's third home run of the Series.",
+   "links": [
+    "Takashi Ishii (baseball)",
+    "Alex Cabrera",
+    "Seibu Lions"
+   ],
+   "score": 71.6141963634316,
+   "abouts": [
+    "Alex Cabrera",
+    "Takashi Ishii (baseball)",
+    "Seibu Lions"
+   ],
+   "about": "Alex Cabrera",
+   "key": "81b3b990d5c783f4",
+   "headline": "Seibu Lions beat Chunichi 7-2 to win Japan Series",
+   "image": null,
+   "extract": "Alexander Alberto Cabrera is a Venezuelan former first baseman and right-handed batter who played in 2000 for the Arizona Diamondbacks in Major League Baseball (MLB) and for 12 seasons in Nippon Professional Baseball (NPB). He also played several seasons in the Mexican League and the Venezuelan Professional Baseball…",
+   "page": "https://en.wikipedia.org/wiki/Alex_Cabrera"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2002",
+   "text": "The Anaheim Angels stage one of the great comebacks in World Series history to force a seventh game. With one out in the 7th inning, the Giants are leading 5–0 and are just 8 outs from their first World Series title since moving to San Francisco. But after two singles, Scott Spezio fouls off several pitches before hitting a 3-run homer to get the Angels close.",
+   "links": [
+    "Scott Spezio",
+    "Rob Nen",
+    "Troy Percival"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "Scott Spezio",
+    "Rob Nen",
+    "Troy Percival"
+   ],
+   "about": "Scott Spezio",
+   "key": "b0b80364394d0d0a",
+   "headline": "Angels rally from 5-0 deficit, force seventh game",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DSC00826_Scott_Spiezio.jpg/960px-DSC00826_Scott_Spiezio.jpg",
+    "credit": "shgmom56 on Flickr (Original version) User UCinternational (Crop)",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:DSC00826_Scott_Spiezio.jpg",
+    "alt": "Baseball player in red St. Louis Cardinals batting uniform, number 26, swinging.",
+    "source": "checked",
+    "of": "Scott Spezio",
+    "w": 1800,
+    "h": 2000,
+    "tier": "person"
+   },
+   "extract": "Scott Edward Spiezio is an American former professional baseball infielder. He is well known for his time as a member of the Anaheim Angels, when he hit a three-run home run in Game Six of the 2002 World Series against the San Francisco Giants, sparking the Angels to a dramatic come-from-behind victory. He also played…",
+   "page": "https://en.wikipedia.org/wiki/Scott_Spiezio"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1997",
+   "text": "The Florida Marlins defeat the Cleveland Indians in Game 7 to win the World Series in just their 5th season of existence.",
+   "links": [
+    "Florida Marlins",
+    "Cleveland Indians"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "Florida Marlins",
+    "Cleveland Indians"
+   ],
+   "about": "Florida Marlins",
+   "key": "8e0f56f0b6fee16d",
+   "headline": "Marlins beat Indians in Game 7, win World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dolphin_Stadium.JPG/960px-Dolphin_Stadium.JPG",
+    "credit": "(WT-de) Mistoffeles",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dolphin_Stadium.JPG",
+    "alt": "Baseball game in a large orange-seated stadium with a scoreboard and foul pole.",
+    "source": "checked",
+    "of": "Florida Marlins",
+    "w": 2048,
+    "h": 1536,
+    "tier": "venue"
+   },
+   "extract": "The Miami Marlins are an American professional baseball team based in Miami. The Marlins compete in Major League Baseball (MLB) as a member club of the National League (NL) East Division. The team plays its home games at LoanDepot Park.",
+   "page": "https://en.wikipedia.org/wiki/Miami_Marlins"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1996",
+   "text": "The New York Yankees take their fourth victory in a row from the Atlanta Braves, 3-2, giving them the 1996 World Series and their 23rd World Championship. Starter Jimmy Key gets the win with help from closer John Wetteland, whose four saves earn him the World Series MVP trophy.",
+   "links": [
+    "New York Yankees",
+    "Atlanta Braves",
+    "1996 World Series"
+   ],
+   "score": 121.02899810785289,
+   "abouts": [
+    "1996 World Series",
+    "New York Yankees",
+    "Atlanta Braves"
+   ],
+   "about": "1996 World Series",
+   "key": "b0cbdaa648c1e5eb",
+   "headline": "Yankees beat Braves 3-2, win 1996 World Series",
+   "image": null,
+   "extract": "The 1996 World Series was the championship series of Major League Baseball's (MLB) 1996 season. The 92nd edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Atlanta Braves and the American League (AL) champion New York Yankees. The Yankees defeated the Braves four…",
+   "page": "https://en.wikipedia.org/wiki/1996_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1994",
+   "text": "Frank Thomas of the Chicago White Sox repeated as American League MVP as he got 24 of the 28 first-place votes.",
+   "links": [
+    "Frank Thomas",
+    "Chicago White Sox"
+   ],
+   "score": 67.70327380455059,
+   "abouts": [
+    "Frank Thomas",
+    "Chicago White Sox"
+   ],
+   "about": "Frank Thomas",
+   "key": "5ff45446406ccf8e",
+   "headline": "Frank Thomas repeats as American League MVP",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frank_Thomas_1997_CROP.jpg/960px-Frank_Thomas_1997_CROP.jpg",
+    "credit": "clare_and_ben User:Delaywaves",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Frank_Thomas_1997_CROP.jpg",
+    "alt": "Batter in White Sox pinstripes and batting helmet at a ballpark",
+    "source": "checked",
+    "of": "Frank Thomas",
+    "w": 2213,
+    "h": 2315,
+    "tier": "person"
+   },
+   "extract": "Frank Edward Thomas Jr., nicknamed \"the Big Hurt,\" is an American former baseball designated hitter and first baseman in Major League Baseball (MLB). He played for three American League (AL) teams from 1990 to 2008, all but the last three years with the Chicago White Sox. A five-time All-Star, he is the only player in…",
+   "page": "https://en.wikipedia.org/wiki/Frank_Thomas"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1991",
+   "text": "Bill Bevens, 75, pitcher for the New York Yankees from 1944 to 1947 and also part of the 1947 World Series champion Yankees; famously took a no-hit game into the ninth inning of Game 4 of that Fall Classic, before surrendering a two-out double to Cookie Lavagetto and losing the contest, 3–2.",
+   "links": [
+    "Bill Bevens",
+    "Cookie Lavagetto"
+   ],
+   "score": 20.216,
+   "abouts": [
+    "Bill Bevens",
+    "Cookie Lavagetto"
+   ],
+   "about": "Bill Bevens",
+   "key": "f7dd5820292345fa",
+   "headline": "Bill Bevens, 75, former Yankees pitcher, dies",
+   "image": null,
+   "extract": "Floyd Clifford \"Bill\" Bevens was an American professional baseball player. He played in Major League Baseball as a right-handed pitcher for the New York Yankees from 1944 through 1947. Bevens is notable for his performance in Game 4 of the 1947 World Series when he came within one out from throwing what would have…",
+   "page": "https://en.wikipedia.org/wiki/Bill_Bevens"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1988",
+   "text": "Six days after leading the Los Angeles Dodgers to an improbable World Series championship, Tommy Lasorda is named NL Manager of the Year by the BBWAA. Lasorda wins in a runaway, taking 19 of 24 first place votes for 101 points, doubling the support for his runner-up, Jim Leyland of the Pittsburgh Pirates.",
+   "links": [
+    "Los Angeles Dodgers",
+    "Tommy Lasorda",
+    "Jim Leyland"
+   ],
+   "score": 87.0,
+   "abouts": [
+    "Tommy Lasorda",
+    "Jim Leyland",
+    "Los Angeles Dodgers"
+   ],
+   "about": "Tommy Lasorda",
+   "key": "f67734c444074066",
+   "headline": "Tommy Lasorda named NL Manager of the Year, 19 of 24 first-place votes",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Tommy_Lasorda_1981.jpg",
+    "credit": "Series: Reagan White House Photographs, 1/20/1981 - 1/20/1989",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Tommy_Lasorda_1981.jpg",
+    "alt": "Older man in suit and tie with American flag behind him",
+    "source": "checked",
+    "of": "Tommy Lasorda",
+    "w": 566,
+    "h": 829,
+    "tier": "person"
+   },
+   "extract": "Thomas Charles Lasorda was an American professional baseball pitcher and manager. He managed the Los Angeles Dodgers of Major League Baseball (MLB) from 1976 through 1996. He was inducted into the National Baseball Hall of Fame as a manager in 1997.",
+   "page": "https://en.wikipedia.org/wiki/Tommy_Lasorda"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1985",
+   "text": "With champagne on ice in their clubhouse, the St. Louis Cardinals—ahead 1–0 in the bottom of the ninth of Game 6 at Royals Stadium and three-games-to-two in the 1985 World Series—are poised to capture the franchise's tenth Fall Classic, when an umpire's decision drastically changes momentum.",
+   "links": [
+    "St. Louis Cardinals",
+    "Royals Stadium",
+    "1985 World Series"
+   ],
+   "score": 99.76855690213777,
+   "abouts": [
+    "1985 World Series",
+    "Royals Stadium",
+    "St. Louis Cardinals"
+   ],
+   "about": "1985 World Series",
+   "key": "06e19d91aa515b39",
+   "headline": "Cardinals lead Royals 1-0 in ninth of Game 6",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/KC_Royals_Stadium.JPG",
+    "credit": "User Wahkeenah on en.wikipedia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:KC_Royals_Stadium.JPG",
+    "alt": "Large red-seated stadium exterior with light towers and grass fields",
+    "source": "checked",
+    "of": "Royals Stadium",
+    "w": 632,
+    "h": 369,
+    "tier": "venue"
+   },
+   "extract": "The 1985 World Series was the championship series of Major League Baseball's (MLB) 1985 season. The 82nd edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Kansas City Royals and the National League (NL) champion St. Louis Cardinals. The Royals upset the…",
+   "page": "https://en.wikipedia.org/wiki/1985_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1982",
+   "text": "Steve Carlton of the Philadelphia Phillies wins his fourth NL Cy Young Award, after winning 23 games—the only MLB pitcher to exceed 20 victories during 1982.",
+   "links": [
+    "Steve Carlton",
+    "Philadelphia Phillies",
+    "Cy Young Award"
+   ],
+   "score": 57.709019104740875,
+   "abouts": [
+    "Cy Young Award",
+    "Steve Carlton",
+    "Philadelphia Phillies"
+   ],
+   "about": "Cy Young Award",
+   "key": "24a3f613b6de9552",
+   "headline": "Steve Carlton wins fourth NL Cy Young Award",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Statue_of_Steve_%22Lefty%22_Carlton.jpg/960px-Statue_of_Steve_%22Lefty%22_Carlton.jpg",
+    "credit": "Peter Bond",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Steve_%22Lefty%22_Carlton.jpg",
+    "alt": "Bronze statue of a pitcher at Citizens Bank Park, Phillies ballpark, with Phillie Phanatic.",
+    "source": "checked",
+    "of": "Steve Carlton",
+    "w": 3456,
+    "h": 2304,
+    "tier": "person"
+   },
+   "extract": "The Cy Young Award, officially the Cy Young Memorial Award, is given annually to the best pitchers in Major League Baseball (MLB), one each for the American League (AL) and National League (NL). The award was introduced in 1956 by Baseball Commissioner Ford C. Frick in honor of Hall of Fame pitcher Cy Young, who died…",
+   "page": "https://en.wikipedia.org/wiki/Cy_Young_Award"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1981",
+   "text": "George Steinbrenner hits the headlines after his New York Yankees drop Game 5 of the 1981 World Series to the home-standing Dodgers. Riding in an elevator at Los Angeles' Hyatt-Wilshire Hotel, the 51-year-old owner injures his left hand and suffers a cut lip, allegedly after scuffling with two Dodger fans who had ridiculed the Yankees and their fanbase.",
+   "links": [
+    "George Steinbrenner",
+    "New York Yankees",
+    "1981 World Series"
+   ],
+   "score": 70.14630997902088,
+   "abouts": [
+    "1981 World Series",
+    "George Steinbrenner",
+    "New York Yankees"
+   ],
+   "about": "1981 World Series",
+   "key": "e30b52f9754007e7",
+   "headline": "Steinbrenner hurt in elevator scuffle after Game 5 loss",
+   "image": null,
+   "extract": "The 1981 World Series was the championship series of Major League Baseball's (MLB) 1981 season. The 78th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion New York Yankees and the National League (NL) champion Los Angeles Dodgers. It marked their third Series…",
+   "page": "https://en.wikipedia.org/wiki/1981_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1977",
+   "text": "The St. Louis Cardinals purchase the contract of pitcher Aurelio López from the Mexico City Reds of the Mexican League.",
+   "links": [
+    "St. Louis Cardinals",
+    "Aurelio López",
+    "Mexico City Reds"
+   ],
+   "score": 35.96562299177231,
+   "abouts": [
+    "Aurelio López",
+    "St. Louis Cardinals",
+    "Mexico City Reds"
+   ],
+   "about": "Aurelio López",
+   "key": "400170871dee8bb5",
+   "headline": "Cardinals buy contract of pitcher Aurelio López",
+   "image": null,
+   "extract": "Aurelio Alejandro López Rios was a Mexican professional baseball player. After pitching for several years in the Mexican League, he spent eleven seasons with four teams in Major League Baseball — a majority of it spent with the Detroit Tigers. He acquired the nickname \"Señor Smoke\" in Detroit, while he was known as…",
+   "page": "https://en.wikipedia.org/wiki/Aurelio_L%C3%B3pez"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1973",
+   "text": "The Boston Red Sox pull off their third significant trade in four days, dealing two-time All-Star outfielder Reggie Smith and relief pitcher Ken Tatum to the St. Louis Cardinals for starting pitcher Rick Wise and outfielder Bernie Carbo.",
+   "links": [
+    "Boston Red Sox",
+    "Reggie Smith",
+    "Ken Tatum"
+   ],
+   "score": 25.0,
+   "abouts": [
+    "Reggie Smith",
+    "Ken Tatum",
+    "Boston Red Sox"
+   ],
+   "about": "Reggie Smith",
+   "key": "9e241e7e778b7870",
+   "headline": "Red Sox trade Reggie Smith to Cardinals for Rick Wise",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rico_Petrocelli%2C_Carl_Yastrzemski_and_Reggie_Smith_1967.jpg/960px-Rico_Petrocelli%2C_Carl_Yastrzemski_and_Reggie_Smith_1967.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Rico_Petrocelli,_Carl_Yastrzemski_and_Reggie_Smith_1967.jpg",
+    "alt": "Three smiling Red Sox players in jerseys in a celebratory group photo",
+    "source": "checked",
+    "of": "Reggie Smith (Commons search)",
+    "w": 2057,
+    "h": 1615,
+    "tier": "person"
+   },
+   "extract": "Carl Reginald Smith is an American former professional baseball player. He played in Major League Baseball (MLB) as an outfielder and afterwards served as a coach and front office executive. He also played in the Nippon Professional Baseball (NPB) for two seasons at the end of his playing career. During a…",
+   "page": "https://en.wikipedia.org/wiki/Reggie_Smith"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1960",
+   "text": "Trying to jump ahead of the National League, the American League announces it will add two clubs in 1961 and become a ten-team circuit. The AL admits Los Angeles as an expansion team and permits Calvin Griffith to move his existing Washington Senators franchise, and all its major- and minor-league players, to Minneapolis–Saint Paul.",
+   "links": [
+    "National League (baseball)",
+    "American League",
+    "1961 Major League Baseball expansion"
+   ],
+   "score": 57.74065672373972,
+   "abouts": [
+    "American League",
+    "1961 Major League Baseball expansion",
+    "National League (baseball)"
+   ],
+   "about": "American League",
+   "key": "c9a4015b844cc209",
+   "headline": "American League adds two clubs, expanding to ten teams",
+   "image": null,
+   "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
+   "page": "https://en.wikipedia.org/wiki/American_League"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1956",
+   "text": "The New York Giants sign veteran slugger Hank Sauer, released by the St. Louis Cardinals. Sauer, at age 40, will make a comeback with the Giants in 1957, hitting 26 homers, tenth in the National League.",
+   "links": [
+    "New York Giants (baseball)",
+    "Hank Sauer",
+    "St. Louis Cardinals"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Hank Sauer",
+    "New York Giants (baseball)",
+    "St. Louis Cardinals"
+   ],
+   "about": "Hank Sauer",
+   "key": "d5b455d6a2eb9af5",
+   "headline": "Giants sign veteran slugger Hank Sauer, released by Cardinals",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hank_Sauer_1950.jpg/960px-Hank_Sauer_1950.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Hank_Sauer_1950.jpg",
+    "alt": "Smiling man seated on floral couch holding large baseball bats, gifts nearby",
+    "source": "checked",
+    "of": "Hank Sauer (Commons search)",
+    "w": 2210,
+    "h": 2988,
+    "tier": "person"
+   },
+   "extract": "Henry John Sauer was an American professional baseball player, coach and scout. He appeared in 1,399 games, primarily as a left fielder, in Major League Baseball (MLB) for the Cincinnati Reds, Chicago Cubs (1949–1955), St. Louis Cardinals (1956), and New York / San Francisco Giants (1957–1959). A popular player with…",
+   "page": "https://en.wikipedia.org/wiki/Hank_Sauer"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1949",
+   "text": "After his disgruntled players had voted skipper Billy Southworth, a future Hall-of-Fame manager, only a half-share of the Boston Braves' fourth-place World Series money, Commissioner Happy Chandler steps in to restore Southworth's full amount due. Suffering from stress and rumored to be battling a drinking problem, Southworth took a leave of absence for the last 45 games of the 1949 season.",
+   "links": [
+    "Billy Southworth",
+    "Baseball Hall of Fame",
+    "Boston Braves"
+   ],
+   "score": 77.9390131935921,
+   "abouts": [
+    "Billy Southworth",
+    "Baseball Hall of Fame",
+    "Boston Braves"
+   ],
+   "about": "Billy Southworth",
+   "key": "8f366874f8387843",
+   "headline": "Commissioner Chandler restores Southworth's full World Series share",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/1915_Billy_Southworth.jpeg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1915_Billy_Southworth.jpeg",
+    "alt": "Man in Cleveland road uniform and C cap, black-and-white portrait",
+    "source": "checked",
+    "of": "Billy Southworth",
+    "w": 662,
+    "h": 867,
+    "tier": "person"
+   },
+   "extract": "William Harold Southworth was an American professional baseball right fielder and manager. He played 13 seasons in Major League Baseball (MLB) for the Cleveland Indians, Pittsburgh Pirates, Boston Braves, New York Giants, and St. Louis Cardinals from 1913 to 1929, and managed for the Cardinals and Braves from 1929 to…",
+   "page": "https://en.wikipedia.org/wiki/Billy_Southworth"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1946",
+   "text": "In his nationally syndicated newspaper column, influential journalist and commentator Westbrook Pegler alleges that Leo Durocher is associating with known gamblers and racketeers through his close friendship with actor George Raft. In a series of columns in the coming weeks, Pegler will continue to attack the Brooklyn Dodgers' manager (and Raft) as \"threats to society.\"",
+   "links": [
+    "Westbrook Pegler",
+    "Leo Durocher",
+    "George Raft"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Westbrook Pegler",
+    "Leo Durocher",
+    "George Raft"
+   ],
+   "about": "Westbrook Pegler",
+   "key": "26a08462fe7d851f",
+   "headline": "Pegler attacks Leo Durocher over gambler ties",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Baseball._Durocher_BAnQ_P48S1P12826.jpg",
+    "credit": "Conrad Poirier",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Baseball._Durocher_BAnQ_P48S1P12826.jpg",
+    "alt": "Man in Dodgers uniform seated on stool in clubhouse, gesturing",
+    "source": "checked",
+    "of": "Leo Durocher",
+    "w": 689,
+    "h": 960,
+    "tier": "person"
+   },
+   "extract": "Leo Ernest Durocher, nicknamed \"Leo the Lip\" and \"Lippy\", was an American professional baseball player, manager, and coach. He played in Major League Baseball (MLB) as an infielder. Upon his retirement, he ranked fifth all-time among managers with 2,008 career victories, second only to John McGraw in National League…",
+   "page": "https://en.wikipedia.org/wiki/Leo_Durocher"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1931",
+   "text": "Charles Comiskey, 72, Hall of Fame first baseman/manager and owner of the Chicago White Sox since the team's formation in 1901, during which time they won four American League pennants and two World Series (1906, 1917), who previously became the first manager to win four consecutive pennants, with the St. Louis Browns (1885–1888), including the 1886 World Series title. and posted the highest winning percentage…",
+   "links": [
+    "Charles Comiskey"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Charles Comiskey"
+   ],
+   "about": "Charles Comiskey",
+   "key": "e86b75c2dc5a5d7d",
+   "headline": "Charles Comiskey, 72, Hall of Fame owner, dies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Charles_Comiskey.jpg/960px-Charles_Comiskey.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Charles_Comiskey.jpg",
+    "alt": "Black-and-white studio portrait of a man in dark suit and bow tie",
+    "source": "checked",
+    "of": "Charles Comiskey",
+    "w": 1456,
+    "h": 1798,
+    "tier": "person"
+   },
+   "extract": "Charles Albert Comiskey, nicknamed \"Commy\" or \"the Old Roman\", was an American professional baseball first baseman, manager, and team owner. He played 13 seasons in the American Association (AA) for the St. Louis Brown Stockings / Browns, the Players' League (PL) for the Chicago Pirates, and the National League (NL)…",
+   "page": "https://en.wikipedia.org/wiki/Charles_Comiskey"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1911",
+   "text": "The Philadelphia Athletics defeat the New York Giants, 13–2, in Game 6 of the World Series to win their second consecutive World Championship title. Philadelphia wins the series, four games to two. The six consecutive days of rain between Games 3 and 4 caused the longest delay between World Series games until the Loma Prieta earthquake interrupted the 1989 Series, which incidentally featured the same two franchises…",
+   "links": [
+    "Philadelphia Athletics",
+    "New York Giants (baseball)",
+    "1911 World Series"
+   ],
+   "score": 106.14968842953967,
+   "abouts": [
+    "1911 World Series",
+    "Philadelphia Athletics",
+    "New York Giants (baseball)"
+   ],
+   "about": "1911 World Series",
+   "key": "95d2e958d1aa862f",
+   "headline": "Athletics beat Giants 13-2, win second straight title",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/1911SeriesShibeOnLehigh1.jpg",
+    "credit": "Bain News Service",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1911SeriesShibeOnLehigh1.jpg",
+    "alt": "Large crowd of men in hats queuing outside a brick building.",
+    "source": "checked",
+    "of": "1911 World Series",
+    "w": 950,
+    "h": 650,
+    "tier": "venue"
+   },
+   "extract": "The 1911 World Series was the championship series in Major League Baseball for the 1911 season. The eighth edition of the World Series, it matched the American League (AL) champion Philadelphia Athletics against the National League (NL) champion New York Giants. The Athletics won the best-of-seven series four games to…",
+   "page": "https://en.wikipedia.org/wiki/1911_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1909",
+   "text": "Frank Siffell, German catcher for the Philadelphia Athletics of the American Association (1884–1885).",
+   "links": [
+    "Frank Siffell"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Frank Siffell"
+   ],
+   "about": "Frank Siffell",
+   "key": "db2ce13c602f3ef4",
+   "headline": "Frank Siffell, German catcher for Athletics, born",
+   "image": null,
+   "extract": "Frank Siffell was a 19th-century Major League Baseball player. He played primarily catcher during the 1884 and 1885 seasons for the Philadelphia Athletics of the American Association.",
+   "page": "https://en.wikipedia.org/wiki/Frank_Siffell"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1889",
+   "text": "New York wins again, taking an 11–7 triumph over the Bridegrooms.",
+   "links": [
+    "New York Giants (NL)",
+    "Brooklyn Bridegrooms"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "New York Giants (NL)",
+    "Brooklyn Bridegrooms"
+   ],
+   "about": "New York Giants (NL)",
+   "key": "20842a485654dd3c",
+   "headline": "New York beats Bridegrooms 11-7 in game",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1883_New_York_Gothams.jpeg/960px-1883_New_York_Gothams.jpeg",
+    "credit": "J Wood, 208 Bowery, N.Y.",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1883_New_York_Gothams.jpeg",
+    "alt": "Vintage team photo of baseball players in matching uniforms, labeled New York League Base Ball Club.",
+    "source": "checked",
+    "of": "New York Giants (NL)",
+    "w": 2254,
+    "h": 1775,
+    "tier": "team"
+   },
+   "extract": "The New York Giants were a Major League Baseball team in the National League that began play in the 1883 season as the New York Gothams and became known as the Giants in 1885. They continued as the New York Giants until the team moved to San Francisco after the 1957 season, where the team continues its history as the…",
+   "page": "https://en.wikipedia.org/wiki/New_York_Giants_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1887",
+   "text": "The Browns win the final game of the series, but Detroit wins the series 10 games to 5.",
+   "links": [
+    "St. Louis Cardinals",
+    "Detroit Wolverines"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "St. Louis Cardinals",
+    "Detroit Wolverines"
+   ],
+   "about": "St. Louis Cardinals",
+   "key": "c680e00175ecccbf",
+   "headline": "Detroit wins series 10 games to 5 over Browns",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/1888_Detroit_Wolverines.jpg/960px-1888_Detroit_Wolverines.jpg",
+    "credit": "Hastings, George H., fl. 1885-1896, photographer.",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1888_Detroit_Wolverines.jpg",
+    "alt": "Team photo of players in 'Detroit' uniforms before a stadium grandstand.",
+    "source": "checked",
+    "of": "Detroit Wolverines",
+    "w": 1293,
+    "h": 993,
+    "tier": "team"
+   },
+   "extract": "The St. Louis Cardinals are an American professional baseball team based in St. Louis. The Cardinals compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. Since the 2006 season, the Cardinals have played their home games at Busch Stadium in downtown St. Louis. One of the…",
+   "page": "https://en.wikipedia.org/wiki/St._Louis_Cardinals"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1877",
+   "text": "Jim Devlin and George Hall are confronted by Louisville vice-president Charles Chase with charges of throwing games. Both players admit to the charges, and also implicate teammates Al Nichols and Bill Craver in the scandal.",
+   "links": [
+    "Jim Devlin",
+    "George Hall (baseball)",
+    "Louisville Grays"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Jim Devlin",
+    "George Hall (baseball)",
+    "Louisville Grays"
+   ],
+   "about": "Jim Devlin",
+   "key": "09f5ba5a03451a1b",
+   "headline": "Devlin and Hall admit throwing games, Louisville says",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Jim_Devlin.jpg",
+    "credit": "Gross & Co",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jim_Devlin.jpg",
+    "alt": "Vintage sepia photo of a ballplayer in uniform on a field",
+    "source": "checked",
+    "of": "Jim Devlin (Commons search)",
+    "w": 510,
+    "h": 760,
+    "tier": "person"
+   },
+   "extract": "James Alexander Devlin was an American professional baseball player who played mainly as a first baseman early in his career, then later as a pitcher. Devlin played for three teams during his five-year career; the Philadelphia White Stockings and the Chicago White Stockings of the National Association, and the…",
+   "page": "https://en.wikipedia.org/wiki/Jim_Devlin"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1877",
+   "text": "On October 26, 1877, Louisville club vice president Charles Chase confronted Hall and fellow Gray Jim Devlin with charges that they threw some road games in August and September.",
+   "links": [
+    "George Hall (baseball)"
+   ],
+   "about": "George Hall (baseball)",
+   "score": 10.0,
+   "abouts": [
+    "George Hall (baseball)"
+   ],
+   "key": "6d39093a874c633d",
+   "headline": "Louisville accuses Devlin and Hall of throwing games",
+   "image": null,
+   "extract": "George William Hall was an American amateur and professional baseball player who played in the National Association and later the National League. Born in Stepney, England, Hall later immigrated to the U.S. He made his professional debut on May 5, 1871. While playing for the Louisville Grays, he was banned from Major…",
+   "page": "https://en.wikipedia.org/wiki/George_Hall_(baseball)"
+  }
+ ]
+}

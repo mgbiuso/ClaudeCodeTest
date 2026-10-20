@@ -1,0 +1,605 @@
+{
+ "month": 10,
+ "day": 29,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2008",
+   "text": "Game 5 of the World Series is resumed at Citizens Bank Park in the bottom of the sixth inning after having been suspended October 27 because of rain. The Phillies win the game 4–3 to win their first title since 1980 and bring the city of Philadelphia a championship after 25 years. Pitcher Cole Hamels is named World Series MVP.",
+   "links": [
+    "Citizens Bank Park",
+    "1983 NBA Finals",
+    "Cole Hamels"
+   ],
+   "score": 119.97620100931408,
+   "abouts": [
+    "1983 NBA Finals",
+    "Citizens Bank Park",
+    "Cole Hamels"
+   ],
+   "about": "1983 NBA Finals",
+   "key": "cd38a091b4e0cb25",
+   "headline": "Phillies win World Series Game 5, first title since 1980",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/2008_world_series_rain_delay.JPG",
+    "credit": "Edg126",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2008_world_series_rain_delay.JPG",
+    "alt": "Stadium field covered by white tarp during rain, fans in seats",
+    "source": "checked",
+    "of": "2008 World Series",
+    "w": 640,
+    "h": 480,
+    "tier": "event"
+   },
+   "extract": "Citizens Bank Park is a baseball stadium in Philadelphia, Pennsylvania, United States. Home to Major League Baseball's Philadelphia Phillies, the stadium opened April 3, 2004.",
+   "page": "https://en.wikipedia.org/wiki/Citizens_Bank_Park",
+   "lead": true
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2017",
+   "text": "The Houston Astros came from behind three times to beat the visiting Los Angeles Dodgers, 13–12, in 10 innings in Game 5 of the World Series to take a 3–2 series lead. With their victory, the Astros became only the second team in history to overcome multiple three-run deficits in the same World Series game.",
+   "links": [
+    "2017 World Series",
+    "Yuli Gurriel",
+    "Jose Altuve"
+   ],
+   "score": 73.1582840258396,
+   "abouts": [
+    "2017 World Series",
+    "Yuli Gurriel",
+    "Jose Altuve"
+   ],
+   "about": "2017 World Series",
+   "key": "e9e1b043a5265ec0",
+   "headline": "Astros rally three times to beat Dodgers 13–12 in Game 5",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2017_World_Series_champion_Houston_Astros_visit_White_House.jpg/960px-2017_World_Series_champion_Houston_Astros_visit_White_House.jpg",
+    "credit": "The White House on Flickr",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:2017_World_Series_champion_Houston_Astros_visit_White_House.jpg",
+    "alt": "Large group of men and women posed in the Oval Office around a desk with a trophy",
+    "source": "checked",
+    "of": "2017 World Series",
+    "w": 3000,
+    "h": 2000,
+    "tier": "team"
+   },
+   "extract": "The 2017 World Series was the championship series of Major League Baseball's (MLB) 2017 season. The 113th edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion Los Angeles Dodgers and the American League (AL) champion Houston Astros. The series was played between…",
+   "page": "https://en.wikipedia.org/wiki/2017_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2017",
+   "text": "Al Richter, 90, shortstop who played for the Boston Red Sox in a span of two seasons from 1951 to 1953.",
+   "links": [
+    "Al Richter"
+   ],
+   "score": 20.2005,
+   "abouts": [
+    "Al Richter"
+   ],
+   "about": "Al Richter",
+   "key": "461a8d45e05e1e74",
+   "headline": "Al Richter, shortstop for Red Sox, dies at 90",
+   "image": null,
+   "extract": "Allen Gordon Richter was an American professional baseball player.",
+   "page": "https://en.wikipedia.org/wiki/Al_Richter"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2013",
+   "text": "Cuban defector José Abreu agrees to a six-year, $68 million contract to play for the Chicago White Sox. It is the largest deal ever handed out by an international free agent in Major League history, besting the six-year, $60 million contract the Texas Rangers gave Yu Darvish on January 20, 2012.",
+   "links": [
+    "José Abreu (first baseman)",
+    "Chicago White Sox",
+    "Texas Rangers (baseball)"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "José Abreu (first baseman)",
+    "Chicago White Sox",
+    "Texas Rangers (baseball)"
+   ],
+   "about": "José Abreu (first baseman)",
+   "key": "e6510bf893c48b8e",
+   "headline": "José Abreu signs $68 million deal with Chicago White Sox",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jose_Abreu_on_deck_circle_at_Minute_Maid_2014.jpg/960px-Jose_Abreu_on_deck_circle_at_Minute_Maid_2014.jpg",
+    "credit": "EricEnfermero",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jose_Abreu_on_deck_circle_at_Minute_Maid_2014.jpg",
+    "alt": "Player in gray Chicago road jersey with bat, batting helmet, Minute Maid Park backdrop",
+    "source": "checked",
+    "of": "José Abreu (first baseman)",
+    "w": 1498,
+    "h": 2247,
+    "tier": "person"
+   },
+   "extract": "José Dariel Abreu Correa is a Cuban-born former professional baseball first baseman. He played in Major League Baseball (MLB) for the Chicago White Sox and Houston Astros.",
+   "page": "https://en.wikipedia.org/wiki/Jos%C3%A9_Abreu"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2013",
+   "text": "On October 29, 2013, the Aeros changed their name to the Akron RubberDucks, paying homage to Akron as the original \"Rubber Capital of the World\" and celebrating the family entertainment aspect of Minor League Baseball.",
+   "links": [
+    "Akron RubberDucks"
+   ],
+   "about": "Akron RubberDucks",
+   "score": 20.0,
+   "abouts": [
+    "Akron RubberDucks"
+   ],
+   "key": "9b6bbafb3f71a46e",
+   "headline": "Aeros become Akron RubberDucks, honoring city's rubber heritage",
+   "image": null,
+   "extract": "The Akron RubberDucks are a Minor League Baseball team based in Akron, Ohio. The team plays in the Eastern League and is the Double-A affiliate of the Cleveland Guardians. They play in 7 17 Credit Union Park, located in downtown Akron, which seats 7,630 fans. The nickname \"RubberDucks\" refers to Akron's history in the…",
+   "page": "https://en.wikipedia.org/wiki/Akron_RubberDucks"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2011",
+   "text": "The Los Angeles Angels hire Jerry Dipoto as their new general manager. Dipoto becomes the 11th GM in club history.",
+   "links": [
+    "Jerry Dipoto"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Jerry Dipoto"
+   ],
+   "about": "Jerry Dipoto",
+   "key": "f9ebf55f23efc77a",
+   "headline": "Angels hire Jerry Dipoto as 11th general manager in club history",
+   "image": null,
+   "extract": "Gerard Dipoto is an American baseball executive and former professional player. He is currently the president of baseball operations for the Seattle Mariners of Major League Baseball (MLB). He previously was the general manager of the Los Angeles Angels of Anaheim and worked in front office positions for the Arizona…",
+   "page": "https://en.wikipedia.org/wiki/Jerry_Dipoto"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2010",
+   "text": "On October 29, 2010, Wilson was named the 13th manager of the Kane County Cougars, the Kansas City Royals' Class A Midwest League affiliate.",
+   "links": [
+    "Vance Wilson"
+   ],
+   "about": "Vance Wilson",
+   "score": 32.0,
+   "abouts": [
+    "Vance Wilson"
+   ],
+   "key": "f0b3596cd6512285",
+   "headline": "Wilson named 13th manager of Kane County Cougars",
+   "image": null,
+   "extract": "Vance Allen Wilson is an American former professional baseball catcher and current coach. He is the third base coach for the Kansas City Royals of Major League Baseball (MLB). He played all or parts of eight seasons in MLB. Listed at 5'11\" tall and 215 pounds, he batted and threw right-handed during his career.",
+   "page": "https://en.wikipedia.org/wiki/Vance_Wilson"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2010",
+   "text": "The New York Mets name Sandy Alderson their new general manager.",
+   "links": [
+    "Sandy Alderson"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Sandy Alderson"
+   ],
+   "about": "Sandy Alderson",
+   "key": "ca2982ab31a413c3",
+   "headline": "Mets name Sandy Alderson their new general manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sandy_Alderson_crop.jpg/960px-Sandy_Alderson_crop.jpg",
+    "credit": "Chamber of Fear; cropped by Beyond My Ken (talk) 02:52, 8 July 2011",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sandy_Alderson_crop.jpg",
+    "alt": "Older man in pinstriped suit, lapel mic, seated indoors.",
+    "source": "checked",
+    "of": "Sandy Alderson",
+    "w": 2044,
+    "h": 2359,
+    "tier": "person"
+   },
+   "extract": "Richard Lynn \"Sandy\" Alderson is an American baseball executive. He was the president of various Major League Baseball teams, including the New York Mets. He was the general manager of the New York Mets from 2011 to 2018, an executive in the Oakland Athletics and San Diego Padres organizations, and the commissioner's…",
+   "page": "https://en.wikipedia.org/wiki/Sandy_Alderson"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2009",
+   "text": "The New York Yankees even the World Series at a game apiece with a 3–1 victory against the Philadelphia Phillies. In the biggest start of his career, A. J. Burnett throws seven solid innings to get his first postseason win, holding the Phillies to only one run and four hits, while Mark Teixeira and Hideki Matsui provide the offensive support with solo home runs off Pedro Martínez, the losing pitcher.",
+   "links": [
+    "A. J. Burnett",
+    "Mark Teixeira",
+    "Hideki Matsui"
+   ],
+   "score": 88.69627901634256,
+   "abouts": [
+    "A. J. Burnett",
+    "Mark Teixeira",
+    "Hideki Matsui"
+   ],
+   "about": "A. J. Burnett",
+   "key": "eb870a372f87180e",
+   "headline": "Yankees even World Series with 3–1 win over Phillies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/2009_World_Series_Game_1_Ceremonial_first_pitch.jpg",
+    "credit": "Samantha Appleton",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:2009_World_Series_Game_1_Ceremonial_first_pitch.jpg",
+    "alt": "Night stadium with a uniformed man walking to the mound, ceremonial first pitch.",
+    "source": "checked",
+    "of": "2009 World Series",
+    "w": 756,
+    "h": 504,
+    "tier": "event"
+   },
+   "extract": "Allan James Burnett, is an American former professional baseball starting pitcher, who played in Major League Baseball (MLB) for the Florida Marlins, Toronto Blue Jays, New York Yankees, Pittsburgh Pirates, and Philadelphia Phillies for 17 seasons.",
+   "page": "https://en.wikipedia.org/wiki/A._J._Burnett"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2007",
+   "text": "Speier was signed by the Cincinnati Reds on October 29, 2007, as an infield coach and served as the Reds' bench coach.",
+   "links": [
+    "Chris Speier"
+   ],
+   "about": "Chris Speier",
+   "score": 10.0,
+   "abouts": [
+    "Chris Speier"
+   ],
+   "key": "60c8043f2137473b",
+   "headline": "Speier signed by Reds as infield coach, later bench coach",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2013_05_18_061_Reds_Chris_Speier.jpg",
+    "credit": "Dealphungo",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2013_05_18_061_Reds_Chris_Speier.jpg",
+    "alt": "Men in red Reds practice jerseys and caps in a dugout area",
+    "source": "checked",
+    "of": "Chris Speier",
+    "w": 670,
+    "h": 976,
+    "tier": "person"
+   },
+   "extract": "Christopher Edward Speier is an American former professional baseball player. He played in Major League Baseball as a shortstop, most notably for the San Francisco Giants and the Montreal Expos. He is known by the nickname \"the Alameda Rifle\" as a native of the San Francisco Bay Area city who possessed a strong arm…",
+   "page": "https://en.wikipedia.org/wiki/Chris_Speier"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2006",
+   "text": "Silas Simmons, 109 (or 111), Negro leagues player of the 1920s, believed to be the longest-lived professional baseball player in history.",
+   "links": [
+    "Silas Simmons"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Silas Simmons"
+   ],
+   "about": "Silas Simmons",
+   "key": "b10995f8ed31d420",
+   "headline": "Silas Simmons, Negro leagues player, dies at 109 or 111",
+   "image": null,
+   "extract": "Silas Joseph Simmons was an American professional baseball player for African-American teams in the pre-Negro leagues era. He became the longest-lived major league player in history, surpassing Red Hoff, who died at age 107 in 1998.",
+   "page": "https://en.wikipedia.org/wiki/Silas_Simmons"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1995",
+   "text": "Al Niemiec, 84, second baseman who played with the Boston Red Sox in the 1934 season and for the Philadelphia Athletics in 1936.",
+   "links": [
+    "Al Niemiec"
+   ],
+   "score": 20.0615,
+   "abouts": [
+    "Al Niemiec"
+   ],
+   "about": "Al Niemiec",
+   "key": "edb7556ce3771115",
+   "headline": "Al Niemiec, former second baseman, dies at 84",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Al_Niemiec_Athletics.jpg",
+    "credit": "Apex Photograph Company",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Al_Niemiec_Athletics.jpg",
+    "alt": "Black-and-white portrait of a man in a baseball cap and jersey with an 'A' logo",
+    "source": "checked",
+    "of": "Al Niemiec",
+    "w": 667,
+    "h": 948,
+    "tier": "person"
+   },
+   "extract": "Alfred Joseph Niemiec was an American baseball second baseman and shortstop who played two seasons in Major League Baseball (MLB) in 1934 and 1936, for the Boston Red Sox and the Philadelphia Athletics, respectively. He has the distinction of having been traded by the Red Sox for Ted Williams. Listed at 5' 11\", 158…",
+   "page": "https://en.wikipedia.org/wiki/Al_Niemiec"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1994",
+   "text": "The Yomiuri Giants win Game 6 of the Japan Series to become professional baseball's World Champions. Legend says this is the luckiest of all championship years, as it is the team's sixtieth anniversary, as they are deemed world champions by some baseball media.",
+   "links": [
+    "Yomiuri Giants",
+    "Japan Series"
+   ],
+   "score": 35.0,
+   "abouts": [
+    "Japan Series",
+    "Yomiuri Giants"
+   ],
+   "about": "Japan Series",
+   "key": "bc0194af66dd72b7",
+   "headline": "Yomiuri Giants win Game 6, claim Japan Series title",
+   "image": null,
+   "extract": "The Japan Series, also the Nippon Series, is the annual championship series in Nippon Professional Baseball, the top baseball league in Japan. It is a best-of-seven series between the winning clubs of the league's two circuits, the Central League and the Pacific League, and is played in October or November. The first…",
+   "page": "https://en.wikipedia.org/wiki/Japan_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1991",
+   "text": "The New York Yankees announce that Buck Showalter has been promoted to replace Stump Merrill as manager.",
+   "links": [
+    "New York Yankees",
+    "Buck Showalter",
+    "Stump Merrill"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Buck Showalter",
+    "Stump Merrill",
+    "New York Yankees"
+   ],
+   "about": "Buck Showalter",
+   "key": "023380e05b76ca7c",
+   "headline": "Buck Showalter promoted to Yankees manager, replacing Stump Merrill",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Buck_Showalter_in_2017_%2836660713620%29.jpg/960px-Buck_Showalter_in_2017_%2836660713620%29.jpg",
+    "credit": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Buck_Showalter_in_2017_(36660713620).jpg",
+    "alt": "Man in black Orioles cap and jacket, outdoors at a ballpark",
+    "source": "checked",
+    "of": "Buck Showalter",
+    "w": 1016,
+    "h": 1056,
+    "tier": "person"
+   },
+   "extract": "William Nathaniel \"Buck\" Showalter III is an American professional baseball manager. He served as manager of the New York Yankees (1992–1995), Arizona Diamondbacks (1998–2000), Texas Rangers (2003–2006), Baltimore Orioles (2010–2018) and New York Mets (2022–2023). He also is a former professional Minor League Baseball…",
+   "page": "https://en.wikipedia.org/wiki/Buck_Showalter"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1988",
+   "text": "Andy Cohen, 84, second baseman who hit .281 in 262 games with the New York Giants from 1926 to 1929; acting manager of 1960 Philadelphia Phillies for one game (April 14) between terms of Eddie Sawyer and Gene Mauch; younger brother Syd, an MLB pitcher, died earlier in 1988 (on April 9).",
+   "links": [
+    "Andy Cohen (baseball)",
+    "Eddie Sawyer",
+    "Gene Mauch"
+   ],
+   "score": 20.254,
+   "abouts": [
+    "Andy Cohen (baseball)",
+    "Eddie Sawyer",
+    "Gene Mauch"
+   ],
+   "about": "Andy Cohen (baseball)",
+   "key": "a8278fc19a70695c",
+   "headline": "Andy Cohen, 84, former Giants second baseman, dies",
+   "image": null,
+   "extract": "Andrew Howard Cohen, nicknamed the \"Tuscaloosa Terror\", was an American professional baseball player, coach, and manager. He played as a second baseman in Major League Baseball (MLB) for the New York Giants, from 1926 to 1929. Cohen was an interim manager for the Philadelphia Phillies in 1960.",
+   "page": "https://en.wikipedia.org/wiki/Andy_Cohen_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1986",
+   "text": "The Chicago White Sox make a course correction in their front office, naming Larry Himes, 46, vice president and general manager, and accepting the resignation of GM Tom Haller, a left-over from the failed Ken Harrelson experiment.",
+   "links": [
+    "Chicago White Sox",
+    "Larry Himes",
+    "Tom Haller"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Larry Himes",
+    "Tom Haller",
+    "Chicago White Sox"
+   ],
+   "about": "Larry Himes",
+   "key": "ec73c8590a6daa54",
+   "headline": "White Sox name Larry Himes, 46, vice president and GM",
+   "image": null,
+   "extract": "Lawrence Austin Himes is an American former general manager (GM) for two Major League Baseball (MLB) teams: the Chicago White Sox (1986–1990); and the Chicago Cubs (1991–1994). Himes is likely best known for trading for Sammy Sosa during each tenure as GM. Prior to becoming a general manager, he was the California…",
+   "page": "https://en.wikipedia.org/wiki/Larry_Himes"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1981",
+   "text": "Third-generation owner Ruly Carpenter sells the Philadelphia Phillies to a five-member investment group that includes club executive Bill Giles, son of the late president of the National League, for $30.175 million—the highest price then paid for a baseball franchise. Carpenter's grandfather and father had purchased the Phillies for $500,000 in 1943.",
+   "links": [
+    "Ruly Carpenter",
+    "Philadelphia Phillies",
+    "Bill Giles (baseball)"
+   ],
+   "score": 35.0,
+   "abouts": [
+    "Ruly Carpenter",
+    "Bill Giles (baseball)",
+    "Philadelphia Phillies"
+   ],
+   "about": "Ruly Carpenter",
+   "key": "c265d2b6550b8482",
+   "headline": "Ruly Carpenter sells Phillies for record $30.175 million",
+   "image": null,
+   "extract": "Robert Ruliph Morgan \"Ruly\" Carpenter III was an American businessman and baseball executive. He was the principal owner and president of the Philadelphia Phillies from 1972 to 1981.",
+   "page": "https://en.wikipedia.org/wiki/Ruly_Carpenter"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1969",
+   "text": "Right-hander Jim Bunning returns to the Philadelphia Phillies as a free agent after being released one week earlier by the Los Angeles Dodgers. Bunning, 38, had gone 74–46 for the Phils between 1964 and 1967.",
+   "links": [
+    "Jim Bunning",
+    "Philadelphia Phillies",
+    "Los Angeles Dodgers"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Jim Bunning",
+    "Philadelphia Phillies",
+    "Los Angeles Dodgers"
+   ],
+   "about": "Jim Bunning",
+   "key": "db981a77f23ab057",
+   "headline": "Jim Bunning, 38, returns to Phillies as free agent",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jim_Bunning_as_ballplayer.jpg",
+    "credit": "From collection of JGHowes, self-scanned for Wikipedia. JGHowes at",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jim_Bunning_as_ballplayer.jpg",
+    "alt": "Black-and-white portrait of smiling man in Detroit Tigers cap",
+    "source": "checked",
+    "of": "Jim Bunning",
+    "w": 576,
+    "h": 720,
+    "tier": "person"
+   },
+   "extract": "James Paul David Bunning was an American professional baseball pitcher and politician from Kentucky who served in both chambers of the United States Congress, a member of the United States House of Representatives from 1987 to 1999 and a member of the United States Senate from 1999 to 2011. He is the only Major League…",
+   "page": "https://en.wikipedia.org/wiki/Jim_Bunning"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1963",
+   "text": "The New York Yankees release catcher and playing coach Yogi Berra, 38, so he can manage the 1964 Bombers. He succeeds Ralph Houk, who moves up to general manager, replacing the retiring Roy Hamey.",
+   "links": [
+    "New York Yankees",
+    "Yogi Berra",
+    "Ralph Houk"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Yogi Berra",
+    "Ralph Houk",
+    "New York Yankees"
+   ],
+   "about": "Yogi Berra",
+   "key": "2f2d9df48696903b",
+   "headline": "Yankees release Yogi Berra, 38, so he can manage in 1964",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Yogi_Berra_%281957%29_%28cropped%29.jpg/960px-Yogi_Berra_%281957%29_%28cropped%29.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Yogi_Berra_(1957)_(cropped).jpg",
+    "alt": "Man in Yankees pinstripe uniform and NY cap holding a bat.",
+    "source": "checked",
+    "of": "Yogi Berra",
+    "w": 1589,
+    "h": 2187,
+    "tier": "person"
+   },
+   "extract": "Lawrence Peter \"Yogi\" Berra was an American professional baseball catcher who later took on the roles of manager and coach. He played 19 seasons in Major League Baseball (MLB), all but the last for the New York Yankees. He was an 18-time All-Star and won 10 World Series championships as a player—more than any other…",
+   "page": "https://en.wikipedia.org/wiki/Yogi_Berra"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1962",
+   "text": "The New York Yankees sell the contract of one-time ace right-hander Bob Turley to the Los Angeles Angels. Turley, 32, has been struggling with arm woes since his banner 1958 season, when he won the Cy Young Award and was named MVP of the 1958 World Series.",
+   "links": [
+    "New York Yankees",
+    "Bob Turley",
+    "Los Angeles Angels"
+   ],
+   "score": 100.0,
+   "abouts": [
+    "Bob Turley",
+    "New York Yankees",
+    "Los Angeles Angels"
+   ],
+   "about": "Bob Turley",
+   "key": "75369d54dbd031e1",
+   "headline": "Yankees sell Bob Turley, 32, contract to Los Angeles Angels",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/BobTurley.png",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:BobTurley.png",
+    "alt": "Pitcher in Yankees pinstripes mid-delivery, caption reads BOB TURLEY",
+    "source": "checked",
+    "of": "Bob Turley",
+    "w": 621,
+    "h": 794,
+    "tier": "person"
+   },
+   "extract": "Robert Lee Turley, known as \"Bullet Bob\", was an American professional baseball player and financial planner. He played in Major League Baseball (MLB) as a pitcher from 1951 through 1963. After his retirement from baseball, he worked for Primerica Financial Services.",
+   "page": "https://en.wikipedia.org/wiki/Bob_Turley"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1944",
+   "text": "The Carolina League was announced on October 29, 1944, after an organizational meeting at Durham, North Carolina.",
+   "links": [
+    "Carolina League"
+   ],
+   "about": "Carolina League",
+   "score": 20.0,
+   "abouts": [
+    "Carolina League"
+   ],
+   "key": "3ea48102a08d6aa2",
+   "headline": "Carolina League is announced after Durham organizational meeting",
+   "image": null,
+   "extract": "The Carolina League is a Minor League Baseball league which has operated along the Atlantic Coast of the United States since 1945. Having been classified at various levels throughout its existence, it operated at Class A-Advanced from 1990 until its demotion to Single-A following Major League Baseball's 2021…",
+   "page": "https://en.wikipedia.org/wiki/Carolina_League"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1889",
+   "text": "The New York Giants win their second consecutive World Series title by beating the Brooklyn Bridegrooms, 3–2, for their fifth straight win in taking the series 6 games to 3.",
+   "links": [
+    "New York Giants (NL)",
+    "Brooklyn Bridegrooms"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "New York Giants (NL)",
+    "Brooklyn Bridegrooms"
+   ],
+   "about": "New York Giants (NL)",
+   "key": "9c9b4979a8c27482",
+   "headline": "Giants beat Brooklyn Bridegrooms 3–2, win World Series 6 games to 3",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1883_New_York_Gothams.jpeg/960px-1883_New_York_Gothams.jpeg",
+    "credit": "J Wood, 208 Bowery, N.Y.",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1883_New_York_Gothams.jpeg",
+    "alt": "Team photo of baseball players in uniforms labeled New York League Base Ball Club, a period team",
+    "source": "checked",
+    "of": "New York Giants (NL)",
+    "w": 2254,
+    "h": 1775,
+    "tier": "team"
+   },
+   "extract": "The New York Giants were a Major League Baseball team in the National League that began play in the 1883 season as the New York Gothams and became known as the Giants in 1885. They continued as the New York Giants until the team moved to San Francisco after the 1957 season, where the team continues its history as the…",
+   "page": "https://en.wikipedia.org/wiki/New_York_Giants_(baseball)"
+  }
+ ]
+}

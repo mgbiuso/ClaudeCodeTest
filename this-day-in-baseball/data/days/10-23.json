@@ -1,0 +1,690 @@
+{
+ "month": 10,
+ "day": 23,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2021",
+   "text": "The Atlanta Braves clinch a trip to the 2021 World Series and defeat and also dethrone the World Champion Los Angeles Dodgers 4–2 to win the 2021 National League Championship Series in six games and advance to their first world series in 22 years.",
+   "links": [
+    "Atlanta Braves",
+    "2021 World Series",
+    "Los Angeles Dodgers"
+   ],
+   "score": 107.95114310620079,
+   "abouts": [
+    "2021 World Series",
+    "Atlanta Braves",
+    "Los Angeles Dodgers"
+   ],
+   "about": "2021 World Series",
+   "key": "179503116317a6d2",
+   "headline": "Braves beat Dodgers 4–2, win pennant in six games",
+   "image": null,
+   "extract": "The 2021 World Series was the championship series of Major League Baseball's (MLB) 2021 season. The 117th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Atlanta Braves and the American League (AL) champion Houston Astros. The series began on October 26 and…",
+   "page": "https://en.wikipedia.org/wiki/2021_World_Series",
+   "lead": true
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2022",
+   "text": "Only Game 2 of the 2022 Japan Series on October 23, 2022, came close, with the Orix Buffaloes and Tokyo Yakult Swallows playing to a 3–3 draw after 12 innings, lasting 5 hours and 3 minutes.",
+   "links": [
+    "Japan Series"
+   ],
+   "about": "Japan Series",
+   "score": 30.113378809768637,
+   "abouts": [
+    "Japan Series"
+   ],
+   "key": "4756d88b7d043f85",
+   "headline": "Orix and Yakult play 3–3 draw in 12-inning Japan Series game",
+   "image": null,
+   "extract": "The Japan Series, also the Nippon Series, is the annual championship series in Nippon Professional Baseball, the top baseball league in Japan. It is a best-of-seven series between the winning clubs of the league's two circuits, the Central League and the Pacific League, and is played in October or November. The first…",
+   "page": "https://en.wikipedia.org/wiki/Japan_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2018",
+   "text": "The Boston Red Sox beat the Los Angeles Dodgers, 8–4, in World Series opener at Fenway Park. Andrew Benintendi posted four hits and scored three runs, J. D. Martinez drove in two runs in the first inning, and Eduardo Núñez pinch-hit a three-run home run in the bottom of the seventh to seal the victory.",
+   "links": [
+    "2018 World Series",
+    "Fenway Park",
+    "Andrew Benintendi"
+   ],
+   "score": 92.49568497268692,
+   "abouts": [
+    "2018 World Series",
+    "Andrew Benintendi",
+    "Fenway Park"
+   ],
+   "about": "2018 World Series",
+   "key": "51afd7ba69e450e5",
+   "headline": "Red Sox beat Dodgers 8–4 in World Series opener at Fenway",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dsc_6431_Pesky%27s_Pole.jpg/960px-Dsc_6431_Pesky%27s_Pole.jpg",
+    "credit": "User Francesco Crippa on Flickr",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dsc_6431_Pesky%27s_Pole.jpg",
+    "alt": "Fenway Park's Green Monster, left-field seats, foul pole, Budweiser sign",
+    "source": "checked",
+    "of": "Fenway Park",
+    "w": 1920,
+    "h": 1277,
+    "tier": "venue"
+   },
+   "extract": "The 2018 World Series was the championship series of Major League Baseball's 2018 season. The 114th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Boston Red Sox and the National League (NL) champion Los Angeles Dodgers. The Red Sox defeated the Dodgers in…",
+   "page": "https://en.wikipedia.org/wiki/2018_World_Series"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2018",
+   "text": "On October 23, 2018, Sabo was named head baseball coach at the University of Akron.",
+   "links": [
+    "Chris Sabo"
+   ],
+   "about": "Chris Sabo",
+   "score": 28.883869012060536,
+   "abouts": [
+    "Chris Sabo"
+   ],
+   "key": "0d8cf65232d4b49c",
+   "headline": "Sabo named head baseball coach at University of Akron",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Chris_Sabo_Reds.jpg",
+    "credit": "Class of '88",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Chris_Sabo_Reds.jpg",
+    "alt": "Batter in red-and-gray Cincinnati Reds road uniform, red helmet, batting.",
+    "source": "checked",
+    "of": "Chris Sabo",
+    "w": 669,
+    "h": 902,
+    "tier": "person"
+   },
+   "extract": "Christopher Andrew Sabo is an American former third baseman in Major League Baseball who played for the Cincinnati Reds, Baltimore Orioles, Chicago White Sox, and St. Louis Cardinals between 1988 and 1996. He was the head baseball coach of the Akron Zips (2020–2022).",
+   "page": "https://en.wikipedia.org/wiki/Chris_Sabo"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2017",
+   "text": "On October 23, 2017, Callaway was named the manager of the New York Mets.",
+   "links": [
+    "Mickey Callaway"
+   ],
+   "about": "Mickey Callaway",
+   "score": 39.922221535825884,
+   "abouts": [
+    "Mickey Callaway"
+   ],
+   "key": "9b0eb3b8c975363a",
+   "headline": "Callaway named manager of the New York Mets",
+   "image": null,
+   "extract": "Michael Christopher Callaway is an American professional baseball coach and former pitcher in Major League Baseball (MLB). He played in MLB for the Tampa Bay Devil Rays, Anaheim Angels, and Texas Rangers and in the KBO League for the Hyundai Unicorns. He was the manager of the New York Mets from 2018 through 2019 and…",
+   "page": "https://en.wikipedia.org/wiki/Mickey_Callaway"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2015",
+   "text": "The Kansas City Royals beat the visiting Toronto Blue Jays, 4–3, to earn their second straight trip to the World Series. The victory in Game 6 of the American League Championship Series sent the Royals into the World Series, starting on October 27 at Kauffman Stadium against the National League champion New York Mets.",
+   "links": [
+    "Lorenzo Cain",
+    "Eric Hosmer",
+    "Wade Davis (baseball)"
+   ],
+   "score": 100.0,
+   "abouts": [
+    "Lorenzo Cain",
+    "Eric Hosmer",
+    "Wade Davis (baseball)"
+   ],
+   "about": "Lorenzo Cain",
+   "key": "a2d7dab8933c794a",
+   "headline": "Royals beat Blue Jays 4–3, earn second straight World Series trip",
+   "image": null,
+   "extract": "Lorenzo Lamar Cain is an American former professional baseball center fielder. He played in Major League Baseball (MLB) for the Milwaukee Brewers and the Kansas City Royals. The Brewers drafted him in the 17th round of the 2004 MLB draft from Tallahassee Community College in Florida. In 2010, Cain made his MLB debut,…",
+   "page": "https://en.wikipedia.org/wiki/Lorenzo_Cain"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2014",
+   "text": "On October 23, 2014, the Milwaukee Brewers announced Coles replaced Johnny Narron as the hitting coach.",
+   "links": [
+    "Darnell Coles"
+   ],
+   "about": "Darnell Coles",
+   "score": 25.744554965546783,
+   "abouts": [
+    "Darnell Coles"
+   ],
+   "key": "adf723fbea254860",
+   "headline": "Coles replaces Johnny Narron as Brewers hitting coach",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/DarnellColes.jpg/960px-DarnellColes.jpg",
+    "credit": "Reunion",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:DarnellColes.jpg",
+    "alt": "Smiling man in navy Atlanta Braves cap and Nike Atlanta Baseball shirt",
+    "source": "checked",
+    "of": "Darnell Coles",
+    "w": 3091,
+    "h": 4585,
+    "tier": "person"
+   },
+   "extract": "Darnell Coles is an American professional baseball player and current assistant hitting coach for the Atlanta Braves of Major League Baseball (MLB). He played in MLB and Nippon Professional Baseball (NPB) primarily as a third baseman and outfielder from 1983 to 1997. He has coached in MLB since 2014.",
+   "page": "https://en.wikipedia.org/wiki/Darnell_Coles"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2012",
+   "text": "On October 23, 2012, the Chicago Cubs named Bell the third base coach for the Major League club.",
+   "links": [
+    "David Bell (baseball)"
+   ],
+   "about": "David Bell (baseball)",
+   "score": 37.72653558232912,
+   "abouts": [
+    "David Bell (baseball)"
+   ],
+   "key": "283629390b2f71f2",
+   "headline": "Cubs name Bell third base coach for Major League club",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/David_Bell_%28220902-F-JW079-1106%29_%28cropped%29.jpg/960px-David_Bell_%28220902-F-JW079-1106%29_%28cropped%29.jpg",
+    "credit": "U.S. Air Force photo by R.J. Oriez",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Bell_(220902-F-JW079-1106)_(cropped).jpg",
+    "alt": "Smiling man in red Cincinnati Reds jersey and cap on field",
+    "source": "checked",
+    "of": "David Bell (baseball)",
+    "w": 1543,
+    "h": 1975,
+    "tier": "person"
+   },
+   "extract": "David Michael Bell is an American former professional baseball infielder, coach, and manager who most recently managed the Cincinnati Reds of Major League Baseball (MLB). Over the course of his 12-year MLB playing career, Bell appeared at all four infield positions while playing for the Cleveland Indians, St. Louis…",
+   "page": "https://en.wikipedia.org/wiki/David_Bell_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2010",
+   "text": "The San Francisco Giants defeat the Philadelphia Phillies 3–2 to win the NLCS four games to two.",
+   "links": [
+    "San Francisco Giants",
+    "Philadelphia Phillies",
+    "2010 National League Championship Series"
+   ],
+   "score": 25.894884736465848,
+   "abouts": [
+    "2010 National League Championship Series",
+    "San Francisco Giants",
+    "Philadelphia Phillies"
+   ],
+   "about": "2010 National League Championship Series",
+   "key": "d52482b001888ebe",
+   "headline": "Giants defeat Phillies 3–2, win NLCS four games to two",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG/960px-2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG",
+    "credit": "BrokenSphere",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG",
+    "alt": "Night baseball game at AT&T Park, San Francisco, crowded stands.",
+    "source": "checked",
+    "of": "San Francisco Giants",
+    "w": 4000,
+    "h": 2248,
+    "tier": "venue"
+   },
+   "extract": "The 2010 National League Championship Series (NLCS) was a best-of-seven playoff series in Major League Baseball’s 2010 postseason that pitted the overall #1 seed Philadelphia Phillies and the second-seeded San Francisco Giants — against each other for the National League pennant. The Giants would defeat the heavily…",
+   "page": "https://en.wikipedia.org/wiki/2010_National_League_Championship_Series"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2008",
+   "text": "Despite missing the end of the season, on October 23, 2008, Tatís received the Sporting News Comeback Player of the Year Award for the National League.",
+   "links": [
+    "Fernando Tatís"
+   ],
+   "about": "Fernando Tatís",
+   "score": 41.36442722378785,
+   "abouts": [
+    "Fernando Tatís"
+   ],
+   "key": "c8a7d013f57d0b9d",
+   "headline": "Tatís receives Sporting News Comeback Player of the Year Award",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Fernando_Tatis.jpg/960px-Fernando_Tatis.jpg",
+    "credit": "Wknight94",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_Tatis.jpg",
+    "alt": "Smiling man in blue Mets jersey and cap, batting practice setting",
+    "source": "checked",
+    "of": "Fernando Tatís",
+    "w": 2379,
+    "h": 2267,
+    "tier": "person"
+   },
+   "extract": "Fernando Gabriel Tatís Medina Sr. is a Dominican former professional baseball third baseman. Over his 11-year Major League Baseball (MLB) career, Tatís played for the Texas Rangers, St. Louis Cardinals, Montreal Expos, Baltimore Orioles, and New York Mets. He holds the major league record for runs batted in (RBI) in…",
+   "page": "https://en.wikipedia.org/wiki/Fernando_Tat%C3%ADs"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2003",
+   "text": "Al Corwin, 76, pitcher who played for the New York Giants from 1951 through 1955, including the 1951 National League Champion Giants, and the squad that swept the highly favored Cleveland Indians in the 1954 World Series.",
+   "links": [
+    "Al Corwin",
+    "1954 World Series"
+   ],
+   "score": 20.062,
+   "abouts": [
+    "Al Corwin",
+    "1954 World Series"
+   ],
+   "about": "Al Corwin",
+   "key": "3e0940c0c4f84c60",
+   "headline": "Al Corwin, 76, pitcher for 1954 Giants World Series team, dies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/1954_World_Series_game_two.jpeg/960px-1954_World_Series_game_two.jpeg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1954_World_Series_game_two.jpeg",
+    "alt": "Black-and-white 1950s baseball game at a packed stadium with fielders and umpire",
+    "source": "checked",
+    "of": "1954 World Series",
+    "w": 1284,
+    "h": 1650,
+    "tier": "event"
+   },
+   "extract": "Elmer Nathan \"Al\" Corwin was an American professional baseball player, a right-handed pitcher who appeared in Major League Baseball between 1951 and 1955 for the New York Giants. The Newburgh, New York, native stood 6 feet 1 inch (1.85 m) tall and weighed 170 pounds (77 kg). Corwin attended Wallkill Senior High School…",
+   "page": "https://en.wikipedia.org/wiki/Al_Corwin"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1995",
+   "text": "The St. Louis Cardinals hire Tony La Russa as their manager.",
+   "links": [
+    "St. Louis Cardinals",
+    "Tony La Russa"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Tony La Russa",
+    "St. Louis Cardinals"
+   ],
+   "about": "Tony La Russa",
+   "key": "f068e8b2015ca486",
+   "headline": "Cardinals hire Tony La Russa as manager",
+   "image": null,
+   "extract": "Anthony La Russa Jr. is an American former professional baseball infielder and manager. His Major League Baseball (MLB) career spanned from 1963 to 2022, in several roles. He is the former manager of the St. Louis Cardinals, Oakland Athletics, and Chicago White Sox. In 35 seasons as a manager, La Russa guided his…",
+   "page": "https://en.wikipedia.org/wiki/Tony_La_Russa"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1993",
+   "text": "In a dramatic finish, Joe Carter of the Toronto Blue Jays homers off reliever Mitch Williams with two runners on base in the bottom of the 9th inning to give Toronto an 8–6 victory over the Philadelphia Phillies and the 1993 World Series championship. Lenny Dykstra hits his fourth homer of the Series for the Phillies.",
+   "links": [
+    "Joe Carter",
+    "Toronto Blue Jays",
+    "Mitch Williams (baseball)"
+   ],
+   "score": 75.0,
+   "abouts": [
+    "Joe Carter",
+    "Mitch Williams (baseball)",
+    "Toronto Blue Jays"
+   ],
+   "about": "Joe Carter",
+   "key": "ef0ec0b28f58b141",
+   "headline": "Joe Carter homers in 9th, Blue Jays beat Phillies 8-6",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Blue_Jays_Win_the_1993_World_Series.jpg/960px-Blue_Jays_Win_the_1993_World_Series.jpg",
+    "credit": "Striderv from Durham Region, Canada",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Blue_Jays_Win_the_1993_World_Series.jpg",
+    "alt": "Indoor stadium at night, fireworks, big screen, Blue Jays celebration scoreboard",
+    "source": "checked",
+    "of": "1993 World Series",
+    "w": 3076,
+    "h": 2108,
+    "tier": "event"
+   },
+   "extract": "Joseph Chris Carter is an American former professional baseball player. He played in Major League Baseball (MLB) as an outfielder and first baseman for the Chicago Cubs, Cleveland Indians, San Diego Padres, Toronto Blue Jays, Baltimore Orioles, and San Francisco Giants.",
+   "page": "https://en.wikipedia.org/wiki/Joe_Carter"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1992",
+   "text": "The expansion Florida Marlins hire Rene Lachemann as the team's first manager.",
+   "links": [
+    "Florida Marlins",
+    "Rene Lachemann"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Rene Lachemann",
+    "Florida Marlins"
+   ],
+   "about": "Rene Lachemann",
+   "key": "046c2a19a2cab0b4",
+   "headline": "Florida Marlins hire Rene Lachemann as first manager",
+   "image": null,
+   "extract": "Rene George Lachemann is an American former professional baseball coach, catcher and manager. He spent 53 years in Major League Baseball (MLB), including service as the manager of the Seattle Mariners (1981–83), Milwaukee Brewers (1984), and the Florida Marlins (1993–96).",
+   "page": "https://en.wikipedia.org/wiki/Rene_Lachemann"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1984",
+   "text": "Although he spent the first two months of 1984 in the Junior Circuit, Rick Sutcliffe, who pitched the Chicago Cubs to the NL East championship by winning 16 of 17 decisions in 20 starts after his acquisition June 13, cruises to the NL Cy Young Award, taking all 24 first-place votes.",
+   "links": [
+    "American League",
+    "Rick Sutcliffe",
+    "Chicago Cubs"
+   ],
+   "score": 82.74065672373972,
+   "abouts": [
+    "American League",
+    "Rick Sutcliffe",
+    "Chicago Cubs"
+   ],
+   "about": "American League",
+   "key": "7b8aa1627d9d8da9",
+   "headline": "Rick Sutcliffe wins NL Cy Young, taking all 24 first-place votes",
+   "image": null,
+   "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
+   "page": "https://en.wikipedia.org/wiki/American_League"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1981",
+   "text": "The roll-out of new managers continues when the Chicago Cubs hire Lee Elia to succeed Joey Amalfitano as their skipper. Amalfitano was let go after compiling a cumulative 66–116–3 (.363) record as interim manager (September 1979) then official skipper (July 25, 1980 through 1981).",
+   "links": [
+    "Chicago Cubs",
+    "Lee Elia",
+    "Joey Amalfitano"
+   ],
+   "score": 47.0,
+   "abouts": [
+    "Lee Elia",
+    "Joey Amalfitano",
+    "Chicago Cubs"
+   ],
+   "about": "Lee Elia",
+   "key": "e4739a54bb1a16d4",
+   "headline": "Cubs hire Lee Elia to succeed Joey Amalfitano as manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Joey_Amalfitano.jpg",
+    "credit": "Bowman Gum",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joey_Amalfitano.jpg",
+    "alt": "Baseball card of a player in gray road uniform fielding a ball",
+    "source": "checked",
+    "of": "Joey Amalfitano",
+    "w": 438,
+    "h": 307,
+    "tier": "person"
+   },
+   "extract": "Lee Constantine Elia was an American professional baseball infielder, manager, and coach in Major League Baseball (MLB). After being drafted by his hometown Philadelphia Phillies, Elia spent seven years in the minor leagues, playing a mixture of shortstop and third base, before reaching the majors with the Chicago…",
+   "page": "https://en.wikipedia.org/wiki/Lee_Elia"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1949",
+   "text": "Luke Sewell, who served as acting manager of the Cincinnati Reds for the last three games of the 1949 season when Bucky Walters was released, is named Cincinnati's full-fledged skipper for 1950. A former standout American League catcher, Sewell, 48, is known as the man who managed the 1944 St. Louis Browns to the only AL pennant they have ever won in their history.",
+   "links": [
+    "Luke Sewell",
+    "Cincinnati Reds",
+    "Bucky Walters"
+   ],
+   "score": 57.0,
+   "abouts": [
+    "Luke Sewell",
+    "Bucky Walters",
+    "Cincinnati Reds"
+   ],
+   "about": "Luke Sewell",
+   "key": "724ac420ddb0f5b1",
+   "headline": "Luke Sewell named Reds' full-fledged manager for 1950",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Luke_Sewell_1944.jpg/960px-Luke_Sewell_1944.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Luke_Sewell_1944.jpg",
+    "alt": "Man in Browns home jersey adjusting cap, black-and-white photo",
+    "source": "checked",
+    "of": "Luke Sewell",
+    "w": 1284,
+    "h": 1828,
+    "tier": "person"
+   },
+   "extract": "James Luther \"Luke\" Sewell was an American professional baseball player, coach, and manager. He played in Major League Baseball as a catcher for the Cleveland Indians, Washington Senators (1933–1934), Chicago White Sox (1935–1938), and the St. Louis Browns (1942). Sewell batted and threw right-handed. He was regarded…",
+   "page": "https://en.wikipedia.org/wiki/Luke_Sewell"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1946",
+   "text": "At the Evangeline League (Class D) owners meeting, allegations are made that players from the Houma Indians and Abbeville Athletics had conspired with bookies to throw games during the league's final series.",
+   "links": [
+    "Evangeline Baseball League",
+    "Class D (baseball)",
+    "Houma Indians"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Evangeline Baseball League",
+    "Class D (baseball)",
+    "Houma Indians"
+   ],
+   "about": "Evangeline Baseball League",
+   "key": "8a321ae296eee794",
+   "headline": "Evangeline League hears throwing allegations against two clubs",
+   "image": null,
+   "extract": "The Evangeline League was a low-level minor baseball league that existed from 1934 to 1957, except for during World War II.",
+   "page": "https://en.wikipedia.org/wiki/Evangeline_Baseball_League"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1945",
+   "text": "The late-August secret accord reached between Jackie Robinson and Branch Rickey comes to fruition when, before surprised press and photographers in Montréal, Robinson signs a contract to play for the Royals, one of the Brooklyn Dodgers' top two minor-league affiliates. The terms: a $600 monthly salary and a bonus of $3,500, if he makes the 1946 Royals' roster out of spring training.",
+   "links": [
+    "Jackie Robinson",
+    "Branch Rickey",
+    "Montréal"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Jackie Robinson",
+    "Branch Rickey",
+    "Montréal"
+   ],
+   "about": "Jackie Robinson",
+   "key": "71405cb8bb8b1961",
+   "headline": "Jackie Robinson signs with Royals for $600 a month",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Baseball._Jack_Robinson_BAnQ_P48S1P12829_%28cropped%29.jpg",
+    "credit": "Conrad Poirier",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Baseball._Jack_Robinson_BAnQ_P48S1P12829_(cropped).jpg",
+    "alt": "Baseball player in Montreal Royals uniform and cap, black-and-white portrait",
+    "source": "checked",
+    "of": "Jackie Robinson",
+    "w": 534,
+    "h": 728,
+    "tier": "person"
+   },
+   "extract": "Jack Roosevelt Robinson was an American professional baseball player who was the first African American to play in Major League Baseball (MLB) in the modern era. Robinson broke the color line when he started at first base for the Brooklyn Dodgers on April 15, 1947. The Dodgers signing Robinson heralded the end of…",
+   "page": "https://en.wikipedia.org/wiki/Jackie_Robinson"
+  },
+  {
+   "src": "onthisday",
+   "kind": "event",
+   "year": "1945",
+   "text": "Jackie Robinson of the Kansas City Monarchs signs a contract with the Brooklyn Dodger's minor league team, the Montreal Royals, breaking Major League Baseball's color barrier.",
+   "links": [
+    "Jackie Robinson"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Jackie Robinson"
+   ],
+   "about": "Jackie Robinson",
+   "key": "f7147dc0c4acc7a6",
+   "headline": "Jackie Robinson of the Kansas City Monarchs signs a contract",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Baseball._Jack_Robinson_BAnQ_P48S1P12829_%28cropped%29.jpg",
+    "credit": "Conrad Poirier",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Baseball._Jack_Robinson_BAnQ_P48S1P12829_(cropped).jpg",
+    "alt": "Man in Royals baseball uniform with H cap, black-and-white portrait",
+    "source": "checked",
+    "of": "Jackie Robinson",
+    "w": 534,
+    "h": 728,
+    "tier": "person"
+   },
+   "extract": "Jack Roosevelt Robinson was an American professional baseball player who was the first African American to play in Major League Baseball (MLB) in the modern era. Robinson broke the color line when he started at first base for the Brooklyn Dodgers on April 15, 1947. The Dodgers signing Robinson heralded the end of…",
+   "page": "https://en.wikipedia.org/wiki/Jackie_Robinson"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1910",
+   "text": "The Philadelphia Athletics defeat the Chicago Cubs, 7–2, in Game 5 of the World Series to win their first World Championship, four games to one.",
+   "links": [
+    "1910 Philadelphia Athletics season",
+    "1910 Chicago Cubs season",
+    "1910 World Series"
+   ],
+   "score": 91.4964466704384,
+   "abouts": [
+    "1910 World Series",
+    "1910 Philadelphia Athletics season",
+    "1910 Chicago Cubs season"
+   ],
+   "about": "1910 World Series",
+   "key": "5a99a838be6f2e5b",
+   "headline": "Athletics beat Cubs 7-2 in Game 5 to win first World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Charles_Albert_Bender_1910.jpg/960px-Charles_Albert_Bender_1910.jpg",
+    "credit": "Bain News Service",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Charles_Albert_Bender_1910.jpg",
+    "alt": "Man in white uniform with large 'A' crouched on dugout bench holding a ball",
+    "source": "checked",
+    "of": "1910 World Series",
+    "w": 1103,
+    "h": 1281,
+    "tier": "person"
+   },
+   "extract": "The 1910 World Series was the championship series in Major League Baseball for the 1910 season. The seventh edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Philadelphia Athletics against the National League (NL) champion Chicago Cubs. The series was played from…",
+   "page": "https://en.wikipedia.org/wiki/1910_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1889",
+   "text": "In another game called early by darkness, New York scores five runs in the top of the sixth inning to tie the game at seven, only to see the Bridegrooms win it on a three-run homer by Oyster Burns in the bottom of the sixth.",
+   "links": [
+    "New York Giants (NL)",
+    "Brooklyn Bridegrooms",
+    "Oyster Burns"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Oyster Burns",
+    "New York Giants (NL)",
+    "Brooklyn Bridegrooms"
+   ],
+   "about": "Oyster Burns",
+   "key": "41e6ac5f184728f6",
+   "headline": "Bridegrooms win on Oyster Burns' three-run homer in sixth",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oyster_Burns_baseball_card.jpg/960px-Oyster_Burns_baseball_card.jpg",
+    "credit": "D. Buchner & Company (printer)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Oyster_Burns_baseball_card.jpg",
+    "alt": "Illustrated trade card of a batter in white uniform labeled Burns, Baltimore",
+    "source": "checked",
+    "of": "Oyster Burns",
+    "w": 1778,
+    "h": 2952,
+    "tier": "person"
+   },
+   "extract": "Thomas P. \"Oyster\" Burns was an American professional baseball player whose career spanned 15 seasons, 11 of which were spent with in the major leagues, with the Wilmington Quicksteps (1884), Baltimore Orioles, Brooklyn Bridegrooms (1888–1895), and New York Giants (1895). Burns, who predominately played as an…",
+   "page": "https://en.wikipedia.org/wiki/Oyster_Burns"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1886",
+   "text": "The St. Louis Browns win the World Championship Series with a 4–3 win over the Chicago White Stockings. Chicago pitcher John Clarkson, pitching his 4th game in 6 days, holds St. Louis hitless for 6 innings as Chicago takes a 3–0 lead. The Browns tie the game with 3 runs in the 8th inning and win it in the bottom of the 10th when Curt Welch scores on a wild pitch in what became known as \"the $15,000 slide\".",
+   "links": [
+    "St. Louis Cardinals",
+    "Chicago Cubs",
+    "John Clarkson"
+   ],
+   "score": 35.0,
+   "abouts": [
+    "John Clarkson",
+    "St. Louis Cardinals",
+    "Chicago Cubs"
+   ],
+   "about": "John Clarkson",
+   "key": "c18f410b0278aa29",
+   "headline": "Browns beat White Stockings 4-3 in 10th, win Series",
+   "image": null,
+   "extract": "John Gibson Clarkson was an American Major League Baseball right-handed pitcher. He played from 1882 to 1894. Born in Cambridge, Massachusetts, Clarkson played for the Worcester Ruby Legs (1882), Chicago White Stockings (1884–1887), Boston Beaneaters (1888–1892), and Cleveland Spiders (1892–1894). Clarkson pitched the…",
+   "page": "https://en.wikipedia.org/wiki/John_Clarkson"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1884",
+   "text": "The Providence Grays, champions of the National League, behind the pitching of Charley Radbourn, defeat the American Association champion New York Metropolitans 6–0 at the Polo Grounds in New York City.",
+   "links": [
+    "Providence Grays",
+    "National League (baseball)",
+    "Charley Radbourn"
+   ],
+   "score": 45.0,
+   "abouts": [
+    "National League (baseball)",
+    "Charley Radbourn",
+    "Providence Grays"
+   ],
+   "about": "National League (baseball)",
+   "key": "5124774f354ccd96",
+   "headline": "Providence Grays shut out New York Metropolitans 6-0 at Polo Grounds",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/1884grays.jpg/960px-1884grays.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1884grays.jpg",
+    "alt": "Vintage team photo of uniformed baseball players at a stadium, with a home plate.",
+    "source": "checked",
+    "of": "Charley Radbourn",
+    "w": 980,
+    "h": 641,
+    "tier": "team"
+   },
+   "extract": "The National League of Professional Baseball Clubs, known simply as the National League (NL), is the older of two leagues constituting Major League Baseball (MLB) in the United States and Canada, and the world's oldest extant professional team sports league. Founded on February 2, 1876, to replace the National…",
+   "page": "https://en.wikipedia.org/wiki/National_League_(baseball)"
+  }
+ ]
+}

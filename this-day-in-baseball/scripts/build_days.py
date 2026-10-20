@@ -84,9 +84,11 @@ def expand_templates(s):
 
 
 def strip_wiki(s):
+    s = re.sub(r"<ref[^>]*?/>|<ref[^>]*>.*?</ref>", "", s, flags=re.S)
+    s = re.sub(r"<ref[^>]*>.*$", "", s, flags=re.S)  # a reference left open at the end of the line
     s = expand_templates(s)
-    s = re.sub(r"\{\{[^{}]*\}\}", "", s)
-    s = re.sub(r"<ref[^>]*?/>|<ref[^>]*>.*?</ref>", "", s)
+    for _ in range(4):  # nested templates come off from the inside out
+        s = re.sub(r"\{\{[^{}]*\}\}", "", s)
     s = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", r"\1", s)
     s = re.sub(r"'{2,}", "", s)
     return re.sub(r"\s+", " ", html.unescape(s)).strip(" *–-")

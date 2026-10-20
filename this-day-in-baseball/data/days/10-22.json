@@ -1,0 +1,1254 @@
+{
+ "month": 10,
+ "day": 22,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2012",
+   "text": "The San Francisco Giants defeat the St. Louis Cardinals 9–0 at AT&T Park in Game 7 of the NLCS to win the National League pennant. The result also eliminates the Cardinals from defending their 2011 World Series title, the twelfth consecutive year a team has failed to defend its World Championship.",
+   "links": [
+    "San Francisco Giants",
+    "St. Louis Cardinals",
+    "AT&T Park"
+   ],
+   "score": 110.0,
+   "abouts": [
+    "AT&T Park",
+    "San Francisco Giants",
+    "St. Louis Cardinals"
+   ],
+   "about": "AT&T Park",
+   "key": "329c83b8873a6b3d",
+   "headline": "Giants beat Cardinals 9-0 in Game 7, win NL pennant",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AT%26TPark_wall.JPG/960px-AT%26TPark_wall.JPG",
+    "credit": "No machine-readable author provided. Coasttocoast assumed (based on",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:AT%26TPark_wall.JPG",
+    "alt": "Outfield wall and bullpen area of a ballpark with Levi's Landing signage, grass field, bay view",
+    "source": "checked",
+    "of": "AT&T Park",
+    "w": 2272,
+    "h": 1704,
+    "tier": "venue"
+   },
+   "extract": "Oracle Park is a ballpark in the South Beach neighborhood of San Francisco, California, United States. Since 2000, it has been the home of the San Francisco Giants of Major League Baseball (MLB). The stadium stands along San Francisco Bay; the section of the bay beyond Oracle Park's right field wall is unofficially…",
+   "page": "https://en.wikipedia.org/wiki/Oracle_Park",
+   "lead": true
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2024",
+   "text": "Starting with the 2025 season, former infielder Luis Cruz, joins the Dodgers as the team's new Spanish-language color commentator, succeeding Fernando Valenzuela, who died on October 22, 2024 before the Dodgers World Series opener.",
+   "links": [
+    "Los Angeles Dodgers Radio Network"
+   ],
+   "about": "Los Angeles Dodgers Radio Network",
+   "score": 50.0,
+   "abouts": [
+    "Los Angeles Dodgers Radio Network"
+   ],
+   "key": "2a078d90662a45a2",
+   "headline": "Luis Cruz joins Dodgers as Spanish-language color commentator",
+   "image": null,
+   "extract": "The Los Angeles Dodgers Radio Network is a network that consists of 27 radio stations that air Major League Baseball games of the Los Angeles Dodgers in parts of seven states and one U.S. territory and in three languages. As of June 2012, 20 stations broadcast games in English, while another six broadcast them in…",
+   "page": "https://en.wikipedia.org/wiki/Los_Angeles_Dodgers_Radio_Network"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2021",
+   "text": "The Houston Astros clinch a trip to the 2021 World Series and defeat the Boston Red Sox 5–0 to win the 2021 American League Championship Series in six games to make it 3 World Series trips in 5 Years.",
+   "links": [
+    "Houston Astros",
+    "2021 World Series",
+    "Boston Red Sox"
+   ],
+   "score": 85.0,
+   "abouts": [
+    "2021 World Series",
+    "Houston Astros",
+    "Boston Red Sox"
+   ],
+   "about": "2021 World Series",
+   "key": "95fcf6c19e3a183f",
+   "headline": "Astros beat Red Sox 5-0, clinch trip to 2021 World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alex_Bregman_playing_shortstop_in_2017_%282%29.jpg/960px-Alex_Bregman_playing_shortstop_in_2017_%282%29.jpg",
+    "credit": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Alex_Bregman_playing_shortstop_in_2017_(2).jpg",
+    "alt": "Player in gray Houston road uniform #2 throwing a baseball on the field",
+    "source": "checked",
+    "of": "Houston Astros",
+    "w": 2024,
+    "h": 2266,
+    "tier": "team"
+   },
+   "extract": "The 2021 World Series was the championship series of Major League Baseball's (MLB) 2021 season. The 117th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Atlanta Braves and the American League (AL) champion Houston Astros. The series began on October 26 and…",
+   "page": "https://en.wikipedia.org/wiki/2021_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2016",
+   "text": "Kyle Hendricks outpitched Clayton Kershaw, while Anthony Rizzo and Willson Contreras homered early, as the Chicago Cubs took their first National League pennant since 1945, beating the Los Angeles Dodgers at Wrigley Field, 5–0, to clinch the NL Championship Series in six games. Second baseman Javier Báez and pitcher Jon Lester shared the Series Most Valuable Player honors.",
+   "links": [
+    "Kyle Hendricks",
+    "Clayton Kershaw",
+    "Anthony Rizzo"
+   ],
+   "score": 70.0,
+   "abouts": [
+    "Kyle Hendricks",
+    "Clayton Kershaw",
+    "Anthony Rizzo"
+   ],
+   "about": "Kyle Hendricks",
+   "key": "65c0056b94173b05",
+   "headline": "Cubs beat Dodgers 5-0, win first NL pennant since 1945",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2016-10-22_Clayton_Kershaw_1_%28cropped%29.jpg/960px-2016-10-22_Clayton_Kershaw_1_%28cropped%29.jpg",
+    "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2016-10-22_Clayton_Kershaw_1_(cropped).jpg",
+    "alt": "Pitcher in Dodgers road grays delivering pitch on mound, night game",
+    "source": "checked",
+    "of": "Clayton Kershaw",
+    "w": 3396,
+    "h": 3205,
+    "tier": "event"
+   },
+   "extract": "Kyle Christian Hendricks is an American former professional baseball pitcher who played 12 seasons in Major League Baseball (MLB) for the Chicago Cubs and Los Angeles Angels and is currently a special assistant inside the Detroit Tigers organization. He made his MLB debut in 2014 with the Cubs and led MLB in earned…",
+   "page": "https://en.wikipedia.org/wiki/Kyle_Hendricks"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2015",
+   "text": "Don Mattingly will not return as the Los Angeles Dodgers manager in 2016. Mattingly had one more year left in his contract but he and the Dodgers came to a mutual agreement. According to a teleconference with reporters, Mattingly offered no explanation for the mutual parting.",
+   "links": [
+    "Don Mattingly"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Don Mattingly"
+   ],
+   "about": "Don Mattingly",
+   "key": "ff8b565a6b42bab6",
+   "headline": "Don Mattingly will not return as Dodgers manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Don_Mattingly.JPG/960px-Don_Mattingly.JPG",
+    "credit": "Googie man at en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Don_Mattingly.JPG",
+    "alt": "Man in navy Yankees cap and jacket at a ballpark, holding a baseball",
+    "source": "checked",
+    "of": "Don Mattingly",
+    "w": 1207,
+    "h": 1350,
+    "tier": "person"
+   },
+   "extract": "Donald Arthur Mattingly, nicknamed \"Donnie Baseball\" and \"the Hit Man\", is an American former first baseman, manager and coach who serves as manager for the Philadelphia Phillies of Major League Baseball (MLB). He spent his entire playing career in MLB with the New York Yankees from 1982 to 1995. A six-time All-Star,…",
+   "page": "https://en.wikipedia.org/wiki/Don_Mattingly"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2013",
+   "text": "The Reds named Price the 61st manager in club history on October 22, 2013, replacing Dusty Baker.",
+   "links": [
+    "Bryan Price"
+   ],
+   "about": "Bryan Price",
+   "score": 22.0,
+   "abouts": [
+    "Bryan Price"
+   ],
+   "key": "918c46e82e5afd76",
+   "headline": "Reds name Price 61st manager, replacing Dusty Baker",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bryan_Price_2011.jpg/960px-Bryan_Price_2011.jpg",
+    "credit": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bryan_Price_2011.jpg",
+    "alt": "Man in gray Cincinnati Reds road jersey #38, red cap, sunglasses, at ballpark",
+    "source": "checked",
+    "of": "Bryan Price",
+    "w": 1033,
+    "h": 1454,
+    "tier": "person"
+   },
+   "extract": "Bryan Roberts Price is an American professional baseball coach and manager. Price was the manager of the Cincinnati Reds of Major League Baseball (MLB), from 2014 through 2018. He most recently served as the pitching coach for the San Francisco Giants.",
+   "page": "https://en.wikipedia.org/wiki/Bryan_Price"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2013",
+   "text": "After three seasons at this position, Hillman was fired by the Dodgers on October 22, 2013.",
+   "links": [
+    "Trey Hillman"
+   ],
+   "about": "Trey Hillman",
+   "score": 10.0,
+   "abouts": [
+    "Trey Hillman"
+   ],
+   "key": "7b7f9198fcd0eca9",
+   "headline": "Dodgers fire Hillman after three seasons as manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Trey_Hillman_2013.jpg/960px-Trey_Hillman_2013.jpg",
+    "credit": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Trey_Hillman_2013.jpg",
+    "alt": "Man in Dodgers jersey and LA cap holding a baseball glove",
+    "source": "checked",
+    "of": "Trey Hillman",
+    "w": 3448,
+    "h": 3438,
+    "tier": "person"
+   },
+   "extract": "Thomas Brad \"Trey\" Hillman is an American professional baseball coach and manager. He has served as the manager of the Hokkaido Nippon-Ham Fighters in Nippon Professional Baseball (NPB), the Kansas City Royals in Major League Baseball (MLB) and the SK Wyverns in the KBO League. He has also been a coach for the Los…",
+   "page": "https://en.wikipedia.org/wiki/Trey_Hillman"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2011",
+   "text": "Albert Pujols joins Babe Ruth and Reggie Jackson as the only players to hit three home runs in a World Series game as the St. Louis Cardinals win Game 3 of the series, 16–7. Pujols collects a record 14 total bases, while tying World Series records for most hits in a game (5) and RBIs (6). He also becomes the first player in World Series history to get hits in four consecutive innings.",
+   "links": [
+    "Albert Pujols",
+    "Babe Ruth",
+    "Reggie Jackson"
+   ],
+   "score": 95.0,
+   "abouts": [
+    "Albert Pujols",
+    "Babe Ruth",
+    "Reggie Jackson"
+   ],
+   "about": "Albert Pujols",
+   "key": "54059ee3ed2ec97d",
+   "headline": "Pujols hits three homers in Cardinals' 16-7 Game 3 win",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Albert_Pujols_%28Busch_Stadium%2C_2008%29.jpg/960px-Albert_Pujols_%28Busch_Stadium%2C_2008%29.jpg",
+    "credit": "shgmom56",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Albert_Pujols_(Busch_Stadium,_2008).jpg",
+    "alt": "Player in white Cardinals home jersey #5, red cap, red wristband, Busch Stadium",
+    "source": "checked",
+    "of": "Albert Pujols",
+    "w": 2329,
+    "h": 3478,
+    "tier": "person"
+   },
+   "extract": "José Alberto Pujols Alcántara is a Dominican-American professional baseball manager and former first baseman and designated hitter who is the President of Baseball Operations of the Estrellas Orientales of the Dominican Professional Baseball League. He played 22 seasons in Major League Baseball (MLB) for the St. Louis…",
+   "page": "https://en.wikipedia.org/wiki/Albert_Pujols"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2010",
+   "text": "The Texas Rangers defeat the New York Yankees 6–1 to win the ALCS four games to two.",
+   "links": [
+    "Texas Rangers (baseball)",
+    "New York Yankees",
+    "2010 American League Championship Series"
+   ],
+   "score": 26.504063970590586,
+   "abouts": [
+    "2010 American League Championship Series",
+    "Texas Rangers (baseball)",
+    "New York Yankees"
+   ],
+   "about": "2010 American League Championship Series",
+   "key": "edd1164766fee091",
+   "headline": "Rangers defeat Yankees 6-1, win ALCS four games to two",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Adri%C3%A1n_Beltr%C3%A9_2011_%282%29.jpg/960px-Adri%C3%A1n_Beltr%C3%A9_2011_%282%29.jpg",
+    "credit": "Keith Allison on Flickr",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Adri%C3%A1n_Beltr%C3%A9_2011_(2).jpg",
+    "alt": "Player in gray Texas road uniform and blue batting helmet, adjusting batting gloves",
+    "source": "checked",
+    "of": "Texas Rangers (baseball)",
+    "w": 1510,
+    "h": 2384,
+    "tier": "team"
+   },
+   "extract": "The 2010 American League Championship Series (ALCS) was the best-of-seven playoff series which pitted the third-seeded Texas Rangers against the fourth-seeded and defending World Series champion New York Yankees for the American League pennant. The Rangers won the 2010 ALCS and faced the National League champion San…",
+   "page": "https://en.wikipedia.org/wiki/2010_American_League_Championship_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2009",
+   "text": "Kendrys Morales drives in the go-ahead run with a two-out single in the seventh inning, and the Los Angeles Angels respond to the New York Yankees' six-run comeback moments earlier for a 7–6 win that trims the Yankees' ALCS lead to 3–2.",
+   "links": [
+    "Kendrys Morales"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Kendrys Morales"
+   ],
+   "about": "Kendrys Morales",
+   "key": "23470ab36c59ec06",
+   "headline": "Morales single gives Angels 7-6 win, cuts Yankees' ALCS lead",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Kendrys_Morales_on_June_27%2C_2012.jpg",
+    "credit": "Keith Allison on Flickr (Original version) UCinternational (Crop)",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kendrys_Morales_on_June_27,_2012.jpg",
+    "alt": "Angels player in grey road uniform #8, red helmet, batting gloves, in dugout area",
+    "source": "checked",
+    "of": "Kendrys Morales",
+    "w": 710,
+    "h": 1150,
+    "tier": "person"
+   },
+   "extract": "Kendrys Morales Rodríguez, previously known as Kendry Morales, is a Cuban-Dominican former professional baseball designated hitter and first baseman who played in Major League Baseball (MLB) for the Los Angeles Angels of Anaheim, Seattle Mariners, Minnesota Twins, Kansas City Royals, Toronto Blue Jays, Oakland…",
+   "page": "https://en.wikipedia.org/wiki/Kendrys_Morales"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2007",
+   "text": "Tony La Russa agrees to a new two-year deal to stay on as manager of the St. Louis Cardinals.",
+   "links": [
+    "Tony La Russa",
+    "St. Louis Cardinals"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Tony La Russa",
+    "St. Louis Cardinals"
+   ],
+   "about": "Tony La Russa",
+   "key": "cdbc86f3382c621e",
+   "headline": "Tony La Russa agrees to new two-year deal with Cardinals",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tony_La_Russa_by_Gage_Skidmore.jpg/960px-Tony_La_Russa_by_Gage_Skidmore.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tony_La_Russa_by_Gage_Skidmore.jpg",
+    "alt": "Older man in plaid shirt at event backdrop with baseball logo",
+    "source": "checked",
+    "of": "Tony La Russa",
+    "w": 1164,
+    "h": 1679,
+    "tier": "person"
+   },
+   "extract": "Anthony La Russa Jr. is an American former professional baseball infielder and manager. His Major League Baseball (MLB) career spanned from 1963 to 2022, in several roles. He is the former manager of the St. Louis Cardinals, Oakland Athletics, and Chicago White Sox. In 35 seasons as a manager, La Russa guided his…",
+   "page": "https://en.wikipedia.org/wiki/Tony_La_Russa"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2003",
+   "text": "Roger Clemens of the New York Yankees starts Game 4 of the World Series and pitches seven strong innings before exiting the game to a standing ovation from both the crowd in attendance and the Florida Marlins (who left their dugout to join in), presumably because it was to be his final career start, having announced his retirement at the start of the season.",
+   "links": [
+    "Roger Clemens",
+    "New York Yankees",
+    "2003 World Series"
+   ],
+   "score": 96.3957100324582,
+   "abouts": [
+    "2003 World Series",
+    "Roger Clemens",
+    "New York Yankees"
+   ],
+   "about": "2003 World Series",
+   "key": "c5c2cd0a33f26f25",
+   "headline": "Roger Clemens pitches seven strong innings in Game 4",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/062707_267_Roger_Clemens.jpg/960px-062707_267_Roger_Clemens.jpg",
+    "credit": "User Keith Allison on Flickr",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:062707_267_Roger_Clemens.jpg",
+    "alt": "Pitcher in New York Yankees road grays and cap, tossing baseball, stadium crowd behind",
+    "source": "checked",
+    "of": "Roger Clemens",
+    "w": 2400,
+    "h": 3075,
+    "tier": "person"
+   },
+   "extract": "The 2003 World Series was the championship series of Major League Baseball's (MLB) 2003 season. The 99th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Florida Marlins and the American League (AL) champion New York Yankees; the Marlins upset the heavily-favored…",
+   "page": "https://en.wikipedia.org/wiki/2003_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2000",
+   "text": "Hank Wyse. 82, pitcher who helped the Chicago Cubs clinch the 1945 National League title, going 22–10 with a 2.68 ERA; posted a 0–1 (7.04) mark in three World Series games; appeared in 251 MLB games over eight seasons between 1942 and 1951.",
+   "links": [
+    "Hank Wyse"
+   ],
+   "score": 60.0,
+   "abouts": [
+    "Hank Wyse"
+   ],
+   "about": "Hank Wyse",
+   "key": "8efb5a27d8827e56",
+   "headline": "Pitcher Hank Wyse, 82, went 22–10 for 1945 Cubs",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Baseball_Digest_v05n07_%281946-09%29_%28cape1736%29_0000.jpg/960px-Baseball_Digest_v05n07_%281946-09%29_%28cape1736%29_0000.jpg",
+    "credit": "Baseball Digest",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Baseball_Digest_v05n07_(1946-09)_(cape1736)_0000.jpg",
+    "alt": "Magazine cover of a Cubs pitcher in road-style cap and uniform, labeled Hank Wyse, Chicago Cubs.",
+    "source": "checked",
+    "of": "Hank Wyse",
+    "w": 1647,
+    "h": 2388,
+    "tier": "person"
+   },
+   "extract": "Henry Washington Wyse was an American professional baseball pitcher. Between 1942 and 1951, Wyse played in Major League Baseball for the Chicago Cubs (1942–47), Philadelphia Athletics (1950–51) and Washington Senators (1951). A native of Lunsford, Craighead County, Arkansas, he was listed as 5 feet 11 inches (1.80 m)…",
+   "page": "https://en.wikipedia.org/wiki/Hank_Wyse"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1999",
+   "text": "The New York Yankees sign minor league free agent Mike Coolbaugh. Though Coolbaugh never plays a game for the Yankees, he later becomes an unfortunate part of baseball history when he is killed during a minor league game when a line drive strikes him in the skull in 2007. After his death, coaches on the field began to wear helmets as a safety precaution.",
+   "links": [
+    "Mike Coolbaugh"
+   ],
+   "score": 35.0,
+   "abouts": [
+    "Mike Coolbaugh"
+   ],
+   "about": "Mike Coolbaugh",
+   "key": "11966f50f06e47f8",
+   "headline": "Yankees sign minor league free agent Mike Coolbaugh",
+   "image": null,
+   "extract": "Michael Robert Coolbaugh was an American baseball player and coach. Born in Binghamton, New York, he was the brother of major leaguer Scott Coolbaugh. Coolbaugh died after being hit by a line drive while working as a first-base coach in a minor league game.",
+   "page": "https://en.wikipedia.org/wiki/Mike_Coolbaugh"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1994",
+   "text": "The Japan Series begins as baseball's professional championship. Reporters from major American newspapers arrive in Japan for their Fall Classic coverage. Ken Harrelson, the play-by-play announcer for the Chicago White Sox, calls the Japan Series for US audiences on regional sports networks under the Prime SportsChannel banner.",
+   "links": [
+    "Japan Series",
+    "Ken Harrelson",
+    "Chicago White Sox"
+   ],
+   "score": 35.0,
+   "abouts": [
+    "Japan Series",
+    "Ken Harrelson",
+    "Chicago White Sox"
+   ],
+   "about": "Japan Series",
+   "key": "59058444d35904ca",
+   "headline": "Japan Series opens, with American reporters covering it",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hawk_Harrelson_2010.jpg",
+    "credit": "billymax85 Delaywaves",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hawk_Harrelson_2010.jpg",
+    "alt": "Older man with microphone in floral shirt, grass background, outdoors",
+    "source": "checked",
+    "of": "Ken Harrelson",
+    "w": 935,
+    "h": 1181,
+    "tier": "person"
+   },
+   "extract": "The Japan Series, also the Nippon Series, is the annual championship series in Nippon Professional Baseball, the top baseball league in Japan. It is a best-of-seven series between the winning clubs of the league's two circuits, the Central League and the Pacific League, and is played in October or November. The first…",
+   "page": "https://en.wikipedia.org/wiki/Japan_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1992",
+   "text": "Red Barber, 84, broadcaster for the Cincinnati Reds, Brooklyn Dodgers and New York Yankees from 1934 to 1966 who, along with pal Mel Allen, earned the Ford Frick Award honors in its first class from the Baseball Hall of Fame and Museum.",
+   "links": [
+    "Red Barber",
+    "Mel Allen",
+    "Ford Frick Award"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Red Barber",
+    "Mel Allen",
+    "Ford Frick Award"
+   ],
+   "about": "Red Barber",
+   "key": "b24ba8e15f803a90",
+   "headline": "Red Barber, 84, broadcaster for Reds, Dodgers and Yankees, dies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Red_Barber.jpg/960px-Red_Barber.jpg",
+    "credit": "Creator:Al Ravenna, World-Telegram staff photographer",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_Barber.jpg",
+    "alt": "Older man in straw hat and glasses speaking into a microphone",
+    "source": "checked",
+    "of": "Red Barber",
+    "w": 2205,
+    "h": 2741,
+    "tier": "person"
+   },
+   "extract": "Walter Lanier \"Red\" Barber was an American sports announcer and author. Nicknamed \"The Ol' Redhead\", he was primarily identified with broadcasts of Major League Baseball, calling play-by-play across four decades with the Cincinnati Reds (1934–1938), Brooklyn Dodgers (1939–1953), and New York Yankees (1954–1966). Like…",
+   "page": "https://en.wikipedia.org/wiki/Red_Barber"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1985",
+   "text": "Just six days after his AL East-champion Toronto Blue Jays were eliminated from the postseason, manager Bobby Cox quits his post to lead the re-building of his former team, the Atlanta Braves, as their general manager. A resident of nearby Marietta, Georgia, Cox, 44, signs a five-year, $1.8 million contract to replace John Mullen, who'll stay on as Cox' assistant GM.",
+   "links": [
+    "AL East",
+    "Toronto Blue Jays",
+    "Bobby Cox"
+   ],
+   "score": 47.0,
+   "abouts": [
+    "AL East",
+    "Bobby Cox",
+    "Toronto Blue Jays"
+   ],
+   "about": "AL East",
+   "key": "64a5ead916b3846e",
+   "headline": "Bobby Cox quits Blue Jays to become Braves general manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bobby_Cox.jpg",
+    "credit": "User Chrisjnelson on en.wikipedia",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bobby_Cox.jpg",
+    "alt": "Two umpires and a Braves uniformed manager walking on a baseball field at night",
+    "source": "checked",
+    "of": "Bobby Cox",
+    "w": 848,
+    "h": 826,
+    "tier": "person"
+   },
+   "extract": "The American League East is one of Major League Baseball's six divisions. MLB consists of an East, Central, and West division for each of its two 15-team leagues, the American League (AL) and National League (NL). This division was created before the start of the 1969 season along with the American League West. Before…",
+   "page": "https://en.wikipedia.org/wiki/American_League_East"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1984",
+   "text": "Babe Pinelli, 89, National League umpire from 1935 to 1956, previously a Reds third baseman; he worked in six World Series, last calling balls and strikes on Don Larsen's perfect game in 1956.",
+   "links": [
+    "Babe Pinelli",
+    "Don Larsen",
+    "Perfect game (baseball)"
+   ],
+   "score": 20.201,
+   "abouts": [
+    "Babe Pinelli",
+    "Don Larsen",
+    "Perfect game (baseball)"
+   ],
+   "about": "Babe Pinelli",
+   "key": "0aedb15c91650809",
+   "headline": "Babe Pinelli, 89, National League umpire, dies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Babe_Pinelli.jpg",
+    "credit": "Bowman Gum",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Babe_Pinelli.jpg",
+    "alt": "Vintage baseball card portrait of a man in dark cap and suit, labeled PINELLI",
+    "source": "checked",
+    "of": "Babe Pinelli",
+    "w": 438,
+    "h": 291,
+    "tier": "person"
+   },
+   "extract": "Ralph Arthur \"Babe\" Pinelli, born Rinaldo Angelo Paolinelli, was an American third baseman and umpire in Major League Baseball. Born in San Francisco, his playing career was mostly with the Cincinnati Reds from 1922 to 1927. He also played with the Chicago White Sox (1918) and Detroit Tigers (1920). After that he…",
+   "page": "https://en.wikipedia.org/wiki/Babe_Pinelli"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1982",
+   "text": "California Angels pilot Gene Mauch, who this year led his team to postseason play for the first time in his 23-year MLB managerial career, resigns his position. Mauch, 56, faced criticism for starting pitcher selection that may have cost the Angels this year's ALCS. On November 2, he will be succeeded by former Cincinnati Reds manager John McNamara.",
+   "links": [
+    "California Angels",
+    "Gene Mauch",
+    "1982 ALCS"
+   ],
+   "score": 43.798134095751756,
+   "abouts": [
+    "1982 ALCS",
+    "Gene Mauch",
+    "California Angels"
+   ],
+   "about": "1982 ALCS",
+   "key": "2e4e86402bbf1d06",
+   "headline": "Gene Mauch resigns as California Angels manager after 23 years",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shea_Stadium%2C_New_York_City%2C_probably_July_11-13%2C_1969_%281%29.jpg/960px-Shea_Stadium%2C_New_York_City%2C_probably_July_11-13%2C_1969_%281%29.jpg",
+    "credit": "Dada1960",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Shea_Stadium,_New_York_City,_probably_July_11-13,_1969_(1).jpg",
+    "alt": "Four umpires and a player gather at home plate on a baseball field",
+    "source": "checked",
+    "of": "Gene Mauch",
+    "w": 3722,
+    "h": 2427,
+    "tier": "person"
+   },
+   "extract": "The 1982 American League Championship Series was a best-of-five playoff semifinal postseason series in Major League Baseball’s 1982 postseason between the Milwaukee Brewers and the California Angels for the American League (AL) pennant and the right to play in the 1982 World Series. The 14th ALCS in league history, it…",
+   "page": "https://en.wikipedia.org/wiki/1982_American_League_Championship_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1981",
+   "text": "Joe Torre replaces Bobby Cox as manager of the Atlanta Braves. In 1982, Torre will lead the Braves to their second-ever NL West title, his first winning season and postseason appearance in what will become a Hall-of-Fame managerial career.",
+   "links": [
+    "Joe Torre",
+    "Bobby Cox",
+    "Atlanta Braves"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Joe Torre",
+    "Bobby Cox",
+    "Atlanta Braves"
+   ],
+   "about": "Joe Torre",
+   "key": "7ea5570fce5a00ad",
+   "headline": "Joe Torre replaces Bobby Cox as Atlanta Braves manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Joe_Torre.JPG",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Torre.JPG",
+    "alt": "Man in gray New York Yankees road uniform walking on baseball field",
+    "source": "checked",
+    "of": "Joe Torre",
+    "w": 713,
+    "h": 1000,
+    "tier": "person"
+   },
+   "extract": "Joseph Paul Torre Jr. is an American professional baseball executive and former player, manager, and television color commentator. He has served as a special assistant to the commissioner of Major League Baseball since 2020. He previously served in the capacity of Major League Baseball's (MLB) chief baseball officer…",
+   "page": "https://en.wikipedia.org/wiki/Joe_Torre"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1980",
+   "text": "Outfielder Dave Winfield of the San Diego Padres is officially declared a free agent. He will be among 49 players granted free agency between today and November 28, including fellow future Hall of Famers Gaylord Perry and Don Sutton.",
+   "links": [
+    "Dave Winfield",
+    "San Diego Padres",
+    "Gaylord Perry"
+   ],
+   "score": 40.0,
+   "abouts": [
+    "Dave Winfield",
+    "Gaylord Perry",
+    "San Diego Padres"
+   ],
+   "about": "Dave Winfield",
+   "key": "663c4b6c8166a415",
+   "headline": "Dave Winfield declared free agent by San Diego Padres",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hall_of_Famer_Dave_Winfield_takes_part_in_the_Edward_Jones_-ChattingCage_at_All-Star_-FanFest._%2828089240912%29.jpg/960px-Hall_of_Famer_Dave_Winfield_takes_part_in_the_Edward_Jones_-ChattingCage_at_All-Star_-FanFest._%2828089240912%29.jpg",
+    "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hall_of_Famer_Dave_Winfield_takes_part_in_the_Edward_Jones_-ChattingCage_at_All-Star_-FanFest._(28089240912).jpg",
+    "alt": "Older man in brown and gold baseball jersey, seated, clapping, indoor event backdrop",
+    "source": "checked",
+    "of": "Dave Winfield",
+    "w": 4697,
+    "h": 3015,
+    "tier": "person"
+   },
+   "extract": "David Mark Winfield is an American former Major League Baseball (MLB) right fielder. He is the special assistant to the executive director of the Major League Baseball Players Association. Over his 22-year career, he played for six teams: the San Diego Padres, New York Yankees, California Angels, Toronto Blue Jays,…",
+   "page": "https://en.wikipedia.org/wiki/Dave_Winfield"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1976",
+   "text": "On October 22, 1976 Hilton was one of the first players acquired by the expansion Toronto Blue Jays franchise, although he never played a game for them.",
+   "links": [
+    "Dave Hilton (baseball)"
+   ],
+   "about": "Dave Hilton (baseball)",
+   "score": 37.0,
+   "abouts": [
+    "Dave Hilton (baseball)"
+   ],
+   "key": "728c370172fa5d9c",
+   "headline": "Hilton among first players acquired by Toronto Blue Jays",
+   "image": null,
+   "extract": "John David Hilton was an American professional baseball player. He was picked in the 1971 Secondary Draft out of Rice University and played four seasons for the San Diego Padres. On October 22, 1976 Hilton was one of the first players acquired by the expansion Toronto Blue Jays franchise, although he never played a…",
+   "page": "https://en.wikipedia.org/wiki/Dave_Hilton_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1976",
+   "text": "Two weeks prior to the 1976 Major League Baseball expansion draft, the Seattle Mariners and Toronto Blue Jays begin the process of MLB player acquisition. The Mariners purchase the contracts of pitcher Diego Segui (from the Padres), catcher Larry Cox (Twins), and infielders José Báez (Dodgers) and Kurt Bevacqua (Brewers).",
+   "links": [
+    "1976 Major League Baseball expansion draft",
+    "Seattle Mariners",
+    "Toronto Blue Jays"
+   ],
+   "score": 33.355864213575416,
+   "abouts": [
+    "1976 Major League Baseball expansion draft",
+    "Seattle Mariners",
+    "Toronto Blue Jays"
+   ],
+   "about": "1976 Major League Baseball expansion draft",
+   "key": "1bd49cc81155235e",
+   "headline": "Mariners begin player acquisitions ahead of 1976 expansion draft",
+   "image": null,
+   "extract": "The 1976 Major League Baseball Expansion draft was held November 5, 1976. This expansion draft was conducted by Major League Baseball to stock the major league rosters of the Toronto Blue Jays and the Seattle Mariners, new American League franchises established via the 1977 Major League Baseball expansion that were…",
+   "page": "https://en.wikipedia.org/wiki/1976_Major_League_Baseball_expansion_draft"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1975",
+   "text": "At Fenway Park, the Cincinnati Reds win Game 7 of the World Series over the Boston Red Sox, 4–3. Cincinnati has come from behind in all four of their victories. Pete Rose is named the World Series MVP. The Reds win their third Fall Classic, and their first since 1940.",
+   "links": [
+    "Fenway Park",
+    "Cincinnati Reds",
+    "1975 World Series"
+   ],
+   "score": 94.80425576859844,
+   "abouts": [
+    "1975 World Series",
+    "Fenway Park",
+    "Cincinnati Reds"
+   ],
+   "about": "1975 World Series",
+   "key": "78a2a7aed3c2a422",
+   "headline": "Reds win Game 7 at Fenway, beat Red Sox 4-3 in Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Joe_Morgan_crop.jpg",
+    "credit": "John VanderHaagen ; crop: Fui in terra aliena (talk) 17:25, 4 October",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Morgan_crop.jpg",
+    "alt": "Batter in red-trimmed Reds road jersey reading MORGAN #8, red helmet, bat",
+    "source": "checked",
+    "of": "1975 World Series",
+    "w": 489,
+    "h": 418,
+    "tier": "person"
+   },
+   "extract": "The 1975 World Series was the championship series of Major League Baseball's (MLB) 1975 season. The 72nd edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Boston Red Sox and the National League (NL) champion Cincinnati Reds. The Reds narrowly defeated the Red…",
+   "page": "https://en.wikipedia.org/wiki/1975_World_Series"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1975",
+   "text": "The playoffs began on October 4, 1975, and concluded on October 22, 1975, with the Cincinnati Reds defeating the Boston Red Sox in seven games in the 1975 World Series.",
+   "links": [
+    "1975 Major League Baseball postseason"
+   ],
+   "about": "1975 Major League Baseball postseason",
+   "score": 64.09112946806978,
+   "abouts": [
+    "1975 Major League Baseball postseason"
+   ],
+   "key": "91fdedb3a52db9b4",
+   "headline": "Reds defeat Red Sox in seven games in 1975 World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Joe_Morgan_crop.jpg",
+    "credit": "John VanderHaagen ; crop: Fui in terra aliena (talk) 17:25, 4 October",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Morgan_crop.jpg",
+    "alt": "Batter in white Reds jersey, 'MORGAN' #8, red helmet, 1970s",
+    "source": "checked",
+    "of": "1975 World Series",
+    "w": 489,
+    "h": 418,
+    "tier": "person"
+   },
+   "extract": "The 1975 Major League Baseball postseason was the playoff tournament of Major League Baseball for the 1975 season. The winners of each division advance to the postseason and face each other in a League Championship Series to determine the pennant winners that face each other in the World Series.",
+   "page": "https://en.wikipedia.org/wiki/1975_Major_League_Baseball_postseason"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1974",
+   "text": "In a blockbuster, one-for-one deal, the New York Yankees trade outfielder Bobby Murcer to the San Francisco Giants for outfielder Bobby Bonds.",
+   "links": [
+    "New York Yankees",
+    "Bobby Murcer",
+    "San Francisco Giants"
+   ],
+   "score": 25.0,
+   "abouts": [
+    "Bobby Murcer",
+    "New York Yankees",
+    "San Francisco Giants"
+   ],
+   "about": "Bobby Murcer",
+   "key": "fdf5723613b74101",
+   "headline": "Yankees trade Bobby Murcer to Giants for Bobby Bonds",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bobby_Murcer_CROP.jpg",
+    "credit": "Jim Accordino Delaywaves",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bobby_Murcer_CROP.jpg",
+    "alt": "Man in gray suit holding baseball at a ballpark",
+    "source": "checked",
+    "of": "Bobby Murcer",
+    "w": 409,
+    "h": 602,
+    "tier": "person"
+   },
+   "extract": "Bobby Ray Murcer was an American professional baseball outfielder who played 17 seasons in Major League Baseball (MLB) between 1965 and 1983. He played the majority of his career for the New York Yankees, whom he later rejoined as a longtime broadcaster. A Gold Glove winner and five-time All-Star, and was voted to the…",
+   "page": "https://en.wikipedia.org/wiki/Bobby_Murcer"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1973",
+   "text": "The California Angels and Milwaukee Brewers pull off a nine-player transaction in which the Angels send southpaw pitchers Steve Barber and Clyde Wright, catcher Art Kusnyer, outfielder Ken Berry and cash to the Brewers for pitchers Skip Lockwood and Gary Ryerson, catcher Ellie Rodríguez, and outfielders Ollie Brown and Joe Lahoud.",
+   "links": [
+    "California Angels",
+    "Milwaukee Brewers",
+    "Steve Barber"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Steve Barber",
+    "California Angels",
+    "Milwaukee Brewers"
+   ],
+   "about": "Steve Barber",
+   "key": "fadeda964b3c09cc",
+   "headline": "Angels and Brewers complete nine-player trade involving Clyde Wright",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Anaheim_Stadium_1991.jpg/960px-Anaheim_Stadium_1991.jpg",
+    "credit": "Jerry Reuss",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Anaheim_Stadium_1991.jpg",
+    "alt": "Large MLB stadium with full crowd and green field, Anaheim-style ballpark",
+    "source": "checked",
+    "of": "California Angels",
+    "w": 2400,
+    "h": 1600,
+    "tier": "person"
+   },
+   "extract": "Stephen David Barber was an American Major League Baseball (MLB) left-handed pitcher. He pitched for the Baltimore Orioles and six other teams from 1960 to 1974. Barber spent his first eight years with the Orioles, where he compiled an outstanding 95–75 record as a member of the 1960's Baltimore Orioles Kiddie Korps…",
+   "page": "https://en.wikipedia.org/wiki/Steve_Barber"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1972",
+   "text": "The Oakland Athletics win the World Series with a 3–2 victory in Game 7 over the Cincinnati Reds. Catfish Hunter gets the win in relief, and Rollie Fingers the save. Gene Tenace knocks in two of Oakland's three runs with a single in the first inning and a tie-breaking double in the sixth.",
+   "links": [
+    "Oakland Athletics",
+    "1972 World Series",
+    "Cincinnati Reds"
+   ],
+   "score": 69.03902766135312,
+   "abouts": [
+    "1972 World Series",
+    "Oakland Athletics",
+    "Cincinnati Reds"
+   ],
+   "about": "1972 World Series",
+   "key": "b2253804521a108e",
+   "headline": "Athletics beat Reds 3-2 in Game 7 to win World Series",
+   "image": null,
+   "extract": "The 1972 World Series was the championship series of Major League Baseball's (MLB) 1972 season. The 69th edition of the World Series, it was a best-of-seven playoff between the American League champion Oakland Athletics and the National League champion Cincinnati Reds. The Athletics won in seven games for their sixth…",
+   "page": "https://en.wikipedia.org/wiki/1972_World_Series"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1968",
+   "text": "Sherdel was taken to Hanover General Hospital in Hanover, Pennsylvania on October 22, 1968.",
+   "links": [
+    "Bill Sherdel"
+   ],
+   "about": "Bill Sherdel",
+   "score": 10.0,
+   "abouts": [
+    "Bill Sherdel"
+   ],
+   "key": "d472d6da6e668129",
+   "headline": "Sherdel taken to Hanover General Hospital in Pennsylvania",
+   "image": null,
+   "extract": "William Henry Sherdel was an American professional baseball pitcher. He played 15 seasons in Major League Baseball (MLB) for the St. Louis Cardinals and Boston Braves from 1918 to 1932. For his career, he compiled a 165–146 record in 514 appearances, with a 3.72 earned run average and 839 strikeouts. In Cardinals…",
+   "page": "https://en.wikipedia.org/wiki/Bill_Sherdel"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1967",
+   "text": "Charlie Finley hires Hall of Famer and Bay Area legend Joe DiMaggio as a vice president of his newly re-christened Oakland Athletics. DiMaggio will also don a green-and-gold uniform and serve as batting coach for the transplanted team. The \"Yankee Clipper,\" 53, needs two more years of baseball service to qualify for the league's maximum pension allowance.",
+   "links": [
+    "Charlie Finley",
+    "Joe DiMaggio",
+    "Oakland Athletics"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "Charlie Finley",
+    "Joe DiMaggio",
+    "Oakland Athletics"
+   ],
+   "about": "Charlie Finley",
+   "key": "a2e4929f20d8193b",
+   "headline": "Finley hires Joe DiMaggio as Oakland vice president",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joe_DiMaggio.jpg/960px-Joe_DiMaggio.jpg",
+    "credit": "Tom Sande",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_DiMaggio.jpg",
+    "alt": "Smiling man in pinstriped New York Yankees uniform and NY cap",
+    "source": "checked",
+    "of": "Joe DiMaggio",
+    "w": 1868,
+    "h": 2600,
+    "tier": "person"
+   },
+   "extract": "Charles Oscar Finley, nicknamed \"Charlie O\" or \"Charley O\", was an American businessman who owned Major League Baseball's Oakland Athletics. Finley purchased the franchise while it was located in Kansas City, moving it to Oakland in 1968. He is also known as a short-lived owner of the National Hockey League's…",
+   "page": "https://en.wikipedia.org/wiki/Charlie_Finley"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1960",
+   "text": "As relations between Cuba and the United States worsen, Commissioner of Baseball Ford Frick bars U.S. players (though not native Cubans playing in MLB or the minor leagues) from participating in the upcoming Cuban Winter League season.",
+   "links": [
+    "Cuba",
+    "United States",
+    "Commissioner of Baseball"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Cuba",
+    "United States",
+    "Commissioner of Baseball"
+   ],
+   "about": "Cuba",
+   "key": "ff7eac9b4c0a1a01",
+   "headline": "Frick bars U.S. players from Cuban Winter League",
+   "image": null,
+   "extract": "The commissioner of baseball is the chief executive officer of Major League Baseball (MLB) and the associated Minor League Baseball (MiLB) – a constellation of leagues and clubs known as \"affiliated baseball\". Under the direction of the commissioner, the Office of the Commissioner of Baseball hires and maintains the…",
+   "page": "https://en.wikipedia.org/wiki/Commissioner_of_Baseball"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1951",
+   "text": "The third-place Boston Red Sox, who lost 12 of their last 13 games to finish 87–67 in 1951, replace veteran manager Steve O'Neill with infielder Lou Boudreau, who has just completed his first season in a Red Sox uniform.",
+   "links": [
+    "Boston Red Sox",
+    "Steve O'Neill",
+    "Lou Boudreau"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Steve O'Neill",
+    "Lou Boudreau",
+    "Boston Red Sox"
+   ],
+   "about": "Steve O'Neill",
+   "key": "3dd68c8d1063b8fa",
+   "headline": "Red Sox replace Steve O'Neill with Lou Boudreau",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LOU_BOUDREAU.jpg/960px-LOU_BOUDREAU.jpg",
+    "credit": "RF",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:LOU_BOUDREAU.jpg",
+    "alt": "Black-and-white portrait of a man in Cleveland road jersey and cap",
+    "source": "checked",
+    "of": "Lou Boudreau",
+    "w": 2294,
+    "h": 2600,
+    "tier": "person"
+   },
+   "extract": "Stephen Francis O'Neill was an American professional baseball catcher and manager. He played his first 13 seasons with the Cleveland Indians. As a manager, he led the 1945 Detroit Tigers to a World Series championship.",
+   "page": "https://en.wikipedia.org/wiki/Steve_O'Neill"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1929",
+   "text": "Walt Lerian, the starting catcher for the Philadelphia Phillies, is leaving mass at St. Martin's Catholic Church in Baltimore, Maryland, when he is struck and pinned against a wall by a runaway truck. It takes several hours to free Lerian, and he dies from his injuries.",
+   "links": [
+    "Walt Lerian"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Walt Lerian"
+   ],
+   "about": "Walt Lerian",
+   "key": "aaf28a98029e796d",
+   "headline": "Phillies catcher Walt Lerian dies after runaway truck crash",
+   "image": null,
+   "extract": "Walter \"Peck\" Irvin Lerian was an American professional baseball player who played two seasons for the Philadelphia Phillies from 1928 through 1929. He was born in Baltimore, Maryland and died there at the age of 26 when a truck driver leaped the curb and he was pinned against a building, ending what was considered at…",
+   "page": "https://en.wikipedia.org/wiki/Walt_Lerian"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1927",
+   "text": "Ross Youngs, 30, Hall of Fame right fielder who hit a career .322 batting average for the New York Giants over 10 seasons from 1917 to 1926, which included four National League pennants and two World Series championships in 1921 and 1922.",
+   "links": [
+    "Ross Youngs"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Ross Youngs"
+   ],
+   "about": "Ross Youngs",
+   "key": "14169cf5a9d9c0a1",
+   "headline": "Ross Youngs, Hall of Fame right fielder, dies at 30",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rossyoungs-sept24-1922.jpg/960px-Rossyoungs-sept24-1922.jpg",
+    "credit": "The New York Herald",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Rossyoungs-sept24-1922.jpg",
+    "alt": "Player in Giants uniform leaping to make a catch, glove raised.",
+    "source": "checked",
+    "of": "Ross Youngs",
+    "w": 1410,
+    "h": 2358,
+    "tier": "person"
+   },
+   "extract": "Ross Middlebrook \"Pep\" Youngs was an American professional baseball player. Nicknamed \"Pep\", he played ten seasons in Major League Baseball for the New York Giants from 1917 through 1926, playing right field almost exclusively. Youngs was a part of the Giants teams that won four consecutive National League pennants…",
+   "page": "https://en.wikipedia.org/wiki/Ross_Youngs"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1920",
+   "text": "Eight members of the Chicago White Sox are indicted for supposedly throwing the 1919 World Series. Although considered heavy favorites to win the Series, the White Sox lost to the Cincinnati Reds in eight games.",
+   "links": [
+    "Chicago White Sox",
+    "1919 World Series",
+    "Cincinnati Reds"
+   ],
+   "score": 70.84954720950535,
+   "abouts": [
+    "1919 World Series",
+    "Chicago White Sox",
+    "Cincinnati Reds"
+   ],
+   "about": "1919 World Series",
+   "key": "cf30496ac9711f6a",
+   "headline": "Eight White Sox indicted for throwing 1919 World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/1919_Chicago_White_Sox.jpg/960px-1919_Chicago_White_Sox.jpg",
+    "credit": "\"International\", 228 William St, NY",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1919_Chicago_White_Sox.jpg",
+    "alt": "Team photo of 1919-era players in white uniforms with 'Sox' lettering, seated and standing outdoors.",
+    "source": "checked",
+    "of": "Chicago White Sox",
+    "w": 2392,
+    "h": 1573,
+    "tier": "team"
+   },
+   "extract": "The 1919 World Series was the championship series in Major League Baseball (MLB) for the 1919 season. The 16th edition of the World Series, it matched the American League (AL) champion Chicago White Sox against the National League (NL) champion Cincinnati Reds. Although most World Series have been of the best-of-seven…",
+   "page": "https://en.wikipedia.org/wiki/1919_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1911",
+   "text": "The World Series between the New York Giants and the Philadelphia Athletics was resumed after six days of rain, and Chief Bender beat Christy Mathewson, 4–2, to give the Athletics a 3–1 lead.",
+   "links": [
+    "1911 World Series",
+    "New York Giants (baseball)",
+    "Philadelphia Athletics"
+   ],
+   "score": 66.14968842953967,
+   "abouts": [
+    "1911 World Series",
+    "New York Giants (baseball)",
+    "Philadelphia Athletics"
+   ],
+   "about": "1911 World Series",
+   "key": "2f08cba63a7fda26",
+   "headline": "Chief Bender beats Christy Mathewson, Athletics lead Giants 3–1",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Chief_Meyers%2C_New_York%2C_NL_%26_Chief_Bender%2C_Philadelphia%2C_AL_at_World_Series_%28baseball%29_LCCN2014689846.jpg/960px-Chief_Meyers%2C_New_York%2C_NL_%26_Chief_Bender%2C_Philadelphia%2C_AL_at_World_Series_%28baseball%29_LCCN2014689846.jpg",
+    "credit": "Bain News Service, publisher",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Chief_Meyers,_New_York,_NL_%26_Chief_Bender,_Philadelphia,_AL_at_World_Series_(baseball)_LCCN2014689846.jpg",
+    "alt": "Two men in baseball uniforms chatting at a ballpark, with name captions 'Meyers' and 'Bender'.",
+    "source": "checked",
+    "of": "1911 World Series",
+    "w": 5728,
+    "h": 4222,
+    "tier": "person"
+   },
+   "extract": "The 1911 World Series was the championship series in Major League Baseball for the 1911 season. The eighth edition of the World Series, it matched the American League (AL) champion Philadelphia Athletics against the National League (NL) champion New York Giants. The Athletics won the best-of-seven series four games to…",
+   "page": "https://en.wikipedia.org/wiki/1911_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1905",
+   "text": "The Los Angeles Angels of the Pacific Coast League beats the visiting Portland Beavers, 3–2, in 11 innings. Los Angeles pitcher Bill Tozer ends his PCL record of 48 consecutive shutout inning-streak when Portland scored two unearned runs in the third inning.",
+   "links": [
+    "Los Angeles Angels (PCL)",
+    "Pacific Coast League",
+    "Portland Beavers"
+   ],
+   "score": 45.0,
+   "abouts": [
+    "Pacific Coast League",
+    "Los Angeles Angels (PCL)",
+    "Portland Beavers"
+   ],
+   "about": "Pacific Coast League",
+   "key": "31f1085bde8bf99b",
+   "headline": "Los Angeles Angels beat Portland Beavers 3–2 in 11 innings",
+   "image": null,
+   "extract": "The Pacific Coast League (PCL) is a Minor League Baseball league that operates in the Western United States. Along with the International League, it is one of two leagues playing at the Triple-A level, which is one grade below Major League Baseball (MLB).",
+   "page": "https://en.wikipedia.org/wiki/Pacific_Coast_League"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1889",
+   "text": "The Bridegrooms take Game 3 by a score of 8–7 in a game called because of darkness that ends with the Giants having the bases loaded and one out in the top of the ninth inning.",
+   "links": [
+    "Brooklyn Bridegrooms",
+    "New York Giants (NL)"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Brooklyn Bridegrooms",
+    "New York Giants (NL)"
+   ],
+   "about": "Brooklyn Bridegrooms",
+   "key": "e9b329b66357ce3e",
+   "headline": "Bridegrooms win Game 3 8–7 in game called for darkness",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1883_New_York_Gothams.jpeg/960px-1883_New_York_Gothams.jpeg",
+    "credit": "J Wood, 208 Bowery, N.Y.",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1883_New_York_Gothams.jpeg",
+    "alt": "Team photo of uniformed baseball players, caption reads New York League Base Ball Club.",
+    "source": "checked",
+    "of": "New York Giants (NL)",
+    "w": 2254,
+    "h": 1775,
+    "tier": "team"
+   },
+   "extract": "The Brooklyn Dodgers were a Major League Baseball team founded in 1883 as the Brooklyn Grays. In 1884, it became a member of the American Association as the Brooklyn Atlantics before joining the National League in 1890. They remained in Brooklyn, New York, until 1957, after which the team moved to Los Angeles, where…",
+   "page": "https://en.wikipedia.org/wiki/Brooklyn_Dodgers"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1886",
+   "text": "With Jim McCormick and Jocko Flynn hurt and John Clarkson tired, the White Stockings are forced to use position players to pitch and the Browns take full advantage, winning easily 10–3 to take a 3–2 lead in the series.",
+   "links": [
+    "Jim McCormick (pitcher)",
+    "Jocko Flynn",
+    "John Clarkson"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Jim McCormick (pitcher)",
+    "Jocko Flynn",
+    "John Clarkson"
+   ],
+   "about": "Jim McCormick (pitcher)",
+   "key": "24622df2e0731e43",
+   "headline": "Browns rout White Stockings 10–3, take 3–2 series lead",
+   "image": null,
+   "extract": "James McCormick was an American professional baseball pitcher. A native of Glasgow, he was the first ballplayer born in Scotland to appear in a major league game.",
+   "page": "https://en.wikipedia.org/wiki/Jim_McCormick_(pitcher)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1885",
+   "text": "John Montgomery Ward, along with several teammates, forms the Brotherhood of Professional Baseball Players, the first union in professional sports history. The Brotherhood would ultimately result in the Players' League in 1890.",
+   "links": [
+    "John Montgomery Ward",
+    "Players' League"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "John Montgomery Ward",
+    "Players' League"
+   ],
+   "about": "John Montgomery Ward",
+   "key": "fc155f3d5b30e5ca",
+   "headline": "John Montgomery Ward forms first union in pro sports history",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Monte_Ward%2C_New_York_Giants%2C_baseball_card_portrait_LOC_3971750600.jpg",
+    "credit": "The Library of Congress",
+    "license": "No restrictions",
+    "page": "https://commons.wikimedia.org/wiki/File:Monte_Ward,_New_York_Giants,_baseball_card_portrait_LOC_3971750600.jpg",
+    "alt": "Sepia tobacco card of a ballplayer in uniform reclining, 'J. Ward, S.S. New Yorks'",
+    "source": "checked",
+    "of": "John Montgomery Ward",
+    "w": 640,
+    "h": 423,
+    "tier": "person"
+   },
+   "extract": "John Montgomery Ward, also known as Monte Ward, was an American professional baseball player, manager, executive, union organizer, owner and author. Ward, of English descent, was born in Bellefonte, Pennsylvania and grew up in Renovo, Pennsylvania. He led the formation of the first professional sports players union…",
+   "page": "https://en.wikipedia.org/wiki/John_Montgomery_Ward"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1873",
+   "text": "Boston wins the pennant for the 2nd year in a row. They clinch on the same date as they had in 1872.",
+   "links": [
+    "Boston Braves"
+   ],
+   "score": 35.0,
+   "abouts": [
+    "Boston Braves"
+   ],
+   "about": "Boston Braves",
+   "key": "8c341d9ff3b30c9e",
+   "headline": "Boston wins pennant for second straight year",
+   "image": null,
+   "extract": "The Boston Braves were a Major League Baseball team that played in Boston for the National League from 1871 to 1952. The team relocated to Milwaukee after the 1952 season, becoming the Milwaukee Braves, and subsequently moved to Atlanta in 1966.",
+   "page": "https://en.wikipedia.org/wiki/Boston_Braves"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1872",
+   "text": "The Boston Red Stockings clinch the pennant with a 4–3 win over the Brooklyn Eckfords.",
+   "links": [
+    "Boston Braves",
+    "Eckford of Brooklyn"
+   ],
+   "score": 35.0,
+   "abouts": [
+    "Boston Braves",
+    "Eckford of Brooklyn"
+   ],
+   "about": "Boston Braves",
+   "key": "8c5ad8b25e735c47",
+   "headline": "Boston Red Stockings clinch pennant with 4–3 win over Eckfords",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Frank_Pigeon_of_the_Eckford_B.B._club%2C_Brooklyn%2C_E.D._LCCN98510871_%28cropped%29.jpg",
+    "credit": "Taylor, James E., 1839-1901, artist",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Frank_Pigeon_of_the_Eckford_B.B._club,_Brooklyn,_E.D._LCCN98510871_(cropped).jpg",
+    "alt": "Engraved portrait of a man in suit and bow tie, captioned Frank Pigeon, Eckford B.B. Club.",
+    "source": "checked",
+    "of": "Eckford of Brooklyn",
+    "w": 552,
+    "h": 786,
+    "tier": "team"
+   },
+   "extract": "The Boston Braves were a Major League Baseball team that played in Boston for the National League from 1871 to 1952. The team relocated to Milwaukee after the 1952 season, becoming the Milwaukee Braves, and subsequently moved to Atlanta in 1966.",
+   "page": "https://en.wikipedia.org/wiki/Boston_Braves"
+  }
+ ]
+}

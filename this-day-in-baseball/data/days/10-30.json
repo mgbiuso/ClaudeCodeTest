@@ -1,0 +1,914 @@
+{
+ "month": 10,
+ "day": 30,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1974",
+   "text": "Catfish Hunter of the World Series champion Oakland Athletics (41 games started, 318 innings pitched, 25–12 win–loss record, 2.49 earned run average, 23 complete games, six shutouts) wins his only American League Cy Young Award.",
+   "links": [
+    "Catfish Hunter",
+    "World Series",
+    "Oakland Athletics"
+   ],
+   "score": 135.0,
+   "abouts": [
+    "Catfish Hunter",
+    "World Series",
+    "Oakland Athletics"
+   ],
+   "about": "Catfish Hunter",
+   "key": "0037ae2bf438c793",
+   "headline": "Catfish Hunter wins his only American League Cy Young Award",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/CatfishHunterOAK.png",
+    "credit": "Doug McWilliams",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:CatfishHunterOAK.png",
+    "alt": "Man in green A's cap and jersey, signed 'Jim Catfish Hunter' photo",
+    "source": "checked",
+    "of": "Catfish Hunter",
+    "w": 508,
+    "h": 800,
+    "tier": "person"
+   },
+   "extract": "James Augustus \"Catfish\" Hunter was an American professional baseball player in Major League Baseball (MLB). From 1965 to 1979, he was a pitcher for the Kansas City / Oakland Athletics and New York Yankees. Hunter is the only pitcher since 1915 to win 200 games by age 31. He is often referred to as baseball's first…",
+   "page": "https://en.wikipedia.org/wiki/Catfish_Hunter",
+   "lead": true
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2025",
+   "text": "The Fukuoka SoftBank Hawks defeat the Hanshin Tigers in game 5 of the 2025 Japan Series to win their 12th championship.",
+   "links": [
+    "Fukuoka SoftBank Hawks",
+    "Hanshin Tigers",
+    "2025 Japan Series"
+   ],
+   "score": 52.677103590280865,
+   "abouts": [
+    "2025 Japan Series",
+    "Fukuoka SoftBank Hawks",
+    "Hanshin Tigers"
+   ],
+   "about": "2025 Japan Series",
+   "key": "69c19c7732c11b7f",
+   "headline": "SoftBank Hawks beat Hanshin Tigers to win 12th Japan Series title",
+   "image": null,
+   "extract": "The 2025 Japan Series was the championship series of Nippon Professional Baseball's (NPB) 2025 season. The 76th edition of the Japan Series, it was a best-of-seven playoff series played between the Central League (CL) Climax Series champion Hanshin Tigers and the Pacific League (PL) Climax Series champion Fukuoka…",
+   "page": "https://en.wikipedia.org/wiki/2025_Japan_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2024",
+   "text": "The Los Angeles Dodgers defeat the New York Yankees 4–1, winning their eighth World Series championship in franchise history.",
+   "links": [
+    "2024 Los Angeles Dodgers season",
+    "2024 New York Yankees"
+   ],
+   "score": 109.72783526721194,
+   "abouts": [
+    "2024 New York Yankees",
+    "2024 Los Angeles Dodgers season"
+   ],
+   "about": "2024 New York Yankees",
+   "key": "00adba7c7aba19a2",
+   "headline": "Dodgers beat Yankees 4–1, win eighth World Series championship",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2024NLCSG6.jpg/960px-2024NLCSG6.jpg",
+    "credit": "Spanneraol",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2024NLCSG6.jpg",
+    "alt": "Players in white uniforms atop a raised podium on a baseball field, celebrating.",
+    "source": "checked",
+    "of": "2024 Los Angeles Dodgers season",
+    "w": 4032,
+    "h": 3024,
+    "tier": "event"
+   },
+   "extract": "The 2024 New York Yankees season was the 122nd season for the New York Yankees franchise.",
+   "page": "https://en.wikipedia.org/wiki/2024_New_York_Yankees_season"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2024",
+   "text": "On October 30, 2024, the Los Angeles Dodgers became the first visiting team to win a World Series at the venue when they erased a 5–0 deficit to defeat the Yankees 7–6 in Game 5 of the 2024 World Series.",
+   "links": [
+    "Yankee Stadium"
+   ],
+   "about": "Yankee Stadium",
+   "score": 50.0,
+   "abouts": [
+    "Yankee Stadium"
+   ],
+   "key": "42890663f448abe6",
+   "headline": "Dodgers erase 5–0 deficit, beat Yankees 7–6 in Game 5",
+   "image": null,
+   "extract": "Yankee Stadium is a baseball stadium located in the Bronx, New York City. It is the home field of the New York Yankees of Major League Baseball.",
+   "page": "https://en.wikipedia.org/wiki/Yankee_Stadium"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2020",
+   "text": "On October 30, 2020, Hinch was named the manager of the Tigers, agreeing on a multi-year contract.",
+   "links": [
+    "A. J. Hinch"
+   ],
+   "about": "A. J. Hinch",
+   "score": 43.47915447479292,
+   "abouts": [
+    "A. J. Hinch"
+   ],
+   "key": "8a74158193ee839b",
+   "headline": "Hinch named Tigers manager on multi-year contract",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/AJ_Hinch_dugout_spring_2015.jpg/960px-AJ_Hinch_dugout_spring_2015.jpg",
+    "credit": "EricEnfermero",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:AJ_Hinch_dugout_spring_2015.jpg",
+    "alt": "Man in orange Astros cap and sunglasses in dugout, baseball bat visible",
+    "source": "checked",
+    "of": "A. J. Hinch",
+    "w": 1401,
+    "h": 1909,
+    "tier": "person"
+   },
+   "extract": "Andrew Jay Hinch is an American professional baseball coach and former catcher who is the manager of the Detroit Tigers of Major League Baseball (MLB). As a member of Team USA, Hinch won a bronze medal at the 1996 Summer Olympics before playing in MLB for the Oakland Athletics (1998–2000), Kansas City Royals…",
+   "page": "https://en.wikipedia.org/wiki/A._J._Hinch"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2020",
+   "text": "The Indians subsequently announced on October 30, 2020 that Mills will not return as bench coach for the 2021 season, but would remain with the club in an undetermined role.",
+   "links": [
+    "Brad Mills (baseball manager)"
+   ],
+   "about": "Brad Mills (baseball manager)",
+   "score": 23.951425820166207,
+   "abouts": [
+    "Brad Mills (baseball manager)"
+   ],
+   "key": "9506f86ffbae7e6d",
+   "headline": "Mills will not return as Indians bench coach for 2021 season",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG/960px-Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
+    "credit": "EricEnfermero",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
+    "alt": "Man in red cap and navy Cleveland jacket with C logo at ballpark",
+    "source": "checked",
+    "of": "Brad Mills (baseball manager)",
+    "w": 1898,
+    "h": 2848,
+    "tier": "person"
+   },
+   "extract": "James Bradley Mills is an American former professional baseball player, coach, and manager. He played in Major League Baseball (MLB) as an infielder for the Montreal Expos from 1980 to 1983. He managed the Houston Astros from 2010 to 2012, and served as a coach in MLB for the Expos, Philadelphia Phillies, Boston Red…",
+   "page": "https://en.wikipedia.org/wiki/Brad_Mills_(baseball_manager)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2019",
+   "text": "The Washington Nationals win their first World Series in franchise history by defeating the Houston Astros 6–2 in game 7 of the World Series. Washington Nationals pitcher Stephen Strasburg was named 2019 World Series MVP.",
+   "links": [
+    "Stephen Strasburg"
+   ],
+   "score": 90.0,
+   "abouts": [
+    "Stephen Strasburg"
+   ],
+   "about": "Stephen Strasburg",
+   "key": "9e5385d120b245b0",
+   "headline": "Nationals win first World Series in franchise history, beat Astros 6–2",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Stephen_Strasburg_Baltimore_Orioles_vs._Washington_Nationals_at_Nationals_Park%2C_August_9%2C_2020_%28All-Pro_Reels_Photography%29_%2850208669172%29_%28cropped%29.jpg/960px-Stephen_Strasburg_Baltimore_Orioles_vs._Washington_Nationals_at_Nationals_Park%2C_August_9%2C_2020_%28All-Pro_Reels_Photography%29_%2850208669172%29_%28cropped%29.jpg",
+    "credit": "All-Pro Reels from District of Columbia, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Stephen_Strasburg_Baltimore_Orioles_vs._Washington_Nationals_at_Nationals_Park,_August_9,_2020_(All-Pro_Reels_Photography)_(50208669172)_(cropped).jpg",
+    "alt": "Pitcher in white Nationals home jersey and red cap, mid-delivery",
+    "source": "checked",
+    "of": "Stephen Strasburg",
+    "w": 1262,
+    "h": 1347,
+    "tier": "person"
+   },
+   "extract": "Stephen James Strasburg is an American former professional baseball pitcher who is currently an assistant with the San Diego State Aztecs baseball program. He spent his entire 13-year Major League Baseball (MLB) career with the Washington Nationals. He is a three-time All-Star and the World Series MVP of the Nationals…",
+   "page": "https://en.wikipedia.org/wiki/Stephen_Strasburg"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2018",
+   "text": "On October 30, 2018, ground was broken on a new ballpark in downtown Kannapolis as part of a mixed-use redevelopment plan.",
+   "links": [
+    "Kannapolis Cannon Ballers"
+   ],
+   "about": "Kannapolis Cannon Ballers",
+   "score": 25.0,
+   "abouts": [
+    "Kannapolis Cannon Ballers"
+   ],
+   "key": "1dda4839d55737d7",
+   "headline": "Ground broken on new ballpark in downtown Kannapolis",
+   "image": null,
+   "extract": "The Kannapolis Cannon Ballers are a Minor League Baseball team of the Carolina League and the Single-A affiliate of the Chicago White Sox. They are located in Kannapolis, North Carolina, and play their home games at Atrium Health Ballpark. The team was established in 1995 as the Piedmont Phillies. From 1996 to 2000,…",
+   "page": "https://en.wikipedia.org/wiki/Kannapolis_Cannon_Ballers"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2015",
+   "text": "The New York Mets rallied from an early deficit to beat the Kansas City Royals, 9–3, in the first World Series game ever played at Citi Field, which set a record when 44,781 fans attended the game. Noah Syndergaard settled down after yielding three runs and six hits in the first two innings, Curtis Granderson and David Wright each belted a two-run home run, as the Mets took Game 3 of the series after two tough…",
+   "links": [
+    "Citi Field",
+    "Noah Syndergaard",
+    "Curtis Granderson"
+   ],
+   "score": 117.30087961759014,
+   "abouts": [
+    "Citi Field",
+    "Curtis Granderson",
+    "Noah Syndergaard"
+   ],
+   "about": "Citi Field",
+   "key": "3b18a53c9b69cb4b",
+   "headline": "Mets beat Royals 9–3 in first World Series game at Citi Field",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Billy_Joel_Singing_the_National_Anthem_Before_Game_3_of_the_2015_World_Series.jpg/960px-Billy_Joel_Singing_the_National_Anthem_Before_Game_3_of_the_2015_World_Series.jpg",
+    "credit": "slgckgc",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Billy_Joel_Singing_the_National_Anthem_Before_Game_3_of_the_2015_World_Series.jpg",
+    "alt": "Players in Mets home pinstripes with caps over hearts during anthem at night game",
+    "source": "checked",
+    "of": "2015 World Series",
+    "w": 3046,
+    "h": 2284,
+    "tier": "event"
+   },
+   "extract": "Citi Field is a baseball stadium located in Flushing Meadows–Corona Park, in the borough of Queens, New York City, United States. Opened in 2009, Citi Field is the home of Major League Baseball's New York Mets. The ballpark was built as a replacement for the adjacent Shea Stadium, which had been demolished shortly…",
+   "page": "https://en.wikipedia.org/wiki/Citi_Field"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2015",
+   "text": "Mondesí is the first player in modern MLB history to make his debut in the World Series, doing so with the Royals in Game 3 on October 30, 2015, against the New York Mets.",
+   "links": [
+    "Adalberto Mondesí"
+   ],
+   "about": "Adalberto Mondesí",
+   "score": 67.32914407678717,
+   "abouts": [
+    "Adalberto Mondesí"
+   ],
+   "key": "22da6e540911edac",
+   "headline": "Mondesí becomes first player in modern MLB history to debut in World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ra%C3%BAl_Adalberto_Mondes%C3%AD_on_November_2%2C_2015.jpg",
+    "credit": "Arturo Pardavila III on Flickr (Original version) UCinternational",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ra%C3%BAl_Adalberto_Mondes%C3%AD_on_November_2,_2015.jpg",
+    "alt": "Smiling player in grey Kansas City road jersey, number 27, with teammates.",
+    "source": "checked",
+    "of": "Adalberto Mondesí",
+    "w": 680,
+    "h": 1100,
+    "tier": "person"
+   },
+   "extract": "Raúl Adalberto Mondesí is a Dominican-American former professional baseball infielder. He has previously played in Major League Baseball (MLB) for the Kansas City Royals. Mondesí is the first player in modern MLB history to make his debut in the World Series, doing so with the Royals in Game 3 on October 30, 2015,…",
+   "page": "https://en.wikipedia.org/wiki/Adalberto_Mondes%C3%AD"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2013",
+   "text": "The Boston Red Sox defeat the St. Louis Cardinals 6–1 at Fenway Park and win their eighth World Series title and third in the last 10 seasons, to become the first team to win three world championship titles in the 21st century. Red Sox icon David Ortiz earns MVP honors.",
+   "links": [
+    "Boston Red Sox",
+    "St. Louis Cardinals",
+    "Fenway Park"
+   ],
+   "score": 100.0,
+   "abouts": [
+    "Fenway Park",
+    "Boston Red Sox",
+    "St. Louis Cardinals"
+   ],
+   "about": "Fenway Park",
+   "key": "32ade3822e8c9e20",
+   "headline": "Red Sox beat Cardinals 6–1, win eighth World Series title",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events.jpg/960px-131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events.jpg",
+    "credit": "Rick Berry",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events.jpg",
+    "alt": "Fenway Park at night during World Series pregame ceremony, lined-up teams, American flag, World Series logo",
+    "source": "checked",
+    "of": "2013 World Series",
+    "w": 3807,
+    "h": 2529,
+    "tier": "event"
+   },
+   "extract": "Fenway Park is a ballpark in Boston, Massachusetts, United States, close to Kenmore Square. Since 1912, it has been the home field of Major League Baseball's (MLB) Boston Red Sox. While the stadium was built in 1912, it was substantially rebuilt in 1934, and underwent major renovations and modifications in the 21st…",
+   "page": "https://en.wikipedia.org/wiki/Fenway_Park"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2011",
+   "text": "MLB All-Stars arrive in Taipei for the beginning of the 2011 Taiwan All-Star Series. With Bruce Bochy at the helm, the American team includes players such as Robinson Canó, Curtis Granderson, Jeremy Guthrie, LaTroy Hawkins, Logan Morrison, Josh Reddick and Pablo Sandoval.",
+   "links": [
+    "Bruce Bochy",
+    "Robinson Canó",
+    "Curtis Granderson"
+   ],
+   "score": 32.21004579570476,
+   "abouts": [
+    "Curtis Granderson",
+    "Bruce Bochy",
+    "Robinson Canó"
+   ],
+   "about": "Curtis Granderson",
+   "key": "ab60dbe8bbdac5e5",
+   "headline": "MLB All-Stars arrive in Taipei for 2011 Taiwan All-Star Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bruce_Bochy_by_Gage_Skidmore.jpg/960px-Bruce_Bochy_by_Gage_Skidmore.jpg",
+    "credit": "Gage Skidmore",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bruce_Bochy_by_Gage_Skidmore.jpg",
+    "alt": "Smiling older man in dark shirt at event with baseball-themed backdrop",
+    "source": "checked",
+    "of": "Bruce Bochy",
+    "w": 2904,
+    "h": 3640,
+    "tier": "person"
+   },
+   "extract": "Curtis Granderson Jr., nicknamed \"the Grandyman\", is an American former professional baseball outfielder. He played 16 seasons in Major League Baseball (MLB) for the Detroit Tigers, New York Yankees, New York Mets, Los Angeles Dodgers, Toronto Blue Jays, Milwaukee Brewers, and Miami Marlins.",
+   "page": "https://en.wikipedia.org/wiki/Curtis_Granderson"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2011",
+   "text": "Mickey Scott, 64, German-born reliever for the Baltimore Orioles, Montreal Expos and California Angels between 1972 and 1977, who also was elected to the Rochester Red Wings Hall of Fame in 1998.",
+   "links": [
+    "Mickey Scott",
+    "Rochester Red Wings"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Mickey Scott",
+    "Rochester Red Wings"
+   ],
+   "about": "Mickey Scott",
+   "key": "9e28619eeb79181d",
+   "headline": "Mickey Scott, 64, German-born reliever for Orioles, Expos, Angels, dies",
+   "image": null,
+   "extract": "Ralph Robert Scott was a left-handed specialist pitcher in North American Major League Baseball (MLB) who played in portions of five seasons with the Baltimore Orioles, Montreal Expos and California Angels from 1972 to 1977. He was born in Weimar, Soviet occupation zone of Germany.",
+   "page": "https://en.wikipedia.org/wiki/Mickey_Scott"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2007",
+   "text": "On October 30, 2007, Sveum switched positions on the staff and became the team's third base coach.",
+   "links": [
+    "Dale Sveum"
+   ],
+   "about": "Dale Sveum",
+   "score": 28.005952663076666,
+   "abouts": [
+    "Dale Sveum"
+   ],
+   "key": "958216b3f034a751",
+   "headline": "Sveum switches to third base coach role with team",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sveum_with_Cubs.jpg/960px-Sveum_with_Cubs.jpg",
+    "credit": "thotfulspot",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sveum_with_Cubs.jpg",
+    "alt": "Man in Cubs home pinstripes with glove, stadium crowd, Stanley Cup beside him",
+    "source": "checked",
+    "of": "Dale Sveum",
+    "w": 1307,
+    "h": 2013,
+    "tier": "person"
+   },
+   "extract": "Dale Curtis Sveum is an American former Major League Baseball (MLB) player and manager. He most recently served as the bench coach for the Kansas City Royals. As a player, Sveum saw action in 12 major league seasons between 1986 and 1999. He was a member of the Milwaukee Brewers, Philadelphia Phillies, Chicago White…",
+   "page": "https://en.wikipedia.org/wiki/Dale_Sveum"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2007",
+   "text": "The Yankees sign Joe Girardi to a three-year deal as their new manager. In the meantime, amid rumors that Torre will be hired as the team's new manager, Grady Little resigns as manager of the Los Angeles Dodgers.",
+   "links": [
+    "Joe Girardi",
+    "Grady Little",
+    "Los Angeles Dodgers"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Joe Girardi",
+    "Grady Little",
+    "Los Angeles Dodgers"
+   ],
+   "about": "Joe Girardi",
+   "key": "2673d2a63ba76cf0",
+   "headline": "Yankees sign Joe Girardi to three-year deal as new manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Joe_Girardi.png",
+    "credit": "Girardi in 2020",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Girardi.png",
+    "alt": "Man with short gray hair in red shirt against dark background",
+    "source": "checked",
+    "of": "Joe Girardi",
+    "w": 622,
+    "h": 758,
+    "tier": "person"
+   },
+   "extract": "Joseph Elliott Girardi is an American sports broadcaster and former professional baseball player and manager in Major League Baseball (MLB). Girardi played the catcher position for the Chicago Cubs, Colorado Rockies, New York Yankees, and St. Louis Cardinals during a big league playing career that spanned from 1989 to…",
+   "page": "https://en.wikipedia.org/wiki/Joe_Girardi"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2005",
+   "text": "Al López, 97, Hall of Famer who set a major league record for career games as a catcher (1,918) in 1928 and from 1930 to 1947, almost entirely in the NL; then managed the Cleveland Indians (1951–1956) and Chicago White Sox (1957–1965, 1968–1969) to AL pennants in 1954 and 1959 — the only non-Yankee AL champs between 1949 and 1964.",
+   "links": [
+    "Al López"
+   ],
+   "score": 21.466,
+   "abouts": [
+    "Al López"
+   ],
+   "about": "Al López",
+   "key": "8b06c518d4efef0d",
+   "headline": "Al López, 97, Hall of Famer and record-setting catcher, dies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Al_Lopez_-_WJROneOfAKind.jpg",
+    "credit": "Jam Handy Organization",
+    "license": "Public Domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Al_Lopez_-_WJROneOfAKind.jpg",
+    "alt": "Older man in White Sox cap and glasses, in a grey road jersey",
+    "source": "checked",
+    "of": "Al López",
+    "w": 640,
+    "h": 480,
+    "tier": "person"
+   },
+   "extract": "Alfonso Ramón López was a Spanish-American professional baseball catcher and manager. He played in Major League Baseball (MLB) for the Brooklyn Robins / Dodgers, Boston Bees, Pittsburgh Pirates, and Cleveland Indians between 1928 and 1947, and was the manager for the Cleveland Indians and the Chicago White Sox from…",
+   "page": "https://en.wikipedia.org/wiki/Al_L%C3%B3pez"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2001",
+   "text": "The World Series comes to Yankee Stadium. President George W. Bush throws out the ceremonial first pitch.",
+   "links": [
+    "2001 World Series",
+    "Yankee Stadium",
+    "George W. Bush"
+   ],
+   "score": 87.82066611921053,
+   "abouts": [
+    "2001 World Series",
+    "Yankee Stadium",
+    "George W. Bush"
+   ],
+   "about": "2001 World Series",
+   "key": "5fa341072577a27a",
+   "headline": "President George W. Bush throws out first pitch at Yankee Stadium",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/161st_Street_Yankee_Stadium_IRT_Jerome_southbound_platform_2009_Yankee_Stadium.JPG/960px-161st_Street_Yankee_Stadium_IRT_Jerome_southbound_platform_2009_Yankee_Stadium.JPG",
+    "credit": "TLK in 3",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:161st_Street_Yankee_Stadium_IRT_Jerome_southbound_platform_2009_Yankee_Stadium.JPG",
+    "alt": "Elevated subway platform with Yankee Stadium signage and Budweiser banners, 161st Street station.",
+    "source": "checked",
+    "of": "Yankee Stadium",
+    "w": 1600,
+    "h": 1200,
+    "tier": "venue"
+   },
+   "extract": "The 2001 World Series was the championship series of Major League Baseball's (MLB) 2001 season. The 97th edition of the World Series, it was a best-of-seven series between the National League (NL) champion Arizona Diamondbacks and the American League (AL) champion New York Yankees. The Diamondbacks defeated the…",
+   "page": "https://en.wikipedia.org/wiki/2001_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1987",
+   "text": "Dallas Green, only three years after his recognition as MLB Executive of the Year, resigns as president and general manager of the Chicago Cubs over \"philosophical differences\" with the team's owners, the Tribune Company. Since taking the job six years ago, Green, 53, took the Cubs from last place to their first postseason appearance in 39 years as 1984 NL East champions.",
+   "links": [
+    "Dallas Green (baseball)",
+    "president (corporate title)",
+    "Chicago Cubs"
+   ],
+   "score": 66.26392434340273,
+   "abouts": [
+    "Dallas Green (baseball)",
+    "president (corporate title)",
+    "Chicago Cubs"
+   ],
+   "about": "Dallas Green (baseball)",
+   "key": "0b4f3f2e590ddd11",
+   "headline": "Dallas Green resigns as Cubs president and general manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PhilliesWallofFame.jpg/960px-PhilliesWallofFame.jpg",
+    "credit": "Flickr user pvsbond",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:PhilliesWallofFame.jpg",
+    "alt": "Phillies Centennial Team plaques on brick wall at ballpark, baseball setting",
+    "source": "checked",
+    "of": "Dallas Green (baseball)",
+    "w": 3058,
+    "h": 2446,
+    "tier": "person"
+   },
+   "extract": "George Dallas Green was an American professional baseball pitcher, manager, scout and executive in Major League Baseball (MLB). He played big league baseball for the Philadelphia Phillies, Washington Senators and New York Mets, from 1960 through 1967. A man of towering stature, at 6 feet 5 inches (1.96 m) tall and 210…",
+   "page": "https://en.wikipedia.org/wiki/Dallas_Green_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1986",
+   "text": "The Baltimore Orioles trade 24-year-old right-handed starter Storm Davis to the San Diego Padres for reliever Mark Williamson and catcher Terry Kennedy.",
+   "links": [
+    "Baltimore Orioles",
+    "Storm Davis",
+    "San Diego Padres"
+   ],
+   "score": 25.0,
+   "abouts": [
+    "Storm Davis",
+    "Baltimore Orioles",
+    "San Diego Padres"
+   ],
+   "about": "Storm Davis",
+   "key": "769a082225c1870d",
+   "headline": "Orioles trade Storm Davis to Padres for Williamson and Kennedy",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Storm_Davis.jpg",
+    "credit": "Baltimore Orioles",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Storm_Davis.jpg",
+    "alt": "Smiling young player in Orioles cap and orange-trimmed jersey, studio portrait",
+    "source": "checked",
+    "of": "Storm Davis",
+    "w": 557,
+    "h": 772,
+    "tier": "person"
+   },
+   "extract": "George Earl \"Storm\" Davis is an American former professional baseball player who pitched in the major leagues from 1982 to 1994. He is a two-time World Series champion.",
+   "page": "https://en.wikipedia.org/wiki/Storm_Davis"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1984",
+   "text": "Former stalwart third baseman Jim Davenport, who on April 15, 1958 became the first man to officially bat for the relocated San Francisco Giants, is named the club's manager for 1985. Davenport, 51, is in the midst of a 60+ year pro baseball career that will include 51 years in the Giants' organization as a player, coach, MLB and minor-league manager, scout, and front office official.",
+   "links": [
+    "Jim Davenport",
+    "San Francisco Giants",
+    "Danny Ozark"
+   ],
+   "score": 32.0,
+   "abouts": [
+    "Jim Davenport",
+    "Danny Ozark",
+    "San Francisco Giants"
+   ],
+   "about": "Jim Davenport",
+   "key": "c987dde1871a1fce",
+   "headline": "Jim Davenport named Giants manager for 1985 season",
+   "image": null,
+   "extract": "James Houston Davenport was an American professional baseball infielder and coach who played his entire career with the San Francisco Giants in Major League Baseball (MLB). He also managed the Giants for one season in 1985 and served as a coach in various capacities for nine years over three different terms, spending…",
+   "page": "https://en.wikipedia.org/wiki/Jim_Davenport"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1983",
+   "text": "Boston Red Sox farmhands John Mitchell, Anthony Latham and Scott Skripko are deep-sea fishing off the Gulf Coast of Florida when their boat capsizes. Boat owner Mark Zastrowmy and Latham drown. Skripko and Mitchell survive over 20 hours in the water by clinging to debris; Skripko holds onto a cooler for 20 hours and Mitchell a bucket for 22 hours.",
+   "links": [
+    "Boston Red Sox",
+    "farm system",
+    "John Mitchell (pitcher)"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "farm system",
+    "John Mitchell (pitcher)",
+    "Boston Red Sox"
+   ],
+   "about": "farm system",
+   "key": "0e5e0478bdeca764",
+   "headline": "Red Sox farmhands survive boat capsizing, two others drown",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1988_CandL_Colorcraft_-_John_Mitchell_%28cropped%29.jpg",
+    "credit": "CandL and Colorcraft",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1988_CandL_Colorcraft_-_John_Mitchell_(cropped).jpg",
+    "alt": "smiling man in blue Texas-style cap and jersey, outdoors",
+    "source": "checked",
+    "of": "John Mitchell (pitcher)",
+    "w": 502,
+    "h": 592,
+    "tier": "person"
+   },
+   "extract": "John Kyle Mitchell is an American former professional baseball pitcher. He pitched in parts of five Major League Baseball (MLB) seasons (1986–1990) for the New York Mets and Baltimore Orioles.",
+   "page": "https://en.wikipedia.org/wiki/John_Mitchell_(pitcher)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1975",
+   "text": "John Montefusco, the San Francisco Giants' right-hander, wins the 1975 National League Rookie of the Year Award. Fred Lynn, the Boston Red Sox center-fielder, had won American League rookie honors two days before.",
+   "links": [
+    "John Montefusco",
+    "San Francisco Giants",
+    "Major League Baseball Rookie of the Year Award"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "John Montefusco",
+    "Major League Baseball Rookie of the Year Award",
+    "San Francisco Giants"
+   ],
+   "about": "John Montefusco",
+   "key": "ada3fe1356f0f37c",
+   "headline": "John Montefusco wins 1975 National League Rookie of the Year",
+   "image": null,
+   "extract": "John Joseph Montefusco Jr., nicknamed \"the Count\", is an American former professional baseball player and coach. He played as a right-handed pitcher in Major League Baseball from 1974 to 1986, most notably as a member of the San Francisco Giants with whom he won the National League Rookie of the Year Award and pitched…",
+   "page": "https://en.wikipedia.org/wiki/John_Montefusco"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1967",
+   "text": "The Chicago White Sox, who drew only 985,634 fans to Comiskey Park despite a season of pennant contention in 1967, announce they will play nine night games, one against each American League foe, at Milwaukee County Stadium in 1968.",
+   "links": [
+    "Chicago White Sox",
+    "Comiskey Park",
+    "Milwaukee County Stadium"
+   ],
+   "score": 60.0,
+   "abouts": [
+    "Comiskey Park",
+    "Milwaukee County Stadium",
+    "Chicago White Sox"
+   ],
+   "about": "Comiskey Park",
+   "key": "23479b4078750e39",
+   "headline": "White Sox to play nine night games at Milwaukee County Stadium",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/06CountyStadium09-24-2000.jpg/960px-06CountyStadium09-24-2000.jpg",
+    "credit": "Jwhouk",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:06CountyStadium09-24-2000.jpg",
+    "alt": "Milwaukee County Stadium facade with team banners and stadium signage",
+    "source": "checked",
+    "of": "Milwaukee County Stadium",
+    "w": 1152,
+    "h": 864,
+    "tier": "venue"
+   },
+   "extract": "Comiskey Park was a ballpark in Chicago, Illinois, located in the Armour Square neighborhood on the near-south side of the city. The stadium served as the home of the Chicago White Sox of the American League from 1910 through 1990. Built by White Sox owner Charles Comiskey and designed by Zachary Taylor Davis,…",
+   "page": "https://en.wikipedia.org/wiki/Comiskey_Park"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1964",
+   "text": "Joe Stanka is named MVP of the Pacific League of Nippon Professional baseball after leading the Nankai Hawks over the Yomiuri Giants in the 1964 Japan Series.",
+   "links": [
+    "Joe Stanka",
+    "Pacific League",
+    "Nippon Professional baseball"
+   ],
+   "score": 45.0,
+   "abouts": [
+    "Joe Stanka",
+    "Pacific League",
+    "Nippon Professional baseball"
+   ],
+   "about": "Joe Stanka",
+   "key": "83361f6819535d71",
+   "headline": "Joe Stanka named Pacific League MVP after Japan Series win",
+   "image": null,
+   "extract": "Joe Donald Stanka was an American professional baseball player. The right-handed pitcher from Hammon, Oklahoma played for the Chicago White Sox of Major League Baseball in 1959, and the Nankai Hawks and Taiyo Whales in Nippon Professional Baseball from 1960 to 1966. He stood at 6 feet 6 inches (1.98 m) tall and…",
+   "page": "https://en.wikipedia.org/wiki/Joe_Stanka"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1963",
+   "text": "Capping a brilliant 1963 season and a sweep of major awards during the month of October, Sandy Koufax breezes to the National League's Most Valuable Player Award. Today, he captures 14 of a possible 20 first place votes and 237 points to best Dick Groat of the St. Louis Cardinals (four, 190).",
+   "links": [
+    "Sandy Koufax",
+    "Major League Baseball Most Valuable Player Award",
+    "Dick Groat"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Sandy Koufax",
+    "Major League Baseball Most Valuable Player Award",
+    "Dick Groat"
+   ],
+   "about": "Sandy Koufax",
+   "key": "e73385d479de8c92",
+   "headline": "Sandy Koufax wins National League Most Valuable Player Award",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sandy_Koufax.jpg/960px-Sandy_Koufax.jpg",
+    "credit": "publicity still",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Sandy_Koufax.jpg",
+    "alt": "Smiling man in baseball cap and jersey, black-and-white portrait",
+    "source": "checked",
+    "of": "Sandy Koufax",
+    "w": 961,
+    "h": 1213,
+    "tier": "person"
+   },
+   "extract": "Sanford Koufax, nicknamed \"the Left Arm of God\", is an American former professional baseball player. Widely considered one of the greatest pitchers of all time, he played 12 seasons in Major League Baseball (MLB) for the Brooklyn / Los Angeles Dodgers from 1955 to 1966. Koufax was the first three-time winner of the Cy…",
+   "page": "https://en.wikipedia.org/wiki/Sandy_Koufax"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1956",
+   "text": "The Brooklyn Dodgers sell Ebbets Field, their home since 1913, to real-estate developer Marvin Kratter for a price later revealed to be $3 million. The Dodgers will lease the ballpark from Kratter in 1957, with options to return for the next two seasons, but The New York Times warns that \"the demise of Ebbets Field\" has come \"a step nearer reality.\"",
+   "links": [
+    "Brooklyn Dodgers",
+    "Ebbets Field",
+    "Marvin Kratter"
+   ],
+   "score": 25.0,
+   "abouts": [
+    "Ebbets Field",
+    "Marvin Kratter",
+    "Brooklyn Dodgers"
+   ],
+   "about": "Ebbets Field",
+   "key": "e5ed67f817b95448",
+   "headline": "Dodgers sell Ebbets Field to Marvin Kratter for $3 million",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ebbets1913OpeningDay.jpg/960px-Ebbets1913OpeningDay.jpg",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ebbets1913OpeningDay.jpg",
+    "alt": "Ebbets Field exterior with crowds outside, sepia-toned, early 1900s",
+    "source": "checked",
+    "of": "Ebbets Field",
+    "w": 1753,
+    "h": 1275,
+    "tier": "venue"
+   },
+   "extract": "Ebbets Field was a Major League Baseball stadium in the Flatbush section of Brooklyn, New York City. It is mainly known for having been the home of the Brooklyn Dodgers baseball team of the National League (1913–1957). It was also home to Negro league baseball's Brooklyn Eagles of the Negro National League II and to…",
+   "page": "https://en.wikipedia.org/wiki/Ebbets_Field"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1952",
+   "text": "The St. Louis Cardinals release longtime star left-hander Harry Brecheen, a two-time NL All-Star and hero of the 1946 World Series. Brecheen is immediately named a playing pitching coach by the American League St. Louis Browns.",
+   "links": [
+    "St. Louis Cardinals",
+    "Harry Brecheen",
+    "1946 World Series"
+   ],
+   "score": 77.33951973261401,
+   "abouts": [
+    "1946 World Series",
+    "Harry Brecheen",
+    "St. Louis Cardinals"
+   ],
+   "about": "1946 World Series",
+   "key": "74083f0ea0fa8763",
+   "headline": "Cardinals release Harry Brecheen, two-time NL All-Star",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/1946_St._Louis_Cardinals.png",
+    "credit": "Press Association",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1946_St._Louis_Cardinals.png",
+    "alt": "Team photo of 1946 St. Louis Cardinals, with caption naming Harry Brecheen among players",
+    "source": "checked",
+    "of": "1946 World Series",
+    "w": 933,
+    "h": 613,
+    "tier": "team"
+   },
+   "extract": "The 1946 World Series was played in October 1946 between the St. Louis Cardinals and the Boston Red Sox. This was the Red Sox' first appearance in a World Series since their championship of 1918.",
+   "page": "https://en.wikipedia.org/wiki/1946_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1884",
+   "text": "The Columbus Buckeyes of the American Association sell their players to the Pittsburgh Alleghenys for $6,000 and disband the team.",
+   "links": [
+    "Columbus Buckeyes (American Association)",
+    "American Association (1882–1891)",
+    "Pittsburgh Pirates"
+   ],
+   "score": 27.427187405381506,
+   "abouts": [
+    "American Association (1882–1891)",
+    "Columbus Buckeyes (American Association)",
+    "Pittsburgh Pirates"
+   ],
+   "about": "American Association (1882–1891)",
+   "key": "5956e6866423b013",
+   "headline": "Columbus Buckeyes sell players to Pittsburgh for $6,000",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/1884_Columbus_Buckeyes.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1884_Columbus_Buckeyes.jpg",
+    "alt": "Vintage team photo of uniformed baseball players with bats and a catcher's mask",
+    "source": "checked",
+    "of": "Columbus Buckeyes (American Association)",
+    "w": 674,
+    "h": 477,
+    "tier": "team"
+   },
+   "extract": "The American Association of Base Ball Clubs, known simply as the American Association (AA), was a professional baseball major league that operated from 1882 to 1891. Together with its main competitor, the National League (NL), the AA participated in an early version of the World Series. When the AA folded after the…",
+   "page": "https://en.wikipedia.org/wiki/American_Association_(1882%E2%80%931891)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1875",
+   "text": "Boston defeats Hartford 7–4 in what proves to be the final game in the history of the NA. The Bostons claim the last 4 pennants in increasingly dominating fashion after the Athletics win the inaugural flag in 1871.",
+   "links": [
+    "Boston Braves",
+    "Hartford Dark Blues",
+    "Athletic of Philadelphia"
+   ],
+   "score": 35.0,
+   "abouts": [
+    "Boston Braves",
+    "Hartford Dark Blues",
+    "Athletic of Philadelphia"
+   ],
+   "about": "Boston Braves",
+   "key": "39fc49a0487ca7b0",
+   "headline": "Boston defeats Hartford 7–4 in final game of the NA",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hartford_Dark_Blues_by_Prescott_%26_White%2C_1875.jpg/960px-Hartford_Dark_Blues_by_Prescott_%26_White%2C_1875.jpg",
+    "credit": "Prescott & White",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Hartford_Dark_Blues_by_Prescott_%26_White,_1875.jpg",
+    "alt": "Sepia team portrait of ten men in Hartford uniforms with bats and caps.",
+    "source": "checked",
+    "of": "Hartford Dark Blues",
+    "w": 1217,
+    "h": 922,
+    "tier": "team"
+   },
+   "extract": "The Boston Braves were a Major League Baseball team that played in Boston for the National League from 1871 to 1952. The team relocated to Milwaukee after the 1952 season, becoming the Milwaukee Braves, and subsequently moved to Atlanta in 1966.",
+   "page": "https://en.wikipedia.org/wiki/Boston_Braves"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1871",
+   "text": "The Athletics of Philadelphia defeat the Chicago White Stockings in Brooklyn 4–1 to clinch the first professional baseball championship.",
+   "links": [
+    "Philadelphia Athletics (1860–1876)",
+    "History of the Chicago Cubs",
+    "Brooklyn"
+   ],
+   "score": 35.0,
+   "abouts": [
+    "History of the Chicago Cubs",
+    "Brooklyn",
+    "Philadelphia Athletics (1860–1876)"
+   ],
+   "about": "History of the Chicago Cubs",
+   "key": "842a6e26e0d781de",
+   "headline": "Athletics win first professional baseball championship over White Stockings",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/1874_Philadelphia_Athletics_baseball.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1874_Philadelphia_Athletics_baseball.jpg",
+    "alt": "Team photo of uniformed baseball players in white shirts and bow ties, posed on a studio backdrop.",
+    "source": "checked",
+    "of": "Philadelphia Athletics (1860–1876)",
+    "w": 576,
+    "h": 382,
+    "tier": "team"
+   },
+   "extract": "The following is a franchise history of the Chicago Cubs of Major League Baseball, a charter member of the National League who started play in the National Association of Base Ball Players in 1870 as the Chicago White Stockings, before joining the National Association in 1871. The Chicago National League Ball Club is…",
+   "page": "https://en.wikipedia.org/wiki/History_of_the_Chicago_Cubs"
+  }
+ ]
+}

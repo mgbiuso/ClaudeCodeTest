@@ -1,0 +1,944 @@
+{
+ "month": 10,
+ "day": 27,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2015",
+   "text": "The Kansas City Royals outlasted the New York Mets in a 14-inning, five-hour, nine-minute marathon, to win Game One of the World Series by a score of 5–4 at Kauffman Stadium. Alcides Escobar connected a leadoff, first pitch inside-the-park home run; Eric Hosmer hit a game-winning sacrifice fly, and Chris Young, who was scheduled to open Game Four, pitched three hitless innings of relief along with four strikeouts.",
+   "links": [
+    "Alcides Escobar",
+    "inside-the-park home run",
+    "Eric Hosmer"
+   ],
+   "score": 117.52914016927419,
+   "abouts": [
+    "Alcides Escobar",
+    "inside-the-park home run",
+    "Eric Hosmer"
+   ],
+   "about": "Alcides Escobar",
+   "key": "109033587e222519",
+   "headline": "Royals outlast Mets 5-4 in 14-inning World Series opener",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/-WorldSeries_Game_1-_Eric_Hosmer_wins_it_%2822861501026%29.jpg/960px--WorldSeries_Game_1-_Eric_Hosmer_wins_it_%2822861501026%29.jpg",
+    "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:-WorldSeries_Game_1-_Eric_Hosmer_wins_it_(22861501026).jpg",
+    "alt": "Batter in Royals home whites swinging at a pitch; Mets catcher behind plate",
+    "source": "checked",
+    "of": "2015 World Series",
+    "w": 4398,
+    "h": 3304,
+    "tier": "event"
+   },
+   "extract": "Alcides Escobar is a Venezuelan professional baseball infielder for the Centauros de La Guaira of the Venezuelan Major League. He has previously played in Major League Baseball (MLB) with the Milwaukee Brewers, Kansas City Royals, and Washington Nationals, and in Nippon Professional Baseball (NPB) for the Tokyo Yakult…",
+   "page": "https://en.wikipedia.org/wiki/Alcides_Escobar",
+   "lead": true
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2023",
+   "text": "After beating the Philadelphia Phillies 4–2 in Game 7 of the 2023 NLCS at Citizens Bank Park in Philadelphia, the Diamondbacks returned to the World Series for the first time since 2001 – against the Texas Rangers on October 27, 2023.",
+   "links": [
+    "Arizona Diamondbacks"
+   ],
+   "about": "Arizona Diamondbacks",
+   "score": 50.0,
+   "abouts": [
+    "Arizona Diamondbacks"
+   ],
+   "key": "256a97435d551de7",
+   "headline": "Diamondbacks beat Phillies 4-2 in Game 7, reach World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Corbin_Carroll_8.19.2023.jpg/960px-Corbin_Carroll_8.19.2023.jpg",
+    "credit": "Casey Aguinaldo",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Corbin_Carroll_8.19.2023.jpg",
+    "alt": "Player in Arizona road gray uniform with number 7, red cap, sunglasses, on field",
+    "source": "checked",
+    "of": "2023 National League Championship Series",
+    "w": 1097,
+    "h": 1649,
+    "tier": "team"
+   },
+   "extract": "The Arizona Diamondbacks are an American professional baseball team based in Phoenix, Arizona. The Diamondbacks compete in Major League Baseball (MLB) as a member club of the National League (NL) West Division. The franchise was established on March 9, 1995 and began play in 1998 as an expansion team. The team plays…",
+   "page": "https://en.wikipedia.org/wiki/Arizona_Diamondbacks"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2020",
+   "text": "At Globe Life Field in Arlington, Texas the Los Angeles Dodgers defeat the Tampa Bay Rays 3–1 in Game 6 of the 2020 World Series to win the series 4–2. Corey Seager wins the World Series MVP.",
+   "links": [
+    "Globe Life Field",
+    "Arlington, Texas",
+    "Los Angeles Dodgers"
+   ],
+   "score": 97.80156605926973,
+   "abouts": [
+    "Arlington, Texas",
+    "Globe Life Field",
+    "Los Angeles Dodgers"
+   ],
+   "about": "Arlington, Texas",
+   "key": "cb41adbbe0f0d295",
+   "headline": "Dodgers beat Rays 3-1 in Game 6, win 2020 World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Arlington_June_2020_5_%28Globe_Life_Field%29.jpg/960px-Arlington_June_2020_5_%28Globe_Life_Field%29.jpg",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arlington_June_2020_5_(Globe_Life_Field).jpg",
+    "alt": "Exterior of Globe Life Field stadium with red Texas Rangers T logo, empty parking lot",
+    "source": "checked",
+    "of": "Arlington, Texas",
+    "w": 6000,
+    "h": 4000,
+    "tier": "venue"
+   },
+   "extract": "Globe Life Field is a retractable roof stadium in Arlington, Texas, United States. It is the home ballpark of Major League Baseball's Texas Rangers. It is located just south of the Rangers' former home ballpark, Globe Life Park.",
+   "page": "https://en.wikipedia.org/wiki/Globe_Life_Field"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2018",
+   "text": "The Boston Red Sox rallied from a four-run deficit and scored nine runs in the final three innings, to defeat the Los Angeles Dodgers, 9–6, in Game 4 of the World Series at Dodger Stadium and take a 3–1 lead in the best-of-seven set. Mitch Moreland sparked the rally with a three-run home run off reliever Ryan Madson in the seventh inning.",
+   "links": [
+    "2018 World Series",
+    "Dodger Stadium",
+    "Mitch Moreland"
+   ],
+   "score": 107.49568497268692,
+   "abouts": [
+    "2018 World Series",
+    "Dodger Stadium",
+    "Mitch Moreland"
+   ],
+   "about": "2018 World Series",
+   "key": "c8c9446c7e5d9ccc",
+   "headline": "Red Sox rally for 9-6 win over Dodgers, take 3-1 Series lead",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mitch_Moreland_%2834074545962%29_%28cropped%29.jpg/960px-Mitch_Moreland_%2834074545962%29_%28cropped%29.jpg",
+    "credit": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mitch_Moreland_(34074545962)_(cropped).jpg",
+    "alt": "Baseball player in gray Red Sox road uniform reaching for a ball at first base",
+    "source": "checked",
+    "of": "Mitch Moreland",
+    "w": 1417,
+    "h": 2161,
+    "tier": "person"
+   },
+   "extract": "The 2018 World Series was the championship series of Major League Baseball's 2018 season. The 114th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Boston Red Sox and the National League (NL) champion Los Angeles Dodgers. The Red Sox defeated the Dodgers in…",
+   "page": "https://en.wikipedia.org/wiki/2018_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2017",
+   "text": "The Houston Astros defeated the Los Angeles Dodgers at Minute Maid Park, 5–3, to take a 2–1 advantage in the World Series.",
+   "links": [
+    "2017 World Series"
+   ],
+   "score": 73.1582840258396,
+   "abouts": [
+    "2017 World Series"
+   ],
+   "about": "2017 World Series",
+   "key": "85a90c8788ff2569",
+   "headline": "Astros beat Dodgers 5-3, take 2-1 lead in World Series",
+   "image": null,
+   "extract": "The 2017 World Series was the championship series of Major League Baseball's (MLB) 2017 season. The 113th edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion Los Angeles Dodgers and the American League (AL) champion Houston Astros. The series was played between…",
+   "page": "https://en.wikipedia.org/wiki/2017_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2012",
+   "text": "Behind Ryan Vogelsong, Tim Lincecum, and Sergio Romo, the San Francisco Giants shut out the Detroit Tigers 2–0 in Game 3 of the World Series at Comerica Park. Having shut out the Tigers in Game 2 as well, the Giants become the first team since the Baltimore Orioles in 1966 to pitch consecutive shutouts in the World Series.",
+   "links": [
+    "Ryan Vogelsong",
+    "Tim Lincecum",
+    "Sergio Romo"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "Ryan Vogelsong",
+    "Tim Lincecum",
+    "Sergio Romo"
+   ],
+   "about": "Ryan Vogelsong",
+   "key": "18ad262c672276d2",
+   "headline": "Giants blank Tigers 2-0 in Game 3 of World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ryan_Vogelsong_%288146833999%29.jpg/960px-Ryan_Vogelsong_%288146833999%29.jpg",
+    "credit": "Michael Marconi",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ryan_Vogelsong_(8146833999).jpg",
+    "alt": "Man in cap pointing from open vehicle at a parade, woman with camera, child in Giants jersey",
+    "source": "checked",
+    "of": "Ryan Vogelsong",
+    "w": 4782,
+    "h": 3107,
+    "tier": "person"
+   },
+   "extract": "Ryan Andrew Vogelsong, nicknamed \"Vogey\", is an American former professional baseball pitcher. He played in Major League Baseball (MLB) for the San Francisco Giants and Pittsburgh Pirates and in Nippon Professional Baseball (NPB) for the Hanshin Tigers (2007–2008) and Orix Buffaloes (2009). He stands 6 feet 4 inches…",
+   "page": "https://en.wikipedia.org/wiki/Ryan_Vogelsong"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2011",
+   "text": "The St. Louis Cardinals win a memorable Game 6 of the 2011 World Series in 11 innings. They trailed twice by two runs, in both the 9th and 10th innings, yet came back to tie the game, and then win it in the 11th inning on a David Freese solo home run leading off the inning, to dead centerfield.",
+   "links": [
+    "David Freese",
+    "Joe Buck",
+    "Jack Buck"
+   ],
+   "score": 70.0,
+   "abouts": [
+    "David Freese",
+    "Joe Buck",
+    "Jack Buck"
+   ],
+   "about": "David Freese",
+   "key": "d76f282f4eb1a232",
+   "headline": "Cardinals win Game 6 of 2011 World Series in 11 innings",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/DSC04779_David_Freese.jpg",
+    "credit": "shgmom56 on Flickr (Original version) UCinternational (Crop)",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:DSC04779_David_Freese.jpg",
+    "alt": "Baseball player in red-trimmed Cardinals home whites, red batting helmet, leading off first base",
+    "source": "checked",
+    "of": "David Freese",
+    "w": 850,
+    "h": 1050,
+    "tier": "person"
+   },
+   "extract": "David Richard Freese is an American former professional baseball third baseman. He began his Major League Baseball (MLB) career with the St. Louis Cardinals in 2009, where, two seasons later, he was a key player during the 2011 postseason, batting .545 with 12 hits in the 2011 National League Championship Series…",
+   "page": "https://en.wikipedia.org/wiki/David_Freese"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2011",
+   "text": "On October 27, 2011, it was reported that the Angels will hire Jerry Dipoto to serve as the franchise's eleventh general manager, there will be an official announcement by the Angels on October 28.",
+   "links": [
+    "2012 Los Angeles Angels season"
+   ],
+   "about": "2012 Los Angeles Angels season",
+   "score": 50.187448647562555,
+   "abouts": [
+    "2012 Los Angeles Angels season"
+   ],
+   "key": "ffa1c0042a35d194",
+   "headline": "Angels to hire Jerry Dipoto as eleventh general manager",
+   "image": null,
+   "extract": "The 2012 Los Angeles Angels of Anaheim season was the franchise's 52nd season and 47th in Anaheim. The Angels would miss the playoffs for the third straight season, finishing third in the American League West at 89–73.",
+   "page": "https://en.wikipedia.org/wiki/2012_Los_Angeles_Angels_season"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2009",
+   "text": "On October 27, 2009, Mills was named manager of the Houston Astros, replacing interim manager Dave Clark; he was hired after Manny Acta declined (he elected to manage the Cleveland Indians).",
+   "links": [
+    "Brad Mills (baseball manager)"
+   ],
+   "about": "Brad Mills (baseball manager)",
+   "score": 35.95142582016621,
+   "abouts": [
+    "Brad Mills (baseball manager)"
+   ],
+   "key": "7c98848bf6f6f3c7",
+   "headline": "Mills named Astros manager, replacing interim Dave Clark",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG/960px-Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
+    "credit": "EricEnfermero",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
+    "alt": "Man in red cap and navy jacket with a 'C' logo at a ballpark",
+    "source": "checked",
+    "of": "Brad Mills (baseball manager)",
+    "w": 1898,
+    "h": 2848,
+    "tier": "person"
+   },
+   "extract": "James Bradley Mills is an American former professional baseball player, coach, and manager. He played in Major League Baseball (MLB) as an infielder for the Montreal Expos from 1980 to 1983. He managed the Houston Astros from 2010 to 2012, and served as a coach in MLB for the Expos, Philadelphia Phillies, Boston Red…",
+   "page": "https://en.wikipedia.org/wiki/Brad_Mills_(baseball_manager)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2008",
+   "text": "Game 5 of the World Series in Philadelphia is suspended due to rain in the middle of the sixth inning with the Phillies and Rays tied 2–2 and the Phillies leading the series 3 games to 1. It is the first suspended game in World Series history.",
+   "links": [],
+   "score": 50.0,
+   "abouts": [],
+   "about": null,
+   "key": "b9cc15b257c4da1b",
+   "headline": "World Series Game 5 suspended by rain, first in Series history",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/2008_world_series_rain_delay.JPG",
+    "credit": "Edg126",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2008_world_series_rain_delay.JPG",
+    "alt": "Ballpark with large white tarp covering infield during rain, fans in stands",
+    "source": "checked",
+    "of": "2008 World Series",
+    "w": 640,
+    "h": 480,
+    "tier": "event"
+   },
+   "extract": "",
+   "page": ""
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2006",
+   "text": "The St. Louis Cardinals defeat the Detroit Tigers 4–2, winning the World Series 4–1 for their 10th championship and their first since 1982. Their 83 regular-season victories is a new record for the fewest by a Series champion in a full season.",
+   "links": [
+    "St. Louis Cardinals",
+    "Detroit Tigers",
+    "2006 World Series"
+   ],
+   "score": 121.0383064559839,
+   "abouts": [
+    "2006 World Series",
+    "St. Louis Cardinals",
+    "Detroit Tigers"
+   ],
+   "about": "2006 World Series",
+   "key": "c98fb32e9e6df904",
+   "headline": "Cardinals beat Tigers 4-2, win World Series 4-1",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cardinals_at_White_House.jpg",
+    "credit": "Eric Draper",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Cardinals_at_White_House.jpg",
+    "alt": "Team group in formal wear behind a Bush 06 jersey at a White House-style room",
+    "source": "checked",
+    "of": "2006 World Series",
+    "w": 515,
+    "h": 361,
+    "tier": "event"
+   },
+   "extract": "The 2006 World Series was the championship series of Major League Baseball's (MLB) 2006 season. The 102nd edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Detroit Tigers and the National League (NL) champion St. Louis Cardinals; the Cardinals won the series in five…",
+   "page": "https://en.wikipedia.org/wiki/2006_World_Series"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2006",
+   "text": "The postseason began on October 3, 2006, and ended on October 27, 2006, with the 83-win underdog Cardinals upsetting the heavily favored Tigers in five games in the 2006 World Series.",
+   "links": [
+    "2006 Major League Baseball postseason"
+   ],
+   "about": "2006 Major League Baseball postseason",
+   "score": 68.06920910938035,
+   "abouts": [
+    "2006 Major League Baseball postseason"
+   ],
+   "key": "a146a07678eeef2c",
+   "headline": "Cardinals upset heavily favored Tigers in 2006 World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2006_World_Series_Game4_rainout.jpg/960px-2006_World_Series_Game4_rainout.jpg",
+    "credit": "Jleybov",
+    "license": "CC BY-SA 2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:2006_World_Series_Game4_rainout.jpg",
+    "alt": "Rain tarp covering infield at a stadium with red-seated crowd.",
+    "source": "checked",
+    "of": "2006 World Series",
+    "w": 1600,
+    "h": 1200,
+    "tier": "venue"
+   },
+   "extract": "The 2006 Major League Baseball postseason was the playoff tournament of Major League Baseball for the 2006 season. The winners of the League Division Series would move on to the League Championship Series to determine the pennant winners that face each other in the World Series.",
+   "page": "https://en.wikipedia.org/wiki/2006_Major_League_Baseball_postseason"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2004",
+   "text": "The Boston Red Sox complete a four-game sweep of the St. Louis Cardinals to win the World Series for the first time since 1918.",
+   "links": [
+    "Boston Red Sox",
+    "St. Louis Cardinals",
+    "2004 World Series"
+   ],
+   "score": 72.33181684130483,
+   "abouts": [
+    "2004 World Series",
+    "Boston Red Sox",
+    "St. Louis Cardinals"
+   ],
+   "about": "2004 World Series",
+   "key": "7ff7000d5cb110e0",
+   "headline": "Red Sox sweep Cardinals, win first World Series since 1918",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Manny_Ramirez_Parade.jpg/960px-Manny_Ramirez_Parade.jpg",
+    "credit": "Schmiddy at en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Manny_Ramirez_Parade.jpg",
+    "alt": "Parade float with fans holding signs about David Ortiz and Kevin Millar, Boston crowd.",
+    "source": "checked",
+    "of": "2004 World Series",
+    "w": 2048,
+    "h": 1536,
+    "tier": "team"
+   },
+   "extract": "The 2004 World Series was the championship series of Major League Baseball's (MLB) 2004 season. The 100th edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Boston Red Sox and the National League (NL) champion St. Louis Cardinals. The series was played from October 23…",
+   "page": "https://en.wikipedia.org/wiki/2004_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2002",
+   "text": "The Anaheim Angels win their first World Series as they defeat the San Francisco Giants 4–1 in Game Seven. Pitcher John Lackey (with relief help from Brendan Donnelly, Francisco Rodríguez, and Troy Percival) becomes the first rookie to win a 7th game of a World Series since 1909.",
+   "links": [
+    "Anaheim Angels",
+    "2002 World Series",
+    "San Francisco Giants"
+   ],
+   "score": 71.83771136760288,
+   "abouts": [
+    "2002 World Series",
+    "Anaheim Angels",
+    "San Francisco Giants"
+   ],
+   "about": "2002 World Series",
+   "key": "3ebcdab116eb873a",
+   "headline": "Angels win first World Series, beating Giants 4-1 in Game 7",
+   "image": null,
+   "extract": "The 2002 World Series was the championship series of Major League Baseball (MLB)'s 2002 season. The 98th edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Anaheim Angels and the National League (NL) champion San Francisco Giants; the Angels defeated the Giants in…",
+   "page": "https://en.wikipedia.org/wiki/2002_World_Series"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2001",
+   "text": "After MLB games were postponed as a result of the September 11 attacks, the World Series began on October 27, 2001, which was, at the time, the latest-ever start date for a World Series.",
+   "links": [
+    "2001 World Series"
+   ],
+   "about": "2001 World Series",
+   "score": 72.82066611921053,
+   "abouts": [
+    "2001 World Series"
+   ],
+   "key": "b2ec1941129b6a1a",
+   "headline": "World Series begins after September 11 postponements, latest start ever",
+   "image": null,
+   "extract": "The 2001 World Series was the championship series of Major League Baseball's (MLB) 2001 season. The 97th edition of the World Series, it was a best-of-seven series between the National League (NL) champion Arizona Diamondbacks and the American League (AL) champion New York Yankees. The Diamondbacks defeated the…",
+   "page": "https://en.wikipedia.org/wiki/2001_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1999",
+   "text": "The New York Yankees defeat the Atlanta Braves, 4–1, to win their 25th World Series. Roger Clemens gets the win, hurling 4-hit ball before leaving the game in the 8th inning. Mariano Rivera gets the save, his second of the Series. Jim Leyritz hits a solo home run in the 8th inning to finish the NY scoring. Rivera wins the Series MVP award.",
+   "links": [
+    "New York Yankees",
+    "Atlanta Braves",
+    "Roger Clemens"
+   ],
+   "score": 95.0,
+   "abouts": [
+    "Roger Clemens",
+    "New York Yankees",
+    "Atlanta Braves"
+   ],
+   "about": "Roger Clemens",
+   "key": "a45ac0e0f0f11304",
+   "headline": "Yankees beat Braves 4-1 to win 25th World Series title",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Champ_Ring_cropped.jpg",
+    "credit": "User:Galaksiafervojo Muboshgu",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Champ_Ring_cropped.jpg",
+    "alt": "Two gold championship rings with diamonds, Yankees NY logo, 'World Series' text",
+    "source": "checked",
+    "of": "1999 World Series",
+    "w": 754,
+    "h": 352,
+    "tier": "event"
+   },
+   "extract": "William Roger Clemens, nicknamed \"Rocket\", is an American former professional baseball pitcher who played 24 seasons in Major League Baseball (MLB), most notably with the Boston Red Sox and New York Yankees. He was a member of the Red Sox for 13 seasons, the Yankees for six, the Toronto Blue Jays for two, and Houston…",
+   "page": "https://en.wikipedia.org/wiki/Roger_Clemens"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1994",
+   "text": "Jeff Bagwell of the Houston Astros unanimously wins the National League MVP Award after getting all 28 first-place votes, becoming only the fourth unanimous MVP winner in NL history, and the first Astros player to win the award in franchise history.",
+   "links": [
+    "Jeff Bagwell",
+    "Houston Astros"
+   ],
+   "score": 60.0,
+   "abouts": [
+    "Jeff Bagwell",
+    "Houston Astros"
+   ],
+   "about": "Jeff Bagwell",
+   "key": "8696de0b0af4816a",
+   "headline": "Jeff Bagwell unanimously wins National League MVP award",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jeff_Bagwell_2009_%28cropped%29.jpg/960px-Jeff_Bagwell_2009_%28cropped%29.jpg",
+    "credit": "Mojo",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jeff_Bagwell_2009_(cropped).jpg",
+    "alt": "Bearded man in striped shirt at a ballpark, with stadium background.",
+    "source": "checked",
+    "of": "Jeff Bagwell",
+    "w": 1159,
+    "h": 1163,
+    "tier": "person"
+   },
+   "extract": "Jeffrey Robert Bagwell is an American former professional baseball player and coach. A first baseman, he spent his entire 15-year Major League Baseball (MLB) playing career with the Houston Astros.",
+   "page": "https://en.wikipedia.org/wiki/Jeff_Bagwell"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1992",
+   "text": "The expansion Colorado Rockies hire Don Baylor as the team's first manager.",
+   "links": [
+    "Colorado Rockies",
+    "Don Baylor"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Don Baylor",
+    "Colorado Rockies"
+   ],
+   "about": "Don Baylor",
+   "key": "0ee568bd9fbd8d43",
+   "headline": "Expansion Colorado Rockies hire Don Baylor as first manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/DonBaylorRockies.png",
+    "credit": "J. Elden Bailey on Flickr (original) CFIF (crop)",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:DonBaylorRockies.png",
+    "alt": "Man in Rockies pinstripe jersey and CR cap on field",
+    "source": "checked",
+    "of": "Don Baylor",
+    "w": 446,
+    "h": 598,
+    "tier": "person"
+   },
+   "extract": "Don Edward Baylor, nicknamed \"Groove,\" was an American professional baseball player, coach and manager. During his 19 seasons in Major League Baseball (MLB), Baylor was a power hitter known for standing very close to home plate and was a first baseman, left fielder, and designated hitter. He played for six different…",
+   "page": "https://en.wikipedia.org/wiki/Don_Baylor"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1991",
+   "text": "The Minnesota Twins become the 1991 World Series champions with a 1–0 victory behind Jack Morris' masterful 10-inning shutout. Gene Larkin's single off Atlanta Braves reliever Alejandro Peña scores Dan Gladden with the game's only run. The game is the first Game Seven to go into extra innings since the 1924 World Series between the Washington Senators and New York Giants.",
+   "links": [
+    "Minnesota Twins",
+    "1991 World Series",
+    "Jack Morris"
+   ],
+   "score": 95.50598492932673,
+   "abouts": [
+    "1991 World Series",
+    "Jack Morris",
+    "Minnesota Twins"
+   ],
+   "about": "1991 World Series",
+   "key": "84e47fc4bc1f71d7",
+   "headline": "Twins beat Braves 1-0 in 10 innings, win 1991 World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jack_Morris_2013.jpg/960px-Jack_Morris_2013.jpg",
+    "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jack_Morris_2013.jpg",
+    "alt": "Older man with gray hair, glasses, beard, black shirt, baseballs behind him",
+    "source": "checked",
+    "of": "1991 World Series",
+    "w": 1645,
+    "h": 2475,
+    "tier": "person"
+   },
+   "extract": "The 1991 World Series was the championship series of Major League Baseball's (MLB) 1991 season. The 88th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Minnesota Twins and the National League (NL) champion Atlanta Braves. The Twins defeated the Braves four…",
+   "page": "https://en.wikipedia.org/wiki/1991_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1989",
+   "text": "After a ten-day postponement and a team of 17 engineers certifies its structural integrity, Candlestick Park finally hosts Game 3 of the World Series. A crowd of 62,038 honors those who died in the quake with a moment of silence and salutes first responders who saved lives throughout the region.",
+   "links": [
+    "Candlestick Park",
+    "1989 World Series",
+    "1989 Loma Prieta earthquake"
+   ],
+   "score": 74.12872047225729,
+   "abouts": [
+    "1989 Loma Prieta earthquake",
+    "1989 World Series",
+    "Candlestick Park"
+   ],
+   "about": "1989 Loma Prieta earthquake",
+   "key": "5d9c85e097c1eae3",
+   "headline": "Candlestick Park hosts World Series Game 3 after earthquake delay",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CandlestickPanoramaSept08.JPG/960px-CandlestickPanoramaSept08.JPG",
+    "credit": "Gateman1997 (talk)",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CandlestickPanoramaSept08.JPG",
+    "alt": "Panoramic view of a packed stadium with red-clad crowd, green field, and hillside behind.",
+    "source": "checked",
+    "of": "Candlestick Park",
+    "w": 3982,
+    "h": 935,
+    "tier": "venue"
+   },
+   "extract": "The 1989 World Series was the championship series of Major League Baseball's (MLB) 1989 season. The 86th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Oakland Athletics and the National League (NL) champion San Francisco Giants. The Series ran from October…",
+   "page": "https://en.wikipedia.org/wiki/1989_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1988",
+   "text": "Ben Steiner, 67, second baseman for the Boston Red Sox and Detroit Tigers from 1945 to 1947.",
+   "links": [
+    "Ben Steiner"
+   ],
+   "score": 20.0595,
+   "abouts": [
+    "Ben Steiner"
+   ],
+   "about": "Ben Steiner",
+   "key": "01bf3b43bf755327",
+   "headline": "Ben Steiner dies at 67; former Red Sox and Tigers second baseman",
+   "image": null,
+   "extract": "Benjamin Saunders Steiner was an American professional baseball player. A second baseman, he appeared in 82 games in Major League Baseball between 1945 and 1947 for the Boston Red Sox (1945–1946) and Detroit Tigers (1947). Steiner, born in Alexandria, Virginia, attended Central High School in Washington, D.C., and…",
+   "page": "https://en.wikipedia.org/wiki/Ben_Steiner"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1987",
+   "text": "Buck Rodgers, who led the Montreal Expos to 91 victories in 1987, is elected National League Manager of the Year by the BBWAA, outpacing Roger Craig of the San Francisco Giants by 27 points. Two days from now, Sparky Anderson of the American League East champion Detroit Tigers will win his second Junior Circuit Manager of the Year nod in four seasons, edging Tom Trebelhorn of the Milwaukee Brewers and Tom Kelly of…",
+   "links": [
+    "Buck Rodgers",
+    "Montreal Expos",
+    "1987 Montreal Expos season"
+   ],
+   "score": 68.86456001485054,
+   "abouts": [
+    "Buck Rodgers",
+    "1987 Montreal Expos season",
+    "Montreal Expos"
+   ],
+   "about": "Buck Rodgers",
+   "key": "24923a10c65a1dfb",
+   "headline": "Buck Rodgers wins Manager of the Year after 91-win Expos season",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/BuckRodgers.png",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:BuckRodgers.png",
+    "alt": "Smiling man in cap with Angels-style jersey, signed black-and-white photo",
+    "source": "checked",
+    "of": "Buck Rodgers",
+    "w": 488,
+    "h": 702,
+    "tier": "person"
+   },
+   "extract": "Robert Leroy \"Buck\" Rodgers is an American former professional baseball player, coach, and manager. He played in Major League Baseball (MLB) as a catcher for the Los Angeles / California Angels for nine seasons during the 1960s. He later managed three major-league teams: the Milwaukee Brewers, Montreal Expos, and…",
+   "page": "https://en.wikipedia.org/wiki/Buck_Rodgers"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1986",
+   "text": "At Shea Stadium, the Mets come from behind again, overcoming a three-run Boston lead with six unanswered runs in the sixth and seventh innings and winning Game 7 of the World Series over the Red Sox by a final of 8–5. The Mets capture their second Fall Classic championship and first since 1969. Third baseman Ray Knight, whose homer broke a 3–3 deadlock in the seventh, is chosen Series MVP.",
+   "links": [
+    "Shea Stadium",
+    "New York Mets",
+    "Boston Red Sox"
+   ],
+   "score": 115.0,
+   "abouts": [
+    "Shea Stadium",
+    "New York Mets",
+    "Boston Red Sox"
+   ],
+   "about": "Shea Stadium",
+   "key": "baa85207a74d6537",
+   "headline": "Mets rally past Red Sox 8-5 in Game 7 to win Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bill_Buckner_of_the_Boston_Red_Sox.jpg",
+    "credit": "Craig Johnson from San Diego, CA, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bill_Buckner_of_the_Boston_Red_Sox.jpg",
+    "alt": "Smiling man in Boston road jersey, navy cap, mustache, outdoors near fence",
+    "source": "checked",
+    "of": "1986 World Series",
+    "w": 719,
+    "h": 893,
+    "tier": "team"
+   },
+   "extract": "William A. Shea Municipal Stadium, typically shortened to Shea Stadium, was a multi-purpose stadium in Flushing Meadows–Corona Park in Queens, New York City. Opened in 1964, it was home to the New York Mets of Major League Baseball (MLB) from 1964 to 2008, as well as the New York Jets of the American Football League…",
+   "page": "https://en.wikipedia.org/wiki/Shea_Stadium"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1986",
+   "text": "The playoffs began on October 7, 1986, and concluded on October 27, 1986, with the Mets defeating the Red Sox in seven games in the 1986 World Series.",
+   "links": [
+    "1986 Major League Baseball postseason"
+   ],
+   "about": "1986 Major League Baseball postseason",
+   "score": 65.84690247655975,
+   "abouts": [
+    "1986 Major League Baseball postseason"
+   ],
+   "key": "e3a90c445478788f",
+   "headline": "Mets defeat Red Sox in seven games in 1986 World Series",
+   "image": null,
+   "extract": "The 1986 Major League Baseball postseason was the playoff tournament of Major League Baseball for the 1986 season. The winners of each division advance to the postseason and face each other in a League Championship Series to determine the pennant winners that face each other in the World Series.",
+   "page": "https://en.wikipedia.org/wiki/1986_Major_League_Baseball_postseason"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1980",
+   "text": "Two weeks after his Houston Astros post the best season in their 19-year history, and two weeks before he'll be named The Sporting News Executive of the Year, general manager Tal Smith is unceremoniously fired by Astros' principal owner John J. McMullen. Smith's GM post is immediately filled by former New York Yankees club president Al Rosen.",
+   "links": [
+    "Houston Astros",
+    "The Sporting News MLB Executive of the Year Award",
+    "Tal Smith"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "The Sporting News MLB Executive of the Year Award",
+    "Tal Smith",
+    "Houston Astros"
+   ],
+   "about": "The Sporting News MLB Executive of the Year Award",
+   "key": "a4fba9e748f0e158",
+   "headline": "Astros fire GM Tal Smith; Al Rosen named successor",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tal_Smith_at_SABR_annual_convention_2014.jpg/960px-Tal_Smith_at_SABR_annual_convention_2014.jpg",
+    "credit": "EricEnfermero",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tal_Smith_at_SABR_annual_convention_2014.jpg",
+    "alt": "Elderly white-haired man in white shirt, hand raised, at a microphone",
+    "source": "checked",
+    "of": "Tal Smith",
+    "w": 1677,
+    "h": 2097,
+    "tier": "person"
+   },
+   "extract": "The Sporting News Executive of the Year Award was established in 1936 and is given annually to one executive, including general managers, in Major League Baseball (MLB). The presenting company is The Sporting News, formerly known as Sporting News from 2002 to 2022. Listed below in chronological order are the baseball…",
+   "page": "https://en.wikipedia.org/wiki/The_Sporting_News_MLB_Executive_of_the_Year_Award"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1978",
+   "text": "George Bamberger of the Milwaukee Brewers is named the United Press International American League Manager of the Year. He guided the Brewers to 93 triumphs and the Brewers' first winning season. Bamberger receives 20 first-place votes to nine for Bob Lemon of the New York Yankees.",
+   "links": [
+    "George Bamberger",
+    "Milwaukee Brewers",
+    "United Press International"
+   ],
+   "score": 32.0,
+   "abouts": [
+    "George Bamberger",
+    "United Press International",
+    "Milwaukee Brewers"
+   ],
+   "about": "George Bamberger",
+   "key": "9f13ef29d15d32d4",
+   "headline": "George Bamberger named AL Manager of the Year after 93 wins",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/George_Bamberger_1950.jpg/960px-George_Bamberger_1950.jpg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:George_Bamberger_1950.jpg",
+    "alt": "Black-and-white portrait of a baseball player in a cap and jersey, grandstand behind him",
+    "source": "checked",
+    "of": "George Bamberger (Commons search)",
+    "w": 1947,
+    "h": 2043,
+    "tier": "person"
+   },
+   "extract": "George Irvin Bamberger was an American professional baseball player, pitching coach and manager. In Major League Baseball, the right-handed pitcher appeared in ten games, nine in relief, for the 1951–52 New York Giants and the 1959 Baltimore Orioles. He later spent ten seasons (1968–77) as the Orioles' pitching coach…",
+   "page": "https://en.wikipedia.org/wiki/George_Bamberger"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1977",
+   "text": "Calvin Griffith, owner of the Minnesota Twins, rejects manager Gene Mauch's request to resign and take a job as manager with the California Angels. Griffith informs Mauch and Angels owner Gene Autry that Mauch, a Southern California resident, is under contract to the Twins for three more years. Dave Garcia remains at the Angels' helm going into 1978.",
+   "links": [
+    "Calvin Griffith",
+    "Minnesota Twins",
+    "Gene Mauch"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Calvin Griffith",
+    "Gene Mauch",
+    "Minnesota Twins"
+   ],
+   "about": "Calvin Griffith",
+   "key": "69496f09400a5921",
+   "headline": "Calvin Griffith rejects Gene Mauch's request to resign, join Angels",
+   "image": null,
+   "extract": "Calvin Robertson Griffith, born Calvin Griffith Robertson, was a Canadian-born American Major League Baseball team owner. As president, majority owner and de facto general manager of the Washington Senators/Minnesota Twins franchise of the American League from 1955 through 1984, he orchestrated the transfer of the…",
+   "page": "https://en.wikipedia.org/wiki/Calvin_Griffith"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1971",
+   "text": "Baltimore Orioles general manager Harry Dalton is hired to fill Walsh's old job as GM of the California Angels. In his six years as head of baseball operations, Dalton's Orioles have won four American League pennants and two World Series titles. Executive vice president Frank Cashen assumes the Orioles' GM duties.",
+   "links": [
+    "Baltimore Orioles",
+    "Harry Dalton",
+    "Los Angeles Angels"
+   ],
+   "score": 97.0,
+   "abouts": [
+    "Harry Dalton",
+    "Baltimore Orioles",
+    "Los Angeles Angels"
+   ],
+   "about": "Harry Dalton",
+   "key": "091d0ee8a33c3022",
+   "headline": "Harry Dalton hired as Angels GM after six years with Orioles",
+   "image": null,
+   "extract": "Harry Inglis Dalton was an American front-office executive in Major League Baseball. He served as general manager of three American League (AL) teams, the Baltimore Orioles (1966–71), California Angels (1972–77) and Milwaukee Brewers (1978–91), and was a principal architect of the Orioles' dynasty of 1966–74 as well…",
+   "page": "https://en.wikipedia.org/wiki/Harry_Dalton"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1955",
+   "text": "Clark Griffith, 85, Hall of Fame pitcher and manager, and principal owner of the Washington Senators since 1920; won 237 games in 20-year career in three major leagues between 1891 and 1914, with 20 or more victories in seven different campaigns; led National League in earned run average (1.88) in 1898, then was a key recruiter of NL players to upstart American League in 1901; managed Chicago White Stockings, New…",
+   "links": [
+    "Clark Griffith"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Clark Griffith"
+   ],
+   "about": "Clark Griffith",
+   "key": "a0e7416cbe09f65f",
+   "headline": "Clark Griffith dies at 85; Hall of Fame pitcher and Senators owner",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Clark_Griffith_LCCN2016840561_%28cropped%29.jpg/960px-Clark_Griffith_LCCN2016840561_%28cropped%29.jpg",
+    "credit": "National Photo Company Collection",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Clark_Griffith_LCCN2016840561_(cropped).jpg",
+    "alt": "Older man in pinstriped suit and tie, black-and-white studio portrait",
+    "source": "checked",
+    "of": "Clark Griffith",
+    "w": 3734,
+    "h": 4552,
+    "tier": "person"
+   },
+   "extract": "Clark Calvin Griffith, nicknamed \"the Old Fox\", was an American Major League Baseball (MLB) pitcher, manager and team owner. He began his MLB playing career with the St. Louis Browns (1891), Boston Reds (1891), and Chicago Colts/Orphans (1893–1900). He then served as player-manager for the Chicago White Stockings…",
+   "page": "https://en.wikipedia.org/wiki/Clark_Griffith"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1950",
+   "text": "Joe Gordon's 11-year big league playing career ends when he's released by the Cleveland Indians. The future Hall of Fame second baseman, 35, who won five World Series rings over that span, becomes the player-manager of the Sacramento Solons of the Pacific Coast League.",
+   "links": [
+    "Joe Gordon",
+    "Cleveland Indians",
+    "World Series"
+   ],
+   "score": 102.0,
+   "abouts": [
+    "Joe Gordon",
+    "World Series",
+    "Cleveland Indians"
+   ],
+   "about": "Joe Gordon",
+   "key": "37ca42e154cb3ced",
+   "headline": "Joe Gordon's playing career ends as Indians release him",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Joe_Gordon_1942_%282%29.jpg/960px-Joe_Gordon_1942_%282%29.jpg",
+    "credit": "Unknown",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Gordon_1942_(2).jpg",
+    "alt": "Smiling man in dark cap with white 'N' logo, black-and-white portrait",
+    "source": "checked",
+    "of": "Joe Gordon",
+    "w": 1146,
+    "h": 1692,
+    "tier": "person"
+   },
+   "extract": "Joseph Lowell Gordon, nicknamed \"Flash\", in reference to the comic-book character Flash Gordon, was an American second baseman, coach and manager in Major League Baseball who played for the New York Yankees and Cleveland Indians from 1938 to 1950. He was posthumously inducted into the Baseball Hall of Fame in 2009.",
+   "page": "https://en.wikipedia.org/wiki/Joe_Gordon"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1887",
+   "text": "The Brotherhood of Professional Base-Ball Players agree to not sign contracts until an agreement has been reached with club owners regarding salary caps and the reserve rule.",
+   "links": [
+    "Players' League"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Players' League"
+   ],
+   "about": "Players' League",
+   "key": "3866bbfb3d041274",
+   "headline": "Brotherhood of Professional Base-Ball Players delays signing contracts",
+   "image": null,
+   "extract": "The Players' National League of Professional Base Ball Clubs, popularly known as the Players' League (PL), was a short-lived but star-studded American professional baseball league of the 19th century. The PL was formed by the Brotherhood of Professional Base Ball Players in November 1889, after a dispute over pay with…",
+   "page": "https://en.wikipedia.org/wiki/Players'_League"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1877",
+   "text": "The Louisville Club formally drops Jim Devlin, George Hall, Al Nichols and Bill Craver for their involvement in the fixing of games. The players' remaining salaries are forfeited to the team. Devlin's testimony included statements that the team had paid umpire Dan Devinney (see August 6) extra to call games in Louisville's favor in roughly 20 games during the season.",
+   "links": [
+    "Louisville Grays",
+    "Jim Devlin",
+    "George Hall (baseball)"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Jim Devlin",
+    "George Hall (baseball)",
+    "Louisville Grays"
+   ],
+   "about": "Jim Devlin",
+   "key": "e8ef648e295bb018",
+   "headline": "Louisville Club drops four players over game-fixing scandal",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jim_Devlin_%28NYPL_b13537024-56725%29.jpg/960px-Jim_Devlin_%28NYPL_b13537024-56725%29.jpg",
+    "credit": "Scan by NYPL",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jim_Devlin_(NYPL_b13537024-56725).jpg",
+    "alt": "Sepia photo of a ballplayer in uniform on a dirt field with a brick building behind",
+    "source": "checked",
+    "of": "Jim Devlin (Commons search)",
+    "w": 2320,
+    "h": 2992,
+    "tier": "person"
+   },
+   "extract": "James Alexander Devlin was an American professional baseball player who played mainly as a first baseman early in his career, then later as a pitcher. Devlin played for three teams during his five-year career; the Philadelphia White Stockings and the Chicago White Stockings of the National Association, and the…",
+   "page": "https://en.wikipedia.org/wiki/Jim_Devlin"
+  }
+ ]
+}

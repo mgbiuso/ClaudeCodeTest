@@ -1,0 +1,880 @@
+{
+ "month": 11,
+ "day": 1,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2017",
+   "text": "The Houston Astros defeated the Los Angeles Dodgers in Game 7 of the World Series at Dodger Stadium, 5–1, to claim their first World Series championship in 56 years of franchise history. Astros outfielder George Springer received World Series MVP honors.",
+   "links": [
+    "2017 World Series",
+    "George Springer",
+    "World Series Most Valuable Player Award"
+   ],
+   "score": 153.1582840258396,
+   "abouts": [
+    "2017 World Series",
+    "George Springer",
+    "World Series Most Valuable Player Award"
+   ],
+   "about": "2017 World Series",
+   "key": "1a9fe7bbb56fe4be",
+   "headline": "Astros beat Dodgers 5–1 in Game 7, win first World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/George_Springer_in_2017_%2836077792615%29.jpg/960px-George_Springer_in_2017_%2836077792615%29.jpg",
+    "credit": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:George_Springer_in_2017_(36077792615).jpg",
+    "alt": "Player in grey Houston road uniform running bases, navy helmet, green grass",
+    "source": "checked",
+    "of": "George Springer",
+    "w": 1517,
+    "h": 2748,
+    "tier": "person"
+   },
+   "extract": "The 2017 World Series was the championship series of Major League Baseball's (MLB) 2017 season. The 113th edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion Los Angeles Dodgers and the American League (AL) champion Houston Astros. The series was played between…",
+   "page": "https://en.wikipedia.org/wiki/2017_World_Series",
+   "lead": true
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2025",
+   "text": "The Los Angeles Dodgers defeat the Toronto Blue Jays in game 7 for their ninth World Series championship, becoming the first MLB franchise with consecutive World Series titles since the 2000 New York Yankees.",
+   "links": [
+    "2025 Los Angeles Dodgers season",
+    "2025 Toronto Blue Jays season",
+    "2000 New York Yankees season"
+   ],
+   "score": 110.904068878772,
+   "abouts": [
+    "2025 Los Angeles Dodgers season",
+    "2025 Toronto Blue Jays season",
+    "2000 New York Yankees season"
+   ],
+   "about": "2025 Los Angeles Dodgers season",
+   "key": "83f058f509fda213",
+   "headline": "Dodgers beat Blue Jays in Game 7, win ninth World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2025DodgersParade.jpg/960px-2025DodgersParade.jpg",
+    "credit": "Redspork02",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2025DodgersParade.jpg",
+    "alt": "Large crowd in blue Dodgers caps at outdoor parade, tree, buildings",
+    "source": "checked",
+    "of": "2025 World Series",
+    "w": 3667,
+    "h": 2717,
+    "tier": "event"
+   },
+   "extract": "The 2025 Los Angeles Dodgers season was the 136th season for the Los Angeles Dodgers franchise in Major League Baseball (MLB), their 68th season in Los Angeles, California, and their 64th season playing their home games at Dodger Stadium. They entered the season as the defending World Series champions after winning…",
+   "page": "https://en.wikipedia.org/wiki/2025_Los_Angeles_Dodgers_season"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2024",
+   "text": "On November 1, 2024, GCU announced it had accepted an invite from the Mountain West Conference to join no later than the 2027 baseball season.",
+   "links": [
+    "Grand Canyon Antelopes baseball"
+   ],
+   "about": "Grand Canyon Antelopes baseball",
+   "score": 10.0,
+   "abouts": [
+    "Grand Canyon Antelopes baseball"
+   ],
+   "key": "87409094013cb59d",
+   "headline": "GCU accepts Mountain West Conference invite for baseball",
+   "image": null,
+   "extract": "The Grand Canyon Antelopes baseball team represents Grand Canyon University, which is located in Phoenix, Arizona. The Antelopes, also known as the Lopes, are an NCAA Division I college baseball program competing as members of the Mountain West Conference. They were in Division I from 1991 to 1998, the final four…",
+   "page": "https://en.wikipedia.org/wiki/Grand_Canyon_Antelopes_baseball"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2023",
+   "text": "Texas Rangers defeat the Arizona Diamondbacks in Game 5 of the 2023 MLB World Series, to win the championship.",
+   "links": [
+    "2023 Texas Rangers season",
+    "2023 Arizona Diamondbacks season",
+    "2023 World Series"
+   ],
+   "score": 98.16026083352905,
+   "abouts": [
+    "2023 World Series",
+    "2023 Texas Rangers season",
+    "2023 Arizona Diamondbacks season"
+   ],
+   "about": "2023 World Series",
+   "key": "18889fdb2547b707",
+   "headline": "Rangers beat Diamondbacks in Game 5, win 2023 World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/President_Joe_Biden_with_members_of_the_2023_World_Series_champion_Texas_Rangers_on_August_8%2C_2024%2C_in_the_State_Dining_Room_of_the_White_House.jpg/960px-President_Joe_Biden_with_members_of_the_2023_World_Series_champion_Texas_Rangers_on_August_8%2C_2024%2C_in_the_State_Dining_Room_of_the_White_House.jpg",
+    "credit": "The White House",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Joe_Biden_with_members_of_the_2023_World_Series_champion_Texas_Rangers_on_August_8,_2024,_in_the_State_Dining_Room_of_the_White_House.jpg",
+    "alt": "Large group of men in suits in formal ornate room, team gathering",
+    "source": "checked",
+    "of": "2023 Texas Rangers season",
+    "w": 3000,
+    "h": 2000,
+    "tier": "team"
+   },
+   "extract": "The 2023 World Series was the championship series of Major League Baseball's (MLB) 2023 season, and the 119th edition of the World Series. It was a best-of-seven playoff played between the National League (NL) champion Arizona Diamondbacks and the American League (AL) champion Texas Rangers. The series began on…",
+   "page": "https://en.wikipedia.org/wiki/2023_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2019",
+   "text": "The New York Mets named Carlos Beltrán their next manager for the following season. Beltrán reportedly earn approximately $3MM over the guaranteed three-year term, with a club option to follow.",
+   "links": [
+    "Carlos Beltrán"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Carlos Beltrán"
+   ],
+   "about": "Carlos Beltrán",
+   "key": "d5a51ca06f6b72c2",
+   "headline": "Mets name Carlos Beltrán their next manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Carlos_Beltr%C3%A1n_R.jpg/960px-Carlos_Beltr%C3%A1n_R.jpg",
+    "credit": "Keith Allison on Flickr (Original version) UCinternational (Crop)",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Beltr%C3%A1n_R.jpg",
+    "alt": "Batter in grey road Mets uniform with BELTRAN jersey swinging at night",
+    "source": "checked",
+    "of": "Carlos Beltrán",
+    "w": 1100,
+    "h": 1350,
+    "tier": "person"
+   },
+   "extract": "Carlos Iván Beltrán Valdés is a Puerto Rican former outfielder in Major League Baseball (MLB) who played for seven teams from 1998 to 2017. A nine-time All-Star, he hit 20 home runs twelve times and 30 doubles eleven times, with eight seasons of 100 runs batted in (RBI) and seven seasons of 100 runs scored. He was…",
+   "page": "https://en.wikipedia.org/wiki/Carlos_Beltr%C3%A1n"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2015",
+   "text": "The Kansas City Royals captured the second World Series title in franchise history, with a 12-inning, 7–2 victory over the New York Mets in Game 5 at Citi Field. Once again, Kansas City came from behind to overcome a dominant start by Matt Harvey, who carried a 2–0 shutout through eight innings, then convinced Mets manager Terry Collins to let him remain in the game.",
+   "links": [
+    "Citi Field",
+    "Matt Harvey",
+    "shutouts in baseball"
+   ],
+   "score": 77.0,
+   "abouts": [
+    "Citi Field",
+    "Matt Harvey",
+    "shutouts in baseball"
+   ],
+   "about": "Citi Field",
+   "key": "01f112c834662cda",
+   "headline": "Royals beat Mets 7–2 in 12 innings, win second World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/DSC_0163_Matt_Harvey.jpg/960px-DSC_0163_Matt_Harvey.jpg",
+    "credit": "slgckgc on Flickr (Original version) UCinternational (Crop)",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:DSC_0163_Matt_Harvey.jpg",
+    "alt": "Pitcher in Mets home pinstripes delivering a pitch at night",
+    "source": "checked",
+    "of": "Matt Harvey",
+    "w": 1370,
+    "h": 2220,
+    "tier": "person"
+   },
+   "extract": "Citi Field is a baseball stadium located in Flushing Meadows–Corona Park, in the borough of Queens, New York City, United States. Opened in 2009, Citi Field is the home of Major League Baseball's New York Mets. The ballpark was built as a replacement for the adjacent Shea Stadium, which had been demolished shortly…",
+   "page": "https://en.wikipedia.org/wiki/Citi_Field"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2011",
+   "text": "After an outstanding season defensively Parra was awarded the 2011 National League Left Fielder Gold Glove award on November 1, 2011.",
+   "links": [
+    "Gerardo Parra"
+   ],
+   "about": "Gerardo Parra",
+   "score": 20.0,
+   "abouts": [
+    "Gerardo Parra"
+   ],
+   "key": "9b2182214d67a2f5",
+   "headline": "Parra wins 2011 National League Gold Glove in left field",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Parrawin.jpg",
+    "credit": "Mwinog2777",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Parrawin.jpg",
+    "alt": "Player in red Diamondbacks jersey and cap, holding glove, Chase Field",
+    "source": "checked",
+    "of": "Gerardo Parra",
+    "w": 495,
+    "h": 600,
+    "tier": "person"
+   },
+   "extract": "Gerardo Enrique Parra is a Venezuelan former professional baseball outfielder. He played in Major League Baseball (MLB) for the Arizona Diamondbacks, Milwaukee Brewers, Baltimore Orioles, Colorado Rockies, San Francisco Giants and Washington Nationals, as in Nippon Professional Baseball (NPB) for the Yomiuri Giants.…",
+   "page": "https://en.wikipedia.org/wiki/Gerardo_Parra"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2010",
+   "text": "The San Francisco Giants defeat the Texas Rangers 3–1 to win the World Series four games to one. It is the franchise's first championship since 1954, and first since moving to San Francisco prior to the 1958 season.",
+   "links": [
+    "San Francisco Giants",
+    "Texas Rangers (baseball)",
+    "2010 World Series"
+   ],
+   "score": 110.45375844822452,
+   "abouts": [
+    "2010 World Series",
+    "San Francisco Giants",
+    "Texas Rangers (baseball)"
+   ],
+   "about": "2010 World Series",
+   "key": "b83b85485e92f99b",
+   "headline": "Giants beat Rangers 3–1, win first Series since 1954",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Madison_Bumgarner_on_June_21%2C_2011.jpg",
+    "credit": "Ed Bierman on Flickr (Original version) UCinternational (Crop)",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Madison_Bumgarner_on_June_21,_2011.jpg",
+    "alt": "Pitcher in white Giants uniform on mound, World Series patch, SF cap",
+    "source": "checked",
+    "of": "2010 World Series",
+    "w": 910,
+    "h": 1480,
+    "tier": "person"
+   },
+   "extract": "The 2010 World Series was the championship series of Major League Baseball's (MLB) 2010 season. The 106th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Texas Rangers and the National League (NL) champion San Francisco Giants; the Giants won the series,…",
+   "page": "https://en.wikipedia.org/wiki/2010_World_Series"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2010",
+   "text": "The postseason began on October 6, 2010, and ended on November 1, 2010, with the Giants defeating the Rangers in five games in the 2010 World Series, ending the Curse of Coogan's Bluff.",
+   "links": [
+    "2010 Major League Baseball postseason"
+   ],
+   "about": "2010 Major League Baseball postseason",
+   "score": 67.76334108056096,
+   "abouts": [
+    "2010 Major League Baseball postseason"
+   ],
+   "key": "343bc0ca696b36b9",
+   "headline": "Giants defeat Rangers in five games, end Curse of Coogan's Bluff",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Madison_Bumgarner_on_June_21%2C_2011.jpg",
+    "credit": "Ed Bierman on Flickr (Original version) UCinternational (Crop)",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Madison_Bumgarner_on_June_21,_2011.jpg",
+    "alt": "Pitcher in San Francisco Giants home whites on mound, glove raised",
+    "source": "checked",
+    "of": "2010 World Series",
+    "w": 910,
+    "h": 1480,
+    "tier": "person"
+   },
+   "extract": "The 2010 Major League Baseball postseason was the playoff tournament of Major League Baseball for the 2010 season. The winners of the Division Series would move on to the League Championship Series to determine the pennant winners that face each other in the World Series.",
+   "page": "https://en.wikipedia.org/wiki/2010_Major_League_Baseball_postseason"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2009",
+   "text": "The New York Yankees put themselves one win away from their 27th World Series title, after a three-run rally in the ninth inning, to beat the Philadelphia Phillies 7–4. Johnny Damon sparks the rally with a two-out single and two stolen bases off reliever and loser Brad Lidge, before a hit-by-pitch to Mark Teixeira and a go-ahead RBI double by Alex Rodriguez. A two-run, RBI-single by Jorge Posada seals the victory.",
+   "links": [
+    "Johnny Damon",
+    "stolen base",
+    "Brad Lidge"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "Johnny Damon",
+    "stolen base",
+    "Brad Lidge"
+   ],
+   "about": "Johnny Damon",
+   "key": "6401afbe7ed65d8b",
+   "headline": "Yankees rally in ninth to beat Phillies 7–4, one win from title",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/CC_Sabathia_Mark_Teixeira_World_Series_parade_2009.jpg",
+    "credit": "edogisgod",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CC_Sabathia_Mark_Teixeira_World_Series_parade_2009.jpg",
+    "alt": "Two men at a parade, Yankees 2009 Champs merchandise, one pointing skyward, city street",
+    "source": "checked",
+    "of": "2009 World Series",
+    "w": 800,
+    "h": 533,
+    "tier": "team"
+   },
+   "extract": "Johnny David Damon is an American former professional baseball outfielder who played in Major League Baseball (MLB) from 1995 to 2012. During his MLB career, Damon played for the Kansas City Royals (1995–2000), Oakland Athletics (2001), Boston Red Sox (2002–2005), New York Yankees (2006–2009), Detroit Tigers (2010),…",
+   "page": "https://en.wikipedia.org/wiki/Johnny_Damon"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2007",
+   "text": "The Chunichi Dragons win the 2007 Japan Series over the Hokkaido Nippon Ham Fighters 4–1, losing the first game and sweeping the next four. The Dragons' Norihiro Nakamura is the series MVP. This was a rematch of the 2006 series, won by the Fighters in the same fashion. Game five was a combined perfect game, with starter Daisuke Yamai throwing eight innings, and Hitoki Iwase closing out the ninth.",
+   "links": [
+    "Chunichi Dragons",
+    "2007 Japan Series",
+    "Hokkaido Nippon Ham Fighters"
+   ],
+   "score": 88.33726476444977,
+   "abouts": [
+    "2007 Japan Series",
+    "Chunichi Dragons",
+    "Hokkaido Nippon Ham Fighters"
+   ],
+   "about": "2007 Japan Series",
+   "key": "ebe54a5c48037b8e",
+   "headline": "Dragons beat Nippon Ham 4-1 to win 2007 Japan Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sapporo_dome_view_from_seats.jpg/960px-Sapporo_dome_view_from_seats.jpg",
+    "credit": "hfordsa on Flickr",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sapporo_dome_view_from_seats.jpg",
+    "alt": "Indoor dome stadium with green turf, crowded stands, Nippon Ham branding",
+    "source": "checked",
+    "of": "Hokkaido Nippon Ham Fighters",
+    "w": 3072,
+    "h": 2304,
+    "tier": "venue"
+   },
+   "extract": "The 2007 Japan Series, the 58th edition of Nippon Professional Baseball's championship series, began Saturday, October 27, 2007, pitting the Pacific League Regular League and Climax Series' Champion, the Hokkaido Nippon Ham Fighters, and the Chunichi Dragons, winners of the Central League's Climax Series, in a rematch…",
+   "page": "https://en.wikipedia.org/wiki/2007_Japan_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2001",
+   "text": "The New York Yankees pull off two incredible comebacks. With the Arizona Diamondbacks leading 3–1 with 2 outs in the 9th inning of Game 4 of the 2001 World Series, Tino Martinez hits a game-tying 2-run home run. One inning later (at 12:04 ET) Derek Jeter hits a walk-off home run to win Game 4, while fans wave a banner which says \"Mr. November\".",
+   "links": [
+    "Arizona Diamondbacks",
+    "2001 World Series",
+    "Tino Martinez"
+   ],
+   "score": 92.82066611921053,
+   "abouts": [
+    "2001 World Series",
+    "Tino Martinez",
+    "Arizona Diamondbacks"
+   ],
+   "about": "2001 World Series",
+   "key": "fb5701e53d1c487b",
+   "headline": "Yankees rally twice, Jeter homers in 12th to win Game 4",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Derek_Jeter_batting_stance_allison.jpg/960px-Derek_Jeter_batting_stance_allison.jpg",
+    "credit": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Derek_Jeter_batting_stance_allison.jpg",
+    "alt": "Batter in gray Yankees road uniform, navy helmet, at bat in MLB game",
+    "source": "checked",
+    "of": "2001 World Series",
+    "w": 2216,
+    "h": 3232,
+    "tier": "person"
+   },
+   "extract": "The 2001 World Series was the championship series of Major League Baseball's (MLB) 2001 season. The 97th edition of the World Series, it was a best-of-seven series between the National League (NL) champion Arizona Diamondbacks and the American League (AL) champion New York Yankees. The Diamondbacks defeated the…",
+   "page": "https://en.wikipedia.org/wiki/2001_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2001",
+   "text": "H. Gabriel Murphy, 98, 40 percent owner of the Washington Senators/Minnesota Twins franchise from 1950 to 1984 who battled majority owner Calvin Griffith in court in an unsuccessful attempt to keep the team from abandoning the U.S. capital after the 1960 season.",
+   "links": [
+    "H. Gabriel Murphy",
+    "Calvin Griffith"
+   ],
+   "score": 25.0,
+   "abouts": [
+    "H. Gabriel Murphy",
+    "Calvin Griffith"
+   ],
+   "about": "H. Gabriel Murphy",
+   "key": "0ff74445d31b05eb",
+   "headline": "H. Gabriel Murphy, Senators co-owner, dies at 98",
+   "image": null,
+   "extract": "Henry Gabriel Murphy was an American businessman, sportsman and Major League Baseball club owner. From June 1950 through April 1984, he was a minority stockholder in the Washington Senators/Minnesota Twins franchise of the American League. After October 1955, Murphy became the largest individual shareholder in the…",
+   "page": "https://en.wikipedia.org/wiki/H._Gabriel_Murphy"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1978",
+   "text": "Ron Guidry of the New York Yankees is named winner of the American League Cy Young Award by a unanimous vote, taking all 28 first-place tallies.",
+   "links": [
+    "Ron Guidry",
+    "New York Yankees",
+    "American League"
+   ],
+   "score": 67.74065672373972,
+   "abouts": [
+    "American League",
+    "Ron Guidry",
+    "New York Yankees"
+   ],
+   "about": "American League",
+   "key": "70eee70c6218cae0",
+   "headline": "Ron Guidry wins unanimous American League Cy Young Award",
+   "image": null,
+   "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
+   "page": "https://en.wikipedia.org/wiki/American_League"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1976",
+   "text": "In the first off-season after the Seitz decision, 23 major-league players are granted free agency after they've played out their option years with their current clubs. Seven are members of the Oakland Athletics, including Sal Bando, Don Baylor, Bert Campaneris, future Hall-of-Famer Rollie Fingers, Joe Rudi and Gene Tenace.",
+   "links": [
+    "Seitz decision",
+    "Oakland Athletics",
+    "Sal Bando"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Seitz decision",
+    "Sal Bando",
+    "Oakland Athletics"
+   ],
+   "about": "Seitz decision",
+   "key": "600e900a262c83c3",
+   "headline": "23 players granted free agency, seven from Oakland Athletics",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/SalBandoAthletics.jpg",
+    "credit": "J.D. McCarthy",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:SalBandoAthletics.jpg",
+    "alt": "Man in Athletics uniform, kneeling with bat, caption reads Sal Bando",
+    "source": "checked",
+    "of": "Sal Bando",
+    "w": 583,
+    "h": 1000,
+    "tier": "person"
+   },
+   "extract": "The Seitz decision was a ruling by arbitrator Peter Seitz (1905–1983) on December 23, 1975, which declared that Major League Baseball (MLB) players became free agents upon playing one year for their team without a contract, effectively nullifying baseball's reserve clause. The ruling was issued in regard to pitchers…",
+   "page": "https://en.wikipedia.org/wiki/Seitz_decision"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1974",
+   "text": "Leslie Ambrose \"Bullet Joe\" Bush (November 27, 1892 – November 1, 1974) was an American Major League Baseball pitcher with the Philadelphia Athletics, Boston Red Sox, New York Yankees, St.",
+   "links": [
+    "Bullet Joe Bush"
+   ],
+   "about": "Bullet Joe Bush",
+   "score": 20.0,
+   "abouts": [
+    "Bullet Joe Bush"
+   ],
+   "key": "2efe1e9c95a13b64",
+   "headline": "Leslie \"Bullet Joe\" Bush, Philadelphia Athletics pitcher, dies",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bullet_Joe_Bush_1922.jpg",
+    "credit": "Unknown",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Bullet_Joe_Bush_1922.jpg",
+    "alt": "Smiling man in black-and-white photo wearing a New York Yankees cap",
+    "source": "checked",
+    "of": "Bullet Joe Bush (Commons search)",
+    "w": 424,
+    "h": 528,
+    "tier": "person"
+   },
+   "extract": "Leslie Ambrose \"Bullet Joe\" Bush was an American Major League Baseball pitcher with the Philadelphia Athletics, Boston Red Sox, New York Yankees, St. Louis Browns, Washington Senators, Pittsburgh Pirates, and New York Giants between 1912 and 1928. Bush batted and threw right-handed. He is credited with having…",
+   "page": "https://en.wikipedia.org/wiki/Bullet_Joe_Bush"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1972",
+   "text": "Millán was acquired along with George Stone by the New York Mets from the Braves for Gary Gentry and Danny Frisella on November 1, 1972.",
+   "links": [
+    "Félix Millán"
+   ],
+   "about": "Félix Millán",
+   "score": 22.0,
+   "abouts": [
+    "Félix Millán"
+   ],
+   "key": "fbf92441cb641de1",
+   "headline": "Mets acquire Millán and George Stone from the Braves",
+   "image": null,
+   "extract": "Félix Bernardo Millán Martínez is a Puerto Rican former professional baseball second baseman, who played in Major League Baseball (MLB) for the Atlanta Braves and New York Mets. He holds one of the best at-bat to strike out ratios in modern baseball history, having struck out once every twenty three at bats.",
+   "page": "https://en.wikipedia.org/wiki/F%C3%A9lix_Mill%C3%A1n"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1968",
+   "text": "Denny McLain, the last MLB pitcher to win 30 games in a season, is the unanimous American League winner of the Cy Young Award. Four days from now, McLain will also be unanimously anointed the year's Al Most Valuable Player, winning all 20 first-place mentions and 280 total points.",
+   "links": [
+    "Denny McLain",
+    "American League",
+    "Cy Young Award"
+   ],
+   "score": 67.74065672373972,
+   "abouts": [
+    "American League",
+    "Denny McLain",
+    "Cy Young Award"
+   ],
+   "about": "American League",
+   "key": "c3e7ae86decb50cf",
+   "headline": "Denny McLain unanimously wins American League Cy Young Award",
+   "image": null,
+   "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
+   "page": "https://en.wikipedia.org/wiki/American_League"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1967",
+   "text": "Mike McCormick, former bonus baby and 1960 National League earned run average leader, is elected winner of the 1967 NL Cy Young Award. McCormick, 29, compiled a 22–10 (2.85) record with 14 complete games and five shutouts, in the first season of his second term with the San Francisco Giants.",
+   "links": [
+    "Mike McCormick (pitcher)",
+    "bonus baby",
+    "National League (baseball)"
+   ],
+   "score": 70.0,
+   "abouts": [
+    "Mike McCormick (pitcher)",
+    "bonus baby",
+    "National League (baseball)"
+   ],
+   "about": "Mike McCormick (pitcher)",
+   "key": "c4b8f70ac585c61e",
+   "headline": "Mike McCormick, 29, elected 1967 National League Cy Young winner",
+   "image": null,
+   "extract": "Michael Francis McCormick was an American professional baseball pitcher who played 16 seasons in Major League Baseball (MLB). He played for the New York/San Francisco Giants, Baltimore Orioles, Washington Senators, New York Yankees and Kansas City Royals from 1956 to 1971. He batted and threw left-handed and served…",
+   "page": "https://en.wikipedia.org/wiki/Mike_McCormick_(pitcher)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1957",
+   "text": "Charlie Caldwell, 56, pitcher for the 1925 New York Yankees, who later coached three sports at Williams College between 1925 and 1946, receiving AFCA Coach of the Year Award honors in 1950 and an induction to the College Football Hall of Fame in 1961.",
+   "links": [
+    "Charlie Caldwell",
+    "1925 New York Yankees season",
+    "Williams College"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Charlie Caldwell",
+    "Williams College",
+    "1925 New York Yankees season"
+   ],
+   "about": "Charlie Caldwell",
+   "key": "a5d8dadfc36c4ba7",
+   "headline": "Charlie Caldwell, former Yankees pitcher and coach, dies at 56",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%28Yankee_Stadium%2C_Bronx%2C_New_York_City%3B_with_automobiles_parked_in_foregrd.%29.jpg",
+    "credit": "Photo copyrighted by Henry Parker, New York City.",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:(Yankee_Stadium,_Bronx,_New_York_City;_with_automobiles_parked_in_foregrd.).jpg",
+    "alt": "Yankee Stadium exterior with rows of parked automobiles in foreground",
+    "source": "checked",
+    "of": "1925 New York Yankees season",
+    "w": 640,
+    "h": 517,
+    "tier": "venue"
+   },
+   "extract": "Charles William Caldwell was an American football, basketball, and baseball player and coach. He served as the head football coach at Williams College for 15 seasons between 1928 and 1944 and at Princeton University from 1945 to 1956, compiling a career college football record of 146–67–9. Caldwell was also the head…",
+   "page": "https://en.wikipedia.org/wiki/Charlie_Caldwell"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1951",
+   "text": "Brooklyn Dodgers catcher Roy Campanella is named National League Most Valuable Player, the first of three MVP awards he will receive during his Hall of Fame career. In 1951, Campanella, 29, batted .325, fourth in the NL, with 33 home runs and 108 run batted in in 143 games.",
+   "links": [
+    "Brooklyn Dodgers",
+    "Roy Campanella",
+    "Major League Baseball Most Valuable Player Award"
+   ],
+   "score": 95.0,
+   "abouts": [
+    "Roy Campanella",
+    "Major League Baseball Most Valuable Player Award",
+    "Brooklyn Dodgers"
+   ],
+   "about": "Roy Campanella",
+   "key": "40ff0b21e12aa5a2",
+   "headline": "Roy Campanella named National League Most Valuable Player",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jackie_Robinson%2C_Roy_Campanella_and_Jim_Gilliam_in_Japan_1956_IMG_20220429_0002.jpg/960px-Jackie_Robinson%2C_Roy_Campanella_and_Jim_Gilliam_in_Japan_1956_IMG_20220429_0002.jpg",
+    "credit": "ベースボール・マガジン社（Baseball Magazine Co. Ltd)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jackie_Robinson,_Roy_Campanella_and_Jim_Gilliam_in_Japan_1956_IMG_20220429_0002.jpg",
+    "alt": "Three Dodgers players in dugout, sepia-toned photo, B caps",
+    "source": "checked",
+    "of": "Roy Campanella",
+    "w": 1200,
+    "h": 1600,
+    "tier": "person"
+   },
+   "extract": "Roy Campanella, nicknamed \"Campy\", was an American professional baseball player, primarily as a catcher. The Philadelphia native played in the Negro leagues and Mexican League for nine years before entering the minor leagues in 1946. He made his Major League Baseball (MLB) debut in 1948 for the Brooklyn Dodgers, for…",
+   "page": "https://en.wikipedia.org/wiki/Roy_Campanella"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1946",
+   "text": "Among the selections in the Rule 5 draft is first baseman Ferris Fain, 25, a future two-time batting champion, acquired by the Philadelphia Athletics from the San Francisco Seals of the Pacific Coast League.",
+   "links": [
+    "Rule 5 draft",
+    "Ferris Fain",
+    "batting average (baseball)"
+   ],
+   "score": 77.91349951668022,
+   "abouts": [
+    "batting average (baseball)",
+    "Rule 5 draft",
+    "Ferris Fain"
+   ],
+   "about": "batting average (baseball)",
+   "key": "e166c55fd32a0f69",
+   "headline": "Athletics select Ferris Fain, 25, in Rule 5 draft",
+   "image": null,
+   "extract": "In baseball, batting average (BA) is determined by dividing a player's hits by their total at-bats. It is usually rounded to three decimal places and read without the decimal: A player with a batting average of .300 is said to be \"batting three hundred\". If necessary to break ties, batting averages could be taken…",
+   "page": "https://en.wikipedia.org/wiki/Batting_average_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1944",
+   "text": "A three-person group headlined by club president/general manager Branch Rickey acquires one-quarter ownership in the Dodgers from the Brooklyn Trust Company for an estimated $250,000. The stock, formerly held by the late Edward J. McKeever, has been managed by the bank on behalf of the McKeever estate.",
+   "links": [
+    "Branch Rickey",
+    "Brooklyn Dodgers",
+    "Brooklyn Trust Company"
+   ],
+   "score": 34.0,
+   "abouts": [
+    "Branch Rickey",
+    "Brooklyn Trust Company",
+    "Brooklyn Dodgers"
+   ],
+   "about": "Branch Rickey",
+   "key": "ad0e7d5f5c94be1c",
+   "headline": "Branch Rickey group buys quarter of Dodgers for $250,000",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Branch_Rickey_1912.jpg",
+    "credit": "Rentschler",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Branch_Rickey_1912.jpg",
+    "alt": "Sepia studio portrait of a man in a suit and collar",
+    "source": "checked",
+    "of": "Branch Rickey",
+    "w": 484,
+    "h": 525,
+    "tier": "person"
+   },
+   "extract": "Wesley Branch Rickey was an American professional baseball catcher, manager, sports executive, and team owner. He was instrumental in breaking the baseball color line by signing black player Jackie Robinson. He also created the framework for the modern minor league farm system, encouraged the major leagues to add new…",
+   "page": "https://en.wikipedia.org/wiki/Branch_Rickey"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1938",
+   "text": "National League batting champ Ernie Lombardi of the Cincinnati Reds is named the Most Valuable Player. Chicago Cubs pitcher Bill Lee is the runner-up.",
+   "links": [
+    "Ernie Lombardi",
+    "Cincinnati Reds",
+    "Chicago Cubs"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Ernie Lombardi",
+    "Cincinnati Reds",
+    "Chicago Cubs"
+   ],
+   "about": "Ernie Lombardi",
+   "key": "1c2e3e238fe1999b",
+   "headline": "Ernie Lombardi, Cincinnati Reds catcher, named Most Valuable Player",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lombardi_Statue_Tsuchiya.jpg/960px-Lombardi_Statue_Tsuchiya.jpg",
+    "credit": "Booklover117",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lombardi_Statue_Tsuchiya.jpg",
+    "alt": "Bronze statue of a catcher in gear, mitt raised, outdoors",
+    "source": "checked",
+    "of": "Ernie Lombardi",
+    "w": 1198,
+    "h": 1280,
+    "tier": "person"
+   },
+   "extract": "Ernesto Natali Lombardi was an American professional baseball player. He played in Major League Baseball (MLB) as a catcher for the Brooklyn Robins, Cincinnati Reds, Boston Braves, and New York Giants during a career that spanned 17 years, from 1931 through 1947. He had several nicknames, including \"Schnozz\",…",
+   "page": "https://en.wikipedia.org/wiki/Ernie_Lombardi"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1937",
+   "text": "Benny Frey, 30, pitcher for the Cincinnati Reds from 1929 to 1936, who committed suicide after being unable to make a comeback following an arm injury.",
+   "links": [
+    "Benny Frey"
+   ],
+   "score": 20.05,
+   "abouts": [
+    "Benny Frey"
+   ],
+   "about": "Benny Frey",
+   "key": "da79421fc0c7a796",
+   "headline": "Benny Frey, former Reds pitcher, dies at 30 by suicide",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Benjamin_Frey%2C_1929_AP_photo_%28cropped%29.jpg/960px-Benjamin_Frey%2C_1929_AP_photo_%28cropped%29.jpg",
+    "credit": "Associated Press",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Benjamin_Frey,_1929_AP_photo_(cropped).jpg",
+    "alt": "Vintage photo of a pitcher in baseball uniform and cap.",
+    "source": "checked",
+    "of": "Benny Frey",
+    "w": 1149,
+    "h": 2523,
+    "tier": "person"
+   },
+   "extract": "Benjamin Rudolph Frey was an American right-handed pitcher in Major League Baseball from 1929 to 1936, playing primarily with the Cincinnati Reds. He was a sidearm pitcher with a sweeping motion that was effective against right-handed hitters. Frey suffered an arm injury which ultimately led to his retirement and…",
+   "page": "https://en.wikipedia.org/wiki/Benny_Frey"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1922",
+   "text": "Former Philadelphia Athletics catcher Ira Thomas buys the Shreveport Gassers Texas League club for $75,000. Other former players who own pieces of minor league clubs include Ty Cobb (Augusta Georgians), Eddie Collins (Baltimore Orioles), and George Stallings (Rochester Red Wings).",
+   "links": [
+    "Philadelphia Athletics",
+    "Ira Thomas",
+    "Shreveport Gassers"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Ira Thomas",
+    "Philadelphia Athletics",
+    "Shreveport Gassers"
+   ],
+   "about": "Ira Thomas",
+   "key": "e19f37ef882fcdb4",
+   "headline": "Ira Thomas buys Shreveport Gassers for $75,000",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ira_Thomas.jpg",
+    "credit": "Paul Thompson",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ira_Thomas.jpg",
+    "alt": "Sepia portrait of a man in striped cap and jersey, wood-paneled backdrop",
+    "source": "checked",
+    "of": "Ira Thomas",
+    "w": 537,
+    "h": 419,
+    "tier": "person"
+   },
+   "extract": "Ira Felix Thomas was an American professional baseball player. He played all or part of ten seasons of Major League Baseball, all in the American League, with the New York Highlanders (1906–1907), Detroit Tigers (1908), and Philadelphia Athletics (1909–1915), primarily as a catcher.",
+   "page": "https://en.wikipedia.org/wiki/Ira_Thomas"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1892",
+   "text": "Statistics for the first 154-game season show that Dan Brouthers of the Brooklyn Grooms was the top hitter with a .335 batting average, and Cy Young of the Cleveland Spiders the best pitcher with a 36–11 record and a .766 winning percentage.",
+   "links": [
+    "Dan Brouthers",
+    "batting average (baseball)",
+    "winning percentage"
+   ],
+   "score": 80.91349951668022,
+   "abouts": [
+    "batting average (baseball)",
+    "Dan Brouthers",
+    "winning percentage"
+   ],
+   "about": "batting average (baseball)",
+   "key": "3d914ac13ac48069",
+   "headline": "Dan Brouthers hits .335 and Cy Young goes 36-11 in 154-game season",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dan_Brouthers_0556fu.jpg/960px-Dan_Brouthers_0556fu.jpg",
+    "credit": "Goodwin & Company",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Dan_Brouthers_0556fu.jpg",
+    "alt": "Illustrated tobacco card of a man in white cap and jersey, profile view, Detroit lettering",
+    "source": "checked",
+    "of": "Dan Brouthers",
+    "w": 1692,
+    "h": 2992,
+    "tier": "person"
+   },
+   "extract": "In baseball, batting average (BA) is determined by dividing a player's hits by their total at-bats. It is usually rounded to three decimal places and read without the decimal: A player with a batting average of .300 is said to be \"batting three hundred\". If necessary to break ties, batting averages could be taken…",
+   "page": "https://en.wikipedia.org/wiki/Batting_average_(baseball)"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1882",
+   "text": "The history of the Philadelphia Phillies of Major League Baseball's National League began on November 1, 1882, with the organization of the Philadelphia Ball Club Limited.",
+   "links": [
+    "History of the Philadelphia Phillies"
+   ],
+   "about": "History of the Philadelphia Phillies",
+   "score": 20.0,
+   "abouts": [
+    "History of the Philadelphia Phillies"
+   ],
+   "key": "52da191c3ace65db",
+   "headline": "Philadelphia Ball Club Limited organized, starting Phillies history",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/18821101PBCL.jpg/960px-18821101PBCL.jpg",
+    "credit": "Philadelphia Ball Club Limited",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:18821101PBCL.jpg",
+    "alt": "Printed legal document: articles of association for Philadelphia Ball Club Limited, 1882",
+    "source": "checked",
+    "of": "History of the Philadelphia Phillies",
+    "w": 1250,
+    "h": 1322,
+    "tier": "event"
+   },
+   "extract": "The history of the Philadelphia Phillies of Major League Baseball's National League began on November 1, 1882, with the organization of the Philadelphia Ball Club Limited. In 1883, this organization won the franchise rights to Philadelphia when the city was selected to replace the Massachusetts-based Worcesters, who…",
+   "page": "https://en.wikipedia.org/wiki/History_of_the_Philadelphia_Phillies"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1878",
+   "text": "The Boston Red Caps and the Providence Grays play an exhibition game with no outs on foul bounds and 6 balls for a walk to be given.",
+   "links": [
+    "Boston Braves",
+    "Providence Grays"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Boston Braves",
+    "Providence Grays"
+   ],
+   "about": "Boston Braves",
+   "key": "788864620f3a9e27",
+   "headline": "Red Caps and Grays play exhibition with no outs on foul bounds",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/1879_Providence_Grays.jpeg/960px-1879_Providence_Grays.jpeg",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1879_Providence_Grays.jpeg",
+    "alt": "Team of nine uniformed players posed before a wooden grandstand, baseball field.",
+    "source": "checked",
+    "of": "Providence Grays",
+    "w": 1845,
+    "h": 951,
+    "tier": "team"
+   },
+   "extract": "The Boston Braves were a Major League Baseball team that played in Boston for the National League from 1871 to 1952. The team relocated to Milwaukee after the 1952 season, becoming the Milwaukee Braves, and subsequently moved to Atlanta in 1966.",
+   "page": "https://en.wikipedia.org/wiki/Boston_Braves"
+  }
+ ]
+}
