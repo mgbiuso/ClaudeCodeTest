@@ -1,0 +1,44 @@
+{
+ "month": 10,
+ "day": 8,
+ "games": 214,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "214",
+   "note": "since 1873"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "26",
+   "note": "Mutuals 17, Nationals 9 (1873)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "16 runs",
+   "note": "Hop Bitters 17, Athletics 1 (1890)"
+  },
+  {
+   "label": "Longest game",
+   "value": "15 innings",
+   "note": "Devil Rays at Indians (2022)"
+  },
+  {
+   "label": "No-hitters",
+   "value": "1",
+   "note": "latest: Yankees over Dodgers (1956)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "70,306",
+   "note": "Braves at Indians (1948)"
+  }
+ ],
+ "nohitters": [
+  {
+   "year": 1956,
+   "by": "Yankees",
+   "against": "Dodgers"
+  }
+ ]
+}

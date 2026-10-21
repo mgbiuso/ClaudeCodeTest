@@ -1,0 +1,33 @@
+{
+ "month": 10,
+ "day": 20,
+ "games": 42,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "42",
+   "note": "since 1874"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "29",
+   "note": "Blue Jays 15, Phillies 14 (1993)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "12 runs",
+   "note": "Royals 14, Blue Jays 2 (2015)"
+  },
+  {
+   "label": "Longest game",
+   "value": "12 innings",
+   "note": "Astros at Cardinals (2004)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "64,667",
+   "note": "Yankees at Padres (1998)"
+  }
+ ],
+ "nohitters": []
+}

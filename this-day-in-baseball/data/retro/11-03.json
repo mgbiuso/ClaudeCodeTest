@@ -1,0 +1,28 @@
+{
+ "month": 11,
+ "day": 3,
+ "games": 2,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "2",
+   "note": "since 2001"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "17",
+   "note": "Diamondbacks 15, Yankees 2 (2001)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "13 runs",
+   "note": "Diamondbacks 15, Yankees 2 (2001)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "49,707",
+   "note": "Yankees at Diamondbacks (2001)"
+  }
+ ],
+ "nohitters": []
+}

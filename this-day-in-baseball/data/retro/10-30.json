@@ -1,0 +1,28 @@
+{
+ "month": 10,
+ "day": 30,
+ "games": 14,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "14",
+   "note": "since 1871"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "28",
+   "note": "Dark Blues 17, Braves 11 (1874)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "7 runs",
+   "note": "White Stockings 11, Mutuals 4 (1874)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "55,820",
+   "note": "Diamondbacks at Yankees (2001)"
+  }
+ ],
+ "nohitters": []
+}

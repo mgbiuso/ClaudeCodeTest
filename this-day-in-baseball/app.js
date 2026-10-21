@@ -228,6 +228,21 @@ function columnBox(cls, nodes, fillers) {
   return box;
 }
 
+// An almanac-style strip of Retrosheet facts about every game ever played on this date.
+function numbersBox(numbers) {
+  const box = el("section", "numbers");
+  box.setAttribute("aria-label", "By the numbers");
+  box.append(el("h2", "reverse-head", "By the numbers"));
+  const row = el("div", "numbers-row");
+  for (const item of numbers.items) {
+    const cell = el("div", "num");
+    cell.append(el("div", "num-value", item.value), el("div", "num-label", item.label), el("div", "num-note", item.note));
+    row.append(cell);
+  }
+  box.append(row);
+  return box;
+}
+
 function render(data, when) {
   const wrap = $("stories");
   wrap.replaceChildren();
@@ -254,6 +269,7 @@ function render(data, when) {
   const leadNode = card(lead, { tag: "Top story", accent: nextAccent(), cls: `lead${hasMedia(lead) ? " has-photo" : ""}` });
   top.append(leadNode);
   wrap.append(top);
+  if (data.numbers && data.numbers.items && data.numbers.items.length) wrap.append(numbersBox(data.numbers));
 
   // Beside the lead: add photo stories until that column is as tall as the lead (never leaving a gap under either).
   let pool = photo;

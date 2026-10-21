@@ -934,5 +934,30 @@
    "extract": "The following is a franchise history of the Chicago Cubs of Major League Baseball, a charter member of the National League who started play in the National Association of Base Ball Players in 1870 as the Chicago White Stockings, before joining the National Association in 1871. The Chicago National League Ball Club is…",
    "page": "https://en.wikipedia.org/wiki/History_of_the_Chicago_Cubs"
   }
- ]
+ ],
+ "numbers": {
+  "games": 14,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "14",
+    "note": "since 1871"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "28",
+    "note": "Dark Blues 17, Braves 11 (1874)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "7 runs",
+    "note": "White Stockings 11, Mutuals 4 (1874)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "55,820",
+    "note": "Diamondbacks at Yankees (2001)"
+   }
+  ]
+ }
 }

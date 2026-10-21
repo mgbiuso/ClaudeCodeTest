@@ -567,6 +567,15 @@ def add_photos(stories):
     return stories
 
 
+def day_record(month, day, stories):
+    """One day file: the stories plus Retrosheet's "By the Numbers" (data/retro/MM-DD.json, made by retro_facts.py) if present."""
+    rec = {"month": month, "day": day, "stories": stories}
+    facts = load_json_file(f"retro/{month:02d}-{day:02d}.json")
+    if facts.get("items"):
+        rec["numbers"] = {"games": facts["games"], "items": facts["items"]}
+    return rec
+
+
 def load_json_file(name):
     try:
         return json.loads((ROOT / "data" / name).read_text())
@@ -666,7 +675,7 @@ def main():
         if a.write:
             (ROOT / "data" / "days").mkdir(parents=True, exist_ok=True)
             (ROOT / "data" / "days" / f"{month:02d}-{day:02d}.json").write_text(
-                json.dumps({"month": month, "day": day, "stories": s}, ensure_ascii=False, indent=1))
+                json.dumps(day_record(month, day, s), ensure_ascii=False, indent=1))
     if a.rss:
         write_rss()
     print("\nrequests:", {"net": STATS["net"], "cached": STATS["cached"], "failed": len(STATS["failed"])})

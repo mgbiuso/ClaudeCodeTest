@@ -891,5 +891,30 @@
    "extract": "Anthony John Mullane, nicknamed \"Count\" and \"the Apollo of the Box\", was an American professional baseball player who pitched for seven major league teams during 1881–1894. He is best known as a switch pitcher who could throw with either hand, and for having one of the highest career win totals of pitchers not in the…",
    "page": "https://en.wikipedia.org/wiki/Tony_Mullane"
   }
- ]
+ ],
+ "numbers": {
+  "games": 2,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "2",
+    "note": "since 2001"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "10",
+    "note": "Yankees 7, Phillies 3 (2009)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "4 runs",
+    "note": "Yankees 7, Phillies 3 (2009)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "50,315",
+    "note": "Phillies at Yankees (2009)"
+   }
+  ]
+ }
 }

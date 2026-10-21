@@ -1,0 +1,33 @@
+{
+ "month": 10,
+ "day": 26,
+ "games": 23,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "23",
+   "note": "since 1874"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "18",
+   "note": "Braves 15, White Stockings 3 (1874)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "12 runs",
+   "note": "Braves 15, White Stockings 3 (1874)"
+  },
+  {
+   "label": "Longest game",
+   "value": "18 innings",
+   "note": "Red Sox at Dodgers (2018)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "67,204",
+   "note": "Indians at Marlins (1997)"
+  }
+ ],
+ "nohitters": []
+}

@@ -1,0 +1,33 @@
+{
+ "month": 10,
+ "day": 23,
+ "games": 32,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "32",
+   "note": "since 1871"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "31",
+   "note": "Haymakers 19, White Stockings 12 (1871)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "12 runs",
+   "note": "Braves 13, Dark Blues 1 (1874)"
+  },
+  {
+   "label": "Longest game",
+   "value": "10 innings",
+   "note": "Yankees at Braves (1996)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "65,975",
+   "note": "Yankees at Marlins (2003)"
+  }
+ ],
+ "nohitters": []
+}

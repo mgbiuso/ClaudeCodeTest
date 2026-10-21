@@ -965,5 +965,35 @@
    "extract": "James Alexander Devlin was an American professional baseball player who played mainly as a first baseman early in his career, then later as a pitcher. Devlin played for three teams during his five-year career; the Philadelphia White Stockings and the Chicago White Stockings of the National Association, and the…",
    "page": "https://en.wikipedia.org/wiki/Jim_Devlin"
   }
- ]
+ ],
+ "numbers": {
+  "games": 26,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "26",
+    "note": "since 1874"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "23",
+    "note": "Dark Blues 17, White Stockings 6 (1875)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "11 runs",
+    "note": "Dark Blues 17, White Stockings 6 (1875)"
+   },
+   {
+    "label": "Longest game",
+    "value": "18 innings",
+    "note": "Blue Jays at Dodgers (2025)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "62,038",
+    "note": "Athletics at Giants (1989)"
+   }
+  ]
+ }
 }

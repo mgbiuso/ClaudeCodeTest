@@ -1,0 +1,33 @@
+{
+ "month": 10,
+ "day": 22,
+ "games": 35,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "35",
+   "note": "since 1872"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "23",
+   "note": "Cardinals 16, Rangers 7 (2011)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "9 runs",
+   "note": "Cardinals 16, Rangers 7 (2011)"
+  },
+  {
+   "label": "Longest game",
+   "value": "12 innings",
+   "note": "Twins at Braves (1991)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "65,934",
+   "note": "Yankees at Marlins (2003)"
+  }
+ ],
+ "nohitters": []
+}

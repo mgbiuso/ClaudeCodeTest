@@ -551,5 +551,35 @@
    "extract": "The St. Louis Cardinals are an American professional baseball team based in St. Louis. The Cardinals compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. Since the 2006 season, the Cardinals have played their home games at Busch Stadium in downtown St. Louis. One of the…",
    "page": "https://en.wikipedia.org/wiki/St._Louis_Cardinals"
   }
- ]
+ ],
+ "numbers": {
+  "games": 42,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "42",
+    "note": "since 1871"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "31",
+    "note": "Braves 18, Lord Baltimores 13 (1873)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "12 runs",
+    "note": "Mutuals 15, Athletics 3 (1873)"
+   },
+   {
+    "label": "Longest game",
+    "value": "12 innings",
+    "note": "Reds at Red Sox (1975)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "65,838",
+    "note": "Royals at Phillies (1980)"
+   }
+  ]
+ }
 }

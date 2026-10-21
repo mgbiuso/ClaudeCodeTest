@@ -1,0 +1,54 @@
+{
+ "month": 7,
+ "day": 4,
+ "games": 2059,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "2,059",
+   "note": "since 1871"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "37",
+   "note": "Braves 25, Mansfields 12 (1872)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "29 runs",
+   "note": "Braves 32, Resolutes 3 (1873)"
+  },
+  {
+   "label": "Longest game",
+   "value": "20 innings",
+   "note": "Athletics at Red Sox (1905)"
+  },
+  {
+   "label": "No-hitters",
+   "value": "3",
+   "note": "latest: Yankees over Red Sox (1983)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "75,000",
+   "note": "Senators at Yankees (1933)"
+  }
+ ],
+ "nohitters": [
+  {
+   "year": 1908,
+   "by": "Giants",
+   "against": "Phillies"
+  },
+  {
+   "year": 1912,
+   "by": "Tigers",
+   "against": "Browns"
+  },
+  {
+   "year": 1983,
+   "by": "Yankees",
+   "against": "Red Sox"
+  }
+ ]
+}

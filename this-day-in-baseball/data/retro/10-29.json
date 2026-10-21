@@ -1,0 +1,33 @@
+{
+ "month": 10,
+ "day": 29,
+ "games": 14,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "14",
+   "note": "since 1872"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "25",
+   "note": "Astros 13, Dodgers 12 (2017)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "12 runs",
+   "note": "Athletics 17, Atlantics 5 (1873)"
+  },
+  {
+   "label": "Longest game",
+   "value": "10 innings",
+   "note": "Dodgers at Astros (2017)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "52,175",
+   "note": "Blue Jays at Dodgers (2025)"
+  }
+ ],
+ "nohitters": []
+}

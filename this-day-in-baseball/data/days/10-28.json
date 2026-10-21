@@ -895,5 +895,35 @@
    "extract": "The American Association of Base Ball Clubs, known simply as the American Association (AA), was a professional baseball major league that operated from 1882 to 1891. Together with its main competitor, the National League (NL), the AA participated in an early version of the World Series. When the AA folded after the…",
    "page": "https://en.wikipedia.org/wiki/American_Association_(1882%E2%80%931891)"
   }
- ]
+ ],
+ "numbers": {
+  "games": 23,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "23",
+    "note": "since 1874"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "17",
+    "note": "Braves 10, Athletics 7 (1874)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "10 runs",
+    "note": "Royals 10, Giants 0 (2014)"
+   },
+   {
+    "label": "Longest game",
+    "value": "10 innings",
+    "note": "Giants at Tigers (2012)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "62,032",
+    "note": "Athletics at Giants (1989)"
+   }
+  ]
+ }
 }

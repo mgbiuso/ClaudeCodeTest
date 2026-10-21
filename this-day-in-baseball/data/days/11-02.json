@@ -833,5 +833,40 @@
    "extract": "The American Association of Base Ball Clubs, known simply as the American Association (AA), was a professional baseball major league that operated from 1882 to 1891. Together with its main competitor, the National League (NL), the AA participated in an early version of the World Series. When the AA folded after the…",
    "page": "https://en.wikipedia.org/wiki/American_Association_(1882%E2%80%931891)"
   }
- ]
+ ],
+ "numbers": {
+  "games": 4,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "4",
+    "note": "since 2009"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "15",
+    "note": "Cubs 8, Indians 7 (2016)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "7 runs",
+    "note": "Braves 7, Astros 0 (2021)"
+   },
+   {
+    "label": "Longest game",
+    "value": "10 innings",
+    "note": "Cubs at Indians (2016)"
+   },
+   {
+    "label": "No-hitters",
+    "value": "1",
+    "note": "latest: Astros over Phillies (2022)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "46,178",
+    "note": "Yankees at Phillies (2009)"
+   }
+  ]
+ }
 }

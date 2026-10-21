@@ -629,5 +629,35 @@
    "extract": "The Boston Braves were a Major League Baseball team that played in Boston for the National League from 1871 to 1952. The team relocated to Milwaukee after the 1952 season, becoming the Milwaukee Braves, and subsequently moved to Atlanta in 1966.",
    "page": "https://en.wikipedia.org/wiki/Boston_Braves"
   }
- ]
+ ],
+ "numbers": {
+  "games": 42,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "42",
+    "note": "since 1874"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "29",
+    "note": "Blue Jays 15, Phillies 14 (1993)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "12 runs",
+    "note": "Royals 14, Blue Jays 2 (2015)"
+   },
+   {
+    "label": "Longest game",
+    "value": "12 innings",
+    "note": "Astros at Cardinals (2004)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "64,667",
+    "note": "Yankees at Padres (1998)"
+   }
+  ]
+ }
 }

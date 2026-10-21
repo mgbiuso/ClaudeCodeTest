@@ -843,5 +843,35 @@
    "extract": "Burleigh Arland Grimes was an American professional baseball player and manager, and the last major league pitcher who was officially permitted to throw the spitball. Grimes made the most of this advantage, as well as his unshaven, menacing presence on the mound, which earned him the nickname \"Ol' Stubblebeard.\" In…",
    "page": "https://en.wikipedia.org/wiki/Burleigh_Grimes"
   }
- ]
+ ],
+ "numbers": {
+  "games": 9,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "9",
+    "note": "since 1872"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "21",
+    "note": "Lord Baltimores 14, Atlantics 7 (1872)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "7 runs",
+    "note": "Lord Baltimores 14, Atlantics 7 (1872)"
+   },
+   {
+    "label": "Longest game",
+    "value": "10 innings",
+    "note": "Diamondbacks at Yankees (2001)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "55,863",
+    "note": "Diamondbacks at Yankees (2001)"
+   }
+  ]
+ }
 }

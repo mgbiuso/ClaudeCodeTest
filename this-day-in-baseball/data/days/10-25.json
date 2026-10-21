@@ -701,5 +701,35 @@
    "extract": "The Polo Grounds was the name of four stadiums in Upper Manhattan, New York City, used mainly for professional baseball and American football from 1880 to 1963. The original Polo Grounds, opened in 1879 and demolished in 1889, was built for the sport of polo. Bound on the south and north by 110th and 112th streets and…",
    "page": "https://en.wikipedia.org/wiki/Polo_Grounds"
   }
- ]
+ ],
+ "numbers": {
+  "games": 23,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "23",
+    "note": "since 1873"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "19",
+    "note": "White Stockings 17, Brown Stockings 2 (1875)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "15 runs",
+    "note": "White Stockings 17, Brown Stockings 2 (1875)"
+   },
+   {
+    "label": "Longest game",
+    "value": "14 innings",
+    "note": "White Sox at Astros (2005)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "67,498",
+    "note": "Indians at Marlins (1997)"
+   }
+  ]
+ }
 }

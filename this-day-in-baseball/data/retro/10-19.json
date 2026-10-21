@@ -1,0 +1,33 @@
+{
+ "month": 10,
+ "day": 19,
+ "games": 46,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "46",
+   "note": "since 1874"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "19",
+   "note": "Braves 10, Mets 9 (1999)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "12 runs",
+   "note": "Cardinals 13, Brewers 1 (1982)"
+  },
+  {
+   "label": "Longest game",
+   "value": "11 innings",
+   "note": "Mets at Braves (1999)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "67,025",
+   "note": "Indians at Marlins (1997)"
+  }
+ ],
+ "nohitters": []
+}

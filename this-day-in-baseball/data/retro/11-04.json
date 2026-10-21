@@ -1,0 +1,28 @@
+{
+ "month": 11,
+ "day": 4,
+ "games": 2,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "2",
+   "note": "since 2001"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "10",
+   "note": "Yankees 7, Phillies 3 (2009)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "4 runs",
+   "note": "Yankees 7, Phillies 3 (2009)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "50,315",
+   "note": "Phillies at Yankees (2009)"
+  }
+ ],
+ "nohitters": []
+}

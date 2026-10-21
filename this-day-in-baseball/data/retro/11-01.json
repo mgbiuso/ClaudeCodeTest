@@ -1,0 +1,33 @@
+{
+ "month": 11,
+ "day": 1,
+ "games": 10,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "10",
+   "note": "since 1873"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "13",
+   "note": "Atlantics 12, White Stockings 1 (1873)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "11 runs",
+   "note": "Atlantics 12, White Stockings 1 (1873)"
+  },
+  {
+   "label": "Longest game",
+   "value": "12 innings",
+   "note": "Diamondbacks at Yankees (2001)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "56,018",
+   "note": "Diamondbacks at Yankees (2001)"
+  }
+ ],
+ "nohitters": []
+}

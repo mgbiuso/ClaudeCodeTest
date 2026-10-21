@@ -495,5 +495,30 @@
    "extract": "The St. Louis Browns were a Major League Baseball (MLB) team that originated in Milwaukee, Wisconsin, as the Milwaukee Brewers. A charter member of the American League (AL), the Brewers moved to St. Louis, Missouri, after the 1901 season, where they played for 52 years as the St. Louis Browns.",
    "page": "https://en.wikipedia.org/wiki/St._Louis_Browns"
   }
- ]
+ ],
+ "numbers": {
+  "games": 1,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "1",
+    "note": "since 2022"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "5",
+    "note": "Astros 4, Phillies 1 (2022)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "3 runs",
+    "note": "Astros 4, Phillies 1 (2022)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "42,958",
+    "note": "Phillies at Astros (2022)"
+   }
+  ]
+ }
 }

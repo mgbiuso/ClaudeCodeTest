@@ -923,5 +923,35 @@
    "extract": "The National League of Professional Baseball Clubs, known simply as the National League (NL), is the older of two leagues constituting Major League Baseball (MLB) in the United States and Canada, and the world's oldest extant professional team sports league. Founded on February 2, 1876, to replace the National…",
    "page": "https://en.wikipedia.org/wiki/National_League_(baseball)"
   }
- ]
+ ],
+ "numbers": {
+  "games": 26,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "26",
+    "note": "since 1873"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "20",
+    "note": "Giants 16, Angels 4 (2002)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "12 runs",
+    "note": "Giants 16, Angels 4 (2002)"
+   },
+   {
+    "label": "Longest game",
+    "value": "11 innings",
+    "note": "Blue Jays at Braves (1992)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "56,242",
+    "note": "Yankees at Dodgers (1981)"
+   }
+  ]
+ }
 }

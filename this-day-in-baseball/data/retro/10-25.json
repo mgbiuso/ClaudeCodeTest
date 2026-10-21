@@ -1,0 +1,33 @@
+{
+ "month": 10,
+ "day": 25,
+ "games": 23,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "23",
+   "note": "since 1873"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "19",
+   "note": "White Stockings 17, Brown Stockings 2 (1875)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "15 runs",
+   "note": "White Stockings 17, Brown Stockings 2 (1875)"
+  },
+  {
+   "label": "Longest game",
+   "value": "14 innings",
+   "note": "White Sox at Astros (2005)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "67,498",
+   "note": "Indians at Marlins (1997)"
+  }
+ ],
+ "nohitters": []
+}

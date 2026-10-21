@@ -1,0 +1,33 @@
+{
+ "month": 10,
+ "day": 28,
+ "games": 23,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "23",
+   "note": "since 1874"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "17",
+   "note": "Braves 10, Athletics 7 (1874)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "10 runs",
+   "note": "Royals 10, Giants 0 (2014)"
+  },
+  {
+   "label": "Longest game",
+   "value": "10 innings",
+   "note": "Giants at Tigers (2012)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "62,032",
+   "note": "Athletics at Giants (1989)"
+  }
+ ],
+ "nohitters": []
+}

@@ -1,0 +1,33 @@
+{
+ "month": 10,
+ "day": 21,
+ "games": 42,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "42",
+   "note": "since 1871"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "31",
+   "note": "Braves 18, Lord Baltimores 13 (1873)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "12 runs",
+   "note": "Mutuals 15, Athletics 3 (1873)"
+  },
+  {
+   "label": "Longest game",
+   "value": "12 innings",
+   "note": "Reds at Red Sox (1975)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "65,838",
+   "note": "Royals at Phillies (1980)"
+  }
+ ],
+ "nohitters": []
+}

@@ -1,0 +1,44 @@
+{
+ "month": 11,
+ "day": 2,
+ "games": 4,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "4",
+   "note": "since 2009"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "15",
+   "note": "Cubs 8, Indians 7 (2016)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "7 runs",
+   "note": "Braves 7, Astros 0 (2021)"
+  },
+  {
+   "label": "Longest game",
+   "value": "10 innings",
+   "note": "Cubs at Indians (2016)"
+  },
+  {
+   "label": "No-hitters",
+   "value": "1",
+   "note": "latest: Astros over Phillies (2022)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "46,178",
+   "note": "Yankees at Phillies (2009)"
+  }
+ ],
+ "nohitters": [
+  {
+   "year": 2022,
+   "by": "Astros",
+   "against": "Phillies"
+  }
+ ]
+}

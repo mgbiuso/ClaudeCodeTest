@@ -1230,5 +1230,40 @@
    "extract": "The Elizabeth Resolutes were a 19th-century professional baseball team based in Elizabeth, New Jersey. They were a member of the National Association of Professional Base Ball Players for the 1873 season, and played their home games at Waverly Fairgrounds. Though based in the vicinity of Elizabeth, they were usually…",
    "page": "https://en.wikipedia.org/wiki/Elizabeth_Resolutes"
   }
- ]
+ ],
+ "numbers": {
+  "games": 2059,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "2,059",
+    "note": "since 1871"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "37",
+    "note": "Braves 25, Mansfields 12 (1872)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "29 runs",
+    "note": "Braves 32, Resolutes 3 (1873)"
+   },
+   {
+    "label": "Longest game",
+    "value": "20 innings",
+    "note": "Athletics at Red Sox (1905)"
+   },
+   {
+    "label": "No-hitters",
+    "value": "3",
+    "note": "latest: Yankees over Red Sox (1983)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "75,000",
+    "note": "Senators at Yankees (1933)"
+   }
+  ]
+ }
 }

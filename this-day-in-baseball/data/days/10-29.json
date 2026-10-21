@@ -606,5 +606,35 @@
    "extract": "The New York Giants were a Major League Baseball team in the National League that began play in the 1883 season as the New York Gothams and became known as the Giants in 1885. They continued as the New York Giants until the team moved to San Francisco after the 1957 season, where the team continues its history as the…",
    "page": "https://en.wikipedia.org/wiki/New_York_Giants_(baseball)"
   }
- ]
+ ],
+ "numbers": {
+  "games": 14,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "14",
+    "note": "since 1872"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "25",
+    "note": "Astros 13, Dodgers 12 (2017)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "12 runs",
+    "note": "Athletics 17, Atlantics 5 (1873)"
+   },
+   {
+    "label": "Longest game",
+    "value": "10 innings",
+    "note": "Dodgers at Astros (2017)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "52,175",
+    "note": "Blue Jays at Dodgers (2025)"
+   }
+  ]
+ }
 }

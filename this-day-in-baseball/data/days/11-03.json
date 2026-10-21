@@ -679,5 +679,30 @@
    "extract": "The American Association of Base Ball Clubs, known simply as the American Association (AA), was a professional baseball major league that operated from 1882 to 1891. Together with its main competitor, the National League (NL), the AA participated in an early version of the World Series. When the AA folded after the…",
    "page": "https://en.wikipedia.org/wiki/American_Association_(1882%E2%80%931891)"
   }
- ]
+ ],
+ "numbers": {
+  "games": 2,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "2",
+    "note": "since 2001"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "17",
+    "note": "Diamondbacks 15, Yankees 2 (2001)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "13 runs",
+    "note": "Diamondbacks 15, Yankees 2 (2001)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "49,707",
+    "note": "Yankees at Diamondbacks (2001)"
+   }
+  ]
+ }
 }

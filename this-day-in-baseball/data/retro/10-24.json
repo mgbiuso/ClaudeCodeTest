@@ -1,0 +1,33 @@
+{
+ "month": 10,
+ "day": 24,
+ "games": 26,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "26",
+   "note": "since 1873"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "20",
+   "note": "Giants 16, Angels 4 (2002)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "12 runs",
+   "note": "Giants 16, Angels 4 (2002)"
+  },
+  {
+   "label": "Longest game",
+   "value": "11 innings",
+   "note": "Blue Jays at Braves (1992)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "56,242",
+   "note": "Yankees at Dodgers (1981)"
+  }
+ ],
+ "nohitters": []
+}

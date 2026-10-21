@@ -890,5 +890,35 @@
    "extract": "The Boston Braves were a Major League Baseball team that played in Boston for the National League from 1871 to 1952. The team relocated to Milwaukee after the 1952 season, becoming the Milwaukee Braves, and subsequently moved to Atlanta in 1966.",
    "page": "https://en.wikipedia.org/wiki/Boston_Braves"
   }
- ]
+ ],
+ "numbers": {
+  "games": 10,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "10",
+    "note": "since 1873"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "13",
+    "note": "Atlantics 12, White Stockings 1 (1873)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "11 runs",
+    "note": "Atlantics 12, White Stockings 1 (1873)"
+   },
+   {
+    "label": "Longest game",
+    "value": "12 innings",
+    "note": "Diamondbacks at Yankees (2001)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "56,018",
+    "note": "Diamondbacks at Yankees (2001)"
+   }
+  ]
+ }
 }
