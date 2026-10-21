@@ -12,15 +12,15 @@
     "home run",
     "run batted in"
    ],
-   "score": 131.77342276977365,
+   "score": 131.4251972368326,
    "abouts": [
-    "home run",
     "Chase Utley",
+    "home run",
     "run batted in"
    ],
-   "about": "home run",
+   "about": "Chase Utley",
    "key": "1e9abb2c4ba1e8bd",
-   "headline": "Phillies beat Yankees 8-6, Chase Utley homers twice in Series",
+   "headline": "Phillies Beat Yankees 8–6, Force World Series Game 6",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chase_Utley_2009.jpg/960px-Chase_Utley_2009.jpg",
     "credit": "L-Rey on Picasa Web Albums (Original version) UCinternational (Crop)",
@@ -33,8 +33,13 @@
     "h": 1300,
     "tier": "person"
    },
-   "extract": "In baseball, a home run is scored when the ball is hit in such a way that the batter is able to circle the bases and reach home plate safely in one play without any errors being committed by the defensive team. A home run is usually achieved by hitting the ball over the outfield fence between the foul poles without…",
-   "page": "https://en.wikipedia.org/wiki/Home_run",
+   "extract": "Chase Cameron Utley, nicknamed \"the Man\" and \"Silver Fox,\" is an American former professional baseball second baseman who played in Major League Baseball (MLB) for 16 seasons, primarily for the Philadelphia Phillies. He also played for the Los Angeles Dodgers. He is a six-time All-Star, won a World Series with the…",
+   "page": "https://en.wikipedia.org/wiki/Chase_Utley",
+   "video": {
+    "id": "ZEE_IxEArPs",
+    "title": "WS 2009 Gm5: Utley hits record-tying homer in Series",
+    "channel": "MLB"
+   },
    "lead": true
   },
   {
@@ -47,7 +52,7 @@
     "2021 World Series",
     "Houston Astros"
    ],
-   "score": 122.95114310620079,
+   "score": 122.93152967367593,
    "abouts": [
     "2021 World Series",
     "Atlanta Braves",
@@ -55,10 +60,15 @@
    ],
    "about": "2021 World Series",
    "key": "d5a6ae444c89fede",
-   "headline": "Braves beat Astros 7-0 to win first World Series since 1995",
+   "headline": "Braves Beat Astros 7–0, Win First Title Since 1995",
    "image": null,
    "extract": "The 2021 World Series was the championship series of Major League Baseball's (MLB) 2021 season. The 117th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Atlanta Braves and the American League (AL) champion Houston Astros. The series began on October 26 and…",
-   "page": "https://en.wikipedia.org/wiki/2021_World_Series"
+   "page": "https://en.wikipedia.org/wiki/2021_World_Series",
+   "video": {
+    "id": "9XdA1bnl5Ds",
+    "title": "Raw video of Final Out of World Series as Braves win Title!",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -74,7 +84,7 @@
     "Norihiro Nakamura"
    ],
    "key": "c6ad662daf5a54f0",
-   "headline": "Nakamura hired as Chunichi Dragons hitting coach for 2022",
+   "headline": "Nakamura Hired as Chunichi Dragons Hitting Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20130818_Norihiro_Nakamura%2C_infielder_of_the_Yokohama_DeNA_BayStars%2C_at_Yokohama_Stadium.JPG/960px-20130818_Norihiro_Nakamura%2C_infielder_of_the_Yokohama_DeNA_BayStars%2C_at_Yokohama_Stadium.JPG",
     "credit": "ぽこ太郎",
@@ -99,14 +109,14 @@
     "Tony La Russa",
     "Dave Dombrowski"
    ],
-   "score": 83.31865363684162,
+   "score": 83.30345682968738,
    "abouts": [
     "Dave Dombrowski",
     "Tony La Russa"
    ],
    "about": "Dave Dombrowski",
    "key": "b9b7e273b89f40d1",
-   "headline": "Red Sox hire Tony La Russa as special assistant to Dombrowski",
+   "headline": "Red Sox Hire Tony La Russa as Special Assistant",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tony_La_Russa_by_Gage_Skidmore.jpg/960px-Tony_La_Russa_by_Gage_Skidmore.jpg",
     "credit": "Gage Skidmore",
@@ -136,7 +146,7 @@
     "Phil Clark (outfielder)"
    ],
    "key": "acc28b78653a093d",
-   "headline": "Clark named assistant hitting coach for Detroit Tigers",
+   "headline": "Clark Named Tigers Assistant Hitting Coach",
    "image": null,
    "extract": "Phillip Benjamin Clark is an American former professional baseball outfielder and coach. He most recently served as the assistant hitting coach for the Detroit Tigers of Major League Baseball (MLB). He played for the Detroit Tigers, San Diego Padres, and Boston Red Sox. He also played four seasons in Japan with the…",
    "page": "https://en.wikipedia.org/wiki/Phil_Clark_(outfielder)"
@@ -155,7 +165,7 @@
    ],
    "about": "Chicago Cubs",
    "key": "54030f92b85b112d",
-   "headline": "Cubs defeat Indians in World Series, ending 108-year drought",
+   "headline": "Cubs Beat Indians in World Series, End 108-Year Drought",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%27World_Champs%27_--_2016_Cubs_World_Series_Win_Celebration_Grant_Park_Chicago_%28IL%29_November_4%2C_2016_%2830840440993%29.jpg/960px-%27World_Champs%27_--_2016_Cubs_World_Series_Win_Celebration_Grant_Park_Chicago_%28IL%29_November_4%2C_2016_%2830840440993%29.jpg",
     "credit": "Ron Cogswell",
@@ -184,12 +194,12 @@
    "score": 47,
    "abouts": [
     "Don Mattingly",
-    "General manager (baseball)",
-    "Dan Jennings (manager)"
+    "Dan Jennings (manager)",
+    "General manager (baseball)"
    ],
    "about": "Don Mattingly",
    "key": "f44f1def366cb2d0",
-   "headline": "Marlins hire Don Mattingly as manager on four-year deal",
+   "headline": "Marlins Hire Don Mattingly as Manager, Four-Year Deal",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2015_-WinterMeetings-_Don_Mattingly_%2823271862279%29_%28cropped%29.jpg/960px-2015_-WinterMeetings-_Don_Mattingly_%2823271862279%29_%28cropped%29.jpg",
     "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
@@ -219,7 +229,7 @@
     "Orbit (mascot)"
    ],
    "key": "4af7dff22b18859b",
-   "headline": "Orbit returns at unveiling of Astros' new look for 2013",
+   "headline": "Orbit Returns for Unveiling of Astros New Look",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Orbit_Houston_Astros_mascot_preseason_2014.jpg/960px-Orbit_Houston_Astros_mascot_preseason_2014.jpg",
     "credit": "EricEnfermero",
@@ -249,7 +259,7 @@
    ],
    "about": "Mike Quade",
    "key": "3fc9da27580c614b",
-   "headline": "Cubs fire manager Mike Quade after 71–91 season in 2011",
+   "headline": "Cubs Fire Mike Quade After 71–91 Season",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/DSC00800_Mike_Quade.jpg",
     "credit": "Chamber of Fear on Flickr (Original version) UCinternational (Crop)",
@@ -275,15 +285,15 @@
     "Detroit Tigers",
     "Ivan Rodriguez"
    ],
-   "score": 32.042726106577234,
+   "score": 10.0,
    "abouts": [
-    "Ivan Rodriguez",
     "Kenny Rogers",
+    "Ivan Rodriguez",
     "Detroit Tigers"
    ],
-   "about": "Ivan Rodriguez",
+   "about": "Kenny Rogers",
    "key": "1625f4ef2f6fb924",
-   "headline": "Derek Jeter, Ivan Rodriguez among 2006 Gold Glove winners",
+   "headline": "Rogers, Rodriguez, Teixeira Among 2006 Gold Glove Winners",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ivan1.JPG",
     "credit": "User Googie man on en.wikipedia",
@@ -309,15 +319,15 @@
     "Joe Torre",
     "Buck Showalter"
    ],
-   "score": 45.711386275679615,
+   "score": 42.78153399747036,
    "abouts": [
-    "Joe Torre",
     "Buck Showalter",
+    "Joe Torre",
     "New York Yankees"
    ],
-   "about": "Joe Torre",
+   "about": "Buck Showalter",
    "key": "13a7f011b17df587",
-   "headline": "Yankees name Joe Torre new manager, replacing Buck Showalter",
+   "headline": "Yankees Name Joe Torre New Manager, Replacing Showalter",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Joe_Torre.JPG",
     "credit": "Wikimedia Commons",
@@ -330,8 +340,8 @@
     "h": 1000,
     "tier": "person"
    },
-   "extract": "Joseph Paul Torre Jr. is an American professional baseball executive and former player, manager, and television color commentator. He has served as a special assistant to the commissioner of Major League Baseball since 2020. He previously served in the capacity of Major League Baseball's (MLB) chief baseball officer…",
-   "page": "https://en.wikipedia.org/wiki/Joe_Torre"
+   "extract": "William Nathaniel \"Buck\" Showalter III is an American professional baseball manager. He served as manager of the New York Yankees (1992–1995), Arizona Diamondbacks (1998–2000), Texas Rangers (2003–2006), Baltimore Orioles (2010–2018) and New York Mets (2022–2023). He also is a former professional Minor League Baseball…",
+   "page": "https://en.wikipedia.org/wiki/Buck_Showalter"
   },
   {
    "src": "yearpage",
@@ -343,7 +353,7 @@
     "National League (baseball)",
     "Cy Young Award"
    ],
-   "score": 117.70901910474088,
+   "score": 117.66987654204604,
    "abouts": [
     "Cy Young Award",
     "John Denny",
@@ -351,7 +361,7 @@
    ],
    "about": "Cy Young Award",
    "key": "a4a55717bfde9813",
-   "headline": "John Denny wins National League Cy Young with 19-6 record",
+   "headline": "John Denny Wins NL Cy Young With 20 of 24 First-Place Votes",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/John_Denny_Cardinals.jpg",
     "credit": "St. Louis Cardinals",
@@ -381,7 +391,7 @@
    ],
    "about": "Bill Zuber",
    "key": "a27230f4ae10a7e1",
-   "headline": "Pitcher Bill Zuber dies at 69, 1943 World Series champion",
+   "headline": "Bill Zuber, 69, Pitcher for Indians, Senators and Yankees",
    "image": null,
    "extract": "William Henry Zuber was an American professional baseball pitcher. He had an 11-year Major League Baseball career between 1936 and 1947. He pitched his entire career in the American League with the Cleveland Indians, Washington Senators, New York Yankees and Boston Red Sox. Bill was born and raised in Middle Amana,…",
    "page": "https://en.wikipedia.org/wiki/Bill_Zuber"
@@ -404,10 +414,10 @@
    ],
    "about": "Pete Rose",
    "key": "27e6da949bce71c7",
-   "headline": "Thirty-eight players granted free agency, including Pete Rose",
+   "headline": "Pete Rose, Tommy John, Luis Tiant Granted Free Agency",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pete_Rose_%28cropped%29.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Pete_Rose_(cropped).jpg",
     "alt": "Baseball player in pinstriped Reds uniform and cap, number 27, posed portrait",
@@ -438,7 +448,7 @@
    ],
    "about": "Randy Jones (baseball)",
    "key": "62c6674d5c426df2",
-   "headline": "San Diego Padres pitcher Randy Jones beats out Jerry Koosman",
+   "headline": "Randy Jones, Padres Beat out Koosman for NL Cy Young",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/RandyJonesByPhilKonstantin.jpg/960px-RandyJonesByPhilKonstantin.jpg",
     "credit": "Philkon Phil Konstantin",
@@ -472,7 +482,7 @@
    ],
    "about": "Hank Aaron",
    "key": "7d6fe388917c4325",
-   "headline": "Braves trade Hank Aaron to Brewers for Dave May",
+   "headline": "Braves Trade Hank Aaron to Brewers for Dave May",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2_-_Hank_Aaron_1_-_Statue.jpg/960px-2_-_Hank_Aaron_1_-_Statue.jpg",
     "credit": "Jg772010",
@@ -497,12 +507,12 @@
     "1974 Atlanta Braves season"
    ],
    "about": "1974 Atlanta Braves season",
-   "score": 47.5793692185584,
+   "score": 47.55941680489437,
    "abouts": [
     "1974 Atlanta Braves season"
    ],
    "key": "4183abd4afe32180",
-   "headline": "Aaron traded to Brewers, finishes career as designated hitter",
+   "headline": "Aaron Traded to Milwaukee Brewers, Finishes Career in AL",
    "image": null,
    "extract": "The 1974 Atlanta Braves season was the ninth season in Atlanta along with the 104th season as a franchise overall. The team finished third in the National League West with a record of 88–74, 14 games behind the Los Angeles Dodgers. During the season, Braves outfielder Hank Aaron became the all-time career leader in…",
    "page": "https://en.wikipedia.org/wiki/1974_Atlanta_Braves_season"
@@ -525,7 +535,7 @@
    ],
    "about": "Pat Dobson",
    "key": "e0764270c19e4488",
-   "headline": "Pat Dobson no-hits Yomiuri Giants, 2–0, for Orioles",
+   "headline": "Pat Dobson, Orioles Pitch No-Hitter Against Yomiuri Giants",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/1980_Nashville_Pat_Dobson.jpg",
     "credit": "M. Alan Loveless",
@@ -559,7 +569,7 @@
    ],
    "about": "International Amateur Baseball Tournament",
    "key": "8d3a30ddba218698",
-   "headline": "International Amateur Baseball Tournament opens in Mexico City",
+   "headline": "International Amateur Baseball Tournament Opens in Mexico City",
    "image": null,
    "extract": "The International Amateur Baseball Tournament was held in Mexico City in 1968 between four different national baseball teams. The tournament occurred shortly after the 1968 Olympic Games, also in Mexico City, though it was not considered part of the Olympic program. It was billed as the first edition of the…",
    "page": "https://en.wikipedia.org/wiki/International_Amateur_Baseball_Tournament"
@@ -582,7 +592,7 @@
    ],
    "about": "CBS",
    "key": "1289372da80a42fb",
-   "headline": "CBS buys 80% of Yankees for $11,200,000, first corporate owner",
+   "headline": "CBS Buys 80% of Yankees, First Corporate Owner of MLB Team",
    "image": null,
    "extract": "Delbert Eugene Webb was an American real-estate developer and a co-owner of the New York Yankees baseball club. He founded and developed the retirement community of Sun City, Arizona, which was built by his Del E. Webb Construction Company.",
    "page": "https://en.wikipedia.org/wiki/Del_Webb"
@@ -605,10 +615,10 @@
    ],
    "about": "Bobby Bragan",
    "key": "400ae76d93d16341",
-   "headline": "Pirates name Bobby Bragan field manager, replacing Fred Haney",
+   "headline": "Pirates Name Bobby Bragan New Field Manager, Replacing Haney",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bobby_Bragan_Hollywood.jpeg/960px-Bobby_Bragan_Hollywood.jpeg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Bobby_Bragan_Hollywood.jpeg",
     "alt": "Player in Hollywood cap stretching on field, 1940s-era uniform",
@@ -639,7 +649,7 @@
    ],
    "about": "Jim Konstanty",
    "key": "93ac31490d72aa7f",
-   "headline": "Phillies reliever Jim Konstanty named MVP after record 74 games",
+   "headline": "Jim Konstanty, Phillies Reliever, Wins NL MVP With 74 Games",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jim_Konstanty_1950_%282%29.jpg/960px-Jim_Konstanty_1950_%282%29.jpg",
     "credit": "Unknown",
@@ -654,25 +664,6 @@
    },
    "extract": "Casimir James Konstanty was an American professional baseball relief pitcher in Major League Baseball and National League Most Valuable Player of 1950. He played for the Cincinnati Reds (1944), Boston Braves (1946), Philadelphia Phillies (1948–1954), New York Yankees (1954–1956) and St. Louis Cardinals (1956).…",
    "page": "https://en.wikipedia.org/wiki/Jim_Konstanty"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "1944",
-   "text": "Edward Arthur Brandt (February 17, 1905 – November 2, 1944) was an American pitcher in Major League Baseball from 1928 to 1938.",
-   "links": [
-    "Ed Brandt"
-   ],
-   "about": "Ed Brandt",
-   "score": 30.377734806962653,
-   "abouts": [
-    "Ed Brandt"
-   ],
-   "key": "7564cb70e40a1f80",
-   "headline": "Edward Arthur Brandt, pitcher from 1928 to 1938, dies in 1944",
-   "image": null,
-   "extract": "Edward Arthur Brandt was an American pitcher in Major League Baseball from 1928 to 1938. He played for the Boston Braves, Brooklyn Dodgers, and Pittsburgh Pirates.",
-   "page": "https://en.wikipedia.org/wiki/Ed_Brandt"
   },
   {
    "src": "yearpage",
@@ -692,7 +683,7 @@
    ],
    "about": "Jimmie Foxx",
    "key": "678bed6878623dfc",
-   "headline": "Jimmie Foxx voted AL Most Valuable Player for third time",
+   "headline": "Jimmie Foxx Voted AL MVP for Third Time, Dickey Second",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Jimmie_Foxx_%28Boston_Red_Sox%2C_1936-37%29.jpg/960px-Jimmie_Foxx_%28Boston_Red_Sox%2C_1936-37%29.jpg",
     "credit": "Charles M. Conlon",
@@ -726,7 +717,7 @@
    ],
    "about": "Charlie Gehringer",
    "key": "630b285095bb3ff9",
-   "headline": "Charlie Gehringer named AL MVP, edging Joe DiMaggio",
+   "headline": "Charlie Gehringer Named AL MVP, DiMaggio a Close Second",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Charlie_Gehringer_1937.jpg",
     "credit": "Harris & Ewing",
@@ -760,7 +751,7 @@
    ],
    "about": "George Stovall",
    "key": "009da841fccc316c",
-   "headline": "George Stovall jumps to Federal League, managing Kansas City Packers",
+   "headline": "George Stovall Becomes First MLB Player to Jump to Federal League",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/George_Stovall_baseball_card.jpg",
     "credit": "Issued by: American Tobacco Company",
@@ -792,10 +783,10 @@
    ],
    "about": "American Association (1882–1891)",
    "key": "87150ae28bc20844",
-   "headline": "Philadelphia Athletics sold to syndicate led by Henry Pennypacker",
+   "headline": "Philadelphia Athletics Sold to Syndicate Led by Pennypacker",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1887_Philadelphia_Athletics.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1887_Philadelphia_Athletics.jpg",
     "alt": "Sepia team photo of players in matching 'A' jerseys, with a suited man, 'Athletic Club' caption.",
@@ -826,10 +817,10 @@
    ],
    "about": "American Association (1882–1891)",
    "key": "0d7c39dcb5604d13",
-   "headline": "American Association founded with motto Liberty to All",
+   "headline": "American Association, First Competing Major League, Founded",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/1884ReachsAmericanAssociationGuide.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1884ReachsAmericanAssociationGuide.jpg",
     "alt": "1884 Reach's American Association Base Ball Guide cover with batter illustration",

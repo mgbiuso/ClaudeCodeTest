@@ -20,7 +20,7 @@
    ],
    "about": "AT&T Park",
    "key": "329c83b8873a6b3d",
-   "headline": "Giants beat Cardinals 9-0 in Game 7, win NL pennant",
+   "headline": "Giants Beat Cardinals 9-0 in Game 7, Win NL Pennant",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AT%26TPark_wall.JPG/960px-AT%26TPark_wall.JPG",
     "credit": "No machine-readable author provided. Coasttocoast assumed (based on",
@@ -35,6 +35,11 @@
    },
    "extract": "Oracle Park is a ballpark in the South Beach neighborhood of San Francisco, California, United States. Since 2000, it has been the home of the San Francisco Giants of Major League Baseball (MLB). The stadium stands along San Francisco Bay; the section of the bay beyond Oracle Park's right field wall is unofficially…",
    "page": "https://en.wikipedia.org/wiki/Oracle_Park",
+   "video": {
+    "id": "aGIiJx71le4",
+    "title": "2012 NLCS Gm7: Romo gets popup, sends Giants to Series",
+    "channel": "MLB"
+   },
    "lead": true
   },
   {
@@ -51,7 +56,7 @@
     "Los Angeles Dodgers Radio Network"
    ],
    "key": "2a078d90662a45a2",
-   "headline": "Luis Cruz joins Dodgers as Spanish-language color commentator",
+   "headline": "Luis Cruz Joins Dodgers as Spanish-Language Color Commentator",
    "image": null,
    "extract": "The Los Angeles Dodgers Radio Network is a network that consists of 27 radio stations that air Major League Baseball games of the Los Angeles Dodgers in parts of seven states and one U.S. territory and in three languages. As of June 2012, 20 stations broadcast games in English, while another six broadcast them in…",
    "page": "https://en.wikipedia.org/wiki/Los_Angeles_Dodgers_Radio_Network"
@@ -74,7 +79,7 @@
    ],
    "about": "2021 World Series",
    "key": "95fcf6c19e3a183f",
-   "headline": "Astros beat Red Sox 5-0, clinch trip to 2021 World Series",
+   "headline": "Astros Blank Red Sox 5-0, Win ALCS in Six Games",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alex_Bregman_playing_shortstop_in_2017_%282%29.jpg/960px-Alex_Bregman_playing_shortstop_in_2017_%282%29.jpg",
     "credit": "Keith Allison from Hanover, MD, USA",
@@ -88,7 +93,12 @@
     "tier": "team"
    },
    "extract": "The 2021 World Series was the championship series of Major League Baseball's (MLB) 2021 season. The 117th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Atlanta Braves and the American League (AL) champion Houston Astros. The series began on October 26 and…",
-   "page": "https://en.wikipedia.org/wiki/2021_World_Series"
+   "page": "https://en.wikipedia.org/wiki/2021_World_Series",
+   "video": {
+    "id": "AlM0VUS8Khw",
+    "title": "2021 ALCS Game 6: Houston Astros vs. Boston Red Sox",
+    "channel": "Houston Astros"
+   }
   },
   {
    "src": "yearpage",
@@ -108,7 +118,7 @@
    ],
    "about": "Kyle Hendricks",
    "key": "65c0056b94173b05",
-   "headline": "Cubs beat Dodgers 5-0, win first NL pennant since 1945",
+   "headline": "Cubs Beat Dodgers 5-0, Win First NL Pennant Since 1945",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2016-10-22_Clayton_Kershaw_1_%28cropped%29.jpg/960px-2016-10-22_Clayton_Kershaw_1_%28cropped%29.jpg",
     "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
@@ -138,7 +148,7 @@
    ],
    "about": "Don Mattingly",
    "key": "ff8b565a6b42bab6",
-   "headline": "Don Mattingly will not return as Dodgers manager",
+   "headline": "Dodgers and Mattingly Part Ways, One Year Left on Deal",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Don_Mattingly.JPG/960px-Don_Mattingly.JPG",
     "credit": "Googie man at en.wikipedia",
@@ -168,7 +178,7 @@
     "Bryan Price"
    ],
    "key": "918c46e82e5afd76",
-   "headline": "Reds name Price 61st manager, replacing Dusty Baker",
+   "headline": "Reds Name Price 61st Manager, Replacing Dusty Baker",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bryan_Price_2011.jpg/960px-Bryan_Price_2011.jpg",
     "credit": "Keith Allison from Hanover, MD, USA",
@@ -198,7 +208,7 @@
     "Trey Hillman"
    ],
    "key": "7b7f9198fcd0eca9",
-   "headline": "Dodgers fire Hillman after three seasons as manager",
+   "headline": "Dodgers Fire Hillman After Three Seasons in Role",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Trey_Hillman_2013.jpg/960px-Trey_Hillman_2013.jpg",
     "credit": "Keith Allison",
@@ -232,7 +242,7 @@
    ],
    "about": "Albert Pujols",
    "key": "54059ee3ed2ec97d",
-   "headline": "Pujols hits three homers in Cardinals' 16-7 Game 3 win",
+   "headline": "Pujols Hits Three Homers, Sets World Series Records in Cardinals Win",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Albert_Pujols_%28Busch_Stadium%2C_2008%29.jpg/960px-Albert_Pujols_%28Busch_Stadium%2C_2008%29.jpg",
     "credit": "shgmom56",
@@ -246,7 +256,12 @@
     "tier": "person"
    },
    "extract": "José Alberto Pujols Alcántara is a Dominican-American professional baseball manager and former first baseman and designated hitter who is the President of Baseball Operations of the Estrellas Orientales of the Dominican Professional Baseball League. He played 22 seasons in Major League Baseball (MLB) for the St. Louis…",
-   "page": "https://en.wikipedia.org/wiki/Albert_Pujols"
+   "page": "https://en.wikipedia.org/wiki/Albert_Pujols",
+   "video": {
+    "id": "GKe3Nysygsk",
+    "title": "WS2011 Gm3: Pujols collects five hits, six RBIs",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -266,7 +281,7 @@
    ],
    "about": "2010 American League Championship Series",
    "key": "edd1164766fee091",
-   "headline": "Rangers defeat Yankees 6-1, win ALCS four games to two",
+   "headline": "Rangers Beat Yankees 6-1, Win ALCS Four Games to Two",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Adri%C3%A1n_Beltr%C3%A9_2011_%282%29.jpg/960px-Adri%C3%A1n_Beltr%C3%A9_2011_%282%29.jpg",
     "credit": "Keith Allison on Flickr",
@@ -296,7 +311,7 @@
    ],
    "about": "Kendrys Morales",
    "key": "23470ab36c59ec06",
-   "headline": "Morales single gives Angels 7-6 win, cuts Yankees' ALCS lead",
+   "headline": "Morales Single Lifts Angels 7-6 Over Yankees, Cuts ALCS Lead to 3-2",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Kendrys_Morales_on_June_27%2C_2012.jpg",
     "credit": "Keith Allison on Flickr (Original version) UCinternational (Crop)",
@@ -328,7 +343,7 @@
    ],
    "about": "Tony La Russa",
    "key": "cdbc86f3382c621e",
-   "headline": "Tony La Russa agrees to new two-year deal with Cardinals",
+   "headline": "La Russa Agrees to New Two-Year Deal to Manage Cardinals",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tony_La_Russa_by_Gage_Skidmore.jpg/960px-Tony_La_Russa_by_Gage_Skidmore.jpg",
     "credit": "Gage Skidmore",
@@ -362,7 +377,7 @@
    ],
    "about": "2003 World Series",
    "key": "c5c2cd0a33f26f25",
-   "headline": "Roger Clemens pitches seven strong innings in Game 4",
+   "headline": "Clemens Gets Standing Ovation in Game 4 of World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/062707_267_Roger_Clemens.jpg/960px-062707_267_Roger_Clemens.jpg",
     "credit": "User Keith Allison on Flickr",
@@ -392,7 +407,7 @@
    ],
    "about": "Hank Wyse",
    "key": "8efb5a27d8827e56",
-   "headline": "Pitcher Hank Wyse, 82, went 22–10 for 1945 Cubs",
+   "headline": "Hank Wyse, 82, Pitcher Who Helped Cubs Clinch 1945 NL Title",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Baseball_Digest_v05n07_%281946-09%29_%28cape1736%29_0000.jpg/960px-Baseball_Digest_v05n07_%281946-09%29_%28cape1736%29_0000.jpg",
     "credit": "Baseball Digest",
@@ -422,7 +437,7 @@
    ],
    "about": "Mike Coolbaugh",
    "key": "11966f50f06e47f8",
-   "headline": "Yankees sign minor league free agent Mike Coolbaugh",
+   "headline": "Yankees Sign Minor League Free Agent Mike Coolbaugh",
    "image": null,
    "extract": "Michael Robert Coolbaugh was an American baseball player and coach. Born in Binghamton, New York, he was the brother of major leaguer Scott Coolbaugh. Coolbaugh died after being hit by a line drive while working as a first-base coach in a minor league game.",
    "page": "https://en.wikipedia.org/wiki/Mike_Coolbaugh"
@@ -445,7 +460,7 @@
    ],
    "about": "Japan Series",
    "key": "59058444d35904ca",
-   "headline": "Japan Series opens, with American reporters covering it",
+   "headline": "Japan Series Begins, Harrelson Calls Games for US Fans",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hawk_Harrelson_2010.jpg",
     "credit": "billymax85 Delaywaves",
@@ -479,7 +494,7 @@
    ],
    "about": "Red Barber",
    "key": "b24ba8e15f803a90",
-   "headline": "Red Barber, 84, broadcaster for Reds, Dodgers and Yankees, dies",
+   "headline": "Red Barber, 84, Broadcaster for Reds, Dodgers and Yankees",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Red_Barber.jpg/960px-Red_Barber.jpg",
     "credit": "Creator:Al Ravenna, World-Telegram staff photographer",
@@ -513,7 +528,7 @@
    ],
    "about": "AL East",
    "key": "64a5ead916b3846e",
-   "headline": "Bobby Cox quits Blue Jays to become Braves general manager",
+   "headline": "Bobby Cox Quits Blue Jays to Become Braves General Manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bobby_Cox.jpg",
     "credit": "User Chrisjnelson on en.wikipedia",
@@ -547,7 +562,7 @@
    ],
    "about": "Babe Pinelli",
    "key": "0aedb15c91650809",
-   "headline": "Babe Pinelli, 89, National League umpire, dies",
+   "headline": "Babe Pinelli, 89, National League Umpire From 1935 to 1956",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Babe_Pinelli.jpg",
     "credit": "Bowman Gum",
@@ -581,7 +596,7 @@
    ],
    "about": "1982 ALCS",
    "key": "2e4e86402bbf1d06",
-   "headline": "Gene Mauch resigns as California Angels manager after 23 years",
+   "headline": "Gene Mauch, 56, Resigns as Angels Manager After ALCS Criticism",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shea_Stadium%2C_New_York_City%2C_probably_July_11-13%2C_1969_%281%29.jpg/960px-Shea_Stadium%2C_New_York_City%2C_probably_July_11-13%2C_1969_%281%29.jpg",
     "credit": "Dada1960",
@@ -615,7 +630,7 @@
    ],
    "about": "Joe Torre",
    "key": "7ea5570fce5a00ad",
-   "headline": "Joe Torre replaces Bobby Cox as Atlanta Braves manager",
+   "headline": "Joe Torre Replaces Bobby Cox as Braves Manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Joe_Torre.JPG",
     "credit": "Wikimedia Commons",
@@ -649,7 +664,7 @@
    ],
    "about": "Dave Winfield",
    "key": "663c4b6c8166a415",
-   "headline": "Dave Winfield declared free agent by San Diego Padres",
+   "headline": "Dave Winfield Declared Free Agent as 49 Players Are Freed",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hall_of_Famer_Dave_Winfield_takes_part_in_the_Edward_Jones_-ChattingCage_at_All-Star_-FanFest._%2828089240912%29.jpg/960px-Hall_of_Famer_Dave_Winfield_takes_part_in_the_Edward_Jones_-ChattingCage_at_All-Star_-FanFest._%2828089240912%29.jpg",
     "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
@@ -679,7 +694,7 @@
     "Dave Hilton (baseball)"
    ],
    "key": "728c370172fa5d9c",
-   "headline": "Hilton among first players acquired by Toronto Blue Jays",
+   "headline": "Blue Jays Acquire Hilton in First Wave of Expansion Picks",
    "image": null,
    "extract": "John David Hilton was an American professional baseball player. He was picked in the 1971 Secondary Draft out of Rice University and played four seasons for the San Diego Padres. On October 22, 1976 Hilton was one of the first players acquired by the expansion Toronto Blue Jays franchise, although he never played a…",
    "page": "https://en.wikipedia.org/wiki/Dave_Hilton_(baseball)"
@@ -702,7 +717,7 @@
    ],
    "about": "1976 Major League Baseball expansion draft",
    "key": "1bd49cc81155235e",
-   "headline": "Mariners begin player acquisitions ahead of 1976 expansion draft",
+   "headline": "Mariners Buy Contracts of Segui, Cox, Báez and Bevacqua",
    "image": null,
    "extract": "The 1976 Major League Baseball Expansion draft was held November 5, 1976. This expansion draft was conducted by Major League Baseball to stock the major league rosters of the Toronto Blue Jays and the Seattle Mariners, new American League franchises established via the 1977 Major League Baseball expansion that were…",
    "page": "https://en.wikipedia.org/wiki/1976_Major_League_Baseball_expansion_draft"
@@ -725,7 +740,7 @@
    ],
    "about": "1975 World Series",
    "key": "78a2a7aed3c2a422",
-   "headline": "Reds win Game 7 at Fenway, beat Red Sox 4-3 in Series",
+   "headline": "Reds Beat Red Sox 4-3 in Game 7, Win World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Joe_Morgan_crop.jpg",
     "credit": "John VanderHaagen ; crop: Fui in terra aliena (talk) 17:25, 4 October",
@@ -739,7 +754,12 @@
     "tier": "person"
    },
    "extract": "The 1975 World Series was the championship series of Major League Baseball's (MLB) 1975 season. The 72nd edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Boston Red Sox and the National League (NL) champion Cincinnati Reds. The Reds narrowly defeated the Red…",
-   "page": "https://en.wikipedia.org/wiki/1975_World_Series"
+   "page": "https://en.wikipedia.org/wiki/1975_World_Series",
+   "video": {
+    "id": "3OtkmFylKaM",
+    "title": "1975 WS Gm7: Reds clinch World Series",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -755,7 +775,7 @@
     "1975 Major League Baseball postseason"
    ],
    "key": "91fdedb3a52db9b4",
-   "headline": "Reds defeat Red Sox in seven games in 1975 World Series",
+   "headline": "Reds Defeat Red Sox in Seven Games in 1975 World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Joe_Morgan_crop.jpg",
     "credit": "John VanderHaagen ; crop: Fui in terra aliena (talk) 17:25, 4 October",
@@ -789,7 +809,7 @@
    ],
    "about": "Bobby Murcer",
    "key": "fdf5723613b74101",
-   "headline": "Yankees trade Bobby Murcer to Giants for Bobby Bonds",
+   "headline": "Yankees Trade Bobby Murcer to Giants for Bobby Bonds",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bobby_Murcer_CROP.jpg",
     "credit": "Jim Accordino Delaywaves",
@@ -823,7 +843,7 @@
    ],
    "about": "Steve Barber",
    "key": "fadeda964b3c09cc",
-   "headline": "Angels and Brewers complete nine-player trade involving Clyde Wright",
+   "headline": "Angels, Brewers Swap Nine Players in Blockbuster Nine-Player Deal",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Anaheim_Stadium_1991.jpg/960px-Anaheim_Stadium_1991.jpg",
     "credit": "Jerry Reuss",
@@ -857,7 +877,7 @@
    ],
    "about": "1972 World Series",
    "key": "b2253804521a108e",
-   "headline": "Athletics beat Reds 3-2 in Game 7 to win World Series",
+   "headline": "Athletics Beat Reds 3-2 in Game 7, Win World Series",
    "image": null,
    "extract": "The 1972 World Series was the championship series of Major League Baseball's (MLB) 1972 season. The 69th edition of the World Series, it was a best-of-seven playoff between the American League champion Oakland Athletics and the National League champion Cincinnati Reds. The Athletics won in seven games for their sixth…",
    "page": "https://en.wikipedia.org/wiki/1972_World_Series"
@@ -876,7 +896,7 @@
     "Bill Sherdel"
    ],
    "key": "d472d6da6e668129",
-   "headline": "Sherdel taken to Hanover General Hospital in Pennsylvania",
+   "headline": "Sherdel Taken to Hanover General Hospital in Pennsylvania",
    "image": null,
    "extract": "William Henry Sherdel was an American professional baseball pitcher. He played 15 seasons in Major League Baseball (MLB) for the St. Louis Cardinals and Boston Braves from 1918 to 1932. For his career, he compiled a 165–146 record in 514 appearances, with a 3.72 earned run average and 839 strikeouts. In Cardinals…",
    "page": "https://en.wikipedia.org/wiki/Bill_Sherdel"
@@ -899,7 +919,7 @@
    ],
    "about": "Charlie Finley",
    "key": "a2e4929f20d8193b",
-   "headline": "Finley hires Joe DiMaggio as Oakland vice president",
+   "headline": "Finley Hires Joe DiMaggio as Athletics Vice President, Batting Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joe_DiMaggio.jpg/960px-Joe_DiMaggio.jpg",
     "credit": "Tom Sande",
@@ -933,7 +953,7 @@
    ],
    "about": "Cuba",
    "key": "ff7eac9b4c0a1a01",
-   "headline": "Frick bars U.S. players from Cuban Winter League",
+   "headline": "Frick Bars U.S. Players From Cuban Winter League Season",
    "image": null,
    "extract": "The commissioner of baseball is the chief executive officer of Major League Baseball (MLB) and the associated Minor League Baseball (MiLB) – a constellation of leagues and clubs known as \"affiliated baseball\". Under the direction of the commissioner, the Office of the Commissioner of Baseball hires and maintains the…",
    "page": "https://en.wikipedia.org/wiki/Commissioner_of_Baseball"
@@ -956,7 +976,7 @@
    ],
    "about": "Steve O'Neill",
    "key": "3dd68c8d1063b8fa",
-   "headline": "Red Sox replace Steve O'Neill with Lou Boudreau",
+   "headline": "Red Sox Replace O'Neill With Lou Boudreau as Manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LOU_BOUDREAU.jpg/960px-LOU_BOUDREAU.jpg",
     "credit": "RF",
@@ -986,7 +1006,7 @@
    ],
    "about": "Walt Lerian",
    "key": "aaf28a98029e796d",
-   "headline": "Phillies catcher Walt Lerian dies after runaway truck crash",
+   "headline": "Lerian, Phillies Catcher, Pinned by Runaway Truck",
    "image": null,
    "extract": "Walter \"Peck\" Irvin Lerian was an American professional baseball player who played two seasons for the Philadelphia Phillies from 1928 through 1929. He was born in Baltimore, Maryland and died there at the age of 26 when a truck driver leaped the curb and he was pinned against a building, ending what was considered at…",
    "page": "https://en.wikipedia.org/wiki/Walt_Lerian"
@@ -1005,7 +1025,7 @@
    ],
    "about": "Ross Youngs",
    "key": "14169cf5a9d9c0a1",
-   "headline": "Ross Youngs, Hall of Fame right fielder, dies at 30",
+   "headline": "Ross Youngs, 30, Hall of Fame Right Fielder",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rossyoungs-sept24-1922.jpg/960px-Rossyoungs-sept24-1922.jpg",
     "credit": "The New York Herald",
@@ -1039,7 +1059,7 @@
    ],
    "about": "1919 World Series",
    "key": "cf30496ac9711f6a",
-   "headline": "Eight White Sox indicted for throwing 1919 World Series",
+   "headline": "Eight White Sox Indicted for Throwing 1919 World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/1919_Chicago_White_Sox.jpg/960px-1919_Chicago_White_Sox.jpg",
     "credit": "\"International\", 228 William St, NY",
@@ -1073,7 +1093,7 @@
    ],
    "about": "1911 World Series",
    "key": "2f08cba63a7fda26",
-   "headline": "Chief Bender beats Christy Mathewson, Athletics lead Giants 3–1",
+   "headline": "Bender Beats Mathewson 4-2, Athletics Lead Giants 3-1",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Chief_Meyers%2C_New_York%2C_NL_%26_Chief_Bender%2C_Philadelphia%2C_AL_at_World_Series_%28baseball%29_LCCN2014689846.jpg/960px-Chief_Meyers%2C_New_York%2C_NL_%26_Chief_Bender%2C_Philadelphia%2C_AL_at_World_Series_%28baseball%29_LCCN2014689846.jpg",
     "credit": "Bain News Service, publisher",
@@ -1107,7 +1127,7 @@
    ],
    "about": "Pacific Coast League",
    "key": "31f1085bde8bf99b",
-   "headline": "Los Angeles Angels beat Portland Beavers 3–2 in 11 innings",
+   "headline": "Los Angeles Beats Portland 3-2 in 11 Innings",
    "image": null,
    "extract": "The Pacific Coast League (PCL) is a Minor League Baseball league that operates in the Western United States. Along with the International League, it is one of two leagues playing at the Triple-A level, which is one grade below Major League Baseball (MLB).",
    "page": "https://en.wikipedia.org/wiki/Pacific_Coast_League"
@@ -1128,7 +1148,7 @@
    ],
    "about": "Brooklyn Bridegrooms",
    "key": "e9b329b66357ce3e",
-   "headline": "Bridegrooms win Game 3 8–7 in game called for darkness",
+   "headline": "Bridegrooms Take Game 3 8-7, Called by Darkness",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1883_New_York_Gothams.jpeg/960px-1883_New_York_Gothams.jpeg",
     "credit": "J Wood, 208 Bowery, N.Y.",
@@ -1162,7 +1182,7 @@
    ],
    "about": "Jim McCormick (pitcher)",
    "key": "24622df2e0731e43",
-   "headline": "Browns rout White Stockings 10–3, take 3–2 series lead",
+   "headline": "Browns Beat White Stockings 10-3, Take 3-2 Series Lead",
    "image": null,
    "extract": "James McCormick was an American professional baseball pitcher. A native of Glasgow, he was the first ballplayer born in Scotland to appear in a major league game.",
    "page": "https://en.wikipedia.org/wiki/Jim_McCormick_(pitcher)"
@@ -1183,7 +1203,7 @@
    ],
    "about": "John Montgomery Ward",
    "key": "fc155f3d5b30e5ca",
-   "headline": "John Montgomery Ward forms first union in pro sports history",
+   "headline": "Ward Forms Brotherhood, First Union in Pro Sports",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Monte_Ward%2C_New_York_Giants%2C_baseball_card_portrait_LOC_3971750600.jpg",
     "credit": "The Library of Congress",
@@ -1213,7 +1233,7 @@
    ],
    "about": "Boston Braves",
    "key": "8c341d9ff3b30c9e",
-   "headline": "Boston wins pennant for second straight year",
+   "headline": "Boston Wins Second Straight Pennant",
    "image": null,
    "extract": "The Boston Braves were a Major League Baseball team that played in Boston for the National League from 1871 to 1952. The team relocated to Milwaukee after the 1952 season, becoming the Milwaukee Braves, and subsequently moved to Atlanta in 1966.",
    "page": "https://en.wikipedia.org/wiki/Boston_Braves"
@@ -1234,7 +1254,7 @@
    ],
    "about": "Boston Braves",
    "key": "8c5ad8b25e735c47",
-   "headline": "Boston Red Stockings clinch pennant with 4–3 win over Eckfords",
+   "headline": "Red Stockings Clinch Pennant With 4-3 Win Over Eckfords",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Frank_Pigeon_of_the_Eckford_B.B._club%2C_Brooklyn%2C_E.D._LCCN98510871_%28cropped%29.jpg",
     "credit": "Taylor, James E., 1839-1901, artist",

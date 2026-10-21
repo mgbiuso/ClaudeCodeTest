@@ -5,25 +5,30 @@
   {
    "src": "yearpage",
    "kind": "event",
-   "year": "2000",
-   "text": "The New York Yankees defeat the New York Mets 4–2, to win their 26th World Series in five games. Luis Sojo hits a single in the top of the 9th inning and drives home the winning run for the Yankees. Teammates Bernie Williams and Derek Jeter hit home runs, and Jeter is named the Series MVP.",
+   "year": "1996",
+   "text": "The New York Yankees take their fourth victory in a row from the Atlanta Braves, 3-2, giving them the 1996 World Series and their 23rd World Championship. Starter Jimmy Key gets the win with help from closer John Wetteland, whose four saves earn him the World Series MVP trophy.",
    "links": [
     "New York Yankees",
-    "New York Mets",
-    "2000 World Series"
+    "Atlanta Braves",
+    "1996 World Series"
    ],
-   "score": 116.6197650377146,
+   "score": 121.02899810785289,
    "abouts": [
-    "2000 World Series",
+    "1996 World Series",
     "New York Yankees",
-    "New York Mets"
+    "Atlanta Braves"
    ],
-   "about": "2000 World Series",
-   "key": "1042771be37b8937",
-   "headline": "Yankees beat Mets 4-2, win 26th World Series title",
+   "about": "1996 World Series",
+   "key": "b0cbdaa648c1e5eb",
+   "headline": "Yankees Beat Braves 3-2, Win 1996 World Series",
    "image": null,
-   "extract": "The 2000 World Series was the championship series of Major League Baseball's (MLB) 2000 season. The 96th edition of the World Series, it was a best-of-seven playoff between crosstown opponents, the two-time defending World Series champions and American League (AL) champion New York Yankees and the National League (NL)…",
-   "page": "https://en.wikipedia.org/wiki/2000_World_Series",
+   "extract": "The 1996 World Series was the championship series of Major League Baseball's (MLB) 1996 season. The 92nd edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Atlanta Braves and the American League (AL) champion New York Yankees. The Yankees defeated the Braves four…",
+   "page": "https://en.wikipedia.org/wiki/1996_World_Series",
+   "video": {
+    "id": "sJe2dNJ3q48",
+    "title": "1996 WS Gm6: The Yankees win the World Series",
+    "channel": "MLB"
+   },
    "lead": true
   },
   {
@@ -44,7 +49,7 @@
    ],
    "about": "Max Muncy",
    "key": "dc92ccd50c6296ef",
-   "headline": "Max Muncy homers in 18th, Dodgers beat Red Sox 3-2",
+   "headline": "Muncy's Lead-off Walk-off Homer Lifts Dodgers Over Red Sox in 18",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_Muncy_LA_Dodgers_2018_%28cropped%29.jpg/960px-Max_Muncy_LA_Dodgers_2018_%28cropped%29.jpg",
     "credit": "Ian D'Andrea",
@@ -74,7 +79,7 @@
    ],
    "about": "Joe Girardi",
    "key": "2c5e0616a1d5c662",
-   "headline": "Yankees will not bring back Joe Girardi as manager",
+   "headline": "Yankees Won't Bring Back Joe Girardi as Manager for 2018",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Joe_Girardi.png",
     "credit": "Girardi in 2020",
@@ -108,7 +113,7 @@
    ],
    "about": "Tony La Russa",
    "key": "fbda812010038b73",
-   "headline": "Cardinals rehire Tony La Russa, hire Mark McGwire as coach",
+   "headline": "Cardinals Rehire Tony La Russa, Hire Mark McGwire as Hitting Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mark_McGwire_follow-thru_Piazza_catching-53.jpg/960px-Mark_McGwire_follow-thru_Piazza_catching-53.jpg",
     "credit": "Jon Gudorf Photography",
@@ -140,7 +145,7 @@
    ],
    "about": "2008 World Series",
    "key": "fb3cd817226937bd",
-   "headline": "Joe Blanton homers in Game 4, first World Series pitcher since 1974",
+   "headline": "Phillies Pitcher Joe Blanton Homers in World Series Game 4",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BlantonPhillies.jpg/960px-BlantonPhillies.jpg",
     "credit": "Killervogel5 on en.wikipedia",
@@ -154,7 +159,12 @@
     "tier": "person"
    },
    "extract": "The 2008 World Series was the championship series of Major League Baseball's (MLB) 2008 season. The 104th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Philadelphia Phillies and the American League (AL) champion Tampa Bay Rays; the Phillies won the series, four…",
-   "page": "https://en.wikipedia.org/wiki/2008_World_Series"
+   "page": "https://en.wikipedia.org/wiki/2008_World_Series",
+   "video": {
+    "id": "EoCA4l3kLzM",
+    "title": "WS2008 Gm4: Blanton swats a homer in the fifth",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -174,7 +184,7 @@
    ],
    "about": "2006 Japan Series",
    "key": "b3a392589c59585d",
-   "headline": "Hokkaido Nippon Ham Fighters win Japan Series 4-1",
+   "headline": "Nippon Ham Fighters Sweep Chunichi Dragons 4-1 in Japan Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/SapporoDome2004-2.jpg/960px-SapporoDome2004-2.jpg",
     "credit": "Kinori (photographer)",
@@ -208,7 +218,7 @@
    ],
    "about": "2005 World Series",
    "key": "447a00278ebdb3ad",
-   "headline": "White Sox sweep Astros with 1-0 Game Four win",
+   "headline": "White Sox Complete World Series Sweep of Astros With 1-0 Win",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Chicago_White_Sox_World_Series.jpg",
     "credit": "Fuzzy510",
@@ -222,7 +232,12 @@
     "tier": "event"
    },
    "extract": "The 2005 World Series was the championship series of Major League Baseball's (MLB) 2005 season. The 101st edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Chicago White Sox and the National League (NL) champion Houston Astros. The White Sox swept the Astros in four…",
-   "page": "https://en.wikipedia.org/wiki/2005_World_Series"
+   "page": "https://en.wikipedia.org/wiki/2005_World_Series",
+   "video": {
+    "id": "QCc4-1OrMAE",
+    "title": "2005 WS Gm4: Dye's single puts White Sox ahead late",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -238,7 +253,7 @@
     "2005 Major League Baseball postseason"
    ],
    "key": "16bdbd5f3b90b020",
-   "headline": "White Sox sweep Astros in 2005 World Series",
+   "headline": "White Sox Sweep Astros in 2005 World Series, Ending Postseason",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Chicago_White_Sox_World_Series.jpg",
     "credit": "Fuzzy510",
@@ -272,7 +287,7 @@
    ],
    "about": "Alex Cabrera",
    "key": "81b3b990d5c783f4",
-   "headline": "Seibu Lions beat Chunichi 7-2 to win Japan Series",
+   "headline": "Seibu Lions Beat Chunichi 7-2 in Game 7, Win First Title Since 1992",
    "image": null,
    "extract": "Alexander Alberto Cabrera is a Venezuelan former first baseman and right-handed batter who played in 2000 for the Arizona Diamondbacks in Major League Baseball (MLB) and for 12 seasons in Nippon Professional Baseball (NPB). He also played several seasons in the Mexican League and the Venezuelan Professional Baseball…",
    "page": "https://en.wikipedia.org/wiki/Alex_Cabrera"
@@ -295,7 +310,7 @@
    ],
    "about": "Scott Spezio",
    "key": "b0b80364394d0d0a",
-   "headline": "Angels rally from 5-0 deficit, force seventh game",
+   "headline": "Angels Trail 5-0, Stage Stunning Comeback, Force Game 7",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DSC00826_Scott_Spiezio.jpg/960px-DSC00826_Scott_Spiezio.jpg",
     "credit": "shgmom56 on Flickr (Original version) User UCinternational (Crop)",
@@ -314,6 +329,34 @@
   {
    "src": "yearpage",
    "kind": "event",
+   "year": "2000",
+   "text": "The New York Yankees defeat the New York Mets 4–2, to win their 26th World Series in five games. Luis Sojo hits a single in the top of the 9th inning and drives home the winning run for the Yankees. Teammates Bernie Williams and Derek Jeter hit home runs, and Jeter is named the Series MVP.",
+   "links": [
+    "New York Yankees",
+    "New York Mets",
+    "2000 World Series"
+   ],
+   "score": 116.6197650377146,
+   "abouts": [
+    "2000 World Series",
+    "New York Yankees",
+    "New York Mets"
+   ],
+   "about": "2000 World Series",
+   "key": "1042771be37b8937",
+   "headline": "Yankees Beat Mets 4-2, Win 26th World Series in Five Games",
+   "image": null,
+   "extract": "The 2000 World Series was the championship series of Major League Baseball's (MLB) 2000 season. The 96th edition of the World Series, it was a best-of-seven playoff between crosstown opponents, the two-time defending World Series champions and American League (AL) champion New York Yankees and the National League (NL)…",
+   "page": "https://en.wikipedia.org/wiki/2000_World_Series",
+   "video": {
+    "id": "vjiBb9yK_VI",
+    "title": "2000 WS Gm5: Sojo's single gives Yanks lead",
+    "channel": "MLB"
+   }
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
    "year": "1997",
    "text": "The Florida Marlins defeat the Cleveland Indians in Game 7 to win the World Series in just their 5th season of existence.",
    "links": [
@@ -327,7 +370,7 @@
    ],
    "about": "Florida Marlins",
    "key": "8e0f56f0b6fee16d",
-   "headline": "Marlins beat Indians in Game 7, win World Series",
+   "headline": "Marlins Beat Indians in Game 7, Win World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dolphin_Stadium.JPG/960px-Dolphin_Stadium.JPG",
     "credit": "(WT-de) Mistoffeles",
@@ -346,29 +389,6 @@
   {
    "src": "yearpage",
    "kind": "event",
-   "year": "1996",
-   "text": "The New York Yankees take their fourth victory in a row from the Atlanta Braves, 3-2, giving them the 1996 World Series and their 23rd World Championship. Starter Jimmy Key gets the win with help from closer John Wetteland, whose four saves earn him the World Series MVP trophy.",
-   "links": [
-    "New York Yankees",
-    "Atlanta Braves",
-    "1996 World Series"
-   ],
-   "score": 121.02899810785289,
-   "abouts": [
-    "1996 World Series",
-    "New York Yankees",
-    "Atlanta Braves"
-   ],
-   "about": "1996 World Series",
-   "key": "b0cbdaa648c1e5eb",
-   "headline": "Yankees beat Braves 3-2, win 1996 World Series",
-   "image": null,
-   "extract": "The 1996 World Series was the championship series of Major League Baseball's (MLB) 1996 season. The 92nd edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Atlanta Braves and the American League (AL) champion New York Yankees. The Yankees defeated the Braves four…",
-   "page": "https://en.wikipedia.org/wiki/1996_World_Series"
-  },
-  {
-   "src": "yearpage",
-   "kind": "event",
    "year": "1994",
    "text": "Frank Thomas of the Chicago White Sox repeated as American League MVP as he got 24 of the 28 first-place votes.",
    "links": [
@@ -382,7 +402,7 @@
    ],
    "about": "Frank Thomas",
    "key": "5ff45446406ccf8e",
-   "headline": "Frank Thomas repeats as American League MVP",
+   "headline": "Frank Thomas Repeats as American League MVP",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frank_Thomas_1997_CROP.jpg/960px-Frank_Thomas_1997_CROP.jpg",
     "credit": "clare_and_ben User:Delaywaves",
@@ -414,7 +434,7 @@
    ],
    "about": "Bill Bevens",
    "key": "f7dd5820292345fa",
-   "headline": "Bill Bevens, 75, former Yankees pitcher, dies",
+   "headline": "Bill Bevens, 75, Yankees Pitcher, Game 4 Near No-Hitter",
    "image": null,
    "extract": "Floyd Clifford \"Bill\" Bevens was an American professional baseball player. He played in Major League Baseball as a right-handed pitcher for the New York Yankees from 1944 through 1947. Bevens is notable for his performance in Game 4 of the 1947 World Series when he came within one out from throwing what would have…",
    "page": "https://en.wikipedia.org/wiki/Bill_Bevens"
@@ -437,7 +457,7 @@
    ],
    "about": "Tommy Lasorda",
    "key": "f67734c444074066",
-   "headline": "Tommy Lasorda named NL Manager of the Year, 19 of 24 first-place votes",
+   "headline": "Lasorda Wins NL Manager of the Year, 19 of 24 First-Place Votes",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Tommy_Lasorda_1981.jpg",
     "credit": "Series: Reagan White House Photographs, 1/20/1981 - 1/20/1989",
@@ -471,7 +491,7 @@
    ],
    "about": "1985 World Series",
    "key": "06e19d91aa515b39",
-   "headline": "Cardinals lead Royals 1-0 in ninth of Game 6",
+   "headline": "Cardinals Lead 1-0 in Ninth, Poised for World Series Title",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/KC_Royals_Stadium.JPG",
     "credit": "User Wahkeenah on en.wikipedia",
@@ -485,7 +505,12 @@
     "tier": "venue"
    },
    "extract": "The 1985 World Series was the championship series of Major League Baseball's (MLB) 1985 season. The 82nd edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Kansas City Royals and the National League (NL) champion St. Louis Cardinals. The Royals upset the…",
-   "page": "https://en.wikipedia.org/wiki/1985_World_Series"
+   "page": "https://en.wikipedia.org/wiki/1985_World_Series",
+   "video": {
+    "id": "vyt1xEvqqow",
+    "title": "WS1985 Gm6: Denkinger calls Orta safe at first base",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -505,7 +530,7 @@
    ],
    "about": "Cy Young Award",
    "key": "24a3f613b6de9552",
-   "headline": "Steve Carlton wins fourth NL Cy Young Award",
+   "headline": "Steve Carlton Wins Fourth Cy Young After 23 Victories",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Statue_of_Steve_%22Lefty%22_Carlton.jpg/960px-Statue_of_Steve_%22Lefty%22_Carlton.jpg",
     "credit": "Peter Bond",
@@ -539,7 +564,7 @@
    ],
    "about": "1981 World Series",
    "key": "e30b52f9754007e7",
-   "headline": "Steinbrenner hurt in elevator scuffle after Game 5 loss",
+   "headline": "Steinbrenner Injures Hand in Elevator After Game 5 Loss",
    "image": null,
    "extract": "The 1981 World Series was the championship series of Major League Baseball's (MLB) 1981 season. The 78th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion New York Yankees and the National League (NL) champion Los Angeles Dodgers. It marked their third Series…",
    "page": "https://en.wikipedia.org/wiki/1981_World_Series"
@@ -562,7 +587,7 @@
    ],
    "about": "Aurelio López",
    "key": "400170871dee8bb5",
-   "headline": "Cardinals buy contract of pitcher Aurelio López",
+   "headline": "Cardinals Buy Contract of Pitcher Aurelio López From Mexico City Reds",
    "image": null,
    "extract": "Aurelio Alejandro López Rios was a Mexican professional baseball player. After pitching for several years in the Mexican League, he spent eleven seasons with four teams in Major League Baseball — a majority of it spent with the Detroit Tigers. He acquired the nickname \"Señor Smoke\" in Detroit, while he was known as…",
    "page": "https://en.wikipedia.org/wiki/Aurelio_L%C3%B3pez"
@@ -585,10 +610,10 @@
    ],
    "about": "Reggie Smith",
    "key": "9e241e7e778b7870",
-   "headline": "Red Sox trade Reggie Smith to Cardinals for Rick Wise",
+   "headline": "Red Sox Trade Reggie Smith to Cardinals for Wise, Carbo",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rico_Petrocelli%2C_Carl_Yastrzemski_and_Reggie_Smith_1967.jpg/960px-Rico_Petrocelli%2C_Carl_Yastrzemski_and_Reggie_Smith_1967.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Rico_Petrocelli,_Carl_Yastrzemski_and_Reggie_Smith_1967.jpg",
     "alt": "Three smiling Red Sox players in jerseys in a celebratory group photo",
@@ -619,7 +644,7 @@
    ],
    "about": "American League",
    "key": "c9a4015b844cc209",
-   "headline": "American League adds two clubs, expanding to ten teams",
+   "headline": "American League Adds Los Angeles, Moves Senators to Minneapolis",
    "image": null,
    "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
    "page": "https://en.wikipedia.org/wiki/American_League"
@@ -642,10 +667,10 @@
    ],
    "about": "Hank Sauer",
    "key": "d5b455d6a2eb9af5",
-   "headline": "Giants sign veteran slugger Hank Sauer, released by Cardinals",
+   "headline": "Giants Sign Veteran Slugger Hank Sauer, 40, From Cardinals",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hank_Sauer_1950.jpg/960px-Hank_Sauer_1950.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Hank_Sauer_1950.jpg",
     "alt": "Smiling man seated on floral couch holding large baseball bats, gifts nearby",
@@ -676,10 +701,10 @@
    ],
    "about": "Billy Southworth",
    "key": "8f366874f8387843",
-   "headline": "Commissioner Chandler restores Southworth's full World Series share",
+   "headline": "Chandler Restores Full World Series Share to Southworth",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/1915_Billy_Southworth.jpeg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1915_Billy_Southworth.jpeg",
     "alt": "Man in Cleveland road uniform and C cap, black-and-white portrait",
@@ -710,7 +735,7 @@
    ],
    "about": "Westbrook Pegler",
    "key": "26a08462fe7d851f",
-   "headline": "Pegler attacks Leo Durocher over gambler ties",
+   "headline": "Pegler Attacks Leo Durocher Over Gambler Ties",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Baseball._Durocher_BAnQ_P48S1P12826.jpg",
     "credit": "Conrad Poirier",
@@ -740,10 +765,10 @@
    ],
    "about": "Charles Comiskey",
    "key": "e86b75c2dc5a5d7d",
-   "headline": "Charles Comiskey, 72, Hall of Fame owner, dies",
+   "headline": "Charles Comiskey, 72, Hall of Fame First Baseman, Owner",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Charles_Comiskey.jpg/960px-Charles_Comiskey.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Charles_Comiskey.jpg",
     "alt": "Black-and-white studio portrait of a man in dark suit and bow tie",
@@ -774,7 +799,7 @@
    ],
    "about": "1911 World Series",
    "key": "95d2e958d1aa862f",
-   "headline": "Athletics beat Giants 13-2, win second straight title",
+   "headline": "Athletics Beat Giants 13-2, Win Second Straight Title",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/1911SeriesShibeOnLehigh1.jpg",
     "credit": "Bain News Service",
@@ -804,7 +829,7 @@
    ],
    "about": "Frank Siffell",
    "key": "db2ce13c602f3ef4",
-   "headline": "Frank Siffell, German catcher for Athletics, born",
+   "headline": "Frank Siffell, German Catcher for Philadelphia Athletics",
    "image": null,
    "extract": "Frank Siffell was a 19th-century Major League Baseball player. He played primarily catcher during the 1884 and 1885 seasons for the Philadelphia Athletics of the American Association.",
    "page": "https://en.wikipedia.org/wiki/Frank_Siffell"
@@ -825,7 +850,7 @@
    ],
    "about": "New York Giants (NL)",
    "key": "20842a485654dd3c",
-   "headline": "New York beats Bridegrooms 11-7 in game",
+   "headline": "New York Beats Bridegrooms 11-7 in Latest Game",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1883_New_York_Gothams.jpeg/960px-1883_New_York_Gothams.jpeg",
     "credit": "J Wood, 208 Bowery, N.Y.",
@@ -857,7 +882,7 @@
    ],
    "about": "St. Louis Cardinals",
    "key": "c680e00175ecccbf",
-   "headline": "Detroit wins series 10 games to 5 over Browns",
+   "headline": "Detroit Wins Series 10 Games to 5 Over Browns",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/1888_Detroit_Wolverines.jpg/960px-1888_Detroit_Wolverines.jpg",
     "credit": "Hastings, George H., fl. 1885-1896, photographer.",
@@ -891,7 +916,7 @@
    ],
    "about": "Jim Devlin",
    "key": "09f5ba5a03451a1b",
-   "headline": "Devlin and Hall admit throwing games, Louisville says",
+   "headline": "Devlin and Hall Admit Throwing Games, Implicate Teammates",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Jim_Devlin.jpg",
     "credit": "Gross & Co",
@@ -921,7 +946,7 @@
     "George Hall (baseball)"
    ],
    "key": "6d39093a874c633d",
-   "headline": "Louisville accuses Devlin and Hall of throwing games",
+   "headline": "Louisville Confronts Hall, Devlin With Game-Throwing Charges",
    "image": null,
    "extract": "George William Hall was an American amateur and professional baseball player who played in the National Association and later the National League. Born in Stepney, England, Hall later immigrated to the U.S. He made his professional debut on May 5, 1871. While playing for the Louisville Grays, he was banned from Major…",
    "page": "https://en.wikipedia.org/wiki/George_Hall_(baseball)"

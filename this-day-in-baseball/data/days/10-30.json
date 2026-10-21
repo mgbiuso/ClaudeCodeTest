@@ -20,7 +20,7 @@
    ],
    "about": "Catfish Hunter",
    "key": "0037ae2bf438c793",
-   "headline": "Catfish Hunter wins his only American League Cy Young Award",
+   "headline": "Catfish Hunter Wins His Only AL Cy Young Award",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/CatfishHunterOAK.png",
     "credit": "Doug McWilliams",
@@ -47,7 +47,7 @@
     "Hanshin Tigers",
     "2025 Japan Series"
    ],
-   "score": 52.677103590280865,
+   "score": 52.64843476886458,
    "abouts": [
     "2025 Japan Series",
     "Fukuoka SoftBank Hawks",
@@ -55,7 +55,7 @@
    ],
    "about": "2025 Japan Series",
    "key": "69c19c7732c11b7f",
-   "headline": "SoftBank Hawks beat Hanshin Tigers to win 12th Japan Series title",
+   "headline": "SoftBank Hawks Beat Tigers, Win 12th Japan Series Title",
    "image": null,
    "extract": "The 2025 Japan Series was the championship series of Nippon Professional Baseball's (NPB) 2025 season. The 76th edition of the Japan Series, it was a best-of-seven playoff series played between the Central League (CL) Climax Series champion Hanshin Tigers and the Pacific League (PL) Climax Series champion Fukuoka…",
    "page": "https://en.wikipedia.org/wiki/2025_Japan_Series"
@@ -69,14 +69,14 @@
     "2024 Los Angeles Dodgers season",
     "2024 New York Yankees"
    ],
-   "score": 109.72783526721194,
+   "score": 109.70879906907348,
    "abouts": [
     "2024 New York Yankees",
     "2024 Los Angeles Dodgers season"
    ],
    "about": "2024 New York Yankees",
    "key": "00adba7c7aba19a2",
-   "headline": "Dodgers beat Yankees 4–1, win eighth World Series championship",
+   "headline": "Dodgers Beat Yankees 4-1, Win Eighth World Series Title",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2024NLCSG6.jpg/960px-2024NLCSG6.jpg",
     "credit": "Spanneraol",
@@ -90,7 +90,12 @@
     "tier": "event"
    },
    "extract": "The 2024 New York Yankees season was the 122nd season for the New York Yankees franchise.",
-   "page": "https://en.wikipedia.org/wiki/2024_New_York_Yankees_season"
+   "page": "https://en.wikipedia.org/wiki/2024_New_York_Yankees_season",
+   "video": {
+    "id": "5dGZffKDYr4",
+    "title": "FINAL OUT: The Dodgers win the 2024 World Series!",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -106,7 +111,7 @@
     "Yankee Stadium"
    ],
    "key": "42890663f448abe6",
-   "headline": "Dodgers erase 5–0 deficit, beat Yankees 7–6 in Game 5",
+   "headline": "Dodgers Erase 5-0 Deficit, Beat Yankees 7-6 in Game 5",
    "image": null,
    "extract": "Yankee Stadium is a baseball stadium located in the Bronx, New York City. It is the home field of the New York Yankees of Major League Baseball.",
    "page": "https://en.wikipedia.org/wiki/Yankee_Stadium"
@@ -120,12 +125,12 @@
     "A. J. Hinch"
    ],
    "about": "A. J. Hinch",
-   "score": 43.47915447479292,
+   "score": 43.481680273010234,
    "abouts": [
     "A. J. Hinch"
    ],
    "key": "8a74158193ee839b",
-   "headline": "Hinch named Tigers manager on multi-year contract",
+   "headline": "Hinch Named Tigers Manager on Multi-Year Contract",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/AJ_Hinch_dugout_spring_2015.jpg/960px-AJ_Hinch_dugout_spring_2015.jpg",
     "credit": "EricEnfermero",
@@ -150,12 +155,12 @@
     "Brad Mills (baseball manager)"
    ],
    "about": "Brad Mills (baseball manager)",
-   "score": 23.951425820166207,
+   "score": 23.937302372592075,
    "abouts": [
     "Brad Mills (baseball manager)"
    ],
    "key": "9506f86ffbae7e6d",
-   "headline": "Mills will not return as Indians bench coach for 2021 season",
+   "headline": "Indians Won't Bring Back Mills as Bench Coach for 2021",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG/960px-Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
     "credit": "EricEnfermero",
@@ -185,7 +190,7 @@
    ],
    "about": "Stephen Strasburg",
    "key": "9e5385d120b245b0",
-   "headline": "Nationals win first World Series in franchise history, beat Astros 6–2",
+   "headline": "Nationals Beat Astros 6-2, Win First World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Stephen_Strasburg_Baltimore_Orioles_vs._Washington_Nationals_at_Nationals_Park%2C_August_9%2C_2020_%28All-Pro_Reels_Photography%29_%2850208669172%29_%28cropped%29.jpg/960px-Stephen_Strasburg_Baltimore_Orioles_vs._Washington_Nationals_at_Nationals_Park%2C_August_9%2C_2020_%28All-Pro_Reels_Photography%29_%2850208669172%29_%28cropped%29.jpg",
     "credit": "All-Pro Reels from District of Columbia, USA",
@@ -199,7 +204,12 @@
     "tier": "person"
    },
    "extract": "Stephen James Strasburg is an American former professional baseball pitcher who is currently an assistant with the San Diego State Aztecs baseball program. He spent his entire 13-year Major League Baseball (MLB) career with the Washington Nationals. He is a three-time All-Star and the World Series MVP of the Nationals…",
-   "page": "https://en.wikipedia.org/wiki/Stephen_Strasburg"
+   "page": "https://en.wikipedia.org/wiki/Stephen_Strasburg",
+   "video": {
+    "id": "K1JpV6ONsXw",
+    "title": "Nationals win 1st World Series with Game 7 comeback win! | Astros-Nationals MLB Highlights",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -215,7 +225,7 @@
     "Kannapolis Cannon Ballers"
    ],
    "key": "1dda4839d55737d7",
-   "headline": "Ground broken on new ballpark in downtown Kannapolis",
+   "headline": "Ground Broken on New Downtown Kannapolis Ballpark",
    "image": null,
    "extract": "The Kannapolis Cannon Ballers are a Minor League Baseball team of the Carolina League and the Single-A affiliate of the Chicago White Sox. They are located in Kannapolis, North Carolina, and play their home games at Atrium Health Ballpark. The team was established in 1995 as the Piedmont Phillies. From 1996 to 2000,…",
    "page": "https://en.wikipedia.org/wiki/Kannapolis_Cannon_Ballers"
@@ -230,7 +240,7 @@
     "Noah Syndergaard",
     "Curtis Granderson"
    ],
-   "score": 117.30087961759014,
+   "score": 117.26353113255514,
    "abouts": [
     "Citi Field",
     "Curtis Granderson",
@@ -238,7 +248,7 @@
    ],
    "about": "Citi Field",
    "key": "3b18a53c9b69cb4b",
-   "headline": "Mets beat Royals 9–3 in first World Series game at Citi Field",
+   "headline": "Mets Rally Past Royals 9-3 in First Citi Field Series Game",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Billy_Joel_Singing_the_National_Anthem_Before_Game_3_of_the_2015_World_Series.jpg/960px-Billy_Joel_Singing_the_National_Anthem_Before_Game_3_of_the_2015_World_Series.jpg",
     "credit": "slgckgc",
@@ -252,7 +262,12 @@
     "tier": "event"
    },
    "extract": "Citi Field is a baseball stadium located in Flushing Meadows–Corona Park, in the borough of Queens, New York City, United States. Opened in 2009, Citi Field is the home of Major League Baseball's New York Mets. The ballpark was built as a replacement for the adjacent Shea Stadium, which had been demolished shortly…",
-   "page": "https://en.wikipedia.org/wiki/Citi_Field"
+   "page": "https://en.wikipedia.org/wiki/Citi_Field",
+   "video": {
+    "id": "K1qxW5DmPP4",
+    "title": "10/30/15: Wright, Grandy power Mets back into Series",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -263,12 +278,12 @@
     "Adalberto Mondesí"
    ],
    "about": "Adalberto Mondesí",
-   "score": 67.32914407678717,
+   "score": 67.29318924512825,
    "abouts": [
     "Adalberto Mondesí"
    ],
    "key": "22da6e540911edac",
-   "headline": "Mondesí becomes first player in modern MLB history to debut in World Series",
+   "headline": "Mondesí Makes World Series Debut With Royals",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ra%C3%BAl_Adalberto_Mondes%C3%AD_on_November_2%2C_2015.jpg",
     "credit": "Arturo Pardavila III on Flickr (Original version) UCinternational",
@@ -302,7 +317,7 @@
    ],
    "about": "Fenway Park",
    "key": "32ade3822e8c9e20",
-   "headline": "Red Sox beat Cardinals 6–1, win eighth World Series title",
+   "headline": "Red Sox Beat Cardinals 6-1, Win Third Title in 10 Years",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events.jpg/960px-131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events.jpg",
     "credit": "Rick Berry",
@@ -316,7 +331,12 @@
     "tier": "event"
    },
    "extract": "Fenway Park is a ballpark in Boston, Massachusetts, United States, close to Kenmore Square. Since 1912, it has been the home field of Major League Baseball's (MLB) Boston Red Sox. While the stadium was built in 1912, it was substantially rebuilt in 1934, and underwent major renovations and modifications in the 21st…",
-   "page": "https://en.wikipedia.org/wiki/Fenway_Park"
+   "page": "https://en.wikipedia.org/wiki/Fenway_Park",
+   "video": {
+    "id": "zm26fFSP26c",
+    "title": "Koji tosses perfect ninth to secure title",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -328,7 +348,7 @@
     "Robinson Canó",
     "Curtis Granderson"
    ],
-   "score": 32.21004579570476,
+   "score": 32.16964882804232,
    "abouts": [
     "Curtis Granderson",
     "Bruce Bochy",
@@ -336,7 +356,7 @@
    ],
    "about": "Curtis Granderson",
    "key": "ab60dbe8bbdac5e5",
-   "headline": "MLB All-Stars arrive in Taipei for 2011 Taiwan All-Star Series",
+   "headline": "MLB All-Stars Arrive in Taipei for Taiwan Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bruce_Bochy_by_Gage_Skidmore.jpg/960px-Bruce_Bochy_by_Gage_Skidmore.jpg",
     "credit": "Gage Skidmore",
@@ -368,7 +388,7 @@
    ],
    "about": "Mickey Scott",
    "key": "9e28619eeb79181d",
-   "headline": "Mickey Scott, 64, German-born reliever for Orioles, Expos, Angels, dies",
+   "headline": "Mickey Scott, 64, German-Born Reliever for Orioles, Expos",
    "image": null,
    "extract": "Ralph Robert Scott was a left-handed specialist pitcher in North American Major League Baseball (MLB) who played in portions of five seasons with the Baltimore Orioles, Montreal Expos and California Angels from 1972 to 1977. He was born in Weimar, Soviet occupation zone of Germany.",
    "page": "https://en.wikipedia.org/wiki/Mickey_Scott"
@@ -376,32 +396,31 @@
   {
    "src": "article",
    "kind": "event",
-   "year": "2007",
-   "text": "On October 30, 2007, Sveum switched positions on the staff and became the team's third base coach.",
+   "year": "2009",
+   "text": "On October 30, 2009, Leyva was reassigned as the Blue Jays' bench coach, with Brian Butterfield taking over as third base coach for the team.",
    "links": [
-    "Dale Sveum"
+    "Nick Leyva"
    ],
-   "about": "Dale Sveum",
-   "score": 28.005952663076666,
+   "about": "Nick Leyva",
+   "score": 10.0,
    "abouts": [
-    "Dale Sveum"
+    "Nick Leyva"
    ],
-   "key": "958216b3f034a751",
-   "headline": "Sveum switches to third base coach role with team",
+   "key": "7bf949bb936787d6",
+   "headline": "Leyva Was Reassigned as the Blue Jays' Bench Coach",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sveum_with_Cubs.jpg/960px-Sveum_with_Cubs.jpg",
-    "credit": "thotfulspot",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Sveum_with_Cubs.jpg",
-    "alt": "Man in Cubs home pinstripes with glove, stadium crowd, Stanley Cup beside him",
-    "source": "checked",
-    "of": "Dale Sveum",
-    "w": 1307,
-    "h": 2013,
-    "tier": "person"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nickleyva1987.jpg",
+    "credit": "Johnmaxmena (talk)john Mena",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nickleyva1987.jpg",
+    "alt": "American baseball coach and manager (born 1953)",
+    "source": "wikipedia",
+    "of": "Nick Leyva",
+    "w": 245,
+    "h": 294
    },
-   "extract": "Dale Curtis Sveum is an American former Major League Baseball (MLB) player and manager. He most recently served as the bench coach for the Kansas City Royals. As a player, Sveum saw action in 12 major league seasons between 1986 and 1999. He was a member of the Milwaukee Brewers, Philadelphia Phillies, Chicago White…",
-   "page": "https://en.wikipedia.org/wiki/Dale_Sveum"
+   "extract": "Nicholas Tomas Leyva is an American former professional baseball player, coach, and manager. After his retirement as a Minor League Baseball (MiLB) player, Leyva moved into coaching. His Major League Baseball (MLB) coaching stops included the St. Louis Cardinals, Toronto Blue Jays, Milwaukee Brewers, and Pittsburgh…",
+   "page": "https://en.wikipedia.org/wiki/Nick_Leyva"
   },
   {
    "src": "yearpage",
@@ -421,7 +440,7 @@
    ],
    "about": "Joe Girardi",
    "key": "2673d2a63ba76cf0",
-   "headline": "Yankees sign Joe Girardi to three-year deal as new manager",
+   "headline": "Yankees Sign Joe Girardi to Three-Year Managerial Deal",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Joe_Girardi.png",
     "credit": "Girardi in 2020",
@@ -451,7 +470,7 @@
    ],
    "about": "Al López",
    "key": "8b06c518d4efef0d",
-   "headline": "Al López, 97, Hall of Famer and record-setting catcher, dies",
+   "headline": "Al López, 97, Hall of Fame Catcher and Manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Al_Lopez_-_WJROneOfAKind.jpg",
     "credit": "Jam Handy Organization",
@@ -477,7 +496,7 @@
     "Yankee Stadium",
     "George W. Bush"
    ],
-   "score": 87.82066611921053,
+   "score": 87.800848770425,
    "abouts": [
     "2001 World Series",
     "Yankee Stadium",
@@ -485,7 +504,7 @@
    ],
    "about": "2001 World Series",
    "key": "5fa341072577a27a",
-   "headline": "President George W. Bush throws out first pitch at Yankee Stadium",
+   "headline": "Bush Throws Ceremonial First Pitch as Series Visits Yankee Stadium",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/161st_Street_Yankee_Stadium_IRT_Jerome_southbound_platform_2009_Yankee_Stadium.JPG/960px-161st_Street_Yankee_Stadium_IRT_Jerome_southbound_platform_2009_Yankee_Stadium.JPG",
     "credit": "TLK in 3",
@@ -499,7 +518,12 @@
     "tier": "venue"
    },
    "extract": "The 2001 World Series was the championship series of Major League Baseball's (MLB) 2001 season. The 97th edition of the World Series, it was a best-of-seven series between the National League (NL) champion Arizona Diamondbacks and the American League (AL) champion New York Yankees. The Diamondbacks defeated the…",
-   "page": "https://en.wikipedia.org/wiki/2001_World_Series"
+   "page": "https://en.wikipedia.org/wiki/2001_World_Series",
+   "video": {
+    "id": "NjGcCI9ByWw",
+    "title": "President Bush throws the first pitch of Game 3 of the 2001 World Series",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -511,7 +535,7 @@
     "president (corporate title)",
     "Chicago Cubs"
    ],
-   "score": 66.26392434340273,
+   "score": 47.0,
    "abouts": [
     "Dallas Green (baseball)",
     "president (corporate title)",
@@ -519,7 +543,7 @@
    ],
    "about": "Dallas Green (baseball)",
    "key": "0b4f3f2e590ddd11",
-   "headline": "Dallas Green resigns as Cubs president and general manager",
+   "headline": "Dallas Green, 53, Resigns as Cubs President, GM",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PhilliesWallofFame.jpg/960px-PhilliesWallofFame.jpg",
     "credit": "Flickr user pvsbond",
@@ -553,7 +577,7 @@
    ],
    "about": "Storm Davis",
    "key": "769a082225c1870d",
-   "headline": "Orioles trade Storm Davis to Padres for Williamson and Kennedy",
+   "headline": "Orioles Trade Storm Davis to Padres for Williamson, Kennedy",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Storm_Davis.jpg",
     "credit": "Baltimore Orioles",
@@ -587,7 +611,7 @@
    ],
    "about": "Jim Davenport",
    "key": "c987dde1871a1fce",
-   "headline": "Jim Davenport named Giants manager for 1985 season",
+   "headline": "Jim Davenport, 51, Named Giants Manager for 1985",
    "image": null,
    "extract": "James Houston Davenport was an American professional baseball infielder and coach who played his entire career with the San Francisco Giants in Major League Baseball (MLB). He also managed the Giants for one season in 1985 and served as a coach in various capacities for nine years over three different terms, spending…",
    "page": "https://en.wikipedia.org/wiki/Jim_Davenport"
@@ -610,7 +634,7 @@
    ],
    "about": "farm system",
    "key": "0e5e0478bdeca764",
-   "headline": "Red Sox farmhands survive boat capsizing, two others drown",
+   "headline": "Red Sox Farmhands Survive Capsizing, One Drowns off Florida",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1988_CandL_Colorcraft_-_John_Mitchell_%28cropped%29.jpg",
     "credit": "CandL and Colorcraft",
@@ -644,7 +668,7 @@
    ],
    "about": "John Montefusco",
    "key": "ada3fe1356f0f37c",
-   "headline": "John Montefusco wins 1975 National League Rookie of the Year",
+   "headline": "Montefusco Wins NL Rookie of the Year Award",
    "image": null,
    "extract": "John Joseph Montefusco Jr., nicknamed \"the Count\", is an American former professional baseball player and coach. He played as a right-handed pitcher in Major League Baseball from 1974 to 1986, most notably as a member of the San Francisco Giants with whom he won the National League Rookie of the Year Award and pitched…",
    "page": "https://en.wikipedia.org/wiki/John_Montefusco"
@@ -667,7 +691,7 @@
    ],
    "about": "Comiskey Park",
    "key": "23479b4078750e39",
-   "headline": "White Sox to play nine night games at Milwaukee County Stadium",
+   "headline": "White Sox to Play Nine Night Games at Milwaukee in 1968",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/06CountyStadium09-24-2000.jpg/960px-06CountyStadium09-24-2000.jpg",
     "credit": "Jwhouk",
@@ -701,7 +725,7 @@
    ],
    "about": "Joe Stanka",
    "key": "83361f6819535d71",
-   "headline": "Joe Stanka named Pacific League MVP after Japan Series win",
+   "headline": "Stanka Named Pacific League MVP, Leads Nankai Hawks",
    "image": null,
    "extract": "Joe Donald Stanka was an American professional baseball player. The right-handed pitcher from Hammon, Oklahoma played for the Chicago White Sox of Major League Baseball in 1959, and the Nankai Hawks and Taiyo Whales in Nippon Professional Baseball from 1960 to 1966. He stood at 6 feet 6 inches (1.98 m) tall and…",
    "page": "https://en.wikipedia.org/wiki/Joe_Stanka"
@@ -724,7 +748,7 @@
    ],
    "about": "Sandy Koufax",
    "key": "e73385d479de8c92",
-   "headline": "Sandy Koufax wins National League Most Valuable Player Award",
+   "headline": "Koufax Wins NL MVP, Edges Groat With 237 Points",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sandy_Koufax.jpg/960px-Sandy_Koufax.jpg",
     "credit": "publicity still",
@@ -758,7 +782,7 @@
    ],
    "about": "Ebbets Field",
    "key": "e5ed67f817b95448",
-   "headline": "Dodgers sell Ebbets Field to Marvin Kratter for $3 million",
+   "headline": "Dodgers Sell Ebbets Field to Marvin Kratter for $3 Million",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ebbets1913OpeningDay.jpg/960px-Ebbets1913OpeningDay.jpg",
     "credit": "Wikimedia Commons",
@@ -792,7 +816,7 @@
    ],
    "about": "1946 World Series",
    "key": "74083f0ea0fa8763",
-   "headline": "Cardinals release Harry Brecheen, two-time NL All-Star",
+   "headline": "Cardinals Release Harry Brecheen, Browns Name Him Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/1946_St._Louis_Cardinals.png",
     "credit": "Press Association",
@@ -826,10 +850,10 @@
    ],
    "about": "American Association (1882–1891)",
    "key": "5956e6866423b013",
-   "headline": "Columbus Buckeyes sell players to Pittsburgh for $6,000",
+   "headline": "Columbus Sells Players to Pittsburgh for $6,000, Disbands",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/1884_Columbus_Buckeyes.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1884_Columbus_Buckeyes.jpg",
     "alt": "Vintage team photo of uniformed baseball players with bats and a catcher's mask",
@@ -860,7 +884,7 @@
    ],
    "about": "Boston Braves",
    "key": "39fc49a0487ca7b0",
-   "headline": "Boston defeats Hartford 7–4 in final game of the NA",
+   "headline": "Boston Beats Hartford 7-4, Final Game of NA History",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hartford_Dark_Blues_by_Prescott_%26_White%2C_1875.jpg/960px-Hartford_Dark_Blues_by_Prescott_%26_White%2C_1875.jpg",
     "credit": "Prescott & White",
@@ -894,10 +918,10 @@
    ],
    "about": "History of the Chicago Cubs",
    "key": "842a6e26e0d781de",
-   "headline": "Athletics win first professional baseball championship over White Stockings",
+   "headline": "Athletics Beat Chicago 4-1, Clinch First Pro Championship",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/1874_Philadelphia_Athletics_baseball.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1874_Philadelphia_Athletics_baseball.jpg",
     "alt": "Team photo of uniformed baseball players in white shirts and bow ties, posed on a studio backdrop.",

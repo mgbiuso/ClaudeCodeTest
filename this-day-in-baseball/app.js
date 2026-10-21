@@ -89,21 +89,44 @@ function figureFor(story, accent) {
   return fig;
 }
 
+// A video takes the photo's place: YouTube's still frame with a play badge that opens the video on YouTube.
+// (MLB and the clubs do not let other sites play their videos inside a page, so there is no inline player.)
+function videoFor(story) {
+  const v = story.video;
+  const fig = el("figure", "media video");
+  const label = v.title || story.headline || "video";
+  const link = el("a", "video-box");
+  link.href = `https://www.youtube.com/watch?v=${v.id}`;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.setAttribute("aria-label", `Watch on YouTube: ${label}`);
+  const thumb = el("img", "video-thumb");
+  thumb.src = `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`;
+  thumb.alt = "";
+  thumb.loading = "lazy";
+  thumb.width = 480;
+  thumb.height = 360;
+  link.append(thumb, el("span", "play-badge", "\u25B6"));
+  fig.append(link);
+  fig.append(el("figcaption", "", `Video: ${v.channel || "YouTube"}. ${label}`));
+  return fig;
+}
+
+const hasVideo = (s) => s.video && /^[\w-]{11}$/.test(s.video.id);
+const hasMedia = (s) => hasVideo(s) || s.image;
+
 function kickerFor(story, tag) {
   const k = el("div", "kicker");
   k.append(el("span", "yr", story.year), el("span", "tag", tag));
   return k;
 }
 
-function bodyFor(story, { background }) {
+function bodyFor(story) {
   const body = el("div", "body");
   body.append(el("p", "", story.text));
-  if (background && story.extract && story.kind !== "death" && !story.text.includes(story.extract.slice(0, 40))) {
-    body.append(el("p", "bg", story.extract));
-  }
   if (story.page) {
     const more = el("p", "more");
-    const a = el("a", "", "Read more on Wikipedia");
+    const a = el("a", "", "Read more");
     a.href = story.page;
     a.rel = "noopener noreferrer";
     more.append(a);
@@ -112,19 +135,20 @@ function bodyFor(story, { background }) {
   return body;
 }
 
-function card(story, { tag, accent, background, cls }) {
+function card(story, { tag, accent, cls }) {
   const node = el("article", `story ${cls || ""}${story.kind === "death" ? " death" : ""}`);
   node.style.setProperty("--accent", accent);
   const head = el("div", "head");
   head.append(kickerFor(story, tag), el("h3", "headline", story.headline || story.text));
   node.append(head);
-  if (story.image) node.append(figureFor(story, accent));
-  node.append(bodyFor(story, { background }));
+  if (hasVideo(story)) node.append(videoFor(story));
+  else if (story.image) node.append(figureFor(story, accent));
+  node.append(bodyFor(story));
   return node;
 }
 
-function brief(story, accent) {
-  const li = el("li");
+function brief(story, accent, tag = "li") {
+  const li = el(tag, tag === "li" ? "" : "brief-item");
   li.style.setProperty("--accent", accent);
   li.append(el("span", "yr", story.year), `${story.text} `);
   if (story.page) {
@@ -138,9 +162,76 @@ function brief(story, accent) {
 
 // ---------- page ----------
 
+const wide = window.matchMedia("(min-width: 900px)");
+let columnJobs = [];   // each: { box, nodes } so columns can be rebuilt when the window changes
+
+// Deal stories into columns like a newspaper, so the column bottoms line up as closely as the stories allow.
+// Each story's height is measured once, then the best split into columns is searched for; inside a column
+// the stories stay in their original (ranked) order.
+function fillColumns({ box, nodes, fillers = [] }) {
+  const count = wide.matches ? Math.min(3, nodes.length) : 1;  // fewer stories than columns: use fewer columns
+  box.style.setProperty("--n", count);
+  box.replaceChildren();
+  const cols = Array.from({ length: count }, () => el("div", "col"));
+  box.append(...cols);
+  if (count === 1) { cols[0].append(...nodes); return; }
+
+  const probe = cols[Math.min(1, count - 1)];  // a middle column has the narrowest text width, so measure there
+  const heights = nodes.map((node) => { probe.append(node); return node.offsetHeight; });
+  const spread = (sums) => Math.max(...sums) - Math.min(...sums);
+  const sumsOf = (assign) => { const s = new Array(count).fill(0); assign.forEach((c, i) => { s[c] += heights[i]; }); return s; };
+
+  // Start with tallest-first into the shortest column, then try single moves and swaps while they help.
+  const order = nodes.map((_, i) => i).sort((x, y) => heights[y] - heights[x]);
+  const assign = new Array(nodes.length).fill(0);
+  const sums = new Array(count).fill(0);
+  for (const i of order) { const c = sums.indexOf(Math.min(...sums)); assign[i] = c; sums[c] += heights[i]; }
+  for (let pass = 0; pass < 50; pass++) {
+    let best = spread(sumsOf(assign)), change = null;
+    for (let i = 0; i < nodes.length; i++) {
+      const was = assign[i];
+      for (let c = 0; c < count; c++) {
+        if (c === was) continue;
+        assign[i] = c;
+        const s = spread(sumsOf(assign));
+        if (s < best) { best = s; change = [i, c, null]; }
+        for (let j = i + 1; j < nodes.length; j++) {
+          if (assign[j] !== c) continue;  // swap with a story that sits in the target column
+          assign[j] = was;
+          const s2 = spread(sumsOf(assign));
+          if (s2 < best) { best = s2; change = [i, c, j]; }
+          assign[j] = c;
+        }
+      }
+      assign[i] = was;
+    }
+    if (!change) break;
+    const [i, c, j] = change;
+    const was = assign[i];
+    assign[i] = c;
+    if (j !== null) assign[j] = was;
+  }
+  nodes.forEach((node, i) => cols[assign[i]].append(node));
+
+  // Short text-only items fill whatever is left at the bottom of the shorter columns.
+  const labelled = new Set();
+  for (const item of fillers) {
+    const col = cols.reduce((x, y) => (x.offsetHeight <= y.offsetHeight ? x : y));
+    if (!labelled.has(col)) { col.append(el("h3", "brief-label", "In brief")); labelled.add(col); }
+    col.append(item);
+  }
+}
+
+function columnBox(cls, nodes, fillers) {
+  const box = el("div", `cols ${cls}`);
+  columnJobs.push({ box, nodes, fillers });
+  return box;
+}
+
 function render(data, when) {
   const wrap = $("stories");
   wrap.replaceChildren();
+  columnJobs = [];
   const stories = data.stories || [];
 
   const head = el("div", "date-head");
@@ -150,43 +241,63 @@ function render(data, when) {
   wrap.append(head);
   if (!stories.length) return;
 
-  // Tiers: the lead, then photo stories (side column first, then the grid), obituaries, then text-only briefs.
+  // Tiers: the lead, then photo stories (beside the lead first, then in columns), obituaries, then text-only briefs.
   const [lead, ...rest] = stories;
   const deaths = rest.filter((s) => s.kind === "death");
   const living = rest.filter((s) => s.kind !== "death");
-  const photo = living.filter((s) => s.image);
-  const text = living.filter((s) => !s.image);
-  const sideStories = photo.slice(0, 2);
-  const gridStories = photo.slice(2);
+  const photo = living.filter(hasMedia);
+  const text = living.filter((s) => !hasMedia(s));
   let n = 0;
   const nextAccent = () => ACCENTS[n++ % ACCENTS.length];
 
-  const top = el("section", sideStories.length ? "top" : "top no-side");
-  const leadNode = card(lead, { tag: "Top story", accent: nextAccent(), background: true, cls: `lead${lead.image ? " has-photo" : ""}` });
+  const top = el("section", "top");
+  const leadNode = card(lead, { tag: "Top story", accent: nextAccent(), cls: `lead${hasMedia(lead) ? " has-photo" : ""}` });
   top.append(leadNode);
-  if (sideStories.length) {
-    const side = el("aside", "side");
-    sideStories.forEach((s) => side.append(card(s, { tag: "On this date", accent: nextAccent(), background: true })));
-    top.append(side);
-  }
   wrap.append(top);
 
-  if (gridStories.length) {
+  // Beside the lead: add photo stories until that column is as tall as the lead (never leaving a gap under either).
+  let pool = photo;
+  if (photo.length) {
+    const side = el("aside", "side");
+    top.append(side);
+    let used = 0;
+    if (wide.matches) {
+      while (used < photo.length) {
+        const before = Math.abs(side.offsetHeight - leadNode.offsetHeight);
+        const node = card(photo[used], { tag: "On this date", accent: nextAccent(), cls: "" });
+        side.append(node);
+        const after = Math.abs(side.offsetHeight - leadNode.offsetHeight);
+        if (used > 0 && after >= before) { node.remove(); n--; break; }  // this story would make the columns less even
+        used++;
+        if (side.offsetHeight >= leadNode.offsetHeight) break;
+      }
+    } else {
+      used = Math.min(2, photo.length);
+      photo.slice(0, used).forEach((s) => side.append(card(s, { tag: "On this date", accent: nextAccent(), cls: "" })));
+    }
+    pool = photo.slice(used);
+  } else {
+    top.classList.add("no-side");
+  }
+
+  // On a wide screen the text-only briefs fill the bottoms of the columns; on a phone they get their own list.
+  const inColumns = wide.matches && text.length > 0;
+  if (pool.length || inColumns) {
+    const nodes = pool.map((s) => card(s, { tag: "On this date", accent: nextAccent(), cls: "" }));
+    const fillers = inColumns ? text.map((s) => brief(s, nextAccent(), "div")) : [];
     const grid = el("section", "std-grid");
-    gridStories.forEach((s) => grid.append(card(s, { tag: "On this date", accent: nextAccent(), background: false })));
+    grid.append(columnBox("", nodes, fillers));
     wrap.append(grid);
   }
 
   if (deaths.length) {
     const box = el("section", "memoriam");
     box.append(el("h2", "reverse-head", "In memoriam"));
-    const grid = el("div", "memoriam-grid");
-    deaths.forEach((s) => grid.append(card(s, { tag: "Remembered", accent: nextAccent(), background: false })));
-    box.append(grid);
+    box.append(columnBox("memoriam-grid", deaths.map((s) => card(s, { tag: "Remembered", accent: nextAccent(), cls: "" }))));
     wrap.append(box);
   }
 
-  if (text.length) {
+  if (text.length && !inColumns) {
     const box = el("section", "briefs");
     box.append(el("h2", "reverse-head", "In brief"));
     const list = el("ul", "briefs-list");
@@ -194,7 +305,12 @@ function render(data, when) {
     box.append(list);
     wrap.append(box);
   }
+
+  columnJobs.forEach(fillColumns);
 }
+
+let current = null;
+let lastWidth = window.innerWidth;
 
 async function load() {
   const when = parseHash();
@@ -214,14 +330,27 @@ async function load() {
     const res = await fetch(`data/days/${pad(when.month)}-${pad(when.day)}.json`, { cache: "no-cache" });
     if (!res.ok) throw new Error(String(res.status));
     const data = await res.json();
+    current = { data, when };
     $("status").hidden = true;
     render(data, when);
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { if (current && current.data === data) render(data, when); });
     $("colophon").hidden = false;
   } catch (err) {
     $("status").textContent = `The ${label} edition has not gone to press yet. Try the previous or next day.`;
     $("colophon").hidden = false;
   }
 }
+
+// Column heights depend on the window width, so lay the page out again when it changes.
+let resizeTimer = 0;
+window.addEventListener("resize", () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(() => {
+    if (window.innerWidth === lastWidth || !current) return;
+    lastWidth = window.innerWidth;
+    render(current.data, current.when);
+  }, 200);
+});
 
 window.addEventListener("hashchange", () => { load(); window.scrollTo({ top: 0 }); });
 load();

@@ -206,13 +206,16 @@ def article_sentences(month, day, max_pages=40):
         m = pat.search(ex)
         sent = m.group(0).strip() if m else ""
         title_words = [w for w in re.sub(r"\(.*?\)", "", t).split() if len(w) > 2]
-        if (m and len(sent) >= 50 and not NOISE.search(sent) and not PRONOUN.match(sent)
+        if (m and len(sent) >= 50 and not NOISE.search(sent) and not PRONOUN.match(sent) and not BIO.search(sent[:160])
                 and any(w in sent for w in title_words)):
             out.append({"src": "article", "kind": "event", "year": m.group(1), "text": trim(m.group(0).strip()),
                         "links": [t], "about": t})
     return out
 
 
+# The opening line of a biography ("Name (born May 3, 1980) is...", "Name (May 3, 1930 - June 1, 2001) was..."): a birth or a
+# death-date line, not an event, so it is dropped (births are not wanted; deaths come from the obituary source).
+BIO = re.compile(r"\(\s*(?:;\s*)?(?:born\s+)?[A-Z][a-z]+ \d{1,2}, \d{4}\s*(?:[-\u2013]\s*[A-Z][a-z]+ \d{1,2}, \d{4})?\s*\)|^[^()]{0,60}: \([A-Z][a-z]+ \d{1,2}, \d{4}")
 PRONOUN = re.compile(r"^(He|She|It|They|His|Her|Its|Their|This|That|These|Those|Finally|Henderson|Alexander)\b")
 NOISE = re.compile(r"\b(schedule|announced that|NYCFC|soccer|attendance|concert|perform|musician|orchestra|logos?|uniforms?|interviewed|resident of|struck and killed|unveiled)\b", re.I)
 
@@ -322,6 +325,30 @@ def headline(text, limit=70):
     return tidy(window.rsplit(" ", 1)[0])
 
 
+SMALL_WORDS = {"a", "an", "the", "and", "but", "or", "nor", "for", "so", "yet", "at", "by", "in", "of", "on", "to", "up",
+               "as", "off", "out", "via", "per", "vs", "v"}
+
+
+def title_case(h):
+    """Newspaper Title Case: capitalize every word except short articles, conjunctions and prepositions (never the
+    first or last word). Words that already have a capital inside (McCovey, MLB, AL) are left alone."""
+    words = h.split(" ")
+    out = []
+    for i, w in enumerate(words):
+        parts = w.split("-")
+        fixed = []
+        for j, part in enumerate(parts):
+            core = re.sub(r"^\W+|\W+$", "", part)
+            keep_small = core.lower() in SMALL_WORDS and not (i == 0 and j == 0) and not (i == len(words) - 1 and j == len(parts) - 1)
+            if not core or any(c.isupper() for c in core) or keep_small:
+                fixed.append(part.lower() if keep_small and core.islower() else part)
+            else:
+                k = part.index(core[0])
+                fixed.append(part[:k] + core[0].upper() + part[k + 1:])
+        out.append("-".join(fixed))
+    return " ".join(out)
+
+
 def story_key(year, text):
     """Stable id for a story, used to cache AI headlines across rebuilds."""
     return hashlib.sha1(f"{year}\n{text}".encode()).hexdigest()[:16]
@@ -400,7 +427,7 @@ def rank(rows):
         r["abouts"] = cands[:3]
         r["about"] = r["abouts"][0] if r["abouts"] else None
         r["key"] = story_key(r["year"], r["text"])
-        r["headline"] = HEADLINES.get(r["key"]) or headline(r["text"])
+        r["headline"] = HEADLINES.get(r["key"]) or title_case(headline(r["text"]))
     lead, rest = kept[:1], kept[1:]
     rest.sort(key=lambda r: r["year"], reverse=True)  # newest year first
     if lead:
@@ -434,6 +461,7 @@ def clean_credit(s):
     t = re.sub(r"\S+\.(?:jpe?g|png|gif|tiff?)\s*:?", "", t, flags=re.I)
     t = re.sub(r"\b(?:derivative work|original uploader was|uploader was)\b:?", "", t, flags=re.I)
     t = re.sub(r"\s+talk\b", "", t)
+    t = re.sub(r"(Unknown author)+", "Unknown author", t)  # Commons sometimes repeats it with no space
     t = re.sub(r"\s+", " ", t).strip(" :;,-")
     return (t[:70].rsplit(" ", 1)[0] if len(t) > 70 else t) or "Wikimedia Commons"
 
@@ -539,9 +567,29 @@ def add_photos(stories):
     return stories
 
 
+def load_json_file(name):
+    try:
+        return json.loads((ROOT / "data" / name).read_text())
+    except (OSError, ValueError):
+        return {}
+
+
+def apply_videos(stories):
+    """Attach the video chosen by find_videos.py (data/videos.json). data/video_overrides.json wins:
+    {"storykey": "videoId"} forces a video, {"storykey": null} blocks one."""
+    found, overrides = load_json_file("videos.json"), load_json_file("video_overrides.json")
+    for st in stories:
+        st.pop("video", None)
+        k = st.get("key")
+        v = {"id": overrides[k], "title": "", "channel": ""} if isinstance(overrides.get(k), str) else None if k in overrides else found.get(k)
+        if v and v.get("id"):
+            st["video"] = {"id": v["id"], "title": v.get("title", ""), "channel": v.get("channel", "")}
+    return stories
+
+
 def pick_lead(stories):
-    """Lead = the strongest non-obituary story that has a real photo; the rest run newest year first."""
-    pool = [x for x in stories if x.get("image") and x["kind"] != "death" and not x.get("merged")] or stories
+    """Lead = the strongest non-obituary story that has a photo or video; the rest run newest year first."""
+    pool = [x for x in stories if (x.get("image") or x.get("video")) and x["kind"] != "death" and not x.get("merged")] or stories
     if not pool:
         return stories
     lead = max(pool, key=lambda x: x["score"])
@@ -608,7 +656,7 @@ def main():
         s = stories_for(month, day, pages)
         if a.write:
             add_photos(s)
-            s = pick_lead(s)
+            s = pick_lead(apply_videos(s))
         by = {}
         for r in s:
             by[r["src"] + "/" + r["kind"]] = by.get(r["src"] + "/" + r["kind"], 0) + 1

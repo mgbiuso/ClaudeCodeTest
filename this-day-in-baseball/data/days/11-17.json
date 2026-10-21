@@ -20,7 +20,7 @@
    ],
    "about": "Dale Murphy",
    "key": "3019cec0d00cfd59",
-   "headline": "Center fielder Dale Murphy wins the National League MVP Award",
+   "headline": "Dale Murphy Wins NL MVP, First Braves Player Honored Since Aaron",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Meeting_Dale_Murphy_at_CNN_Center.jpg",
     "credit": "Whitney & Matt Dellinger from Atlanta, GA, USA",
@@ -40,21 +40,31 @@
   {
    "src": "article",
    "kind": "event",
-   "year": "2024",
-   "text": "Eric Lamoine Wilkins (December 9, 1956 – November 17, 2024) was an American former Major League Baseball pitcher who played for one season.",
+   "year": "2022",
+   "text": "On November 17, 2022, the Mariners traded Lewis to the Arizona Diamondbacks in exchange for Cooper Hummel.",
    "links": [
-    "Eric Wilkins"
+    "Kyle Lewis"
    ],
-   "about": "Eric Wilkins",
-   "score": 30.284524256682364,
+   "about": "Kyle Lewis",
+   "score": 42.88630976792908,
    "abouts": [
-    "Eric Wilkins"
+    "Kyle Lewis"
    ],
-   "key": "d85c96c707e39fa5",
-   "headline": "Eric Wilkins, former one-season Major League pitcher, dies",
-   "image": null,
-   "extract": "Eric Lamoine Wilkins was an American former Major League Baseball pitcher who played for one season. He pitched for the Cleveland Indians for 16 games during the 1979 Cleveland Indians season.",
-   "page": "https://en.wikipedia.org/wiki/Eric_Wilkins"
+   "key": "9eb2ecde11502702",
+   "headline": "The Mariners Traded Lewis to the Arizona Diamondbacks in Exchange",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kyle_Lewis_2019.jpg/960px-Kyle_Lewis_2019.jpg",
+    "credit": "PaulHamaker Cropped by 佾珜",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kyle_Lewis_2019.jpg",
+    "alt": "American baseball player (born 1995)",
+    "source": "wikipedia",
+    "of": "Kyle Lewis",
+    "w": 1091,
+    "h": 1902
+   },
+   "extract": "Kyle Alexander Lewis is an American former professional baseball outfielder. He played in Major League Baseball (MLB) for the Seattle Mariners and Arizona Diamondbacks. Prior to his MLB debut, he played college baseball for the Mercer Bears.",
+   "page": "https://en.wikipedia.org/wiki/Kyle_Lewis"
   },
   {
    "src": "article",
@@ -65,12 +75,12 @@
     "Jeff Conine"
    ],
    "about": "Jeff Conine",
-   "score": 30.884650422252527,
+   "score": 30.861992889696523,
    "abouts": [
     "Jeff Conine"
    ],
    "key": "1d0c0799845475dc",
-   "headline": "Jeff Conine hired by Miami Marlins as special assistant for 2023",
+   "headline": "Conine Hired by Miami Marlins as Special Assistant for 2023",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/JeffConineMarlinsPark2019.jpg",
     "credit": "Rabbethan",
@@ -96,7 +106,7 @@
    "abouts": [],
    "about": null,
    "key": "9ce16c656c997bc5",
-   "headline": "Free agents' deadline to accept qualifying offers arrives",
+   "headline": "Last Day for Former Club Qualifying Offers to Free Agents",
    "image": null,
    "extract": "",
    "page": ""
@@ -119,7 +129,7 @@
    ],
    "about": "Corbin Burnes",
    "key": "637515fa9513b8d2",
-   "headline": "Corbin Burnes wins Cy Young over Zack Wheeler by 10 votes",
+   "headline": "Corbin Burnes Wins NL Cy Young Over Zack Wheeler by 10 Votes",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Corbin_Burnes_%2843423890531%29_%28cropped%29.jpg/960px-Corbin_Burnes_%2843423890531%29_%28cropped%29.jpg",
     "credit": "Ian D'Andrea on Flickr",
@@ -144,12 +154,12 @@
     "Jed Hoyer"
    ],
    "about": "Jed Hoyer",
-   "score": 29.866793999431987,
+   "score": 29.82929968403536,
    "abouts": [
     "Jed Hoyer"
    ],
    "key": "b97de8a02367dc96",
-   "headline": "Jed Hoyer named Cubs president of baseball operations after Epstein exit",
+   "headline": "Hoyer Named Cubs President of Baseball Operations After Epstein Exit",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2015_-WinterMeetings-_Jed_Hoyer_%2823613745646%29.jpg/960px-2015_-WinterMeetings-_Jed_Hoyer_%2823613745646%29.jpg",
     "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
@@ -181,7 +191,7 @@
    ],
    "about": "John Hart (baseball)",
    "key": "dcd9584afeb680fe",
-   "headline": "John Hart steps down as Braves president of baseball operations",
+   "headline": "John Hart Steps Down as Braves President Amid MLB Investigation",
    "image": null,
    "extract": "John Henry Hart Jr is an American former professional baseball executive who served as the general manager in Major League Baseball for the Cleveland Indians and Texas Rangers and president of baseball operations for the Atlanta Braves. He also was the interim field manager of the Indians in 1989, third-base coach of…",
    "page": "https://en.wikipedia.org/wiki/John_Hart_(baseball)"
@@ -204,7 +214,7 @@
    ],
    "about": "American League",
    "key": "a00f7f446c02f508",
-   "headline": "Owners approve sale of Astros to Jim Crane group",
+   "headline": "Owners Approve Astros Sale to Jim Crane, Move to AL in 2013",
    "image": null,
    "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
    "page": "https://en.wikipedia.org/wiki/American_League"
@@ -225,7 +235,7 @@
    ],
    "about": "Bo Schembechler",
    "key": "f097f4d9ca10f230",
-   "headline": "Bo Schembechler, 77, former Tigers president and Hall of Fame coach, dies",
+   "headline": "Bo Schembechler, 77, Hall of Fame Coach, Former Tigers President",
    "image": null,
    "extract": "William Earnest Harwell was an American sportscaster, known for his long career calling play-by-play of Major League Baseball games. For 55 seasons, 42 of them with the Detroit Tigers, Harwell broadcast the action on radio and/or television. In January 2009, the American Sportscasters Association ranked him 16th on…",
    "page": "https://en.wikipedia.org/wiki/Ernie_Harwell"
@@ -248,7 +258,7 @@
    ],
    "about": "Jason Giambi",
    "key": "73d05d5565dfae0a",
-   "headline": "Jason Giambi of Athletics named American League MVP",
+   "headline": "Jason Giambi Named AL MVP Over Frank Thomas, Alex Rodriguez",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Jason_Giambi_%282009%29.jpg/960px-Jason_Giambi_%282009%29.jpg",
     "credit": "bryce_edwards",
@@ -282,7 +292,7 @@
    ],
    "about": "Cy Young Award",
    "key": "306465f4d9e092da",
-   "headline": "Tom Glavine wins second Cy Young in close vote over Hoffman",
+   "headline": "Glavine Wins Second NL Cy Young in Close Vote Over Hoffman",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tom_Glavine_%2851008654853%29_%28cropped%29.jpg",
     "credit": "Jeffrey Hayes",
@@ -307,12 +317,12 @@
     "1992 Major League Baseball expansion draft"
    ],
    "about": "1992 Major League Baseball expansion draft",
-   "score": 34.563766518356616,
+   "score": 34.54778014620588,
    "abouts": [
     "1992 Major League Baseball expansion draft"
    ],
    "key": "dfca019db0c9e4ff",
-   "headline": "MLB expansion draft held in New York City in 1992",
+   "headline": "Expansion Draft Held in New York City",
    "image": null,
    "extract": "The 1992 Major League Baseball expansion draft was held on November 17, 1992, in New York City. The expansion draft allowed two expansion teams in Major League Baseball (MLB)—the Colorado Rockies and Florida Marlins—to build their rosters prior to their inaugural seasons.",
    "page": "https://en.wikipedia.org/wiki/1992_Major_League_Baseball_expansion_draft"
@@ -335,7 +345,7 @@
    ],
    "about": "Trevor Hoffman",
    "key": "919385e2a0027f6a",
-   "headline": "Expansion draft stocks Marlins and Rockies with 72 players",
+   "headline": "Expansion Draft Stocks Marlins and Rockies With 72 Players",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Trevor_Hoffman_01.jpg/960px-Trevor_Hoffman_01.jpg",
     "credit": "Djh57",
@@ -369,7 +379,7 @@
    ],
    "about": "Nick Esasky",
    "key": "b63672743209fa7d",
-   "headline": "Braves sign first baseman Nick Esasky, 29, after Red Sox",
+   "headline": "Braves Sign Nick Esasky, 29, After 30-Homer Season in Boston",
    "image": null,
    "extract": "Nicholas Andrew Esasky is an American former professional baseball corner infielder. He played in Major League Baseball (MLB) from 1983 to 1990, primarily with the Cincinnati Reds.",
    "page": "https://en.wikipedia.org/wiki/Nick_Esasky"
@@ -392,7 +402,7 @@
    ],
    "about": "American League",
    "key": "b951f093188dc771",
-   "headline": "George Bell becomes first Blue Jay to win AL MVP Award",
+   "headline": "George Bell Becomes First Blue Jay to Win AL MVP Over Trammell",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/George_Bell_1985.jpg/960px-George_Bell_1985.jpg",
     "credit": "Robert Taylor from Stirling, ON, Canada",
@@ -426,7 +436,7 @@
    ],
    "about": "Willie Wilson (baseball)",
    "key": "b5661ce4adbf3c11",
-   "headline": "Three Royals and Vida Blue convicted of cocaine purchase attempt",
+   "headline": "Willie Wilson, Aikens, Martin, Vida Blue Convicted in Cocaine Case",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Willie_Wilson_1978.jpg",
     "credit": "Major League Baseball / Kansas City Royals",
@@ -460,7 +470,7 @@
    ],
    "about": "Don Stanhouse",
    "key": "baf6f2494045834c",
-   "headline": "Dodgers sign reliever Don Stanhouse, granted free agency by Orioles",
+   "headline": "Dodgers Sign Don Stanhouse, Granted Free Agency by Orioles",
    "image": null,
    "extract": "Donald Joseph Stanhouse is an American former professional baseball pitcher who had an eight-year Major League Baseball (MLB) career (1972–1980) with a brief comeback in 1982. He pitched for the Texas Rangers and Baltimore Orioles of the American League and the Montreal Expos and Los Angeles Dodgers of the National…",
    "page": "https://en.wikipedia.org/wiki/Don_Stanhouse"
@@ -474,12 +484,12 @@
     "Gary Matthews"
    ],
    "about": "Gary Matthews",
-   "score": 27.80371650527356,
+   "score": 27.727772536170324,
    "abouts": [
     "Gary Matthews"
    ],
    "key": "891887a97b43b949",
-   "headline": "Matthews signs five-year, $1,875,000 contract with Braves",
+   "headline": "Matthews Signs Five-Year, $1,875,000 Deal With Braves",
    "image": null,
    "extract": "Gary Nathaniel Matthews Sr., nicknamed \"Sarge\", is an American former professional baseball left fielder, who played 16 seasons in Major League Baseball (MLB). After his playing days, Matthews was a color commentator for Philadelphia Phillies broadcasts. He is the father of former big league outfielder Gary Matthews…",
    "page": "https://en.wikipedia.org/wiki/Gary_Matthews"
@@ -500,7 +510,7 @@
    ],
    "about": "Vida Blue",
    "key": "eac09133c955c1b1",
-   "headline": "Vida Blue, 22, becomes youngest player to win AL MVP Award",
+   "headline": "Vida Blue, 22, Becomes Youngest Player to Win MVP",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/OAK1970R35BLUE.png",
     "credit": "William F. Henderson",
@@ -530,7 +540,7 @@
     "Dick Selma"
    ],
    "key": "f6adf0ad9161b903",
-   "headline": "Dick Selma traded to Phillies with Oscar Gamble for Johnny Callison",
+   "headline": "Cubs Trade Selma to Phillies for Callison and Colton",
    "image": null,
    "extract": "Richard Jay Selma was an American professional baseball player who was a pitcher in the Major Leagues from 1965 to 1974. He played for the New York Mets, Chicago Cubs, San Diego Padres, Philadelphia Phillies, California Angels, and Milwaukee Brewers during his 10-year major league career.",
    "page": "https://en.wikipedia.org/wiki/Dick_Selma"
@@ -553,10 +563,10 @@
    ],
    "about": "Johnny Callison",
    "key": "7b6992a5f2881f08",
-   "headline": "Phillies trade Johnny Callison, 30, to Cubs for Dick Selma",
+   "headline": "Phillies Deal Johnny Callison, 30, to Chicago Cubs",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/John_Callison_1961.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:John_Callison_1961.jpg",
     "alt": "Black-and-white photo of a pinstriped baseball player in a Phillies cap holding a bat",
@@ -583,7 +593,7 @@
    ],
    "about": "Benny Kauff",
    "key": "b0afa0fad45c0ccb",
-   "headline": "Benny Kauff, 71, Ty Cobb of the Feds, dies",
+   "headline": "Benny Kauff, 71, Federal League Batting and Stolen Base Champ",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Benny_Kauff_%28baseball%29_LCCN2014690123.jpg/960px-Benny_Kauff_%28baseball%29_LCCN2014690123.jpg",
     "credit": "Bain News Service, publisher",
@@ -617,7 +627,7 @@
    ],
    "about": "Major League Baseball All-Star Game",
    "key": "1e523630975556e6",
-   "headline": "Browns trade Vern Stephens and Jack Kramer to Red Sox for six players",
+   "headline": "Browns Trade Vern Stephens to Red Sox for $310,000 and Six Players",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/St._Louis_Browns_Baseball_Team%2C_1902_-_DPLA_-_b87b3ebb66af4ebbfe92903fd1519429.jpg/960px-St._Louis_Browns_Baseball_Team%2C_1902_-_DPLA_-_b87b3ebb66af4ebbfe92903fd1519429.jpg",
     "credit": "Horner, Carl J",
@@ -643,7 +653,7 @@
    "abouts": [],
    "about": null,
    "key": "adea8600fab20714",
-   "headline": "National League owners shorten 1893 schedule to 132 games",
+   "headline": "National League Owners Shorten 1893 Schedule to 132 Games",
    "image": null,
    "extract": "",
    "page": ""
@@ -666,7 +676,7 @@
    ],
    "about": "Players' League",
    "key": "e6ae892bfc923b4d",
-   "headline": "Club owners meet John Montgomery Ward, Ned Hanlon, Dan Brouthers",
+   "headline": "Club Owners Recognize Brotherhood of Professional Base-Ball Players",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Monte_Ward%2C_New_York_Giants%2C_baseball_card_portrait_LOC_3971750600.jpg",
     "credit": "The Library of Congress",

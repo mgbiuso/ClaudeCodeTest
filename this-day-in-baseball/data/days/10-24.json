@@ -20,7 +20,7 @@
    ],
    "about": "1960 World Series",
    "key": "8ff98a67f14ec8fc",
-   "headline": "Pirates release Bill Mazeroski, 36, a 1960 World Series hero",
+   "headline": "Pirates Release Bill Mazeroski, 36, Hall of Famer",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bill_Mazeroski_at_Forbes_Field_-_October_13%2C_2010.jpg/960px-Bill_Mazeroski_at_Forbes_Field_-_October_13%2C_2010.jpg",
     "credit": "arthur.wessel",
@@ -41,25 +41,6 @@
    "src": "article",
    "kind": "event",
    "year": "2019",
-   "text": "On October 24, 2019, the Cincinnati Reds announced the hiring of Zinter as their hitting coach.",
-   "links": [
-    "Alan Zinter"
-   ],
-   "about": "Alan Zinter",
-   "score": 22.15681882079494,
-   "abouts": [
-    "Alan Zinter"
-   ],
-   "key": "0f5cb7cbcf80184c",
-   "headline": "Reds hire Zinter as hitting coach",
-   "image": null,
-   "extract": "Alan Michael Zinter is an American former professional baseball player and hitting coach. He played for Seibu Lions of Nippon Professional Baseball (NPB) in 1999 and with the Houston Astros and Arizona Diamondbacks of Major League Baseball (MLB) in 2002 and 2004, respectively. He served as the minor league hitting…",
-   "page": "https://en.wikipedia.org/wiki/Alan_Zinter"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "2019",
    "text": "On October 24, 2019, the Cubs hired Ross as their manager to replace Joe Maddon, signing him to a three-year contract.",
    "links": [
     "David Ross (baseball)"
@@ -70,7 +51,7 @@
     "David Ross (baseball)"
    ],
    "key": "cff701726451dd34",
-   "headline": "Cubs hire Ross as manager, replacing Joe Maddon on three-year deal",
+   "headline": "Cubs Hire Ross as Manager, Replacing Joe Maddon",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/David_Ross_%287769246%29_%28cropped%29.jpg",
     "credit": "U.S. Navy photo by Mass Communication Specialist 2nd Class Zachary D.",
@@ -87,6 +68,25 @@
    "page": "https://en.wikipedia.org/wiki/David_Ross_(baseball)"
   },
   {
+   "src": "article",
+   "kind": "event",
+   "year": "2019",
+   "text": "On October 24, 2019, the Cincinnati Reds announced the hiring of Zinter as their hitting coach.",
+   "links": [
+    "Alan Zinter"
+   ],
+   "about": "Alan Zinter",
+   "score": 10.0,
+   "abouts": [
+    "Alan Zinter"
+   ],
+   "key": "0f5cb7cbcf80184c",
+   "headline": "Reds Hire Zinter as Hitting Coach",
+   "image": null,
+   "extract": "Alan Michael Zinter is an American former professional baseball player and hitting coach. He played for Seibu Lions of Nippon Professional Baseball (NPB) in 1999 and with the Houston Astros and Arizona Diamondbacks of Major League Baseball (MLB) in 2002 and 2004, respectively. He served as the minor league hitting…",
+   "page": "https://en.wikipedia.org/wiki/Alan_Zinter"
+  },
+  {
    "src": "yearpage",
    "kind": "event",
    "year": "2018",
@@ -96,7 +96,7 @@
     "Fenway Park",
     "2018 World Series"
    ],
-   "score": 87.49568497268692,
+   "score": 87.46652330746505,
    "abouts": [
     "2018 World Series",
     "David Price (baseball)",
@@ -104,7 +104,7 @@
    ],
    "about": "2018 World Series",
    "key": "6e2c9b3a72502d24",
-   "headline": "David Price holds Dodgers to two runs as Red Sox take 2-0 lead",
+   "headline": "Price Holds Dodgers to Two Runs, Red Sox Lead 2-0",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/David_Price_in_game_against_Yankees_09-27-16_%284%29.jpeg/960px-David_Price_in_game_against_Yankees_09-27-16_%284%29.jpeg",
     "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
@@ -129,14 +129,14 @@
     "2017 World Series",
     "Clayton Kershaw"
    ],
-   "score": 88.1582840258396,
+   "score": 88.14368113367837,
    "abouts": [
     "2017 World Series",
     "Clayton Kershaw"
    ],
    "about": "2017 World Series",
    "key": "a29a9bc0944e6faa",
-   "headline": "Clayton Kershaw pitches Dodgers past Astros 3-1 in World Series Game 1",
+   "headline": "Clayton Kershaw Leads Dodgers Past Astros 3-1 in Game 1",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/171025-F-HP195-1244_Falcons_soar_over_L.A._%28cropped%29.jpg",
     "credit": "Christopher Okula (Original version) UCinternational (Crop)",
@@ -166,7 +166,7 @@
     "Charlie Montoyo"
    ],
    "key": "298111443c7d9478",
-   "headline": "Rays hire Matt Quatraro as third base coach, Montoyo as bench coach",
+   "headline": "Rays Hire Matt Quatraro as Third Base Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Charlie_Montoyo_in_2017.jpg/960px-Charlie_Montoyo_in_2017.jpg",
     "credit": "Keith Allison from Hanover, MD, USA",
@@ -191,12 +191,12 @@
     "2012 Major League Baseball season"
    ],
    "about": "2012 Major League Baseball season",
-   "score": 103.93871885823233,
+   "score": 103.90266662658202,
    "abouts": [
     "2012 Major League Baseball season"
    ],
    "key": "8b3b534e536a2808",
-   "headline": "Giants sweep Tigers in 2012 World Series, starting October 24",
+   "headline": "Giants Sweep Tigers in World Series Starting Oct. 24",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dave_Righetti_%26_Mark_Gardner_%288146873950%29.jpg/960px-Dave_Righetti_%26_Mark_Gardner_%288146873950%29.jpg",
     "credit": "Michael Marconi",
@@ -222,7 +222,7 @@
     "San Francisco Giants",
     "2012 World Series"
    ],
-   "score": 100.59809374876288,
+   "score": 100.57305492116086,
    "abouts": [
     "2012 World Series",
     "Pablo Sandoval",
@@ -230,7 +230,7 @@
    ],
    "about": "2012 World Series",
    "key": "bad7379a7c82ded6",
-   "headline": "Pablo Sandoval hits three homers in World Series Game 1 win",
+   "headline": "Pablo Sandoval Hits Three Homers in Giants' Game 1 Win",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pablo_Sandoval%2C_2012_World_Series_parade.jpg/960px-Pablo_Sandoval%2C_2012_World_Series_parade.jpg",
     "credit": "mvmarconi on Flickr",
@@ -244,7 +244,12 @@
     "tier": "person"
    },
    "extract": "The 2012 World Series was the championship series of Major League Baseball's (MLB) 2012 season. The 108th edition of the World Series, the series was a best-of-seven playoff between the National League (NL) champion San Francisco Giants and the American League (AL) champion Detroit Tigers; the Giants won in a…",
-   "page": "https://en.wikipedia.org/wiki/2012_World_Series"
+   "page": "https://en.wikipedia.org/wiki/2012_World_Series",
+   "video": {
+    "id": "yQ5xfO1nYMU",
+    "title": "WS2012 Gm1: Sandoval swats three homers vs. Tigers",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -255,14 +260,14 @@
     "Buck O'Neil",
     "Buck O'Neil Lifetime Achievement Award"
    ],
-   "score": 82.52175259621367,
+   "score": 62.0,
    "abouts": [
     "Buck O'Neil",
     "Buck O'Neil Lifetime Achievement Award"
    ],
    "about": "Buck O'Neil",
    "key": "bf5fdbc761b7c77d",
-   "headline": "Hall of Fame to honor Buck O'Neil with lifetime achievement award",
+   "headline": "Hall of Fame to Honor Buck O'Neil With Lifetime Award",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Buck_O%27Neil_autograph.jpg",
     "credit": "kc congdon from rochester, ny",
@@ -294,7 +299,7 @@
    ],
    "about": "Fenway Park",
    "key": "ee9b4636ac6535f9",
-   "headline": "Curt Schilling leads Red Sox to 6-2 win, 2-0 Series lead",
+   "headline": "Red Sox Beat Fenway 6-2 Behind Curt Schilling, Take 2-0 Lead",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/SchillingNew.JPG",
     "credit": "User Googie man on en.wikipedia",
@@ -328,7 +333,7 @@
    ],
    "about": "1996 World Series",
    "key": "29af18c653f816aa",
-   "headline": "Andy Pettitte outduels John Smoltz as Yankees win Game 5, 1-0",
+   "headline": "Andy Pettitte Outduels Smoltz, Yankees Win Game 5 1-0",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Andy_Pettitte_by_Keith_Allison_8_31_09_pic2_CROP.jpg/960px-Andy_Pettitte_by_Keith_Allison_8_31_09_pic2_CROP.jpg",
     "credit": "Keith Allison on Flickr. Cropped by User:Staxringold.",
@@ -342,7 +347,12 @@
     "tier": "person"
    },
    "extract": "The 1996 World Series was the championship series of Major League Baseball's (MLB) 1996 season. The 92nd edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Atlanta Braves and the American League (AL) champion New York Yankees. The Yankees defeated the Braves four…",
-   "page": "https://en.wikipedia.org/wiki/1996_World_Series"
+   "page": "https://en.wikipedia.org/wiki/1996_World_Series",
+   "video": {
+    "id": "huHgoLS4mQ4",
+    "title": "1996 WS Gm5: Pettitte pitches out of a jam in the 6th",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -362,7 +372,7 @@
    ],
    "about": "1992 World Series",
    "key": "b6edd77ab91299d7",
-   "headline": "Blue Jays beat Braves 4-3 in Game 6 to win first World Series",
+   "headline": "Blue Jays Beat Braves 4-3, Clinch First World Series Title",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/World_Series_Trophy_%2848266104832%29.jpg/960px-World_Series_Trophy_%2848266104832%29.jpg",
     "credit": "Erik Drost",
@@ -376,7 +386,12 @@
     "tier": "event"
    },
    "extract": "The 1992 World Series was the championship series of Major League Baseball's (MLB) 1992 season. The 89th edition of the World Series, was a best-of-seven playoff, played between the American League (AL) champion Toronto Blue Jays and the National League (NL) champion Atlanta Braves. Toronto defeated Atlanta in six…",
-   "page": "https://en.wikipedia.org/wiki/1992_World_Series"
+   "page": "https://en.wikipedia.org/wiki/1992_World_Series",
+   "video": {
+    "id": "U9pCrFxwjeo",
+    "title": "92 WS, GM 6, TOR@ATL: Blue Jays win the World Series",
+    "channel": "MLB"
+   }
   },
   {
    "src": "onthisday",
@@ -392,7 +407,7 @@
    ],
    "about": "Toronto Blue Jays",
    "key": "8bf6c167b4bddad1",
-   "headline": "Blue Jays become first non-U.S. team to win World Series",
+   "headline": "Blue Jays Become First Non-U.S. Team to Win World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/World_Series_Trophy_%2848266104832%29.jpg/960px-World_Series_Trophy_%2848266104832%29.jpg",
     "credit": "Erik Drost",
@@ -426,10 +441,15 @@
    ],
    "about": "Danny Jackson",
    "key": "f8a3ec742f58d6e4",
-   "headline": "Danny Jackson throws first Immaculate Inning in World Series",
+   "headline": "Danny Jackson Throws Immaculate Inning in World Series Game 5",
    "image": null,
    "extract": "Danny Lynn Jackson is an American former professional baseball pitcher who played 15 seasons in Major League Baseball from 1983 to 1997. He played for the Kansas City Royals, Cincinnati Reds, Chicago Cubs, Pittsburgh Pirates, Philadelphia Phillies, St. Louis Cardinals, and San Diego Padres.",
-   "page": "https://en.wikipedia.org/wiki/Danny_Jackson"
+   "page": "https://en.wikipedia.org/wiki/Danny_Jackson",
+   "video": {
+    "id": "0ZE8xPQXx74",
+    "title": "WS1985 Gm5: Jackson throws immaculate inning in 7th",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -449,7 +469,7 @@
    ],
    "about": "Whitey Herzog",
    "key": "4f44535b6d834fed",
-   "headline": "Whitey Herzog returns to Cardinals dugout as manager and GM",
+   "headline": "Whitey Herzog to Manage and Run Cardinals in 1981",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Whitey_Herzog_ca_1989.jpg",
     "credit": "Johnmaxmena, John Mena",
@@ -483,7 +503,7 @@
    ],
    "about": "Jean R. Yawkey",
    "key": "4ac9172fca9c487a",
-   "headline": "Red Sox fire Dick O'Connell, name Haywood Sullivan general manager",
+   "headline": "Red Sox Owner Jean Yawkey Fires Dick O'Connell",
    "image": null,
    "extract": "Jean Remington Yawkey was the wife of Tom Yawkey and owner of the Boston Red Sox from 1976 to her death in 1992.",
    "page": "https://en.wikipedia.org/wiki/Jean_R._Yawkey"
@@ -506,7 +526,7 @@
    ],
    "about": "Joaquín Andújar",
    "key": "ce7eb5a7c202a7a0",
-   "headline": "Astros acquire pitching prospect Joaquín Andújar from Reds",
+   "headline": "Astros Acquire Joaquín Andújar From Reds for Two Players",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Astrodome_1965.jpeg/960px-Astrodome_1965.jpeg",
     "credit": "Ted Rozumalski",
@@ -540,7 +560,7 @@
    ],
    "about": "Associated Press",
    "key": "c11512c049d8f927",
-   "headline": "Billy Martin named AL Manager of the Year for Texas Rangers",
+   "headline": "Billy Martin Named AP American League Manager of the Year",
    "image": null,
    "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
    "page": "https://en.wikipedia.org/wiki/American_League"
@@ -559,7 +579,7 @@
    ],
    "about": "Al Brazle",
    "key": "8f754e0407d294a6",
-   "headline": "Al Brazle, 60, former St. Louis Cardinals pitcher, dies",
+   "headline": "Al Brazle, 60, Pitcher Who Won 97 Games for Cardinals",
    "image": null,
    "extract": "Alpha Eugene Brazle was an American Major League Baseball pitcher. The left-hander was signed by the Boston Red Sox as an amateur free agent in 1936, and later traded to the St. Louis Cardinals for pitcher Mike Ryba in September, 1940. He played his entire MLB career for the Cards. In 1954, at the age of 40, he was…",
    "page": "https://en.wikipedia.org/wiki/Al_Brazle"
@@ -582,7 +602,7 @@
    ],
    "about": "Marty Pattin",
    "key": "8851e8da451327a3",
-   "headline": "Red Sox trade Marty Pattin to Royals for Dick Drago",
+   "headline": "Red Sox Swap Pitchers, Send Marty Pattin to Royals for Dick Drago",
    "image": null,
    "extract": "Martin William Pattin was an American professional baseball player who appeared in 475 games in Major League Baseball as a right-handed pitcher. He pitched for the California Angels (1968), Seattle Pilots / Milwaukee Brewers (1969–1971), Boston Red Sox (1972–1973), and the Kansas City Royals (1974–1980). During a…",
    "page": "https://en.wikipedia.org/wiki/Marty_Pattin"
@@ -601,7 +621,7 @@
    ],
    "about": "Jackie Robinson",
    "key": "3baf628327d67150",
-   "headline": "Jackie Robinson, 53, Hall of Fame second baseman, dies",
+   "headline": "Jackie Robinson, 53, Hall of Fame Second Baseman for Dodgers",
    "image": null,
    "extract": "Jack Roosevelt Robinson was an American professional baseball player who was the first African American to play in Major League Baseball (MLB) in the modern era. Robinson broke the color line when he started at first base for the Brooklyn Dodgers on April 15, 1947. The Dodgers signing Robinson heralded the end of…",
    "page": "https://en.wikipedia.org/wiki/Jackie_Robinson"
@@ -620,7 +640,7 @@
    ],
    "about": "Andy Oyler",
    "key": "353001e5878f343b",
-   "headline": "Andy Oyler, 90, infielder for 1902 Baltimore Orioles, dies",
+   "headline": "Andy Oyler, 90, Infielder-Outfielder for 1902 Baltimore Orioles",
    "image": null,
    "extract": "Andrew Paul \"Pepper\" Oyler was an American professional baseball player who played one season in Major League Baseball for the Baltimore Orioles in 1902. In 27 games as a third baseman, shortstop, and outfielder for the Orioles, he had 77 at-bats with 17 hits and one home run.",
    "page": "https://en.wikipedia.org/wiki/Andy_Oyler"
@@ -639,7 +659,7 @@
     "Hiram Bithorn Stadium"
    ],
    "key": "5a3e69b087cae3b0",
-   "headline": "Hiram Bithorn Stadium opens in San Juan, Puerto Rico",
+   "headline": "Hiram Bithorn Stadium Opens in San Juan, Puerto Rico",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hiram_Bithorn_Stadium_2.JPG/960px-Hiram_Bithorn_Stadium_2.JPG",
     "credit": "Mtmelendez",
@@ -664,12 +684,12 @@
     "1960 Milwaukee Braves season"
    ],
    "about": "1960 Milwaukee Braves season",
-   "score": 22.39283247796922,
+   "score": 22.363782246586062,
    "abouts": [
     "1960 Milwaukee Braves season"
    ],
    "key": "b141b371341f8b03",
-   "headline": "Braves sign Rico Carty as amateur free agent",
+   "headline": "Braves Sign Rico Carty as Amateur Free Agent",
    "image": null,
    "extract": "The 1960 Milwaukee Braves season was the eighth for the franchise in Milwaukee, and the 90th overall. The Braves finished in second place in the National League with a record of 88–66, seven games behind the NL and World Series Champion Pittsburgh Pirates.",
    "page": "https://en.wikipedia.org/wiki/1960_Milwaukee_Braves_season"
@@ -692,7 +712,7 @@
    ],
    "about": "The Sporting News",
    "key": "8a3732de3f438ad4",
-   "headline": "Birdie Tebbetts named Sporting News MLB Manager of the Year",
+   "headline": "Birdie Tebbetts Named MLB Manager of the Year by Sporting News",
    "image": null,
    "extract": "George Robert \"Birdie\" Tebbetts was an American professional baseball player, manager, scout and front office executive. He played in Major League Baseball (MLB) as a catcher for the Detroit Tigers, Boston Red Sox and the Cleveland Indians from 1936 to 1952. Tebbetts was regarded as the best catcher in the American…",
    "page": "https://en.wikipedia.org/wiki/Birdie_Tebbetts"
@@ -715,7 +735,7 @@
    ],
    "about": "Willy Miranda",
    "key": "2466d2f2fd2ccee0",
-   "headline": "Senators trade Willy Miranda to White Sox for Floyd Baker",
+   "headline": "Senators Send Willy Miranda to White Sox for Floyd Baker",
    "image": null,
    "extract": "Guillermo \"Willy\" Miranda Perez was a Cuban-born professional baseball player who played shortstop in the Major Leagues from 1951–1959. Though he was often dazzling in the field, he was a notoriously light hitter, batting .221 lifetime in the majors with a .271 slugging percentage.",
    "page": "https://en.wikipedia.org/wiki/Willy_Miranda"
@@ -738,7 +758,7 @@
    ],
    "about": "Mel Harder",
    "key": "119ab42750e5b977",
-   "headline": "Indians release Mel Harder, who stays on as pitching coach",
+   "headline": "Indians Release Mel Harder, Who Stays on as Pitching Coach",
    "image": null,
    "extract": "Melvin Leroy Harder, nicknamed \"Chief\", was an American right-handed starting pitcher, coach and manager in Major League Baseball, who played his entire career with the Cleveland Indians. He spent 42 seasons in baseball, the first 36 with the Indians as a pitcher from 1928 to 1947 and as one of the game's most highly…",
    "page": "https://en.wikipedia.org/wiki/Mel_Harder"
@@ -761,7 +781,7 @@
    ],
    "about": "Tiny Bonham",
    "key": "d5286b48266b4300",
-   "headline": "Yankees trade Tiny Bonham to Pirates for Cookie Cuccurullo",
+   "headline": "Yankees Trade Tiny Bonham to Pirates for Cookie Cuccurullo",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tiny_Bonham_1943.jpg/960px-Tiny_Bonham_1943.jpg",
     "credit": "Unknown",
@@ -795,7 +815,7 @@
    ],
    "about": "Albert Von Tilzer",
    "key": "fd613c7c4ae63a02",
-   "headline": "Billy Murray introduces Take Me Out to the Ball Game",
+   "headline": "Billy Murray Introduces Take Me Out to the Ball Game",
    "image": null,
    "extract": "\"Take Me Out to the Ball Game\" is a 1908 waltz song by Jack Norworth and Albert Von Tilzer which has become the unofficial anthem of North American baseball, although neither of its authors had attended a game before writing the song. The song's chorus is traditionally sung as part of the seventh-inning stretch of a…",
    "page": "https://en.wikipedia.org/wiki/Take_Me_Out_to_the_Ball_Game"
@@ -810,7 +830,7 @@
    "abouts": [],
    "about": null,
    "key": "d8710c40393b6fad",
-   "headline": "Beaneaters win fifth straight game over Spiders for championship",
+   "headline": "Beaneaters Win Fifth Straight Over Spiders to Capture Title",
    "image": null,
    "extract": "",
    "page": ""
@@ -831,7 +851,7 @@
    ],
    "about": "St. Louis Cardinals",
    "key": "71c033c6aeebfb3b",
-   "headline": "Browns score four in eighth to beat Giants 7–5",
+   "headline": "Browns Score Four in Eighth, Beat Giants 7-5",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1883_New_York_Gothams.jpeg/960px-1883_New_York_Gothams.jpeg",
     "credit": "J Wood, 208 Bowery, N.Y.",
@@ -866,10 +886,10 @@
    ],
    "about": "Polo Grounds",
    "key": "8441d5cbe6a5d679",
-   "headline": "Providence Grays beat New York Metropolitans 3–1, game called by darkness",
+   "headline": "Providence Grays Beat New York Metropolitans 3-1 in Darkness-Shortened Game",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/1884grays.jpg/960px-1884grays.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1884grays.jpg",
     "alt": "Vintage team photo of uniformed baseball players in a stadium with bleachers",
@@ -898,7 +918,7 @@
    ],
    "about": "National League (baseball)",
    "key": "cc1ce507af39adaa",
-   "headline": "Cincinnati Reds formally withdraw from the National League",
+   "headline": "Cincinnati Reds Formally Withdraw From National League",
    "image": null,
    "extract": "The National League of Professional Baseball Clubs, known simply as the National League (NL), is the older of two leagues constituting Major League Baseball (MLB) in the United States and Canada, and the world's oldest extant professional team sports league. Founded on February 2, 1876, to replace the National…",
    "page": "https://en.wikipedia.org/wiki/National_League_(baseball)"

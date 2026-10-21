@@ -5,36 +5,36 @@
   {
    "src": "yearpage",
    "kind": "event",
-   "year": "2017",
-   "text": "The Houston Astros advanced to the World Series after defeating the New York Yankees, 4–0, in Game 7 of the American League Championship Series at Minute Maid Park. The Astros, who rallied from a 3–2 deficit in the best-of-seven series, returned to the World Series for the first time since 2005.",
+   "year": "1998",
+   "text": "The New York Yankees win the World Series, sweeping the San Diego Padres in four straight games. Yankees third baseman Scott Brosius is named the Series MVP. New York end the season with a major league record 125 combined regular season and postseason wins.",
    "links": [
-    "Minute Maid Park",
-    "2005 World Series",
-    "Charlie Morton (pitcher)"
+    "New York Yankees",
+    "1998 World Series",
+    "San Diego Padres"
    ],
-   "score": 107.83907103751375,
+   "score": 130.99424726646225,
    "abouts": [
-    "2005 World Series",
-    "Minute Maid Park",
-    "Charlie Morton (pitcher)"
+    "1998 World Series",
+    "New York Yankees",
+    "San Diego Padres"
    ],
-   "about": "2005 World Series",
-   "key": "323afb1686f2996a",
-   "headline": "Astros beat Yankees 4-0, reach World Series",
+   "about": "1998 World Series",
+   "key": "c12d84a29923e198",
+   "headline": "Yankees Sweep Padres, Win World Series; Brosius Named MVP",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BagwellStatue.png/960px-BagwellStatue.png",
-    "credit": "Wikidude10000",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:BagwellStatue.png",
-    "alt": "Bronze statue of a first baseman with huge glove outside a ballpark",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/World_Series_Trophy_%2848266104832%29.jpg/960px-World_Series_Trophy_%2848266104832%29.jpg",
+    "credit": "Erik Drost",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:World_Series_Trophy_(48266104832).jpg",
+    "alt": "Gold-and-silver World Series trophy with 'Presented by the Commissioner' plaque, outdoors.",
     "source": "checked",
-    "of": "Minute Maid Park",
-    "w": 1536,
-    "h": 2048,
-    "tier": "venue"
+    "of": "1998 World Series",
+    "w": 4032,
+    "h": 6048,
+    "tier": "event"
    },
-   "extract": "The 2005 World Series was the championship series of Major League Baseball's (MLB) 2005 season. The 101st edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Chicago White Sox and the National League (NL) champion Houston Astros. The White Sox swept the Astros in four…",
-   "page": "https://en.wikipedia.org/wiki/2005_World_Series",
+   "extract": "The 1998 World Series was the championship series of Major League Baseball's (MLB) 1998 season. The 94th edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion New York Yankees and the National League (NL) champion San Diego Padres. The Yankees swept the Padres in four…",
+   "page": "https://en.wikipedia.org/wiki/1998_World_Series",
    "lead": true
   },
   {
@@ -53,7 +53,7 @@
    ],
    "about": "Associated Press",
    "key": "7880a678e8f37970",
-   "headline": "Women's Pro Baseball League names four host cities",
+   "headline": "Women's Pro Baseball League Names Four Inaugural Host Cities",
    "image": null,
    "extract": "The Women’s Pro Baseball League (WPBL) is an American professional women's baseball league. Co-founded by Justine Siegal and Keith Stein, the league began its first season on August 1, 2026 with four teams representing four cities across the United States: the Boston Hunters, New York Heights, Los Angeles Queens, and…",
    "page": "https://en.wikipedia.org/wiki/Women's_Pro_Baseball_League"
@@ -72,7 +72,7 @@
     "2010 World Series"
    ],
    "key": "7c60abf271d54461",
-   "headline": "Rangers hire Bruce Bochy as new manager",
+   "headline": "Rangers Hire Bruce Bochy as New Manager",
    "image": null,
    "extract": "The 2010 World Series was the championship series of Major League Baseball's (MLB) 2010 season. The 106th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Texas Rangers and the National League (NL) champion San Francisco Giants; the Giants won the series,…",
    "page": "https://en.wikipedia.org/wiki/2010_World_Series"
@@ -91,7 +91,7 @@
     "David Bell (baseball)"
    ],
    "key": "ccd128c2a86e5213",
-   "headline": "Reds hire Bell as 63rd manager in franchise history",
+   "headline": "Reds Hire Bell as 63rd Manager in Franchise History",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/David_Bell_%28220902-F-JW079-1106%29_%28cropped%29.jpg/960px-David_Bell_%28220902-F-JW079-1106%29_%28cropped%29.jpg",
     "credit": "U.S. Air Force photo by R.J. Oriez",
@@ -108,6 +108,45 @@
    "page": "https://en.wikipedia.org/wiki/David_Bell_(baseball)"
   },
   {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2017",
+   "text": "The Houston Astros advanced to the World Series after defeating the New York Yankees, 4–0, in Game 7 of the American League Championship Series at Minute Maid Park. The Astros, who rallied from a 3–2 deficit in the best-of-seven series, returned to the World Series for the first time since 2005.",
+   "links": [
+    "Minute Maid Park",
+    "2005 World Series",
+    "Charlie Morton (pitcher)"
+   ],
+   "score": 107.83907103751375,
+   "abouts": [
+    "2005 World Series",
+    "Minute Maid Park",
+    "Charlie Morton (pitcher)"
+   ],
+   "about": "2005 World Series",
+   "key": "323afb1686f2996a",
+   "headline": "Astros Beat Yankees 4-0 in Game 7, Reach World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BagwellStatue.png/960px-BagwellStatue.png",
+    "credit": "Wikidude10000",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:BagwellStatue.png",
+    "alt": "Bronze statue of a first baseman with huge glove outside a ballpark",
+    "source": "checked",
+    "of": "Minute Maid Park",
+    "w": 1536,
+    "h": 2048,
+    "tier": "venue"
+   },
+   "extract": "The 2005 World Series was the championship series of Major League Baseball's (MLB) 2005 season. The 101st edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Chicago White Sox and the National League (NL) champion Houston Astros. The White Sox swept the Astros in four…",
+   "page": "https://en.wikipedia.org/wiki/2005_World_Series",
+   "video": {
+    "id": "b4EVBba4QDc",
+    "title": "Condensed Game: ALCS Gm7 10/21/17",
+    "channel": "MLB"
+   }
+  },
+  {
    "src": "article",
    "kind": "event",
    "year": "2015",
@@ -121,7 +160,7 @@
     "Camden Riversharks"
    ],
    "key": "e93f09246934e99a",
-   "headline": "Camden Riversharks cease operations immediately",
+   "headline": "Riversharks Cease Operations Over Campbell's Field Lease",
    "image": null,
    "extract": "The Camden Riversharks were an American professional baseball team based in Camden, New Jersey, from 2001 to 2015. They were a member of the Liberty Division of the Atlantic League of Professional Baseball, then unaffiliated with Major League Baseball. The Riversharks played their home games at Campbell's Field, which…",
    "page": "https://en.wikipedia.org/wiki/Camden_Riversharks"
@@ -144,7 +183,7 @@
    ],
    "about": "Jayson Werth",
    "key": "b9e43f3fcfaf9b3c",
-   "headline": "Phillies beat Dodgers 10-4, win second straight NL pennant",
+   "headline": "Phillies Beat Dodgers 10-4, Win Second Straight NL Pennant",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2009_NLCS_Game5.jpg/960px-2009_NLCS_Game5.jpg",
     "credit": "ecokate",
@@ -174,7 +213,7 @@
     "Comerica Park"
    ],
    "key": "7cf745d639032dbd",
-   "headline": "Comerica Park hosts first World Series game in its history",
+   "headline": "Comerica Park Hosts First World Series Game in Its History",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Detroit_Tigers_opening_game_at_Comerica_Park%2C_2007.jpg/960px-Detroit_Tigers_opening_game_at_Comerica_Park%2C_2007.jpg",
     "credit": "User MJCdetroit on en.wikipedia",
@@ -208,7 +247,7 @@
    ],
    "about": "2004 World Series",
    "key": "4316f4b325bb8f46",
-   "headline": "Cardinals beat Astros in Game 7, advance to World Series",
+   "headline": "Cardinals Beat Astros in Game 7, Advance to World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Albert_Pujols_in_2009_%283854091492%29_%28cropped%29.jpg",
     "credit": "Barbara moore",
@@ -223,40 +262,6 @@
    },
    "extract": "The 2004 World Series was the championship series of Major League Baseball's (MLB) 2004 season. The 100th edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Boston Red Sox and the National League (NL) champion St. Louis Cardinals. The series was played from October 23…",
    "page": "https://en.wikipedia.org/wiki/2004_World_Series"
-  },
-  {
-   "src": "yearpage",
-   "kind": "event",
-   "year": "1998",
-   "text": "The New York Yankees win the World Series, sweeping the San Diego Padres in four straight games. Yankees third baseman Scott Brosius is named the Series MVP. New York end the season with a major league record 125 combined regular season and postseason wins.",
-   "links": [
-    "New York Yankees",
-    "1998 World Series",
-    "San Diego Padres"
-   ],
-   "score": 130.99424726646225,
-   "abouts": [
-    "1998 World Series",
-    "New York Yankees",
-    "San Diego Padres"
-   ],
-   "about": "1998 World Series",
-   "key": "c12d84a29923e198",
-   "headline": "Yankees sweep Padres, win World Series with 125 combined wins",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/World_Series_Trophy_%2848266104832%29.jpg/960px-World_Series_Trophy_%2848266104832%29.jpg",
-    "credit": "Erik Drost",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:World_Series_Trophy_(48266104832).jpg",
-    "alt": "Gold-and-silver World Series trophy with 'Presented by the Commissioner' plaque, outdoors.",
-    "source": "checked",
-    "of": "1998 World Series",
-    "w": 4032,
-    "h": 6048,
-    "tier": "event"
-   },
-   "extract": "The 1998 World Series was the championship series of Major League Baseball's (MLB) 1998 season. The 94th edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion New York Yankees and the National League (NL) champion San Diego Padres. The Yankees swept the Padres in four…",
-   "page": "https://en.wikipedia.org/wiki/1998_World_Series"
   },
   {
    "src": "yearpage",
@@ -276,7 +281,7 @@
    ],
    "about": "1981 World Series",
    "key": "12e840b2ddaac294",
-   "headline": "Yankees trade Willie McGee to Cardinals for Bob Sykes",
+   "headline": "Yankees Trade Willie McGee to Cardinals for Bob Sykes",
    "image": null,
    "extract": "The 1981 World Series was the championship series of Major League Baseball's (MLB) 1981 season. The 78th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion New York Yankees and the National League (NL) champion Los Angeles Dodgers. It marked their third Series…",
    "page": "https://en.wikipedia.org/wiki/1981_World_Series"
@@ -299,10 +304,15 @@
    ],
    "about": "1980 World Series",
    "key": "4977d112c4119aae",
-   "headline": "Phillies win first professional championship in 98-year history",
+   "headline": "Phillies Beat Royals 4-1, Win First Pro Title in 98 Years",
    "image": null,
    "extract": "The 1980 World Series was the championship series of Major League Baseball's (MLB) 1980 season. The 77th edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion Philadelphia Phillies and the American League (AL) champion Kansas City Royals. The Phillies defeated the…",
-   "page": "https://en.wikipedia.org/wiki/1980_World_Series"
+   "page": "https://en.wikipedia.org/wiki/1980_World_Series",
+   "video": {
+    "id": "lPcFeaLLltY",
+    "title": "1980 WS Gm6: McGraw fans Wilson, Phils win series",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -322,10 +332,15 @@
    ],
    "about": "1976 World Series",
    "key": "da7645fb5d180d0b",
-   "headline": "Reds sweep Yankees 7-2, Johnny Bench named Series MVP",
+   "headline": "Reds Sweep Yankees 7-2, Johnny Bench Named Series MVP",
    "image": null,
    "extract": "The 1976 World Series was the championship series of Major League Baseball's (MLB) 1976 season. The 73rd edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion Cincinnati Reds and the American League (AL) champion New York Yankees. The Reds swept the Series in four…",
-   "page": "https://en.wikipedia.org/wiki/1976_World_Series"
+   "page": "https://en.wikipedia.org/wiki/1976_World_Series",
+   "video": {
+    "id": "nO3ViZF8oyY",
+    "title": "Reds sweep the Yankees to win the 1976 World Series",
+    "channel": "Cincinnati Reds"
+   }
   },
   {
    "src": "yearpage",
@@ -345,7 +360,7 @@
    ],
    "about": "1975 World Series",
    "key": "46d37284c9afb0cf",
-   "headline": "Delayed a day by rain, Game 6 of the World Series will be among",
+   "headline": "Fisk's Walk-off Homer Deflects off Foul Pole, Red Sox Win 7-6",
    "image": null,
    "extract": "The 1975 World Series was the championship series of Major League Baseball's (MLB) 1975 season. The 72nd edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Boston Red Sox and the National League (NL) champion Cincinnati Reds. The Reds narrowly defeated the Red…",
    "page": "https://en.wikipedia.org/wiki/1975_World_Series"
@@ -364,7 +379,7 @@
    ],
    "about": "William R. Daley",
    "key": "7f744a6a1ed6d4be",
-   "headline": "William R. Daley dies at 79, former Cleveland Indians owner",
+   "headline": "William R. Daley, 79, Former Cleveland Indians Owner",
    "image": null,
    "extract": "William R. Daley was a businessman and owner of two franchises in Major League Baseball's American League. He was born in Ashtabula, Ohio in 1892.",
    "page": "https://en.wikipedia.org/wiki/William_R._Daley"
@@ -387,7 +402,7 @@
    ],
    "about": "bonus baby",
    "key": "84211955009e2709",
-   "headline": "Cardinals reacquire Ducky Schofield from Red Sox, now 35",
+   "headline": "Cardinals Reacquire Ducky Schofield, Now 35, From Red Sox",
    "image": null,
    "extract": "The bonus rule was a contractual rule affecting major league baseball intermittently between 1947 and 1964, meant to prevent teams from assigning certain players to farm teams. The rule stipulated that when a major-league team signed a player to a contract with a signing bonus above a certain threshold, the team was…",
    "page": "https://en.wikipedia.org/wiki/Bonus_rule"
@@ -410,7 +425,7 @@
    ],
    "about": "Dave Giusti",
    "key": "bfb08450704335fb",
-   "headline": "Cardinals trade Dave Giusti and Dave Ricketts to Pirates",
+   "headline": "Cardinals Trade Giusti and Ricketts to Pirates",
    "image": null,
    "extract": "David John Giusti Jr. was an American professional baseball player. He played in Major League Baseball as a right-handed pitcher from 1962 to 1977 for the Houston Colt .45's / Astros, Pittsburgh Pirates, St. Louis Cardinals, Oakland Athletics, and Chicago Cubs. Giusti played for Pirates teams that won five National…",
    "page": "https://en.wikipedia.org/wiki/Dave_Giusti"
@@ -429,10 +444,10 @@
     "Art Garibaldi"
    ],
    "key": "e9780a963d04b895",
-   "headline": "Garibaldi dies of self-inflicted gunshot wound, reports say",
+   "headline": "Garibaldi Found Dead of Self-Inflicted Gunshot Wound",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/ArtGaribaldi.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:ArtGaribaldi.jpg",
     "alt": "Black-and-white portrait of a man in a baseball-style jersey with piping.",
@@ -459,7 +474,7 @@
     "Atlanta Braves"
    ],
    "key": "83b1b82ae5ac5da6",
-   "headline": "Braves' move from Milwaukee to Atlanta approved 12-6",
+   "headline": "Braves Owners Approve Move From Milwaukee to Atlanta, 12-6",
    "image": null,
    "extract": "The Atlanta Braves are an American professional baseball team based in the Atlanta metropolitan area. The Braves compete in Major League Baseball (MLB) as a member club of the National League (NL) East Division. The club was founded in Boston, Massachusetts, in 1871 as the Boston Red Stockings. The Braves are one of…",
    "page": "https://en.wikipedia.org/wiki/Atlanta_Braves"
@@ -480,7 +495,7 @@
    ],
    "about": "Kansas City Municipal Stadium",
    "key": "9a8f35ac7c0c6a2e",
-   "headline": "Players Association approves two All-Star Games for 1960",
+   "headline": "Players Approve Two All-Star Games for 1960 Season",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kansas_City_Municipal_Stadium_1955.jpg",
     "credit": "Barth, Harry",
@@ -510,7 +525,7 @@
    ],
    "about": "Charlie Mason (1870s outfielder)",
    "key": "a1e88ab16be7cb1d",
-   "headline": "Charlie Mason, outfielder for Philadelphia Centennials, dies",
+   "headline": "Charlie Mason, 1875-1883 Outfielder for Three Franchises",
    "image": null,
    "extract": "Charles E. Mason was an American professional baseball player who played from 1875–1883, primarily as an outfielder.",
    "page": "https://en.wikipedia.org/wiki/Charlie_Mason_(1870s_outfielder)"
@@ -531,7 +546,7 @@
    ],
    "about": "St. Louis Cardinals",
    "key": "84dbbb06ce31c2e7",
-   "headline": "Browns beat White Stockings 8-5, tie series at 2-2",
+   "headline": "Browns Beat White Stockings 8-5, Tie Series at 2-2",
    "image": null,
    "extract": "The St. Louis Cardinals are an American professional baseball team based in St. Louis. The Cardinals compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. Since the 2006 season, the Cardinals have played their home games at Busch Stadium in downtown St. Louis. One of the…",
    "page": "https://en.wikipedia.org/wiki/St._Louis_Cardinals"

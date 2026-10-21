@@ -20,10 +20,15 @@
    ],
    "about": "2021 World Series",
    "key": "179503116317a6d2",
-   "headline": "Braves beat Dodgers 4–2, win pennant in six games",
+   "headline": "Braves Dethrone Dodgers 4-2, Reach First World Series in 22 Years",
    "image": null,
    "extract": "The 2021 World Series was the championship series of Major League Baseball's (MLB) 2021 season. The 117th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Atlanta Braves and the American League (AL) champion Houston Astros. The series began on October 26 and…",
    "page": "https://en.wikipedia.org/wiki/2021_World_Series",
+   "video": {
+    "id": "F2G3ZSvMvpw",
+    "title": "BRAVES WIN THE PENNANT! Atlanta completes the upset, beats the Dodgers to advance to World Series!",
+    "channel": "MLB"
+   },
    "lead": true
   },
   {
@@ -40,7 +45,7 @@
     "Japan Series"
    ],
    "key": "4756d88b7d043f85",
-   "headline": "Orix and Yakult play 3–3 draw in 12-inning Japan Series game",
+   "headline": "Orix, Yakult Play 3-3 Draw in 12 Innings",
    "image": null,
    "extract": "The Japan Series, also the Nippon Series, is the annual championship series in Nippon Professional Baseball, the top baseball league in Japan. It is a best-of-seven series between the winning clubs of the league's two circuits, the Central League and the Pacific League, and is played in October or November. The first…",
    "page": "https://en.wikipedia.org/wiki/Japan_Series"
@@ -63,7 +68,7 @@
    ],
    "about": "2018 World Series",
    "key": "51afd7ba69e450e5",
-   "headline": "Red Sox beat Dodgers 8–4 in World Series opener at Fenway",
+   "headline": "Red Sox Beat Dodgers 8-4 in World Series Opener",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dsc_6431_Pesky%27s_Pole.jpg/960px-Dsc_6431_Pesky%27s_Pole.jpg",
     "credit": "User Francesco Crippa on Flickr",
@@ -77,7 +82,12 @@
     "tier": "venue"
    },
    "extract": "The 2018 World Series was the championship series of Major League Baseball's 2018 season. The 114th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Boston Red Sox and the National League (NL) champion Los Angeles Dodgers. The Red Sox defeated the Dodgers in…",
-   "page": "https://en.wikipedia.org/wiki/2018_World_Series"
+   "page": "https://en.wikipedia.org/wiki/2018_World_Series",
+   "video": {
+    "id": "6DAkDwNNqzo",
+    "title": "Nunez's pinch-hit, three-run homer caps Game 1 win",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -93,7 +103,7 @@
     "Chris Sabo"
    ],
    "key": "0d8cf65232d4b49c",
-   "headline": "Sabo named head baseball coach at University of Akron",
+   "headline": "Sabo Named Head Baseball Coach at Akron",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Chris_Sabo_Reds.jpg",
     "credit": "Class of '88",
@@ -123,7 +133,7 @@
     "Mickey Callaway"
    ],
    "key": "9b0eb3b8c975363a",
-   "headline": "Callaway named manager of the New York Mets",
+   "headline": "Callaway Named Manager of New York Mets",
    "image": null,
    "extract": "Michael Christopher Callaway is an American professional baseball coach and former pitcher in Major League Baseball (MLB). He played in MLB for the Tampa Bay Devil Rays, Anaheim Angels, and Texas Rangers and in the KBO League for the Hyundai Unicorns. He was the manager of the New York Mets from 2018 through 2019 and…",
    "page": "https://en.wikipedia.org/wiki/Mickey_Callaway"
@@ -146,7 +156,7 @@
    ],
    "about": "Lorenzo Cain",
    "key": "a2d7dab8933c794a",
-   "headline": "Royals beat Blue Jays 4–3, earn second straight World Series trip",
+   "headline": "Royals Beat Blue Jays 4-3, Earn Second Straight World Series Trip",
    "image": null,
    "extract": "Lorenzo Lamar Cain is an American former professional baseball center fielder. He played in Major League Baseball (MLB) for the Milwaukee Brewers and the Kansas City Royals. The Brewers drafted him in the 17th round of the 2004 MLB draft from Tallahassee Community College in Florida. In 2010, Cain made his MLB debut,…",
    "page": "https://en.wikipedia.org/wiki/Lorenzo_Cain"
@@ -165,7 +175,7 @@
     "Darnell Coles"
    ],
    "key": "adf723fbea254860",
-   "headline": "Coles replaces Johnny Narron as Brewers hitting coach",
+   "headline": "Coles Replaces Narron as Brewers Hitting Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/DarnellColes.jpg/960px-DarnellColes.jpg",
     "credit": "Reunion",
@@ -195,7 +205,7 @@
     "David Bell (baseball)"
    ],
    "key": "283629390b2f71f2",
-   "headline": "Cubs name Bell third base coach for Major League club",
+   "headline": "Cubs Name Bell Third Base Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/David_Bell_%28220902-F-JW079-1106%29_%28cropped%29.jpg/960px-David_Bell_%28220902-F-JW079-1106%29_%28cropped%29.jpg",
     "credit": "U.S. Air Force photo by R.J. Oriez",
@@ -229,7 +239,7 @@
    ],
    "about": "2010 National League Championship Series",
    "key": "d52482b001888ebe",
-   "headline": "Giants defeat Phillies 3–2, win NLCS four games to two",
+   "headline": "Giants Beat Phillies 3-2, Win NLCS Four Games to Two",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG/960px-2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG",
     "credit": "BrokenSphere",
@@ -259,7 +269,7 @@
     "Fernando Tatís"
    ],
    "key": "c8a7d013f57d0b9d",
-   "headline": "Tatís receives Sporting News Comeback Player of the Year Award",
+   "headline": "Tatís Wins Sporting News Comeback Player of the Year",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Fernando_Tatis.jpg/960px-Fernando_Tatis.jpg",
     "credit": "Wknight94",
@@ -291,10 +301,10 @@
    ],
    "about": "Al Corwin",
    "key": "3e0940c0c4f84c60",
-   "headline": "Al Corwin, 76, pitcher for 1954 Giants World Series team, dies",
+   "headline": "Al Corwin, 76, Pitcher for New York Giants 1951-55",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/1954_World_Series_game_two.jpeg/960px-1954_World_Series_game_two.jpeg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1954_World_Series_game_two.jpeg",
     "alt": "Black-and-white 1950s baseball game at a packed stadium with fielders and umpire",
@@ -323,7 +333,7 @@
    ],
    "about": "Tony La Russa",
    "key": "f068e8b2015ca486",
-   "headline": "Cardinals hire Tony La Russa as manager",
+   "headline": "Cardinals Hire Tony La Russa as Manager",
    "image": null,
    "extract": "Anthony La Russa Jr. is an American former professional baseball infielder and manager. His Major League Baseball (MLB) career spanned from 1963 to 2022, in several roles. He is the former manager of the St. Louis Cardinals, Oakland Athletics, and Chicago White Sox. In 35 seasons as a manager, La Russa guided his…",
    "page": "https://en.wikipedia.org/wiki/Tony_La_Russa"
@@ -346,7 +356,7 @@
    ],
    "about": "Joe Carter",
    "key": "ef0ec0b28f58b141",
-   "headline": "Joe Carter homers in 9th, Blue Jays beat Phillies 8-6",
+   "headline": "Carter Homers in 9th, Blue Jays Win 1993 World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Blue_Jays_Win_the_1993_World_Series.jpg/960px-Blue_Jays_Win_the_1993_World_Series.jpg",
     "credit": "Striderv from Durham Region, Canada",
@@ -360,7 +370,12 @@
     "tier": "event"
    },
    "extract": "Joseph Chris Carter is an American former professional baseball player. He played in Major League Baseball (MLB) as an outfielder and first baseman for the Chicago Cubs, Cleveland Indians, San Diego Padres, Toronto Blue Jays, Baltimore Orioles, and San Francisco Giants.",
-   "page": "https://en.wikipedia.org/wiki/Joe_Carter"
+   "page": "https://en.wikipedia.org/wiki/Joe_Carter",
+   "video": {
+    "id": "-F5HwiGm7lg",
+    "title": "1993 WS Game 6: Joe Carter wins Series with homer",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -378,7 +393,7 @@
    ],
    "about": "Rene Lachemann",
    "key": "046c2a19a2cab0b4",
-   "headline": "Florida Marlins hire Rene Lachemann as first manager",
+   "headline": "Expansion Marlins Hire Rene Lachemann as First Manager",
    "image": null,
    "extract": "Rene George Lachemann is an American former professional baseball coach, catcher and manager. He spent 53 years in Major League Baseball (MLB), including service as the manager of the Seattle Mariners (1981–83), Milwaukee Brewers (1984), and the Florida Marlins (1993–96).",
    "page": "https://en.wikipedia.org/wiki/Rene_Lachemann"
@@ -401,7 +416,7 @@
    ],
    "about": "American League",
    "key": "7b8aa1627d9d8da9",
-   "headline": "Rick Sutcliffe wins NL Cy Young, taking all 24 first-place votes",
+   "headline": "Sutcliffe Wins NL Cy Young, All 24 First-Place Votes",
    "image": null,
    "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
    "page": "https://en.wikipedia.org/wiki/American_League"
@@ -424,7 +439,7 @@
    ],
    "about": "Lee Elia",
    "key": "e4739a54bb1a16d4",
-   "headline": "Cubs hire Lee Elia to succeed Joey Amalfitano as manager",
+   "headline": "Cubs Hire Lee Elia to Succeed Joey Amalfitano",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Joey_Amalfitano.jpg",
     "credit": "Bowman Gum",
@@ -458,10 +473,10 @@
    ],
    "about": "Luke Sewell",
    "key": "724ac420ddb0f5b1",
-   "headline": "Luke Sewell named Reds' full-fledged manager for 1950",
+   "headline": "Reds Name Luke Sewell, 48, Full-Time Manager for 1950",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Luke_Sewell_1944.jpg/960px-Luke_Sewell_1944.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Luke_Sewell_1944.jpg",
     "alt": "Man in Browns home jersey adjusting cap, black-and-white photo",
@@ -492,7 +507,7 @@
    ],
    "about": "Evangeline Baseball League",
    "key": "8a321ae296eee794",
-   "headline": "Evangeline League hears throwing allegations against two clubs",
+   "headline": "Evangeline League Owners Allege Game-Throwing Conspiracy",
    "image": null,
    "extract": "The Evangeline League was a low-level minor baseball league that existed from 1934 to 1957, except for during World War II.",
    "page": "https://en.wikipedia.org/wiki/Evangeline_Baseball_League"
@@ -515,7 +530,7 @@
    ],
    "about": "Jackie Robinson",
    "key": "71405cb8bb8b1961",
-   "headline": "Jackie Robinson signs with Royals for $600 a month",
+   "headline": "Jackie Robinson Signs $600-a-Month Deal With Royals",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Baseball._Jack_Robinson_BAnQ_P48S1P12829_%28cropped%29.jpg",
     "credit": "Conrad Poirier",
@@ -545,7 +560,7 @@
    ],
    "about": "Jackie Robinson",
    "key": "f7147dc0c4acc7a6",
-   "headline": "Jackie Robinson of the Kansas City Monarchs signs a contract",
+   "headline": "Jackie Robinson of the Kansas City Monarchs Signs a Contract",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Baseball._Jack_Robinson_BAnQ_P48S1P12829_%28cropped%29.jpg",
     "credit": "Conrad Poirier",
@@ -579,7 +594,7 @@
    ],
    "about": "1910 World Series",
    "key": "5a99a838be6f2e5b",
-   "headline": "Athletics beat Cubs 7-2 in Game 5 to win first World Series",
+   "headline": "Athletics Beat Cubs 7-2, Win First World Series Title",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Charles_Albert_Bender_1910.jpg/960px-Charles_Albert_Bender_1910.jpg",
     "credit": "Bain News Service",
@@ -613,7 +628,7 @@
    ],
    "about": "Oyster Burns",
    "key": "41e6ac5f184728f6",
-   "headline": "Bridegrooms win on Oyster Burns' three-run homer in sixth",
+   "headline": "Bridegrooms Win on Oyster Burns Three-Run Homer",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oyster_Burns_baseball_card.jpg/960px-Oyster_Burns_baseball_card.jpg",
     "credit": "D. Buchner & Company (printer)",
@@ -647,7 +662,7 @@
    ],
    "about": "John Clarkson",
    "key": "c18f410b0278aa29",
-   "headline": "Browns beat White Stockings 4-3 in 10th, win Series",
+   "headline": "Browns Beat White Stockings 4-3 on Wild Pitch in 10th",
    "image": null,
    "extract": "John Gibson Clarkson was an American Major League Baseball right-handed pitcher. He played from 1882 to 1894. Born in Cambridge, Massachusetts, Clarkson played for the Worcester Ruby Legs (1882), Chicago White Stockings (1884–1887), Boston Beaneaters (1888–1892), and Cleveland Spiders (1892–1894). Clarkson pitched the…",
    "page": "https://en.wikipedia.org/wiki/John_Clarkson"
@@ -670,10 +685,10 @@
    ],
    "about": "National League (baseball)",
    "key": "5124774f354ccd96",
-   "headline": "Providence Grays shut out New York Metropolitans 6-0 at Polo Grounds",
+   "headline": "Radbourn Leads Grays Past Metropolitans 6-0",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/1884grays.jpg/960px-1884grays.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1884grays.jpg",
     "alt": "Vintage team photo of uniformed baseball players at a stadium, with a home plate.",

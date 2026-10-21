@@ -20,7 +20,7 @@
    ],
    "about": "2018 World Series",
    "key": "05f7b8dbc8421bc9",
-   "headline": "Red Sox beat Dodgers 5-1, win World Series in five games",
+   "headline": "Red Sox Beat Dodgers 5-1, Win World Series in Five Games",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2016-10-10_Boston_pitcher_David_Price_warms_up_before_Game_3_of_ALDS_02.jpg/960px-2016-10-10_Boston_pitcher_David_Price_warms_up_before_Game_3_of_ALDS_02.jpg",
     "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
@@ -35,6 +35,11 @@
    },
    "extract": "The 2018 World Series was the championship series of Major League Baseball's 2018 season. The 114th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Boston Red Sox and the National League (NL) champion Los Angeles Dodgers. The Red Sox defeated the Dodgers in…",
    "page": "https://en.wikipedia.org/wiki/2018_World_Series",
+   "video": {
+    "id": "4OOSTGB3WYY",
+    "title": "Pearce and Price lead Red Sox to World Series victory: 10/28/18",
+    "channel": "MLB"
+   },
    "lead": true
   },
   {
@@ -51,7 +56,7 @@
    ],
    "about": "2017 World Series",
    "key": "c035a3d12eff74ad",
-   "headline": "Dodgers beat Astros 6-2, even World Series at 2-2",
+   "headline": "Dodgers Beat Astros 6-2, Even World Series at 2-2",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/171025-F-HP195-1244_Falcons_soar_over_L.A._%28cropped%29.jpg",
     "credit": "Christopher Okula (Original version) UCinternational (Crop)",
@@ -85,7 +90,7 @@
    ],
    "about": "Jacob deGrom",
    "key": "34707ddae9194758",
-   "headline": "Johnny Cueto two-hits Mets as Royals take 2-0 World Series lead",
+   "headline": "Cueto Two-Hits Mets, Royals Take 2-0 World Series Lead",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Johnny_Cueto_on_October_28%2C_2015.jpg/960px-Johnny_Cueto_on_October_28%2C_2015.jpg",
     "credit": "Arturo Pardavila III on Flickr (Original version) UCinternational",
@@ -115,7 +120,7 @@
     "2012 Major League Baseball season"
    ],
    "key": "8b3b534e536a2808",
-   "headline": "Giants sweep Tigers in 2012 World Series, starting October 24",
+   "headline": "Giants Sweep Tigers in World Series Starting Oct. 24",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dave_Righetti_%26_Mark_Gardner_%288146873950%29.jpg/960px-Dave_Righetti_%26_Mark_Gardner_%288146873950%29.jpg",
     "credit": "Michael Marconi",
@@ -149,7 +154,7 @@
    ],
    "about": "2012 World Series",
    "key": "1a6166ba870186e1",
-   "headline": "Giants sweep Tigers in 2012 World Series with 4-3 win in 10",
+   "headline": "Giants Sweep Tigers 4-3 in 10 Innings, Win World Series",
    "image": null,
    "extract": "The 2012 World Series was the championship series of Major League Baseball's (MLB) 2012 season. The 108th edition of the World Series, the series was a best-of-seven playoff between the National League (NL) champion San Francisco Giants and the American League (AL) champion Detroit Tigers; the Giants won in a…",
    "page": "https://en.wikipedia.org/wiki/2012_World_Series"
@@ -172,7 +177,7 @@
    ],
    "about": "Chevrolet Corvette",
    "key": "ae30108520053648",
-   "headline": "Cardinals win 11th World Series title, beating Rangers 6-2",
+   "headline": "Cardinals Beat Rangers 6-2, Win 11th World Series Title",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/CardsChamps2.jpg",
     "credit": "Sector001",
@@ -186,7 +191,12 @@
     "tier": "event"
    },
    "extract": "Busch Stadium is a baseball stadium located in St. Louis, Missouri, United States. It is the home of Major League Baseball's St. Louis Cardinals. It has a seating capacity of 44,383, with 3,706 club seats and 61 luxury suites. It replaced Busch Memorial Stadium and occupies a portion of that stadium's former…",
-   "page": "https://en.wikipedia.org/wiki/Busch_Stadium"
+   "page": "https://en.wikipedia.org/wiki/Busch_Stadium",
+   "video": {
+    "id": "yqAEEjyXvUQ",
+    "title": "WS2011 Gm7: Cardinals win 11th World Series title",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -202,7 +212,7 @@
     "2011 Major League Baseball postseason"
    ],
    "key": "80ad3597cd534839",
-   "headline": "Cardinals defeat Rangers in seven games to win 2011 World Series",
+   "headline": "Cardinals Beat Rangers in Seven Games for World Series Title",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/CardsChamps2.jpg",
     "credit": "Sector001",
@@ -232,7 +242,7 @@
     "Jerry Dipoto"
    ],
    "key": "91d85ac84aaa29bd",
-   "headline": "Jerry Dipoto named Angels general manager, replacing Tony Reagins",
+   "headline": "Dipoto Named Angels General Manager, Replacing Tony Reagins",
    "image": null,
    "extract": "Gerard Dipoto is an American baseball executive and former professional player. He is currently the president of baseball operations for the Seattle Mariners of Major League Baseball (MLB). He previously was the general manager of the Los Angeles Angels of Anaheim and worked in front office positions for the Arizona…",
    "page": "https://en.wikipedia.org/wiki/Jerry_Dipoto"
@@ -255,7 +265,7 @@
    ],
    "about": "2010 World Series",
    "key": "2c97247b42c93bd8",
-   "headline": "Giants blank Rangers 9-0 in Game 2 of World Series",
+   "headline": "Giants Beat Rangers 9-0 in World Series Game 2",
    "image": null,
    "extract": "The 2010 World Series was the championship series of Major League Baseball's (MLB) 2010 season. The 106th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Texas Rangers and the National League (NL) champion San Francisco Giants; the Giants won the series,…",
    "page": "https://en.wikipedia.org/wiki/2010_World_Series"
@@ -278,7 +288,7 @@
    ],
    "about": "2009 World Series",
    "key": "ad6377589d126cb8",
-   "headline": "Phillies beat Yankees 6-1 in World Series Game 1 behind Cliff Lee",
+   "headline": "Phillies Beat Yankees 6-1 in World Series Game 1",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cliff_Lee%2C_philly_crop.jpg",
     "credit": "artolog on Flickr User Fui in terra aliena (Crop)",
@@ -308,7 +318,7 @@
     "Garret Anderson"
    ],
    "key": "d8b99114587f637c",
-   "headline": "Angels decline $14 million option on Anderson, pay $3 million buyout",
+   "headline": "Angels Decline $14 Million Option on Anderson, Pay $3 Million Buyout",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/GarrettAnderson.jpg/960px-GarrettAnderson.jpg",
     "credit": "User Wallstreethotrod on en.wikipedia",
@@ -338,7 +348,7 @@
     "Harbor Park"
    ],
    "key": "29b1c4506fef6d58",
-   "headline": "Barack Obama holds rally at Harbor Park",
+   "headline": "Barack Obama Holds Rally at Harbor Park",
    "image": null,
    "extract": "Harbor Park is a stadium, used primarily for baseball, on the Elizabeth River, in downtown Norfolk, Virginia. Once rated the best minor league stadium by Baseball America, it is home to the Norfolk Tides Minor League Baseball team. The Tides are the Baltimore Orioles' Triple-A farm team and compete in the…",
    "page": "https://en.wikipedia.org/wiki/Harbor_Park"
@@ -357,7 +367,7 @@
    ],
    "about": "Bob Broeg",
    "key": "3bbab6f0aaf515cc",
-   "headline": "Bob Broeg dies at 87; St. Louis Post-Dispatch sportswriter",
+   "headline": "Bob Broeg, 87, Sportswriter for St. Louis Post-Dispatch",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bobboregsports.jpg",
     "credit": "Johnmaxmena2 (talk)",
@@ -391,7 +401,7 @@
    ],
    "about": "Lou Piniella",
    "key": "41486afe3a92a5b7",
-   "headline": "Lou Piniella asks Mariners to release him so he can sign with Devil Rays",
+   "headline": "Piniella Asks to Be Released From Mariners to Sign With Devil Rays",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lou_Piniella_-_2008_-_cropped.jpg/960px-Lou_Piniella_-_2008_-_cropped.jpg",
     "credit": "Jauerback",
@@ -423,7 +433,7 @@
    ],
    "about": "Andújar Cedeño",
    "key": "2397ff9720087434",
-   "headline": "Andújar Cedeño dies at 31; Dominican shortstop who hit for the cycle",
+   "headline": "Andújar Cedeño, 31, Dominican Shortstop for Astros, Padres, Tigers",
    "image": null,
    "extract": "Andújar Cedeño Donastorg was a Dominican Major League Baseball (MLB) shortstop who played from 1990 to 1996. Born in La Romana, Dominican Republic, he played for the Houston Astros from 1990 to 1994, the San Diego Padres in 1995, and in 1996 played for the Padres, Detroit Tigers and Houston Astros again. His brother…",
    "page": "https://en.wikipedia.org/wiki/And%C3%BAjar_Cede%C3%B1o"
@@ -446,7 +456,7 @@
    ],
    "about": "Bill Clinton",
    "key": "bb861e4450fbb4b0",
-   "headline": "Bill Clinton signs Curt Flood Act of 1998",
+   "headline": "Clinton Signs Curt Flood Act of 1998",
    "image": null,
    "extract": "The St. Louis Cardinals are an American professional baseball team based in St. Louis. The Cardinals compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. Since the 2006 season, the Cardinals have played their home games at Busch Stadium in downtown St. Louis. One of the…",
    "page": "https://en.wikipedia.org/wiki/St._Louis_Cardinals"
@@ -469,7 +479,7 @@
    ],
    "about": "1995 World Series",
    "key": "993f536ffd856140",
-   "headline": "Braves win World Series Game 6 1-0 on Glavine and Wohlers one-hitter",
+   "headline": "Braves Win Game 6 1-0, Become First Team to Win Titles in Three Cities",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/1995_World_Series_trophy.JPG",
     "credit": "self",
@@ -483,7 +493,12 @@
     "tier": "event"
    },
    "extract": "The 1995 World Series was the championship series of Major League Baseball's (MLB) 1995 season. The 91st edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion Atlanta Braves and the American League (AL) champion Cleveland Indians. It was the first World Series…",
-   "page": "https://en.wikipedia.org/wiki/1995_World_Series"
+   "page": "https://en.wikipedia.org/wiki/1995_World_Series",
+   "video": {
+    "id": "etf9rcbhfTM",
+    "title": "1995 WS Gm6: Braves clinch the 1995 World Series",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -499,7 +514,7 @@
     "1995 Major League Baseball postseason"
    ],
    "key": "eedd1098a002dd0e",
-   "headline": "Braves defeat Indians in six games to win first title since 1957",
+   "headline": "Braves Beat Indians in Six Games for First Title Since 1957",
    "image": null,
    "extract": "The 1995 Major League Baseball postseason was the playoff tournament of Major League Baseball for the 1995 season. This was the first postseason to be played under the expanded format, as the League Division Series (LDS) was played in both the American and National leagues for the first time since 1981. The league was…",
    "page": "https://en.wikipedia.org/wiki/1995_Major_League_Baseball_postseason"
@@ -522,10 +537,15 @@
    ],
    "about": "1989 World Series",
    "key": "132245277806553e",
-   "headline": "With their 9–6 victory, the Oakland Athletics complete a four-game",
+   "headline": "Athletics Sweep Giants 9-6, Win Ninth Series Championship",
    "image": null,
    "extract": "The 1989 World Series was the championship series of Major League Baseball's (MLB) 1989 season. The 86th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Oakland Athletics and the National League (NL) champion San Francisco Giants. The Series ran from October…",
-   "page": "https://en.wikipedia.org/wiki/1989_World_Series"
+   "page": "https://en.wikipedia.org/wiki/1989_World_Series",
+   "video": {
+    "id": "sOl4vwrTBxs",
+    "title": "1989 WS Gm4: A's complete the sweep",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -545,7 +565,7 @@
    ],
    "about": "Walt Terrell",
    "key": "c119255d8012b925",
-   "headline": "Tigers trade Walt Terrell to Padres for two players",
+   "headline": "Tigers Trade Walt Terrell to Padres for Moreland and Brown",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Walt_Terrell_%286740276787%29_%28cropped%29.jpg/960px-Walt_Terrell_%286740276787%29_%28cropped%29.jpg",
     "credit": "Roger DeWitt on Flickr",
@@ -579,7 +599,7 @@
    ],
    "about": "Bill Giles (baseball)",
    "key": "804d72ad216c038a",
-   "headline": "Phillies' Bill Giles hands personnel duties to Woody Woodward",
+   "headline": "Giles Hands Player Personnel Duties to Woody Woodward",
    "image": null,
    "extract": "William Yale Giles was an American baseball executive who was a chairman and part-owner of Major League Baseball's (MLB) Philadelphia Phillies. From 2001 until his death, he served as the honorary president of the National League.",
    "page": "https://en.wikipedia.org/wiki/Bill_Giles_(baseball)"
@@ -602,7 +622,7 @@
    ],
    "about": "Larry Bowa",
    "key": "cfa68854fec58cda",
-   "headline": "Larry Bowa named Padres' tenth manager, replacing Steve Boros",
+   "headline": "Larry Bowa, 40, Named Padres Manager, Replacing Steve Boros",
    "image": null,
    "extract": "Lawrence Robert Bowa is an American former professional baseball shortstop, manager, and coach in Major League Baseball (MLB). He played professionally for the Philadelphia Phillies, Chicago Cubs, and the New York Mets. Bowa went on to manage the San Diego Padres and Phillies.",
    "page": "https://en.wikipedia.org/wiki/Larry_Bowa"
@@ -625,7 +645,7 @@
    ],
    "about": "Goose Gossage",
    "key": "a1eb2b9a4fb9f06f",
-   "headline": "Goose Gossage among three players granted free agency",
+   "headline": "Goose Gossage Among Three Players Granted Free Agency",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Goosegossage1.jpg",
     "credit": "User Phil5329 on en.wikipedia",
@@ -659,7 +679,7 @@
    ],
    "about": "Don Kessinger",
    "key": "dccfadf384035af9",
-   "headline": "Cubs trade shortstop Don Kessinger to Cardinals for Mike Garman",
+   "headline": "Cubs Trade Don Kessinger to Cardinals for Mike Garman",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Don_Kessinger_Gold_Glove%2C_Chicago_Cubs_Store%2C_Wrigley_Field%2C_Chicago%2C_Illinois_%2842675552764%29.jpg/960px-Don_Kessinger_Gold_Glove%2C_Chicago_Cubs_Store%2C_Wrigley_Field%2C_Chicago%2C_Illinois_%2842675552764%29.jpg",
     "credit": "Ken Lund from Reno, Nevada, USA",
@@ -691,7 +711,7 @@
    ],
    "about": "Candlestick Point State Recreation Area",
    "key": "4d5e397c217d9a0e",
-   "headline": "Construction begins on Candlestick Park for San Francisco Giants",
+   "headline": "Giants Begin Construction on Candlestick Park",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Candlestick_Point_Park5.jpg/960px-Candlestick_Point_Park5.jpg",
     "credit": "Eric Fredericks",
@@ -725,7 +745,7 @@
    ],
    "about": "American League",
    "key": "5a9c55839fe20e73",
-   "headline": "AL owners vote down sale of Athletics to Philadelphia group",
+   "headline": "AL Owners Vote Down Athletics Sale to Philadelphia Group",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Clark_Griffith_LCCN2016840561_%28cropped%29.jpg/960px-Clark_Griffith_LCCN2016840561_%28cropped%29.jpg",
     "credit": "National Photo Company Collection",
@@ -759,7 +779,7 @@
    ],
    "about": "Red Barber",
    "key": "1c366bec19e2b1d2",
-   "headline": "Red Barber resigns as Dodgers announcer, joins Yankees",
+   "headline": "Red Barber Resigns From Dodgers, Joins Yankees",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Red_Barber.jpg/960px-Red_Barber.jpg",
     "credit": "Creator:Al Ravenna, World-Telegram staff photographer",
@@ -793,10 +813,10 @@
    ],
    "about": "Bob Feller",
    "key": "9fd4fd36365bf7e3",
-   "headline": "Indians fire manager Ossie Vitt after mutiny and feuds",
+   "headline": "Indians Fire Manager Ossie Vitt After Mutiny-Plagued Season",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ossie_Vitt_1942_%282%29.jpg/960px-Ossie_Vitt_1942_%282%29.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Ossie_Vitt_1942_(2).jpg",
     "alt": "Man in white baseball uniform with cap, leaning on dugout railing, black-and-white photo",
@@ -825,7 +845,7 @@
    ],
    "about": "New York Giants (NL)",
    "key": "ed39333c422b33c0",
-   "headline": "Giants beat Brooklyn 16–7 for their fourth straight win",
+   "headline": "Giants Beat Brooklyn 16-7 for Fourth Straight Win",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1883_New_York_Gothams.jpeg/960px-1883_New_York_Gothams.jpeg",
     "credit": "J Wood, 208 Bowery, N.Y.",
@@ -859,10 +879,10 @@
    ],
    "about": "American Association (1882–1891)",
    "key": "2bbd5f5861e0bfc1",
-   "headline": "Philadelphia Athletics report $22,000 profit for 1882 season",
+   "headline": "Athletics Report $22,000 Profit, Rival National League",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1887_Philadelphia_Athletics.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1887_Philadelphia_Athletics.jpg",
     "alt": "Sepia team photo of a baseball club in 'A' jerseys with 'ATHLETIC CLUB' caption, bat visible.",

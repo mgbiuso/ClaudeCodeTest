@@ -15,7 +15,7 @@
   --gutter: 16px;
   /* Franklin Gothic stack: swap the first family here if a licensed web font is added. */
   --sans: "Libre Franklin", "Franklin Gothic Medium", "Franklin Gothic", "Arial Narrow", Arial, sans-serif;
-  --cond: "League Gothic", "Franklin Gothic Condensed", "Arial Narrow", Impact, sans-serif;
+  --cond: "Bebas Neue", "League Gothic", "Franklin Gothic Condensed", "Arial Narrow", Impact, sans-serif;
   --col-gap: 28px;
 }
 
@@ -55,6 +55,18 @@ a:focus-visible, button:focus-visible, select:focus-visible { outline: 3px solid
   display: block; text-decoration: none; color: var(--ink);
   font-family: var(--cond); font-weight: 400; text-transform: uppercase;
   font-size: clamp(46px, 11.5vw, 132px); letter-spacing: .005em;
+}
+@media (min-width: 900px) {
+  .masthead { padding-top: 10px; }
+  .flag-row { font-size: 14px; padding: 3px 2px; }
+  .nameplate { margin-top: 4px; }
+  .nameplate a { font-size: 68px; letter-spacing: .01em; }
+  .tagline { margin: 4px 0 8px; padding: 3px 0; font-size: 14px; }
+  .datebar { padding: 5px 0; }
+  .btn, select { min-height: 38px; }
+  .date-head { margin: 12px 0 4px; }
+  .date-head .when { font-size: 44px; padding: 5px 16px 1px; }
+  .date-head .count { font-size: 22px; padding: 2px 14px; }
 }
 
 .tagline {
@@ -120,11 +132,17 @@ main:focus { outline: none; }
 }
 
 .body p { margin: 0 0 .7em; }
-.body .bg { color: var(--ink-soft); font-size: 15px; }
 .body .more { font-family: var(--cond); font-size: 17px; letter-spacing: .1em; text-transform: uppercase; margin-bottom: 0; }
 .body .more a { color: var(--accent); }
 
 figure { margin: 0 0 10px; }
+.video-box { display: block; position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #000; border: 1px solid var(--rule); }
+.video-thumb { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; opacity: .92; }
+.play-badge {
+  position: absolute; left: 50%; top: 50%; width: 64px; height: 64px; margin: -32px 0 0 -32px; border-radius: 50%;
+  display: grid; place-content: center; padding-left: 5px; background: rgba(20,20,20,.82); color: #fff; font-size: 26px; border: 3px solid #fff;
+}
+.video-box:hover .play-badge, .video-box:focus-visible .play-badge { background: var(--red); }
 /* Photos keep their own shape: nothing is cropped. Very tall portraits stop at a maximum height and sit on a paper mat. */
 .photo { display: block; width: 100%; height: auto; max-height: 560px; object-fit: contain; background: var(--paper-2); border: 1px solid var(--rule); }
 figcaption { overflow-wrap: anywhere; margin-top: 5px; font-size: 12.5px; line-height: 1.35; color: var(--ink-soft); }
@@ -171,7 +189,6 @@ figcaption a { text-decoration-thickness: 1px; }
 /* ---------- desktop front page ---------- */
 @media (min-width: 900px) {
   body { font-size: 15.5px; }
-  .body p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
 
   .top { display: grid; grid-template-columns: 8fr 4fr; column-gap: var(--col-gap); margin-top: 6px; }
   .top.no-side { grid-template-columns: 1fr; }
@@ -185,26 +202,40 @@ figcaption a { text-decoration-thickness: 1px; }
   .lead .photo { max-height: 500px; }
   .side .photo { max-height: 320px; }
 
-  .std-grid { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 4px solid var(--ink); margin-top: 8px; }
-  .std-grid > .story { border-top: 1px solid var(--rule); padding: 16px 22px 20px; }
-  .std-grid > .story:nth-child(-n+3) { border-top: 0; }
-  .std-grid > .story:nth-child(3n+1) { padding-left: 0; }
-  .std-grid > .story:nth-child(3n) { padding-right: 0; }
-  .std-grid > .story:not(:nth-child(3n+1)) { border-left: 1px solid var(--rule); }
-
-  .memoriam-grid { display: grid; grid-template-columns: repeat(3, 1fr); }
-  .memoriam-grid > .story { padding: 14px 22px 16px; border-top: 1px solid var(--rule); }
-  .memoriam-grid > .story:nth-child(-n+3) { border-top: 0; }
-  .memoriam-grid > .story:nth-child(3n+1) { padding-left: 0; }
-  .memoriam-grid > .story:nth-child(3n) { padding-right: 0; }
-  .memoriam-grid > .story:not(:nth-child(3n+1)) { border-left: 1px solid var(--rule); }
+  /* Columns are built by app.js (shortest-first), so their bottoms line up. */
+  .std-grid { border-top: 4px solid var(--ink); margin-top: 8px; }
+  .cols { display: grid; grid-template-columns: repeat(var(--n, 3), 1fr); align-items: start; }
+  .col { padding: 0 22px; border-left: 1px solid var(--rule); min-width: 0; }
+  .col:first-child { padding-left: 0; border-left: 0; }
+  .col:last-child { padding-right: 0; }
+  .col > .story { padding: 16px 0 20px; border-top: 1px solid var(--rule); }
+  .col > .story:first-child { border-top: 0; }
+  .std-grid .photo { max-height: 340px; }
+  .brief-label { margin: 6px 0 0; padding: 14px 0 0; border-top: 4px solid var(--ink); font: 400 22px/1 var(--cond); letter-spacing: .1em; text-transform: uppercase; }
+  .brief-item { padding: 10px 0; border-top: 1px solid var(--rule); font-size: 15px; line-height: 1.4; }
+  .brief-label + .brief-item { border-top: 0; padding-top: 8px; }
+  .brief-item .yr { font-family: var(--cond); font-size: 22px; color: var(--accent); margin-right: 6px; }
+  .brief-item a.more { font-family: var(--cond); letter-spacing: .08em; text-transform: uppercase; margin-left: 4px; white-space: nowrap; }
+  /* In memoriam: a small portrait beside the text, as on the phone, so these stay compact and the columns can even out. */
+  .memoriam-grid .col > .story {
+    padding: 14px 0 16px;
+    display: grid; grid-template-columns: 112px 1fr; column-gap: 14px; align-items: start;
+    grid-template-areas: "fig head" "fig body";
+  }
+  .memoriam-grid .col > .story:not(:has(figure)) { grid-template-columns: 1fr; grid-template-areas: "head" "body"; }
+  .memoriam-grid .story .head { grid-area: head; }
+  .memoriam-grid .story > figure { grid-area: fig; margin: 0; }
+  .memoriam-grid .story .body { grid-area: body; }
+  .memoriam-grid .photo { max-height: 150px; }
+  .memoriam-grid .story figcaption { font-size: 11px; }
+  .memoriam-grid .story .headline { font-size: 21px; }
 
   .briefs-list { column-count: 3; column-gap: var(--col-gap); column-rule: 1px solid var(--rule); }
 }
 
 /* ---------- phone: one scrolling column in the same type ---------- */
 @media (max-width: 899px) {
-  .std-grid, .memoriam-grid { display: block; }
+  .cols { display: block; }
   .side { border: 0; padding: 0; }
   .story { padding: 18px 0 24px; }
   .headline { font-size: 32px; }

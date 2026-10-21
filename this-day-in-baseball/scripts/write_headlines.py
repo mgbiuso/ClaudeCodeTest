@@ -33,12 +33,17 @@ BATCH = 25
 SYSTEM = """You write headlines for the baseball "on this day" page of a newspaper.
 
 Rules, all strict:
-- Each headline is 35 to 65 characters (never over 70), in sentence case, with no period, no ellipsis, no quotation marks around it and no exclamation mark.
-- Events use present tense, like a newspaper: "Dodgers beat Brewers, reach World Series".
-- Items marked "obituary" are about a person who died that year: write like "Umpire Derryl Cousins dies at 74", using only the role and age given.
+- Write each headline in sentence case: capitalize only the first word and proper names. (The page applies Title Case afterwards.) 35 to 65 characters, never over 70, no period, no ellipsis, no quotation marks, no exclamation mark.
+- Newspaper voice: short, active, PRESENT tense for every event, even old ones. Never past tense. Drop filler words. A passive like "Boog Powell named AL MVP" is fine.
+  Bad: "Yount threw out the first pitch before Game 7 of the National League". Good: "Yount throws out first pitch before Game 7".
+  Bad: "The Dodgers advanced to the World Series with a 5-1 win". Good: "Dodgers beat Brewers 5-1, advance to World Series".
+  Good: "Reds beat Oakland 2-1, complete stunning World Series sweep".
+- Items marked "obituary" are about a person who died that year. Write only: Name, age, role. Example: "Derryl Cousins, 74, longtime MLB umpire". Never use die, died, dies, death, dead, passes, passed, late or remembered. Use only the role and age given in the text; if the age is not given, write "Name, role".
 - Use ONLY facts, names and numbers that appear in that story's text. Never add a date, score, name, team, number or claim that is not in the text. Do not write "today" or "this day".
 - Prefer the most interesting fact in the text. Keep it a complete thought, never cut off mid-phrase.
 Return only JSON in this shape: {"headlines": [{"id": "...", "headline": "..."}]}"""
+
+BANNED_OBIT = re.compile(r"\b(die[sd]?|death|dead|pass(?:es|ed)(?: away)?|late|remembered|rip)\b", re.I)
 
 
 def load_env():
@@ -69,9 +74,11 @@ def day_files(dates, all_days):
     return [DAYS / f"{int(d.split('/')[0]):02d}-{int(d.split('/')[1]):02d}.json" for d in dates]
 
 
-def check(headline, text):
+def check(headline, text, obit=False):
     """Return None if the headline is acceptable, else the reason it is not."""
     h = headline.strip()
+    if obit and BANNED_OBIT.search(h):
+        return "an obituary headline must not say dies, died, death or similar"
     if not 20 <= len(h) <= 75:
         return "length"
     if "…" in h or "..." in h or h[-1] in ".,;:-" or h[0] in "\"'“‘" or "!" in h:
@@ -83,6 +90,8 @@ def check(headline, text):
     words = re.findall(r"[A-Za-z][A-Za-z'’.\-]*", h)
     for w in words[1:]:
         core = w.strip(".'’-").lower()
+        if w.isupper() and 2 <= len(core) <= 5:  # NLCS, ALCS, MLB, MVP: abbreviations are fine
+            continue
         if w[0].isupper() and core and core not in low:
             return f"name {w} is not in the text"
     return None
@@ -132,6 +141,7 @@ def main():
     ap.add_argument("dates", nargs="*", help="MM/DD (default: every day file that exists)")
     ap.add_argument("--all", action="store_true", help="every day file in data/days")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--redo", action="store_true", help="write new headlines even where one is cached (for a changed style)")
     ap.add_argument("--model", default=DEFAULT_MODEL)
     ap.add_argument("--max-stories", type=int, default=250, help="refuse to run if more headlines than this are needed")
     a = ap.parse_args()
@@ -144,7 +154,7 @@ def main():
         for st in json.loads(f.read_text())["stories"]:
             total += 1
             key = b.story_key(st["year"], st["text"])
-            if key not in cache:
+            if a.redo or key not in cache:
                 todo.append({"id": key, "year": st["year"], "type": "obituary" if st["kind"] == "death" else "event", "text": st["text"]})
     todo = list({t["id"]: t for t in todo}.values())
     chars = sum(len(t["text"]) + 60 for t in todo)
@@ -160,6 +170,9 @@ def main():
     if not os.environ.get("ANTHROPIC_API_KEY"):
         sys.exit("ANTHROPIC_API_KEY is missing. Add it to .env (see SETUP.md).")
 
+    if a.redo:  # drop the old style so a failed rewrite falls back to the rule-based headline, not the old one
+        for item in todo:
+            cache.pop(item["id"], None)
     used_in = used_out = rejected = 0
     by_id = {t["id"]: t for t in todo}
     retry = []
@@ -171,11 +184,11 @@ def main():
         got = {h.get("id"): str(h.get("headline", "")) for h in out}
         for t in chunk:
             h = got.get(t["id"], "")
-            why = check(h, t["text"]) if h else "missing"
+            why = check(h, t["text"], t["type"] == "obituary") if h else "missing"
             if why:
                 retry.append((t, h, why))
             else:
-                cache[t["id"]] = h.strip()
+                cache[t["id"]] = b.title_case(h.strip())
         save_cache(cache)
         print(f"  {min(i + BATCH, len(todo))}/{len(todo)}")
     for t, h, why in retry:  # one stricter second try for each rejected headline
@@ -184,8 +197,8 @@ def main():
         used_in += usage.get("input_tokens", 0)
         used_out += usage.get("output_tokens", 0)
         h2 = str(out[0].get("headline", "")) if out else ""
-        if h2 and not check(h2, t["text"]):
-            cache[t["id"]] = h2.strip()
+        if h2 and not check(h2, t["text"], t["type"] == "obituary"):
+            cache[t["id"]] = b.title_case(h2.strip())
         else:
             rejected += 1
             print(f"  kept rule-based headline for {t['year']}: {t['text'][:60]}...")

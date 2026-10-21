@@ -5,25 +5,34 @@
   {
    "src": "yearpage",
    "kind": "event",
-   "year": "1996",
-   "text": "Bruce Bochy who led the San Diego Padres to their first post season appearance since the 1984 World Series was named National League Manager of the year, just edging out the Montreal Expos' Felipe Alou and the St. Louis Cardinals' Tony LaRussa for the honor.",
+   "year": "1988",
+   "text": "The National Baseball Hall of Fame and Museum announces the inauguration of Women in Baseball, a permanent display to honor the entire All-American Girls Professional Baseball League rather than any individual figure. The AAGPBL began play in 1943 and lasted a dozen years, giving more than 500 women an opportunity that had never existed before.",
    "links": [
-    "1984 World Series",
-    "Felipe Alou",
-    "Tony LaRussa"
+    "National Baseball Hall of Fame and Museum",
+    "All-American Girls Professional Baseball League"
    ],
-   "score": 92.30292265680433,
+   "score": 72.10917086752389,
    "abouts": [
-    "1984 World Series",
-    "Felipe Alou",
-    "Tony LaRussa"
+    "All-American Girls Professional Baseball League",
+    "National Baseball Hall of Fame and Museum"
    ],
-   "about": "1984 World Series",
-   "key": "1528b4b9648ffa66",
-   "headline": "Bruce Bochy named National League Manager of the Year for Padres",
-   "image": null,
-   "extract": "The 1984 World Series was the championship series of Major League Baseball's (MLB) 1984 season. The 81st edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Detroit Tigers and the National League (NL) champion San Diego Padres. The Tigers defeated the Padres in…",
-   "page": "https://en.wikipedia.org/wiki/1984_World_Series",
+   "about": "All-American Girls Professional Baseball League",
+   "key": "0f1e36d7adb86c55",
+   "headline": "Hall of Fame Announces Women in Baseball Permanent Display",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/All_American_Girls_Professional_Baseball_League_members_performing_calisthenics.jpg",
+    "credit": "Florida Memory",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:All_American_Girls_Professional_Baseball_League_members_performing_calisthenics.jpg",
+    "alt": "Rows of uniformed women in skirted baseball outfits, posing on a field",
+    "source": "checked",
+    "of": "All-American Girls Professional Baseball League",
+    "w": 600,
+    "h": 441,
+    "tier": "event"
+   },
+   "extract": "The All-American Girls Professional Baseball League (AAGPBL) was a professional women's baseball league founded by Philip K. Wrigley, which existed from 1943 to 1954. The AAGPBL is the forerunner of women's professional league sports in the United States. Over 600 women played in the league, which eventually consisted…",
+   "page": "https://en.wikipedia.org/wiki/All-American_Girls_Professional_Baseball_League",
    "lead": true
   },
   {
@@ -35,12 +44,12 @@
     "Blue Cross Park"
    ],
    "about": "Blue Cross Park",
-   "score": 40.8395390500074,
+   "score": 40.80234265559518,
    "abouts": [
     "Blue Cross Park"
    ],
    "key": "40c80f69a3934501",
-   "headline": "Winnipeg Goldeyes rename ballpark Blue Cross Park in 10-year deal",
+   "headline": "Winnipeg Goldeyes Ballpark Renamed Blue Cross Park",
    "image": null,
    "extract": "Blue Cross Park is a baseball stadium in Winnipeg, Manitoba, Canada. It is located adjacent to The Forks, near the city's downtown, and is home to the Winnipeg Goldeyes of the American Association.",
    "page": "https://en.wikipedia.org/wiki/Blue_Cross_Park"
@@ -54,12 +63,12 @@
     "Dodger Stadium"
    ],
    "about": "Dodger Stadium",
-   "score": 33.326262832517415,
+   "score": 33.29981856639178,
    "abouts": [
     "Dodger Stadium"
    ],
    "key": "90e05dfeef141230",
-   "headline": "Dodgers announce 2021 Dodger Holiday Festival event",
+   "headline": "Dodgers Announce 2021 Dodger Holiday Festival Event",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dodger_Stadium%2C_Los_Angeles%2C_California_%282483470368%29.jpg/960px-Dodger_Stadium%2C_Los_Angeles%2C_California_%282483470368%29.jpg",
     "credit": "Ken Lund from Reno, Nevada, USA",
@@ -84,12 +93,12 @@
     "Dana LeVangie"
    ],
    "about": "Dana LeVangie",
-   "score": 34.7078962197329,
+   "score": 34.67013053028067,
    "abouts": [
     "Dana LeVangie"
    ],
    "key": "d2737246068768d5",
-   "headline": "LeVangie replaces Carl Willis as Boston pitching coach",
+   "headline": "LeVangie Replaces Carl Willis as Boston Pitching Coach",
    "image": null,
    "extract": "Dana Alan LeVangie is an American professional baseball scout and coach, who was the pitching coach for the Boston Red Sox of Major League Baseball (MLB) in 2018 and 2019. Formerly a scout and minor league catcher, as an active player he both batted and threw right-handed and was listed at 5 feet 10 inches (1.78 m)…",
    "page": "https://en.wikipedia.org/wiki/Dana_LeVangie"
@@ -108,7 +117,7 @@
     "Joe Morgan"
    ],
    "key": "9590cbed7e524ff9",
-   "headline": "Morgan leaves ESPN booth for Reds adviser role",
+   "headline": "Morgan Won't Return to ESPN Sunday Night Baseball for 2011",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Joe_Morgan_Reds_1972.jpg",
     "credit": "Cincinnati Reds",
@@ -127,18 +136,41 @@
   {
    "src": "yearpage",
    "kind": "event",
+   "year": "1996",
+   "text": "Bruce Bochy who led the San Diego Padres to their first post season appearance since the 1984 World Series was named National League Manager of the year, just edging out the Montreal Expos' Felipe Alou and the St. Louis Cardinals' Tony LaRussa for the honor.",
+   "links": [
+    "1984 World Series",
+    "Felipe Alou",
+    "Tony LaRussa"
+   ],
+   "score": 92.27287377647411,
+   "abouts": [
+    "1984 World Series",
+    "Felipe Alou",
+    "Tony LaRussa"
+   ],
+   "about": "1984 World Series",
+   "key": "1528b4b9648ffa66",
+   "headline": "Bruce Bochy Named NL Manager of the Year, Edging Alou, LaRussa",
+   "image": null,
+   "extract": "The 1984 World Series was the championship series of Major League Baseball's (MLB) 1984 season. The 81st edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Detroit Tigers and the National League (NL) champion San Diego Padres. The Tigers defeated the Padres in…",
+   "page": "https://en.wikipedia.org/wiki/1984_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
    "year": "1990",
    "text": "After 8 up and down years with The New York Mets, Darryl Strawberry signs a 5-year contract with The Los Angeles Dodgers.",
    "links": [
     "Darryl Strawberry"
    ],
-   "score": 33.392318736836856,
+   "score": 33.35173959421263,
    "abouts": [
     "Darryl Strawberry"
    ],
    "about": "Darryl Strawberry",
    "key": "f566c585ca323d7c",
-   "headline": "Darryl Strawberry signs five-year deal with Dodgers",
+   "headline": "Darryl Strawberry Signs 5-Year Contract With Dodgers",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Darryl_Strawberry_2008-09-28.jpg",
     "credit": "slgckgc",
@@ -155,38 +187,6 @@
    "page": "https://en.wikipedia.org/wiki/Darryl_Strawberry"
   },
   {
-   "src": "yearpage",
-   "kind": "event",
-   "year": "1988",
-   "text": "The National Baseball Hall of Fame and Museum announces the inauguration of Women in Baseball, a permanent display to honor the entire All-American Girls Professional Baseball League rather than any individual figure. The AAGPBL began play in 1943 and lasted a dozen years, giving more than 500 women an opportunity that had never existed before.",
-   "links": [
-    "National Baseball Hall of Fame and Museum",
-    "All-American Girls Professional Baseball League"
-   ],
-   "score": 72.15005259815297,
-   "abouts": [
-    "All-American Girls Professional Baseball League",
-    "National Baseball Hall of Fame and Museum"
-   ],
-   "about": "All-American Girls Professional Baseball League",
-   "key": "0f1e36d7adb86c55",
-   "headline": "Hall of Fame honors All-American Girls league with display",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/All_American_Girls_Professional_Baseball_League_members_performing_calisthenics.jpg",
-    "credit": "Florida Memory",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:All_American_Girls_Professional_Baseball_League_members_performing_calisthenics.jpg",
-    "alt": "Rows of uniformed women in skirted baseball outfits, posing on a field",
-    "source": "checked",
-    "of": "All-American Girls Professional Baseball League",
-    "w": 600,
-    "h": 441,
-    "tier": "event"
-   },
-   "extract": "The All-American Girls Professional Baseball League (AAGPBL) was a professional women's baseball league founded by Philip K. Wrigley, which existed from 1943 to 1954. The AAGPBL is the forerunner of women's professional league sports in the United States. Over 600 women played in the league, which eventually consisted…",
-   "page": "https://en.wikipedia.org/wiki/All-American_Girls_Professional_Baseball_League"
-  },
-  {
    "src": "article",
    "kind": "event",
    "year": "1987",
@@ -200,7 +200,7 @@
     "Korakuen Stadium"
    ],
    "key": "fdbf6704bd4eeccc",
-   "headline": "Korakuen Stadium closes, demolition begins the next day",
+   "headline": "Korakuen Stadium Closes, Demolition Begins Next Day",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Korakuen_1984.png",
     "credit": "Wikimedia Commons",
@@ -234,7 +234,7 @@
    ],
    "about": "National Baseball Hall of Fame and Museum",
    "key": "fe2744b78f1c3c68",
-   "headline": "54 players granted free agency, including future Hall of Famers",
+   "headline": "54 Players Granted Free Agency, Including Eckersley and Fingers",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dennis_Eckersley_2008_%28crop%29.jpg/960px-Dennis_Eckersley_2008_%28crop%29.jpg",
     "credit": "Rubenstein",
@@ -268,7 +268,7 @@
    ],
    "about": "Bob Watson",
    "key": "d71531bb3381f446",
-   "headline": "Yankees sign veterans Bob Watson and Rudy May",
+   "headline": "Yankees Sign Bob Watson, 33, and Rudy May, 35",
    "image": null,
    "extract": "Robert José Watson was an American professional baseball player, coach and general manager. He played in Major League Baseball as a first baseman and left fielder from 1966 to 1984, most prominently as a member of the Houston Astros where he was a two-time All-Star player. Watson had a .295 batting average over a…",
    "page": "https://en.wikipedia.org/wiki/Bob_Watson"
@@ -287,7 +287,7 @@
    ],
    "about": "Bucky Harris",
    "key": "8def644a5abe807a",
-   "headline": "Bucky Harris, baseball player and manager, dies",
+   "headline": "Bucky Harris, American Baseball Player and Manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Stanley_Harris%2C_Wash._LCCN2016839654_%28cropped%29.jpg/960px-Stanley_Harris%2C_Wash._LCCN2016839654_%28cropped%29.jpg",
     "credit": "National Photo Company Collection",
@@ -321,7 +321,7 @@
    ],
    "about": "Cito Gaston",
    "key": "7cd5ed15cefb9d84",
-   "headline": "Padres trade Cito Gaston to Braves for Danny Frisella",
+   "headline": "Padres Trade Cito Gaston to Braves for Danny Frisella",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/GastononBlueJaysexcellence.jpg",
     "credit": "Mikerussell at en.wikipedia",
@@ -351,7 +351,7 @@
    ],
    "about": "Bob Chipman",
    "key": "435ce8ffbf404294",
-   "headline": "Bob Chipman, 55, former National League pitcher, dies",
+   "headline": "Bob Chipman, 55, Pitcher for Brooklyn, Chicago and Boston",
    "image": null,
    "extract": "Robert Howard Chipman was an American professional baseball player, a left-handed pitcher who spent all or parts of a dozen seasons in the Major League Baseball from 1941 to 1952 for the Brooklyn Dodgers, Chicago Cubs and Boston Braves. The Brooklyn native stood 6 feet 2 inches (1.88 m) tall and weighed 190 pounds (86…",
    "page": "https://en.wikipedia.org/wiki/Bob_Chipman"
@@ -374,7 +374,7 @@
    ],
    "about": "Tim McCarver",
    "key": "8d8499635a33c16a",
-   "headline": "Cardinals reacquire Tim McCarver from Expos for Jorge Roque",
+   "headline": "Cardinals Bring Tim McCarver Back to St. Louis",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tim_McCarver_2002.jpg",
     "credit": "Bret Linford Delaywaves",
@@ -408,7 +408,7 @@
    ],
    "about": "Art Shamsky",
    "key": "97c8f1b4e3bb1883",
-   "headline": "Mets acquire Art Shamsky from Reds for Bob Johnson",
+   "headline": "Mets Acquire Art Shamsky From Reds for Bob Johnson",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Art_Shamsky_2013.jpg/960px-Art_Shamsky_2013.jpg",
     "credit": "Flcikr user slgckgc",
@@ -442,10 +442,10 @@
    ],
    "about": "Frank Robinson",
    "key": "348b9362a9c27344",
-   "headline": "Frank Robinson wins AL MVP, first to win in both leagues",
+   "headline": "Frank Robinson Wins AL MVP, First in Both Leagues",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/FrankRobinsonBAL.png",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:FrankRobinsonBAL.png",
     "alt": "Smiling man in Orioles cap and jersey, black-and-white portrait",
@@ -476,7 +476,7 @@
    ],
    "about": "Bob Porterfield",
    "key": "c6984e589e2841b8",
-   "headline": "Senators and Red Sox swap nine players in major trade",
+   "headline": "Senators Send Mickey Vernon, Bob Porterfield to Red Sox",
    "image": null,
    "extract": "Erwin Coolidge \"Bob\" Porterfield was an American right-handed Major League Baseball pitcher. He played for twelve seasons between 1948 and 1959 for the New York Yankees, Washington Senators, Boston Red Sox, Pittsburgh Pirates and Chicago Cubs. Porterfield appeared in one All-Star game in his career.",
    "page": "https://en.wikipedia.org/wiki/Bob_Porterfield"
@@ -499,7 +499,7 @@
    ],
    "about": "R. R. M. Carpenter Jr.",
    "key": "a77cf6d51ec00c12",
-   "headline": "Phillies to buy Connie Mack Stadium from Arnold Johnson",
+   "headline": "Phillies Buy Connie Mack Stadium From Arnold Johnson",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Robert_Carpenter_1943.jpg/960px-Robert_Carpenter_1943.jpg",
     "credit": "ACME Newspictures",
@@ -529,7 +529,7 @@
     "Yankee Stadium (1923)"
    ],
    "key": "c4c667ef3c4a7aef",
-   "headline": "Arnold Johnson sells Yankee Stadium after moving Athletics",
+   "headline": "Arnold Johnson Moves Athletics to Kansas City, Sells Yankee Stadium",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yankee_Stadium_aerial_from_Blackhawk.jpg/960px-Yankee_Stadium_aerial_from_Blackhawk.jpg",
     "credit": "Severin St. Martin",
@@ -563,10 +563,10 @@
    ],
    "about": "The Bronx",
    "key": "f7bf891a6841f160",
-   "headline": "Yogi Berra, 26, wins first AL Most Valuable Player Award",
+   "headline": "Yogi Berra, 26, Wins First of Three AL MVP Awards",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Yogi_Berra_%281957%29_%28cropped%29.jpg/960px-Yogi_Berra_%281957%29_%28cropped%29.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Yogi_Berra_(1957)_(cropped).jpg",
     "alt": "Man in Yankees pinstripes and NY cap holding bat",
@@ -597,7 +597,7 @@
    ],
    "about": "Clark Griffith",
    "key": "c291b330a1c9436a",
-   "headline": "Clark Griffith invests $130,000 in lights for Senators",
+   "headline": "Clark Griffith Invests $130,000 to Light Senators' Ballpark",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Clark_Griffith_LCCN2016840561_%28cropped%29.jpg/960px-Clark_Griffith_LCCN2016840561_%28cropped%29.jpg",
     "credit": "National Photo Company Collection",
@@ -627,7 +627,7 @@
    ],
    "about": "King Kelly",
    "key": "83033ac84df19337",
-   "headline": "King Kelly, Hall of Fame catcher, dies at 36",
+   "headline": "King Kelly, 36, Hall of Fame Catcher and Outfielder",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/King_Kelly_0554fu.jpg/960px-King_Kelly_0554fu.jpg",
     "credit": "Goodwin & Company",

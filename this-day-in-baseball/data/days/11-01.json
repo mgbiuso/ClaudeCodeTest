@@ -12,7 +12,7 @@
     "George Springer",
     "World Series Most Valuable Player Award"
    ],
-   "score": 153.1582840258396,
+   "score": 153.14368113367837,
    "abouts": [
     "2017 World Series",
     "George Springer",
@@ -20,7 +20,7 @@
    ],
    "about": "2017 World Series",
    "key": "1a9fe7bbb56fe4be",
-   "headline": "Astros beat Dodgers 5–1 in Game 7, win first World Series",
+   "headline": "Astros Beat Dodgers 5-1 in Game 7, Win First World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/George_Springer_in_2017_%2836077792615%29.jpg/960px-George_Springer_in_2017_%2836077792615%29.jpg",
     "credit": "Keith Allison from Hanover, MD, USA",
@@ -35,6 +35,11 @@
    },
    "extract": "The 2017 World Series was the championship series of Major League Baseball's (MLB) 2017 season. The 113th edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion Los Angeles Dodgers and the American League (AL) champion Houston Astros. The series was played between…",
    "page": "https://en.wikipedia.org/wiki/2017_World_Series",
+   "video": {
+    "id": "gMh6PMwxf-k",
+    "title": "WS2017 Gm7: Springer, 'pen lead team to Game 7 win",
+    "channel": "MLB"
+   },
    "lead": true
   },
   {
@@ -47,15 +52,15 @@
     "2025 Toronto Blue Jays season",
     "2000 New York Yankees season"
    ],
-   "score": 110.904068878772,
+   "score": 110.87973235047772,
    "abouts": [
     "2025 Los Angeles Dodgers season",
-    "2025 Toronto Blue Jays season",
-    "2000 New York Yankees season"
+    "2000 New York Yankees season",
+    "2025 Toronto Blue Jays season"
    ],
    "about": "2025 Los Angeles Dodgers season",
    "key": "83f058f509fda213",
-   "headline": "Dodgers beat Blue Jays in Game 7, win ninth World Series",
+   "headline": "Dodgers Beat Blue Jays in Game 7, Win Consecutive Titles",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2025DodgersParade.jpg/960px-2025DodgersParade.jpg",
     "credit": "Redspork02",
@@ -69,7 +74,12 @@
     "tier": "event"
    },
    "extract": "The 2025 Los Angeles Dodgers season was the 136th season for the Los Angeles Dodgers franchise in Major League Baseball (MLB), their 68th season in Los Angeles, California, and their 64th season playing their home games at Dodger Stadium. They entered the season as the defending World Series champions after winning…",
-   "page": "https://en.wikipedia.org/wiki/2025_Los_Angeles_Dodgers_season"
+   "page": "https://en.wikipedia.org/wiki/2025_Los_Angeles_Dodgers_season",
+   "video": {
+    "id": "Hgac2yzbSFM",
+    "title": "FINAL OUTS: The Los Angeles Dodgers win the 2025 World Series after an EPIC GAME 7! 🏆",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -85,7 +95,7 @@
     "Grand Canyon Antelopes baseball"
    ],
    "key": "87409094013cb59d",
-   "headline": "GCU accepts Mountain West Conference invite for baseball",
+   "headline": "GCU Accepts Mountain West Conference Invite for Baseball",
    "image": null,
    "extract": "The Grand Canyon Antelopes baseball team represents Grand Canyon University, which is located in Phoenix, Arizona. The Antelopes, also known as the Lopes, are an NCAA Division I college baseball program competing as members of the Mountain West Conference. They were in Division I from 1991 to 1998, the final four…",
    "page": "https://en.wikipedia.org/wiki/Grand_Canyon_Antelopes_baseball"
@@ -100,7 +110,7 @@
     "2023 Arizona Diamondbacks season",
     "2023 World Series"
    ],
-   "score": 98.16026083352905,
+   "score": 98.13226644896204,
    "abouts": [
     "2023 World Series",
     "2023 Texas Rangers season",
@@ -108,7 +118,7 @@
    ],
    "about": "2023 World Series",
    "key": "18889fdb2547b707",
-   "headline": "Rangers beat Diamondbacks in Game 5, win 2023 World Series",
+   "headline": "Rangers Beat Diamondbacks in Game 5, Win World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/President_Joe_Biden_with_members_of_the_2023_World_Series_champion_Texas_Rangers_on_August_8%2C_2024%2C_in_the_State_Dining_Room_of_the_White_House.jpg/960px-President_Joe_Biden_with_members_of_the_2023_World_Series_champion_Texas_Rangers_on_August_8%2C_2024%2C_in_the_State_Dining_Room_of_the_White_House.jpg",
     "credit": "The White House",
@@ -122,7 +132,31 @@
     "tier": "team"
    },
    "extract": "The 2023 World Series was the championship series of Major League Baseball's (MLB) 2023 season, and the 119th edition of the World Series. It was a best-of-seven playoff played between the National League (NL) champion Arizona Diamondbacks and the American League (AL) champion Texas Rangers. The series began on…",
-   "page": "https://en.wikipedia.org/wiki/2023_World_Series"
+   "page": "https://en.wikipedia.org/wiki/2023_World_Series",
+   "video": {
+    "id": "qKfH3pNwuVs",
+    "title": "Rangers vs. D-backs World Series Game 5 Highlights (11/1/23) | MLB Highlights",
+    "channel": "MLB"
+   }
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2021",
+   "text": "The Texas Rangers hired Ecker as their bench coach and offensive coordinator on November 1, 2021.",
+   "links": [
+    "Donnie Ecker"
+   ],
+   "about": "Donnie Ecker",
+   "score": 10.0,
+   "abouts": [
+    "Donnie Ecker"
+   ],
+   "key": "ecd07a3d1f8f39c9",
+   "headline": "The Texas Rangers Hired Ecker as Their Bench Coach",
+   "image": null,
+   "extract": "Donald Joseph Ecker is an American professional baseball coach and former infielder who currently serves as the bench coach for the Baltimore Orioles of Major League Baseball (MLB). He played college baseball for California State University, Long Beach and Lewis–Clark State College. The Texas Rangers selected Ecker in…",
+   "page": "https://en.wikipedia.org/wiki/Donnie_Ecker"
   },
   {
    "src": "yearpage",
@@ -138,7 +172,7 @@
    ],
    "about": "Carlos Beltrán",
    "key": "d5a51ca06f6b72c2",
-   "headline": "Mets name Carlos Beltrán their next manager",
+   "headline": "Mets Name Carlos Beltrán Manager on Three-Year Deal",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Carlos_Beltr%C3%A1n_R.jpg/960px-Carlos_Beltr%C3%A1n_R.jpg",
     "credit": "Keith Allison on Flickr (Original version) UCinternational (Crop)",
@@ -172,7 +206,7 @@
    ],
    "about": "Citi Field",
    "key": "01f112c834662cda",
-   "headline": "Royals beat Mets 7–2 in 12 innings, win second World Series",
+   "headline": "Royals Beat Mets 7-2 in 12 Innings, Win World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/DSC_0163_Matt_Harvey.jpg/960px-DSC_0163_Matt_Harvey.jpg",
     "credit": "slgckgc on Flickr (Original version) UCinternational (Crop)",
@@ -202,7 +236,7 @@
     "Gerardo Parra"
    ],
    "key": "9b2182214d67a2f5",
-   "headline": "Parra wins 2011 National League Gold Glove in left field",
+   "headline": "Parra Wins 2011 NL Gold Glove Award in Left Field",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Parrawin.jpg",
     "credit": "Mwinog2777",
@@ -228,7 +262,7 @@
     "Texas Rangers (baseball)",
     "2010 World Series"
    ],
-   "score": 110.45375844822452,
+   "score": 110.42127229555615,
    "abouts": [
     "2010 World Series",
     "San Francisco Giants",
@@ -236,7 +270,7 @@
    ],
    "about": "2010 World Series",
    "key": "b83b85485e92f99b",
-   "headline": "Giants beat Rangers 3–1, win first Series since 1954",
+   "headline": "Giants Beat Rangers 3-1, Win First Title Since 1954",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Madison_Bumgarner_on_June_21%2C_2011.jpg",
     "credit": "Ed Bierman on Flickr (Original version) UCinternational (Crop)",
@@ -250,7 +284,12 @@
     "tier": "person"
    },
    "extract": "The 2010 World Series was the championship series of Major League Baseball's (MLB) 2010 season. The 106th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Texas Rangers and the National League (NL) champion San Francisco Giants; the Giants won the series,…",
-   "page": "https://en.wikipedia.org/wiki/2010_World_Series"
+   "page": "https://en.wikipedia.org/wiki/2010_World_Series",
+   "video": {
+    "id": "UAKdMJfwMzM",
+    "title": "2010 WS Gm5: Lincecum hurls eight solid frames",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -261,12 +300,12 @@
     "2010 Major League Baseball postseason"
    ],
    "about": "2010 Major League Baseball postseason",
-   "score": 67.76334108056096,
+   "score": 67.73948858781549,
    "abouts": [
     "2010 Major League Baseball postseason"
    ],
    "key": "343bc0ca696b36b9",
-   "headline": "Giants defeat Rangers in five games, end Curse of Coogan's Bluff",
+   "headline": "Giants Beat Rangers in Five Games, End Curse of Coogan's Bluff",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Madison_Bumgarner_on_June_21%2C_2011.jpg",
     "credit": "Ed Bierman on Flickr (Original version) UCinternational (Crop)",
@@ -300,7 +339,7 @@
    ],
    "about": "Johnny Damon",
    "key": "6401afbe7ed65d8b",
-   "headline": "Yankees rally in ninth to beat Phillies 7–4, one win from title",
+   "headline": "Yankees Rally in Ninth to Beat Phillies 7-4, Lead Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/CC_Sabathia_Mark_Teixeira_World_Series_parade_2009.jpg",
     "credit": "edogisgod",
@@ -334,7 +373,7 @@
    ],
    "about": "2007 Japan Series",
    "key": "ebe54a5c48037b8e",
-   "headline": "Dragons beat Nippon Ham 4-1 to win 2007 Japan Series",
+   "headline": "Dragons Sweep Nippon Ham Fighters, Win 2007 Japan Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sapporo_dome_view_from_seats.jpg/960px-Sapporo_dome_view_from_seats.jpg",
     "credit": "hfordsa on Flickr",
@@ -368,7 +407,7 @@
    ],
    "about": "2001 World Series",
    "key": "fb5701e53d1c487b",
-   "headline": "Yankees rally twice, Jeter homers in 12th to win Game 4",
+   "headline": "Jeter's Walk-off Homer Wins Game 4 After Martinez Tie",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Derek_Jeter_batting_stance_allison.jpg/960px-Derek_Jeter_batting_stance_allison.jpg",
     "credit": "Keith Allison",
@@ -382,7 +421,12 @@
     "tier": "person"
    },
    "extract": "The 2001 World Series was the championship series of Major League Baseball's (MLB) 2001 season. The 97th edition of the World Series, it was a best-of-seven series between the National League (NL) champion Arizona Diamondbacks and the American League (AL) champion New York Yankees. The Diamondbacks defeated the…",
-   "page": "https://en.wikipedia.org/wiki/2001_World_Series"
+   "page": "https://en.wikipedia.org/wiki/2001_World_Series",
+   "video": {
+    "id": "H4ZTLRsCTvI",
+    "title": "Must C Classic: Derek Jeter hits a walk-off homer in 2001 World Series to become Mr. November",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -400,7 +444,7 @@
    ],
    "about": "H. Gabriel Murphy",
    "key": "0ff74445d31b05eb",
-   "headline": "H. Gabriel Murphy, Senators co-owner, dies at 98",
+   "headline": "H. Gabriel Murphy, 98, 40 Percent Owner of Washington Senators",
    "image": null,
    "extract": "Henry Gabriel Murphy was an American businessman, sportsman and Major League Baseball club owner. From June 1950 through April 1984, he was a minority stockholder in the Washington Senators/Minnesota Twins franchise of the American League. After October 1955, Murphy became the largest individual shareholder in the…",
    "page": "https://en.wikipedia.org/wiki/H._Gabriel_Murphy"
@@ -423,7 +467,7 @@
    ],
    "about": "American League",
    "key": "70eee70c6218cae0",
-   "headline": "Ron Guidry wins unanimous American League Cy Young Award",
+   "headline": "Ron Guidry Wins AL Cy Young by Unanimous Vote",
    "image": null,
    "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
    "page": "https://en.wikipedia.org/wiki/American_League"
@@ -446,7 +490,7 @@
    ],
    "about": "Seitz decision",
    "key": "600e900a262c83c3",
-   "headline": "23 players granted free agency, seven from Oakland Athletics",
+   "headline": "23 Players Granted Free Agency, Seven From Athletics",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/SalBandoAthletics.jpg",
     "credit": "J.D. McCarthy",
@@ -465,36 +509,6 @@
   {
    "src": "article",
    "kind": "event",
-   "year": "1974",
-   "text": "Leslie Ambrose \"Bullet Joe\" Bush (November 27, 1892 – November 1, 1974) was an American Major League Baseball pitcher with the Philadelphia Athletics, Boston Red Sox, New York Yankees, St.",
-   "links": [
-    "Bullet Joe Bush"
-   ],
-   "about": "Bullet Joe Bush",
-   "score": 20.0,
-   "abouts": [
-    "Bullet Joe Bush"
-   ],
-   "key": "2efe1e9c95a13b64",
-   "headline": "Leslie \"Bullet Joe\" Bush, Philadelphia Athletics pitcher, dies",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bullet_Joe_Bush_1922.jpg",
-    "credit": "Unknown",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Bullet_Joe_Bush_1922.jpg",
-    "alt": "Smiling man in black-and-white photo wearing a New York Yankees cap",
-    "source": "checked",
-    "of": "Bullet Joe Bush (Commons search)",
-    "w": 424,
-    "h": 528,
-    "tier": "person"
-   },
-   "extract": "Leslie Ambrose \"Bullet Joe\" Bush was an American Major League Baseball pitcher with the Philadelphia Athletics, Boston Red Sox, New York Yankees, St. Louis Browns, Washington Senators, Pittsburgh Pirates, and New York Giants between 1912 and 1928. Bush batted and threw right-handed. He is credited with having…",
-   "page": "https://en.wikipedia.org/wiki/Bullet_Joe_Bush"
-  },
-  {
-   "src": "article",
-   "kind": "event",
    "year": "1972",
    "text": "Millán was acquired along with George Stone by the New York Mets from the Braves for Gary Gentry and Danny Frisella on November 1, 1972.",
    "links": [
@@ -506,7 +520,7 @@
     "Félix Millán"
    ],
    "key": "fbf92441cb641de1",
-   "headline": "Mets acquire Millán and George Stone from the Braves",
+   "headline": "Mets Acquire Millán and Stone From Braves",
    "image": null,
    "extract": "Félix Bernardo Millán Martínez is a Puerto Rican former professional baseball second baseman, who played in Major League Baseball (MLB) for the Atlanta Braves and New York Mets. He holds one of the best at-bat to strike out ratios in modern baseball history, having struck out once every twenty three at bats.",
    "page": "https://en.wikipedia.org/wiki/F%C3%A9lix_Mill%C3%A1n"
@@ -529,7 +543,7 @@
    ],
    "about": "American League",
    "key": "c3e7ae86decb50cf",
-   "headline": "Denny McLain unanimously wins American League Cy Young Award",
+   "headline": "Denny McLain Unanimously Wins AL Cy Young",
    "image": null,
    "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
    "page": "https://en.wikipedia.org/wiki/American_League"
@@ -552,7 +566,7 @@
    ],
    "about": "Mike McCormick (pitcher)",
    "key": "c4b8f70ac585c61e",
-   "headline": "Mike McCormick, 29, elected 1967 National League Cy Young winner",
+   "headline": "Mike McCormick, 29, Wins 1967 NL Cy Young Award",
    "image": null,
    "extract": "Michael Francis McCormick was an American professional baseball pitcher who played 16 seasons in Major League Baseball (MLB). He played for the New York/San Francisco Giants, Baltimore Orioles, Washington Senators, New York Yankees and Kansas City Royals from 1956 to 1971. He batted and threw left-handed and served…",
    "page": "https://en.wikipedia.org/wiki/Mike_McCormick_(pitcher)"
@@ -575,7 +589,7 @@
    ],
    "about": "Charlie Caldwell",
    "key": "a5d8dadfc36c4ba7",
-   "headline": "Charlie Caldwell, former Yankees pitcher and coach, dies at 56",
+   "headline": "Charlie Caldwell, 56, 1925 Yankees Pitcher, Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%28Yankee_Stadium%2C_Bronx%2C_New_York_City%3B_with_automobiles_parked_in_foregrd.%29.jpg",
     "credit": "Photo copyrighted by Henry Parker, New York City.",
@@ -609,7 +623,7 @@
    ],
    "about": "Roy Campanella",
    "key": "40ff0b21e12aa5a2",
-   "headline": "Roy Campanella named National League Most Valuable Player",
+   "headline": "Roy Campanella, 29, Named National League MVP",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jackie_Robinson%2C_Roy_Campanella_and_Jim_Gilliam_in_Japan_1956_IMG_20220429_0002.jpg/960px-Jackie_Robinson%2C_Roy_Campanella_and_Jim_Gilliam_in_Japan_1956_IMG_20220429_0002.jpg",
     "credit": "ベースボール・マガジン社（Baseball Magazine Co. Ltd)",
@@ -643,7 +657,7 @@
    ],
    "about": "batting average (baseball)",
    "key": "e166c55fd32a0f69",
-   "headline": "Athletics select Ferris Fain, 25, in Rule 5 draft",
+   "headline": "Athletics Select Ferris Fain, 25, in Rule 5 Draft",
    "image": null,
    "extract": "In baseball, batting average (BA) is determined by dividing a player's hits by their total at-bats. It is usually rounded to three decimal places and read without the decimal: A player with a batting average of .300 is said to be \"batting three hundred\". If necessary to break ties, batting averages could be taken…",
    "page": "https://en.wikipedia.org/wiki/Batting_average_(baseball)"
@@ -666,7 +680,7 @@
    ],
    "about": "Branch Rickey",
    "key": "ad0e7d5f5c94be1c",
-   "headline": "Branch Rickey group buys quarter of Dodgers for $250,000",
+   "headline": "Branch Rickey Group Buys Quarter of Dodgers",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Branch_Rickey_1912.jpg",
     "credit": "Rentschler",
@@ -700,7 +714,7 @@
    ],
    "about": "Ernie Lombardi",
    "key": "1c2e3e238fe1999b",
-   "headline": "Ernie Lombardi, Cincinnati Reds catcher, named Most Valuable Player",
+   "headline": "Ernie Lombardi, Reds Batting Champ, Named NL MVP",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lombardi_Statue_Tsuchiya.jpg/960px-Lombardi_Statue_Tsuchiya.jpg",
     "credit": "Booklover117",
@@ -730,7 +744,7 @@
    ],
    "about": "Benny Frey",
    "key": "da79421fc0c7a796",
-   "headline": "Benny Frey, former Reds pitcher, dies at 30 by suicide",
+   "headline": "Benny Frey, 30, Pitcher for Reds From 1929 to 1936",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Benjamin_Frey%2C_1929_AP_photo_%28cropped%29.jpg/960px-Benjamin_Frey%2C_1929_AP_photo_%28cropped%29.jpg",
     "credit": "Associated Press",
@@ -764,7 +778,7 @@
    ],
    "about": "Ira Thomas",
    "key": "e19f37ef882fcdb4",
-   "headline": "Ira Thomas buys Shreveport Gassers for $75,000",
+   "headline": "Ira Thomas Buys Shreveport Gassers for $75,000",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ira_Thomas.jpg",
     "credit": "Paul Thompson",
@@ -798,7 +812,7 @@
    ],
    "about": "batting average (baseball)",
    "key": "3d914ac13ac48069",
-   "headline": "Dan Brouthers hits .335 and Cy Young goes 36-11 in 154-game season",
+   "headline": "Cy Young Posts 36–11 Record in 154-Game Season",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dan_Brouthers_0556fu.jpg/960px-Dan_Brouthers_0556fu.jpg",
     "credit": "Goodwin & Company",
@@ -828,7 +842,7 @@
     "History of the Philadelphia Phillies"
    ],
    "key": "52da191c3ace65db",
-   "headline": "Philadelphia Ball Club Limited organized, starting Phillies history",
+   "headline": "Philadelphia Ball Club Limited Organizes Phillies",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/18821101PBCL.jpg/960px-18821101PBCL.jpg",
     "credit": "Philadelphia Ball Club Limited",
@@ -860,10 +874,10 @@
    ],
    "about": "Boston Braves",
    "key": "788864620f3a9e27",
-   "headline": "Red Caps and Grays play exhibition with no outs on foul bounds",
+   "headline": "Red Caps and Grays Play Odd Exhibition, Foul Bounds",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/1879_Providence_Grays.jpeg/960px-1879_Providence_Grays.jpeg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1879_Providence_Grays.jpeg",
     "alt": "Team of nine uniformed players posed before a wooden grandstand, baseball field.",

@@ -20,7 +20,7 @@
    ],
    "about": "American League",
    "key": "7dd404e51a835921",
-   "headline": "Boog Powell named AL MVP, beating Tony Oliva and Harmon Killebrew",
+   "headline": "Boog Powell, 35 Homers, Selected AL MVP for Orioles",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Boog_Powell_Orioles.jpg",
     "credit": "Baltimore Orioles",
@@ -46,12 +46,12 @@
     "Bruce Bochy"
    ],
    "about": "Bruce Bochy",
-   "score": 31.938283643100714,
+   "score": 31.90972477260303,
    "abouts": [
     "Bruce Bochy"
    ],
    "key": "b44270d67b96e166",
-   "headline": "Giants hire Bochy as special assistant to baseball operations",
+   "headline": "Giants Hire Bochy as Special Assistant to Operations",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bruce_Bochy_%288146837963%29.jpg/960px-Bruce_Bochy_%288146837963%29.jpg",
     "credit": "Michael Marconi",
@@ -76,12 +76,12 @@
     "Craig Albernaz"
    ],
    "about": "Craig Albernaz",
-   "score": 30.255376538378744,
+   "score": 30.22152259587957,
    "abouts": [
     "Craig Albernaz"
    ],
    "key": "e9df9c3a863d6863",
-   "headline": "Guardians hire Albernaz as bench coach",
+   "headline": "Guardians Hire Albernaz as Bench Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Manager_Craig_Albernaz_001_%28cropped%29.jpg/960px-Manager_Craig_Albernaz_001_%28cropped%29.jpg",
     "credit": "Joel Dinda",
@@ -107,7 +107,7 @@
    "abouts": [],
    "about": null,
    "key": "ea157febbc602615",
-   "headline": "Free agents may sign with clubs other than their former club",
+   "headline": "Free Agents May Sign With Clubs Other Than Former Club",
    "image": null,
    "extract": "",
    "page": ""
@@ -121,12 +121,12 @@
     "Brendan McKay (baseball)"
    ],
    "about": "Brendan McKay (baseball)",
-   "score": 27.141484069914398,
+   "score": 27.0964736087673,
    "abouts": [
     "Brendan McKay (baseball)"
    ],
    "key": "b2cd499034dafc3d",
-   "headline": "McKay removed from 40-man roster and sent outright to Durham",
+   "headline": "McKay Removed From 40-Man Roster, Sent to Triple–A Durham",
    "image": null,
    "extract": "Brendan Joel McKay is an American professional baseball pitcher and designated hitter who is a free agent. He has previously played in Major League Baseball (MLB) for the Tampa Bay Rays. The Rays selected McKay in the first round, with the fourth overall selection, of the 2017 Major League Baseball draft. He played…",
    "page": "https://en.wikipedia.org/wiki/Brendan_McKay_(baseball)"
@@ -141,7 +141,7 @@
    "abouts": [],
    "about": null,
    "key": "5a7d423e0ed5c8ef",
-   "headline": "Deadline arrives for clubs to make qualifying offers to free agents",
+   "headline": "Clubs Face Deadline for Qualifying Offers to Free Agents",
    "image": null,
    "extract": "",
    "page": ""
@@ -156,7 +156,7 @@
     "Seattle Mariners",
     "Devin Williams (baseball)"
    ],
-   "score": 28.952129586955554,
+   "score": 28.915227860573467,
    "abouts": [
     "Devin Williams (baseball)",
     "Kyle Lewis",
@@ -164,7 +164,7 @@
    ],
    "about": "Devin Williams (baseball)",
    "key": "2680ed6c010ea6ae",
-   "headline": "Kyle Lewis and Devin Williams win AL and NL Rookie of the Year",
+   "headline": "Lewis and Williams Win AL and NL Rookie of Year",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kyle_Lewis_2019.jpg/960px-Kyle_Lewis_2019.jpg",
     "credit": "PaulHamaker Cropped by 佾珜",
@@ -181,6 +181,35 @@
    "page": "https://en.wikipedia.org/wiki/Devin_Williams_(baseball)"
   },
   {
+   "src": "article",
+   "kind": "event",
+   "year": "2020",
+   "text": "On November 10, 2020, Twins management disclosed to the Red Wings that they would be discontinuing their partnership as part of the broad changes in the minor league system for the 2021 season and beyond.",
+   "links": [
+    "Rochester Red Wings"
+   ],
+   "about": "Rochester Red Wings",
+   "score": 20.0,
+   "abouts": [
+    "Rochester Red Wings"
+   ],
+   "key": "94caab9c3ef71834",
+   "headline": "Twins Management Disclosed to the Red Wings That They Would Be",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/1988_Pucko-Liberatore_Rochester_Red_Wings.jpg",
+    "credit": "Pucko/Liberatore",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1988_Pucko-Liberatore_Rochester_Red_Wings.jpg",
+    "alt": "Rochester Red Wings",
+    "source": "commons",
+    "of": "Rochester Red Wings",
+    "w": 705,
+    "h": 1000
+   },
+   "extract": "The Rochester Red Wings are a Minor League Baseball team of the International League and the Triple-A affiliate of the Washington Nationals. They are located in Rochester, New York, and play their home games at ESL Ballpark, located in downtown Rochester. Founded in 1899, they are the oldest continuously operating…",
+   "page": "https://en.wikipedia.org/wiki/Rochester_Red_Wings"
+  },
+  {
    "src": "yearpage",
    "kind": "event",
    "year": "2014",
@@ -189,14 +218,14 @@
     "Buck Showalter",
     "Matt Williams (third baseman)"
    ],
-   "score": 52.7753130961196,
+   "score": 52.78153399747036,
    "abouts": [
     "Buck Showalter",
     "Matt Williams (third baseman)"
    ],
    "about": "Buck Showalter",
    "key": "50970ee1f8db3af7",
-   "headline": "Buck Showalter of the Baltimore Orioles",
+   "headline": "Showalter and Williams Win Manager of Year Awards",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Buck_Showalter_in_2017_%2836660713620%29.jpg/960px-Buck_Showalter_in_2017_%2836660713620%29.jpg",
     "credit": "Keith Allison from Hanover, MD, USA",
@@ -221,12 +250,12 @@
     "Ariel Prieto"
    ],
    "about": "Ariel Prieto",
-   "score": 32.532525162024356,
+   "score": 32.491552768948004,
    "abouts": [
     "Ariel Prieto"
    ],
    "key": "809f835f40add65c",
-   "headline": "Prieto named pitching coach for Vermont Lake Monsters",
+   "headline": "Prieto Named Pitching Coach for Vermont Lake Monsters",
    "image": null,
    "extract": "Ariel Prieto is a Cuban former professional baseball pitcher. He played in Major League Baseball (MLB) from 1995 to 2001 for the Oakland Athletics and Tampa Bay Devil Rays. He is currently the pitching coach for the GCL Mets.",
    "page": "https://en.wikipedia.org/wiki/Ariel_Prieto"
@@ -241,7 +270,7 @@
     "Justin Marks (baseball)",
     "Vin Mazzaro"
    ],
-   "score": 26.14840921158838,
+   "score": 26.11488224946696,
    "abouts": [
     "David DeJesus",
     "Justin Marks (baseball)",
@@ -249,7 +278,7 @@
    ],
    "about": "David DeJesus",
    "key": "ac56a408a099638e",
-   "headline": "Royals send David DeJesus to Athletics for two players",
+   "headline": "Royals Send DeJesus to Athletics for Marks, Mazzaro",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/David_DeJesus_on_June_8%2C_2011_%281%29.jpg/960px-David_DeJesus_on_June_8%2C_2011_%281%29.jpg",
     "credit": "Keith Allison on Flickr",
@@ -279,7 +308,7 @@
    ],
    "about": "Dave Niehaus",
    "key": "1f3892574f9d9d91",
-   "headline": "Dave Niehaus, 75, Hall of Fame Mariners broadcaster, dies",
+   "headline": "Dave Niehaus, 75, Hall of Fame Mariners Broadcaster",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dave_Niehaus_1.jpg/960px-Dave_Niehaus_1.jpg",
     "credit": "Gina Catarra from Seattle, WA",
@@ -304,14 +333,14 @@
     "Jimmie Lee Solomon",
     "ESPN"
    ],
-   "score": 46.504619897611214,
+   "score": 46.45788240548691,
    "abouts": [
     "ESPN",
     "Jimmie Lee Solomon"
    ],
    "about": "ESPN",
    "key": "a077ff3e84590f1f",
-   "headline": "GMs fail to vote on expanding instant replay",
+   "headline": "GMs Fail to Vote on Expanding Instant Replay",
    "image": null,
    "extract": "Jimmie Lee Solomon was an American lawyer and baseball executive. He served as the executive vice president of baseball operations in Major League Baseball (MLB) from 2005 to 2010, before going on to serve as the executive vice president for baseball development from 2010 to 2012. He announced plans in September 2020…",
    "page": "https://en.wikipedia.org/wiki/Jimmie_Lee_Solomon"
@@ -325,14 +354,14 @@
     "Johan Santana",
     "Minnesota Twins"
    ],
-   "score": 45.0,
+   "score": 64.89865215331143,
    "abouts": [
     "Johan Santana",
     "Minnesota Twins"
    ],
    "about": "Johan Santana",
    "key": "0373f80d22b5c0b4",
-   "headline": "Johan Santana wins AL Cy Young with all 28 first-place votes",
+   "headline": "Johan Santana Wins AL Cy Young With All 28 First-Place Votes",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Johan_Santana_20060602.jpg",
     "credit": "User Lordcolus (Original version) User UCinternational (Crop)",
@@ -357,12 +386,12 @@
     "Carlton Loewer"
    ],
    "about": "Carlton Loewer",
-   "score": 36.22756333907075,
+   "score": 36.16498055196077,
    "abouts": [
     "Carlton Loewer"
    ],
    "key": "4369bad5c8eb3e3e",
-   "headline": "Phillies trade Loewer, Eaton and Montgomery to Padres for Ashby",
+   "headline": "Padres Trade Andy Ashby to Phillies for Loewer, Eaton, Montgomery",
    "image": null,
    "extract": "Carlton Edward Loewer is an American former Major League Baseball (MLB) pitcher who was chiefly a starter over parts of four seasons from 1998-2003. He played for the Philadelphia Phillies and San Diego Padres and now owns a real estate company in Wyoming.",
    "page": "https://en.wikipedia.org/wiki/Carlton_Loewer"
@@ -383,10 +412,10 @@
    ],
    "about": "Hal Newhouser",
    "key": "e10d55a109e519f3",
-   "headline": "Hal Newhouser, 77, Hall of Fame Tigers pitcher, dies",
+   "headline": "Hal Newhouser, 77, Hall of Fame Tigers Pitcher",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hal_Newhouser_1953.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Hal_Newhouser_1953.jpg",
     "alt": "Black-and-white portrait of a smiling man in a Detroit Tigers cap",
@@ -408,14 +437,14 @@
     "Chicago White Sox",
     "Frank Thomas"
    ],
-   "score": 112.70327380455059,
+   "score": 112.6680342383539,
    "abouts": [
     "Frank Thomas",
     "Chicago White Sox"
    ],
    "about": "Frank Thomas",
    "key": "53f09592ab20dead",
-   "headline": "Frank Thomas unanimously named American League MVP",
+   "headline": "Frank Thomas Unanimously Named American League MVP",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frank_Thomas_1997_CROP.jpg/960px-Frank_Thomas_1997_CROP.jpg",
     "credit": "clare_and_ben User:Delaywaves",
@@ -447,7 +476,7 @@
    ],
    "about": "St. Petersburg, Florida",
    "key": "cd26e5cd5058eded",
-   "headline": "NL fails to approve Giants sale to Vince Naimoli, 9–4 vote",
+   "headline": "NL Blocks Giants Sale to Vince Naimoli, 9-4 Vote Falls Short",
    "image": null,
    "extract": "The San Francisco Giants are an American professional baseball team based in San Francisco. The Giants compete in Major League Baseball (MLB) as a member club of the National League (NL) West Division. Founded in 1883 as the New York Gothams, the team was renamed the New York Giants three years later, eventually…",
    "page": "https://en.wikipedia.org/wiki/San_Francisco_Giants"
@@ -466,7 +495,7 @@
    ],
    "about": "Aurelio Monteagudo",
    "key": "97f26d5909b6440a",
-   "headline": "Aurelio Monteagudo, 46, Cuban pitcher with five teams, dies",
+   "headline": "Aurelio Monteagudo, 46, Cuban Pitcher",
    "image": null,
    "extract": "Aurelio Faustino Monteagudo Cintra, nicknamed \"Monty\", was a Cuban right-handed pitcher who played in Major League Baseball (MLB) for parts of seven seasons with the Kansas City Athletics, Houston Astros, Chicago White Sox, Kansas City Royals, and California Angels. He played Minor League Baseball during the course of…",
    "page": "https://en.wikipedia.org/wiki/Aurelio_Monteagudo"
@@ -481,7 +510,7 @@
     "Steve Bedrosian",
     "Philadelphia Phillies"
    ],
-   "score": 67.70901910474088,
+   "score": 67.66987654204604,
    "abouts": [
     "Cy Young Award",
     "Steve Bedrosian",
@@ -489,7 +518,7 @@
    ],
    "about": "Cy Young Award",
    "key": "8082f04cac1f44f3",
-   "headline": "Steve Bedrosian edges Sutcliffe, Reuschel for closest Cy Young vote",
+   "headline": "Steve Bedrosian Edges Sutcliffe, Reuschel for Closest Cy Young Vote",
    "image": null,
    "extract": "The Cy Young Award, officially the Cy Young Memorial Award, is given annually to the best pitchers in Major League Baseball (MLB), one each for the American League (AL) and National League (NL). The award was introduced in 1956 by Baseball Commissioner Ford C. Frick in honor of Hall of Fame pitcher Cy Young, who died…",
    "page": "https://en.wikipedia.org/wiki/Cy_Young_Award"
@@ -508,40 +537,10 @@
    ],
    "about": "Bubby Sadler",
    "key": "4cbf09b8426f839c",
-   "headline": "Bubby Sadler, 78, Negro leagues shortstop, dies",
+   "headline": "Bubby Sadler, 78, Negro Leagues Shortstop",
    "image": null,
    "extract": "William Andrew Sadler, alternately spelled \"Saddler\", and nicknamed \"Bubby\", was an American Negro league baseball shortstop between 1934 and 1944.",
    "page": "https://en.wikipedia.org/wiki/Bubby_Sadler"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "1986",
-   "text": "Aaron James Crow (born November 10, 1986) is an American former professional baseball pitcher.",
-   "links": [
-    "Aaron Crow"
-   ],
-   "about": "Aaron Crow",
-   "score": 24.85869795443889,
-   "abouts": [
-    "Aaron Crow"
-   ],
-   "key": "db179b87eeeae18c",
-   "headline": "Aaron James Crow, American pitcher, is born",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aaron_Crow_on_May_24%2C_2011.jpg/960px-Aaron_Crow_on_May_24%2C_2011.jpg",
-    "credit": "Keith Allison on Flickr",
-    "license": "CC BY-SA 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Aaron_Crow_on_May_24,_2011.jpg",
-    "alt": "Pitcher in gray Kansas City Royals road uniform, number 43, mid-delivery at night",
-    "source": "checked",
-    "of": "Aaron Crow",
-    "w": 1711,
-    "h": 2027,
-    "tier": "person"
-   },
-   "extract": "Aaron James Crow is an American former professional baseball pitcher. He pitched in Major League Baseball (MLB) for the Kansas City Royals.",
-   "page": "https://en.wikipedia.org/wiki/Aaron_Crow"
   },
   {
    "src": "yearpage",
@@ -553,7 +552,7 @@
     "American League Most Valuable Player Award",
     "Steve Garvey"
    ],
-   "score": 55.203802621143495,
+   "score": 54.87738881582938,
    "abouts": [
     "Don Baylor",
     "American League Most Valuable Player Award",
@@ -561,7 +560,7 @@
    ],
    "about": "Don Baylor",
    "key": "9058faba157aa937",
-   "headline": "Forty players, including Don Baylor and Steve Garvey, granted free agency",
+   "headline": "Forty Players, Including Don Baylor and Steve Garvey, Granted Free Agency",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Steve_garvey_hits.jpg/960px-Steve_garvey_hits.jpg",
     "credit": "Wikimedia Commons",
@@ -595,7 +594,7 @@
    ],
    "about": "Sparky Lyle",
    "key": "df05600cd558e556",
-   "headline": "Yankees send Sparky Lyle to Rangers in ten-player trade",
+   "headline": "Yankees Send Sparky Lyle to Rangers in Ten-Player Trade",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mike_Heath_1978.jpg",
     "credit": "New York Yankees / MLB",
@@ -629,7 +628,7 @@
    ],
    "about": "American League",
    "key": "031dc217b68f89c5",
-   "headline": "Jim Palmer wins third AL Cy Young Award, first AL pitcher to do so",
+   "headline": "Jim Palmer Wins Third AL Cy Young Award, First AL Pitcher to Do So",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jim_Palmer_1972.jpg",
     "credit": "Unknown (Associated Press)",
@@ -663,10 +662,10 @@
    ],
    "about": "Harmon Killebrew",
    "key": "823d0cede74dc619",
-   "headline": "Royals release Harmon Killebrew, who hit 573 home runs",
+   "headline": "Royals Release Harmon Killebrew, Ending 22-Year Career",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Harmon_Killebrew_1962.png",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Harmon_Killebrew_1962.png",
     "alt": "Baseball player with bat, Minnesota Twins patch, black-and-white photo",
@@ -695,7 +694,7 @@
    ],
    "about": "Danny Litwhiler",
    "key": "5062f95f40b00724",
-   "headline": "U.S. team defeats Cuba to win Mexico City tournament",
+   "headline": "U.S. Beats Cuba to Win Mexico City Tournament",
    "image": null,
    "extract": "Daniel Webster Litwhiler was an American professional baseball player and coach. He played in Major League Baseball as an outfielder from 1940 to 1951 for the Boston Braves, St. Louis Cardinals, Philadelphia Phillies, and Cincinnati Reds. He was the first Major League Baseball player to have an error-free season while…",
    "page": "https://en.wikipedia.org/wiki/Danny_Litwhiler"
@@ -718,10 +717,10 @@
    ],
    "about": "Willie Mays",
    "key": "387ab114681d9871",
-   "headline": "Willie Mays, with 52 home runs, named 1965 National League MVP",
+   "headline": "Willie Mays Named 1965 NL MVP, Edging Koufax and Wills",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Willie_Mays_%281955%29_%28cropped%29.jpg/960px-Willie_Mays_%281955%29_%28cropped%29.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Willie_Mays_(1955)_(cropped).jpg",
     "alt": "Smiling baseball player in Giants jersey and cap, seated outdoors",
@@ -750,7 +749,7 @@
    ],
    "about": "Atlanta–Fulton County Stadium",
    "key": "3ab6ae00700e2197",
-   "headline": "Milwaukee Braves sign 25-year lease for Atlanta–Fulton County Stadium",
+   "headline": "Braves Sign 25-Year Lease for New Stadium, Draw 911,951 Fans",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Atlanta%E2%80%93Fulton_County_Stadium_Postcard_%281960s-70s%29_%28Stadium_crop%29.jpg/960px-Atlanta%E2%80%93Fulton_County_Stadium_Postcard_%281960s-70s%29_%28Stadium_crop%29.jpg",
     "credit": "Don Ceppi/Scenic South Card Co.",
@@ -780,7 +779,7 @@
    ],
    "about": "New York Giants (baseball)",
    "key": "caa340f98f1b2416",
-   "headline": "Giants end Japan tour, each player receiving just $331",
+   "headline": "Giants End Japan Tour, Each Player Receives Just $331",
    "image": null,
    "extract": "The New York Giants were a Major League Baseball team in the National League that began play in the 1883 season as the New York Gothams and became known as the Giants in 1885. They continued as the New York Giants until the team moved to San Francisco after the 1957 season, where the team continues its history as the…",
    "page": "https://en.wikipedia.org/wiki/New_York_Giants_(baseball)"
@@ -803,7 +802,7 @@
    ],
    "about": "Central League",
    "key": "0aa9894038feaad0",
-   "headline": "Joe DiMaggio homers, Dom drives in winning run in Tokyo",
+   "headline": "Joe DiMaggio Homers, Dom Triples in American All-Star Win in Tokyo",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joe_DiMaggio.jpg/960px-Joe_DiMaggio.jpg",
     "credit": "Tom Sande",
@@ -837,7 +836,7 @@
    ],
    "about": "Al López",
    "key": "cc35fc3872bb7469",
-   "headline": "Indians replace Lou Boudreau with Al López as manager",
+   "headline": "Indians Replace Lou Boudreau With Al López as Manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LOU_BOUDREAU.jpg/960px-LOU_BOUDREAU.jpg",
     "credit": "RF",
@@ -871,7 +870,7 @@
    ],
    "about": "Billy Pierce",
    "key": "2131b0cded63db45",
-   "headline": "White Sox acquire Billy Pierce from Tigers for Aaron Robinson",
+   "headline": "White Sox Acquire Billy Pierce From Tigers for Aaron Robinson",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Billy_Pierce_Grave.jpg/960px-Billy_Pierce_Grave.jpg",
     "credit": "ChicagoEric",
@@ -905,7 +904,7 @@
    ],
    "about": "American Association (20th century)",
    "key": "3bfded461234dfb5",
-   "headline": "Donie Bush named to manage Cincinnati Reds next season",
+   "headline": "Donie Bush Named to Manage Cincinnati Reds Next Year",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Donie_Bush%2C_Detroit_AL%2C_at_Polo_Grounds%2C_NY.jpg",
     "credit": "Bain News Service",
@@ -939,7 +938,7 @@
    ],
    "about": "Hippo Vaughn",
    "key": "f7276bcfe8d006d7",
-   "headline": "Hippo Vaughn reinstated by Judge Landis after eight years",
+   "headline": "Hippo Vaughn Reinstated by Judge Landis After Eight Years",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hippo_Vaughn%2C_Chicago_NL_%28baseball%29_LCCN2014696899.jpg/960px-Hippo_Vaughn%2C_Chicago_NL_%28baseball%29_LCCN2014696899.jpg",
     "credit": "Bain News Service, publisher",
@@ -973,7 +972,7 @@
    ],
    "about": "Clark Griffith",
    "key": "c7aba5094c065b89",
-   "headline": "Clark Griffith buys controlling interest in Washington Senators",
+   "headline": "Clark Griffith Buys Controlling Interest in Washington Senators",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Clark_Griffith_LCCN2016840561_%28cropped%29.jpg/960px-Clark_Griffith_LCCN2016840561_%28cropped%29.jpg",
     "credit": "National Photo Company Collection",
@@ -1007,7 +1006,7 @@
    ],
    "about": "Detroit",
    "key": "7caa3da60ba5e092",
-   "headline": "New Detroit club organized for International Association play",
+   "headline": "New Detroit Club Organized to Replace Disbanded Wolverines",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/1888_Detroit_Wolverines.jpg/960px-1888_Detroit_Wolverines.jpg",
     "credit": "Hastings, George H., fl. 1885-1896, photographer.",
@@ -1037,7 +1036,7 @@
    ],
    "about": "California",
    "key": "6c162d4293d5ae7d",
-   "headline": "Athletics defeat Californias before 8,000 fans in San Francisco",
+   "headline": "Athletics Beat Californias Before 8,000 at Trotting Park",
    "image": null,
    "extract": "",
    "page": ""

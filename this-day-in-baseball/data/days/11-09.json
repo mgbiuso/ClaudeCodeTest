@@ -20,7 +20,7 @@
    ],
    "about": "American League",
    "key": "b65840ca945afdab",
-   "headline": "White Sox release Luke Appling after 21 seasons",
+   "headline": "White Sox Release Luke Appling, 43, After 21 Seasons",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Luke_Appling_1942.jpg",
     "credit": "Unknown",
@@ -51,7 +51,7 @@
    ],
    "about": "Bill Slack",
    "key": "591c30ee650d7c3a",
-   "headline": "Bill Slack, minor league manager and coach, dies at 92",
+   "headline": "Bill Slack, 92, Minor League Manager and Coach",
    "image": null,
    "extract": "William Henry Slack was a Canadian professional baseball pitcher, manager and coach, and a member of the Canadian Baseball Hall of Fame. Although he never played Major League Baseball, Slack spent 50 years at the minor league level, and was a longtime member of the Boston Red Sox and Atlanta Braves organizations. In…",
    "page": "https://en.wikipedia.org/wiki/Bill_Slack"
@@ -66,7 +66,7 @@
    "abouts": [],
    "about": null,
    "key": "486a3d3b6e97d66a",
-   "headline": "Clubs face deadline to make qualifying offers to free agents",
+   "headline": "Clubs Face Deadline to Make Qualifying Offers to Free Agents",
    "image": null,
    "extract": "",
    "page": ""
@@ -85,7 +85,7 @@
     "Arkansas Travelers"
    ],
    "key": "94d53d1cf6eafce8",
-   "headline": "Travelers name first woman general manager in franchise history",
+   "headline": "Travelers Name Her Permanent GM, First Woman in Franchise History",
    "image": null,
    "extract": "The Arkansas Travelers, known informally as The Travs, are a Minor League Baseball team based in North Little Rock, Arkansas. The Travelers are the Double-A affiliate of the Seattle Mariners and play in the Texas League.",
    "page": "https://en.wikipedia.org/wiki/Arkansas_Travelers"
@@ -99,12 +99,12 @@
     "Joe Mauer"
    ],
    "about": "Joe Mauer",
-   "score": 56.23888465348783,
+   "score": 56.19874905223182,
    "abouts": [
     "Joe Mauer"
    ],
    "key": "8f53a5d1672f7189",
-   "headline": "Joe Mauer officially retires in open letter to Twins fans",
+   "headline": "Joe Mauer Retires, Announces Decision in Open Letter to Fans",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Joe_Mauer_in_2017_%2834025539223%29.jpg/960px-Joe_Mauer_in_2017_%2834025539223%29.jpg",
     "credit": "Keith Allison from Hanover, MD, USA",
@@ -119,6 +119,35 @@
    },
    "extract": "Joseph Patrick Mauer is an American former professional baseball catcher and first baseman who spent his entire 15-year Major League Baseball (MLB) career with the Minnesota Twins. Regarded as one of the greatest contact hitters at the catcher position in his prime, Mauer is the only catcher in MLB history to win…",
    "page": "https://en.wikipedia.org/wiki/Joe_Mauer"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2016",
+   "text": "On August 18, 2016, Georgia State and the Atlanta-Fulton County Recreation Authority reached a tentative purchase agreement for Turner Field, and the purchase and redevelopment plan was approved by the Board of Regents of the University System of Georgia on November 9, 2016.",
+   "links": [
+    "Turner Field"
+   ],
+   "about": "Turner Field",
+   "score": 30.793018499057382,
+   "abouts": [
+    "Turner Field"
+   ],
+   "key": "4482bf6ca74a1488",
+   "headline": "Georgia State and the Atlanta-Fulton County Recreation Authority",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Turner_Field_2013.jpg/960px-Turner_Field_2013.jpg",
+    "credit": "Zpb52",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Turner_Field_2013.jpg",
+    "alt": "Former baseball stadium in Atlanta, Georgia",
+    "source": "wikipedia",
+    "of": "Turner Field",
+    "w": 3264,
+    "h": 2448
+   },
+   "extract": "Turner Field was a baseball stadium located in Atlanta, Georgia. From 1997 to 2016, it served as the home ballpark to the Atlanta Braves of Major League Baseball (MLB). Originally built as Centennial Olympic Stadium in 1996 to serve as the centerpiece of the 1996 Summer Olympics, it was converted into a baseball…",
+   "page": "https://en.wikipedia.org/wiki/Turner_Field"
   },
   {
    "src": "yearpage",
@@ -138,7 +167,7 @@
    ],
    "about": "Lee MacPhail",
    "key": "d4811f0dd074977a",
-   "headline": "Lee MacPhail, AL president and Hall of Fame member, dies at 95",
+   "headline": "Lee MacPhail, 95, Former AL President and Team Executive",
    "image": null,
    "extract": "Leland Stanford MacPhail Jr. was an American front-office executive in Major League Baseball. MacPhail was a baseball executive for 45 years, serving as the director of player personnel for the New York Yankees, the president and general manager of the Baltimore Orioles, chief aide to Commissioner of Baseball William…",
    "page": "https://en.wikipedia.org/wiki/Lee_MacPhail"
@@ -159,7 +188,7 @@
    ],
    "about": "Benny McCoy",
    "key": "64da31bd2cf7f7a7",
-   "headline": "Benny McCoy, Tigers and Athletics infielder, dies at 96",
+   "headline": "Benny McCoy, 96, Second Baseman for Tigers and Athletics",
    "image": null,
    "extract": "Benjamin Jenison McCoy was a second baseman in Major League Baseball who played for the Detroit Tigers (1938–1939) and Philadelphia Athletics (1940–1941). Listed at 5 ft 9 in (1.75 m). 170 lb., he batted left-handed and threw right-handed. He was born in Jenison, Michigan.",
    "page": "https://en.wikipedia.org/wiki/Benny_McCoy"
@@ -182,7 +211,7 @@
    ],
    "about": "Wilson Ramos",
    "key": "181de442be5a60d1",
-   "headline": "Nationals catcher Wilson Ramos rescued after gunmen kidnap him",
+   "headline": "Nationals Catcher Wilson Ramos Kidnapped at Mother's Home",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/2ND_Wilson_Ramos.jpg",
     "credit": "MissChatter on Flickr (Original version) UCinternational (Crop)",
@@ -208,7 +237,7 @@
     "Yomiuri Giants",
     "2008 Japan Series"
    ],
-   "score": 21.60073143055527,
+   "score": 21.537480189566065,
    "abouts": [
     "2008 Japan Series",
     "Saitama Seibu Lions",
@@ -216,7 +245,7 @@
    ],
    "about": "2008 Japan Series",
    "key": "b4542bb2ede6869c",
-   "headline": "Saitama Seibu Lions beat Yomiuri Giants 3–2, win Japan Series",
+   "headline": "Saitama Seibu Lions Beat Yomiuri Giants 3-2, Win Japan Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lions_Hotaka_Yamakawa.JPG/960px-Lions_Hotaka_Yamakawa.JPG",
     "credit": "Rikigon",
@@ -242,7 +271,7 @@
     "United States national baseball team",
     "2007 Baseball World Cup"
    ],
-   "score": 40.016871770098746,
+   "score": 39.980368272426375,
    "abouts": [
     "United States national baseball team",
     "2007 Baseball World Cup",
@@ -250,7 +279,7 @@
    ],
    "about": "United States national baseball team",
    "key": "620d56ccd80d5b0e",
-   "headline": "Italy hands U.S. its only loss in 2007 Baseball World Cup run",
+   "headline": "Italy Beats Team USA, Handing Its Only Loss in World Cup Run",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/USA-JPN_at_2007_Baseball_World_Cup.JPG/960px-USA-JPN_at_2007_Baseball_World_Cup.JPG",
     "credit": "Ludahai",
@@ -275,12 +304,12 @@
     "Taichung Intercontinental Baseball Stadium"
    ],
    "about": "Taichung Intercontinental Baseball Stadium",
-   "score": 39.26544764925933,
+   "score": 39.2470970689845,
    "abouts": [
     "Taichung Intercontinental Baseball Stadium"
    ],
    "key": "47c195772411ac0e",
-   "headline": "Taichung stadium officially opens, replacing antiquated Taichung field",
+   "headline": "Taichung Stadium Opens, Replacing Antiquated Taichung Baseball Field",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Taichung_Intercontinental_Baseball_Stadium01.jpg/960px-Taichung_Intercontinental_Baseball_Stadium01.jpg",
     "credit": "No machine-readable author provided. Ludahai assumed (based on",
@@ -305,15 +334,15 @@
     "Frank Robinson"
    ],
    "about": "Frank Robinson",
-   "score": 31.982391611010517,
+   "score": 31.94707090880842,
    "abouts": [
     "Frank Robinson"
    ],
    "key": "3747e407f803a915",
-   "headline": "Bush awards Robinson Presidential Medal of Freedom",
+   "headline": "Bush Awards Robinson Presidential Medal of Freedom",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Frank_Robinson_1961.jpg/960px-Frank_Robinson_1961.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Frank_Robinson_1961.jpg",
     "alt": "Black and white photo of a batter in a Reds cap and jersey, holding a bat",
@@ -342,7 +371,7 @@
    ],
    "about": "Roger Clemens",
    "key": "4404dce7c364c5d0",
-   "headline": "Roger Clemens wins 7th Cy Young, first in National League",
+   "headline": "Clemens, 42, Wins 7th Cy Young, First in National League",
    "image": null,
    "extract": "William Roger Clemens, nicknamed \"Rocket\", is an American former professional baseball pitcher who played 24 seasons in Major League Baseball (MLB), most notably with the Boston Red Sox and New York Yankees. He was a member of the Red Sox for 13 seasons, the Yankees for six, the Toronto Blue Jays for two, and Houston…",
    "page": "https://en.wikipedia.org/wiki/Roger_Clemens"
@@ -363,7 +392,7 @@
    ],
    "about": "Hideo Nomo",
    "key": "3fd92ddacbbebf34",
-   "headline": "Dodgers' Hideo Nomo wins Rookie of the Year award",
+   "headline": "Nomo Named NL Rookie of Year, First Japanese Winner",
    "image": null,
    "extract": "Hideo Nomo is a Japanese former baseball pitcher who played in Nippon Professional Baseball (NPB) and Major League Baseball (MLB). He achieved early success in his native country, where he played with the Kintetsu Buffaloes from 1990 to 1994. He then exploited a loophole to free himself from his contract, and became…",
    "page": "https://en.wikipedia.org/wiki/Hideo_Nomo"
@@ -386,10 +415,10 @@
    ],
    "about": "Robin Yount",
    "key": "cbc0535adf1dd08a",
-   "headline": "Robin Yount named American League MVP for Milwaukee Brewers",
+   "headline": "Yount Named AL MVP After .318 Season for Brewers",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/RYount.png",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:RYount.png",
     "alt": "Baseball player in Brewers pinstripe jersey and cap, with caption naming Robin Yount.",
@@ -418,7 +447,7 @@
    ],
    "about": "Billy Williams (left fielder)",
    "key": "ed57558b8d630db5",
-   "headline": "A's release Billy Williams, ending career with 426 home runs",
+   "headline": "Athletics Release Billy Williams, Who Ends With 426 Homers",
    "image": null,
    "extract": "Billy Leo Williams is an American former left fielder and coach in Major League Baseball (MLB) who played from 1959 to 1976, almost entirely for the Chicago Cubs. A six-time All-Star, Williams was named the 1961 National League (NL) Rookie of the Year after hitting 25 home runs with 86 runs batted in (RBI). A model of…",
    "page": "https://en.wikipedia.org/wiki/Billy_Williams"
@@ -441,7 +470,7 @@
    ],
    "about": "Washington, D.C.",
    "key": "0156eea38c7329e3",
-   "headline": "Padres trade Clay Kirby to Reds for centerfielder Bobby Tolan",
+   "headline": "Padres Trade Kirby to Reds for Tolan, Tomlin",
    "image": null,
    "extract": "Clayton Laws Kirby, Jr. was an American Major League Baseball (MLB) pitcher for the San Diego Padres (1969–1973), Cincinnati Reds (1974–75) and Montreal Expos (1976).",
    "page": "https://en.wikipedia.org/wiki/Clay_Kirby"
@@ -464,7 +493,7 @@
    ],
    "about": "AL East",
    "key": "d94a41eb7b603313",
-   "headline": "Indians promote Ken Aspromonte, 40, to manager after 102-loss season",
+   "headline": "Indians Promote Ken Aspromonte, 40, to Manager",
    "image": null,
    "extract": "The American League East is one of Major League Baseball's six divisions. MLB consists of an East, Central, and West division for each of its two 15-team leagues, the American League (AL) and National League (NL). This division was created before the start of the 1969 season along with the American League West. Before…",
    "page": "https://en.wikipedia.org/wiki/American_League_East"
@@ -487,10 +516,10 @@
    ],
    "about": "Dean Chance",
    "key": "ea96a2261df06d0f",
-   "headline": "Dean Chance, 23, wins Cy Young Award with 17 of 20 first-place votes",
+   "headline": "Dean Chance, 23, Wins Cy Young With 17 First-Place Votes",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dean_Chance_1966.jpeg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Dean_Chance_1966.jpeg",
     "alt": "Black-and-white pitcher in cap and Angels jersey holding glove",
@@ -521,7 +550,7 @@
    ],
    "about": "Philip K. Wrigley",
    "key": "ded6fef7f586988e",
-   "headline": "Cubs keep College of Coaches concept but drop Charlie Metro",
+   "headline": "Cubs Keep College of Coaches, Drop Charlie Metro",
    "image": null,
    "extract": "Philip Knight Wrigley was an American chewing gum manufacturer and a Major League Baseball executive, inheriting both of those roles as the son of William Wrigley Jr.",
    "page": "https://en.wikipedia.org/wiki/Philip_K._Wrigley"
@@ -544,10 +573,10 @@
    ],
    "about": "Roger Maris",
    "key": "c4a062d948157739",
-   "headline": "Roger Maris edges Mickey Mantle for 1960 AL Most Valuable Player",
+   "headline": "Roger Maris Edges Mantle to Win AL MVP",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mickey_Mantle_1957_%28cropped%29.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Mickey_Mantle_1957_(cropped).jpg",
     "alt": "Batter in pinstriped Yankees uniform and NY cap holding bat",
@@ -574,10 +603,39 @@
    ],
    "about": "United States Supreme Court",
    "key": "9e142a8b580038cc",
-   "headline": "Supreme Court rules 7–2 that baseball is a sport, not a business",
+   "headline": "Supreme Court Rules 7-2 Baseball Is a Sport, Not Business",
    "image": null,
    "extract": "",
    "page": ""
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1940",
+   "text": "Delaware played its first game at Wilmington Park on November 9, 1940, and beat Pennsylvania Military College 14–7.",
+   "links": [
+    "Wilmington Park"
+   ],
+   "about": "Wilmington Park",
+   "score": 10.0,
+   "abouts": [
+    "Wilmington Park"
+   ],
+   "key": "4ac0a2207887487c",
+   "headline": "Delaware Played Its First Game at Wilmington Park on November 9",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wilmington_Park%2C_home_of_the_Wilmington_Baseball_Club%2C_the_Blue_Rocks%2C_Wilmington%2C_Delaware.jpg/960px-Wilmington_Park%2C_home_of_the_Wilmington_Baseball_Club%2C_the_Blue_Rocks%2C_Wilmington%2C_Delaware.jpg",
+    "credit": "Boston Public Library",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Wilmington_Park,_home_of_the_Wilmington_Baseball_Club,_the_Blue_Rocks,_Wilmington,_Delaware.jpg",
+    "alt": "Ballpark in Wilmington, Delaware",
+    "source": "wikipedia",
+    "of": "Wilmington Park",
+    "w": 1500,
+    "h": 954
+   },
+   "extract": "Wilmington Park was a ballpark in Wilmington, Delaware that was located at the corner of 30th Street and Governor Printz Boulevard. It was home to the University of Delaware football team from 1940 to 1952 and the Wilmington Blue Rocks of the Class B Interstate League from 1940 to 1952. The Blue Rocks were an…",
+   "page": "https://en.wikipedia.org/wiki/Wilmington_Park"
   },
   {
    "src": "yearpage",
@@ -597,7 +655,7 @@
    ],
    "about": "Triple Crown (baseball)",
    "key": "52c96f0902bb9a6d",
-   "headline": "St. Louis Cardinals Triple Crown winner Joe Medwick is named National",
+   "headline": "Cardinals' Joe Medwick Named NL Most Valuable Player",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joe_Medwick_1964_%28cropped%29.jpg/960px-Joe_Medwick_1964_%28cropped%29.jpg",
     "credit": "St Louis Cardinals / MLB",
@@ -612,66 +670,6 @@
    },
    "extract": "In baseball, a player earns a Triple Crown when they lead a league in three specific statistical categories in the same season. The term \"Triple Crown\" generally refers to the batting achievement of leading a league in batting average, home runs, and runs batted in (RBI) over the same season. The term \"Pitching Triple…",
    "page": "https://en.wikipedia.org/wiki/Triple_Crown_(baseball)"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "1931",
-   "text": "Dorrel Norman Elvert \"Whitey\" Herzog (; November 9, 1931 – April 15, 2024) was an American professional baseball outfielder and manager, remembered for his Major League Baseball (MLB) managerial career.",
-   "links": [
-    "Whitey Herzog"
-   ],
-   "about": "Whitey Herzog",
-   "score": 32.0,
-   "abouts": [
-    "Whitey Herzog"
-   ],
-   "key": "3a45930f7d08992c",
-   "headline": "Whitey Herzog, outfielder and MLB manager, remembered for managing career",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Whitey_Herzog_ca_1989.jpg",
-    "credit": "Johnmaxmena, John Mena",
-    "license": "CC BY 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Whitey_Herzog_ca_1989.jpg",
-    "alt": "Older smiling man with light hair in red collared shirt indoors",
-    "source": "checked",
-    "of": "Whitey Herzog (Commons search)",
-    "w": 552,
-    "h": 660,
-    "tier": "person"
-   },
-   "extract": "Dorrel Norman Elvert \"Whitey\" Herzog was an American professional baseball outfielder and manager, remembered for his Major League Baseball (MLB) managerial career.",
-   "page": "https://en.wikipedia.org/wiki/Whitey_Herzog"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "1868",
-   "text": "William Corcoran Phillips (November 9, 1868 – October 25, 1941), nicknamed \"Whoa Bill\" or \"Silver Bill\", was an American right-handed pitcher and manager in Major League Baseball.",
-   "links": [
-    "Bill Phillips (pitcher)"
-   ],
-   "about": "Bill Phillips (pitcher)",
-   "score": 42.79181246047625,
-   "abouts": [
-    "Bill Phillips (pitcher)"
-   ],
-   "key": "9c2b77f98cbacbfd",
-   "headline": "William Corcoran Phillips, Whoa Bill, born 1868",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bill_C._Phillips%2C_manager%2C_Indianapolis_Federal_League_%28baseball%29_LCCN2014698588.jpg/960px-Bill_C._Phillips%2C_manager%2C_Indianapolis_Federal_League_%28baseball%29_LCCN2014698588.jpg",
-    "credit": "Bain News Service, publisher",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Bill_C._Phillips,_manager,_Indianapolis_Federal_League_(baseball)_LCCN2014698588.jpg",
-    "alt": "Man in cap and double-breasted wool coat, early 1900s baseball setting",
-    "source": "checked",
-    "of": "Bill Phillips (pitcher)",
-    "w": 5173,
-    "h": 3753,
-    "tier": "person"
-   },
-   "extract": "William Corcoran Phillips, nicknamed \"Whoa Bill\" or \"Silver Bill\", was an American right-handed pitcher and manager in Major League Baseball.",
-   "page": "https://en.wikipedia.org/wiki/Bill_Phillips_(pitcher)"
   }
  ]
 }

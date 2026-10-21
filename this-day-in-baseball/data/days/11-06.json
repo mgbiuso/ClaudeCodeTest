@@ -5,26 +5,66 @@
   {
    "src": "yearpage",
    "kind": "event",
-   "year": "1948",
-   "text": "The Detroit Tigers fire manager Steve O'Neill, at the helm since 1943, and replace him with former New York Yankees stalwart Red Rolfe, who had been Detroit's farm system director. O'Neill's 1945 Tigers won a pennant and World Series; Rolfe has five Fall Classic rings (1936–1939, 1941) from a decade spent with the Yankees as their four-time All-Star third baseman.",
+   "year": "2002",
+   "text": "It was a busy manager awards day. First Mike Scioscia who led the Anaheim Angels to a 24-game turnaround from a 74-88 record in 2001 to a World Championship was named American League Manager of the Year, then Tony La Russa who led the Cardinals to 96 wins and overcoming with the deaths of Jack Buck and Darryl Kile to win the National League Central was named National League Manager of the Year.",
    "links": [
-    "Detroit Tigers",
-    "Steve O'Neill",
-    "New York Yankees"
+    "Mike Scioscia",
+    "Tony La Russa",
+    "Jack Buck"
    ],
-   "score": 87.0,
+   "score": 82.0,
    "abouts": [
-    "Steve O'Neill",
-    "Detroit Tigers",
-    "New York Yankees"
+    "Mike Scioscia",
+    "Tony La Russa",
+    "Jack Buck"
    ],
-   "about": "Steve O'Neill",
-   "key": "c5e13f60733c5c1b",
-   "headline": "Tigers fire Steve O'Neill, replace him with Red Rolfe",
-   "image": null,
-   "extract": "Stephen Francis O'Neill was an American professional baseball catcher and manager. He played his first 13 seasons with the Cleveland Indians. As a manager, he led the 1945 Detroit Tigers to a World Series championship.",
-   "page": "https://en.wikipedia.org/wiki/Steve_O'Neill",
+   "about": "Mike Scioscia",
+   "key": "629a02599fab4100",
+   "headline": "Scioscia, La Russa Named Managers of the Year",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Sciosa1.jpg",
+    "credit": "Googie man on en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sciosa1.jpg",
+    "alt": "Red-jerseyed Angels manager arguing with umpire at home plate, catcher in gear",
+    "source": "checked",
+    "of": "Mike Scioscia",
+    "w": 645,
+    "h": 1000,
+    "tier": "person"
+   },
+   "extract": "Michael Lorri Scioscia, nicknamed \"Sosh\" and \"El Jefe\", is an American former catcher and manager in Major League Baseball (MLB). He managed the Angels from the 2000 season through the 2018 season, and was the longest-tenured manager in MLB and second-longest-tenured coach/manager in the \"Big Four\", behind only Gregg…",
+   "page": "https://en.wikipedia.org/wiki/Mike_Scioscia",
    "lead": true
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2025",
+   "text": "Paredes elected free agency following the season on November 6, 2025.",
+   "links": [
+    "Enoli Paredes"
+   ],
+   "about": "Enoli Paredes",
+   "score": 22.27422430004255,
+   "abouts": [
+    "Enoli Paredes"
+   ],
+   "key": "5bbf016c7c7aa4de",
+   "headline": "Paredes Elected Free Agency Following the Season on November 6, 2025",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Paredes_1_61824_%28cropped%29.jpg",
+    "credit": "Sewageboy",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paredes_1_61824_(cropped).jpg",
+    "alt": "Dominican baseball player (born 1995)",
+    "source": "wikipedia",
+    "of": "Enoli Paredes",
+    "w": 884,
+    "h": 1102
+   },
+   "extract": "Enoli Norverto Paredes is a Dominican professional baseball pitcher who is a free agent. He has previously played in Major League Baseball (MLB) for the Houston Astros, Milwaukee Brewers, and Chicago Cubs.",
+   "page": "https://en.wikipedia.org/wiki/Enoli_Paredes"
   },
   {
    "src": "article",
@@ -35,12 +75,12 @@
     "Dusty Blake"
    ],
    "about": "Dusty Blake",
-   "score": 24.520871841420817,
+   "score": 24.372409088497335,
    "abouts": [
     "Dusty Blake"
    ],
    "key": "6f7ecd0cc44755f5",
-   "headline": "Blake promoted to pitching coach for 2023 season",
+   "headline": "Blake Promoted to Pitching Coach for 2023 Season",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Blake2023cards.jpg",
     "credit": "Johnmaxmena2",
@@ -65,12 +105,12 @@
     "Juan Nieves"
    ],
    "about": "Juan Nieves",
-   "score": 25.870299038625127,
+   "score": 25.832150569216417,
    "abouts": [
     "Juan Nieves"
    ],
    "key": "421ab70c42d3d2af",
-   "headline": "Tigers name Nieves assistant pitching coach for 2021 season",
+   "headline": "Tigers Name Nieves Assistant Pitching Coach for 2021 Season",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Juan_Nieves_2011.jpg/960px-Juan_Nieves_2011.jpg",
     "credit": "Keith Allison",
@@ -96,7 +136,7 @@
     "Josh Byrnes",
     "Andrew Friedman"
    ],
-   "score": 42.33851522020033,
+   "score": 42.31516482519548,
    "abouts": [
     "Andrew Friedman",
     "Farhan Zaidi",
@@ -104,7 +144,7 @@
    ],
    "about": "Andrew Friedman",
    "key": "b3c0c5b09acbe1e6",
-   "headline": "Dodgers hire Farhan Zaidi as general manager, Josh Byrnes too",
+   "headline": "Dodgers Hire Farhan Zaidi as General Manager, Josh Byrnes as SVP",
    "image": null,
    "extract": "Andrew Friedman is an American professional baseball executive. He is currently the president of baseball operations of the Los Angeles Dodgers of Major League Baseball (MLB). He previously served as the general manager for MLB's Tampa Bay Rays, where Sporting News named him Executive of the Year in 2008. That year,…",
    "page": "https://en.wikipedia.org/wiki/Andrew_Friedman"
@@ -118,12 +158,12 @@
     "Dave Clark (baseball)"
    ],
    "about": "Dave Clark (baseball)",
-   "score": 25.752247047304405,
+   "score": 25.71663564996023,
    "abouts": [
     "Dave Clark (baseball)"
    ],
    "key": "28ddd7717e341e88",
-   "headline": "Tigers hire Clark as third-base coach and outfield instructor",
+   "headline": "Tigers Hire Clark as Third-Base Coach and Outfield Instructor",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Astros_coach_Dave_Clark_2013.jpg/960px-Astros_coach_Dave_Clark_2013.jpg",
     "credit": "Keith Allison",
@@ -147,16 +187,16 @@
    "links": [
     "Ace Parker"
    ],
-   "score": 20.7,
+   "score": 20.6875,
    "abouts": [
     "Ace Parker"
    ],
    "about": "Ace Parker",
    "key": "4b1292e1a53ee9a7",
-   "headline": "Shortstop Ace Parker dies at 101",
+   "headline": "Ace Parker, 101, Former Athletics Shortstop and NFL Star",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ace_Parker.png",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Ace_Parker.png",
     "alt": "Black-and-white portrait of a young man with wavy hair, dark background",
@@ -183,7 +223,7 @@
    ],
    "about": "Dan Duquette",
    "key": "ecff0ed10ae97e0d",
-   "headline": "Orioles sign Dan Duquette as general manager on three-year deal",
+   "headline": "Orioles Hire Dan Duquette, 53, as General Manager on Three-Year Deal",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dan_Duquette_Buck_Showalter_Luke_Scott.jpeg/960px-Dan_Duquette_Buck_Showalter_Luke_Scott.jpeg",
     "credit": "Keith Allison from Hanover, MD, USA",
@@ -203,47 +243,17 @@
    "src": "article",
    "kind": "event",
    "year": "2010",
-   "text": "On November 6, 2010 Ryan signed a minor league deal with the New York Mets with an invitation to Major League spring training.",
-   "links": [
-    "Dusty Ryan"
-   ],
-   "about": "Dusty Ryan",
-   "score": 30.431799153373742,
-   "abouts": [
-    "Dusty Ryan"
-   ],
-   "key": "42c4bd2662f4ebd3",
-   "headline": "Ryan signs minor league deal with Mets, invited to spring training",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/DustyRyan.jpg/960px-DustyRyan.jpg",
-    "credit": "Skatefan on en.wikipedia",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:DustyRyan.jpg",
-    "alt": "Catcher in Toledo Mud Hens road grays with gear, smiling in stadium",
-    "source": "checked",
-    "of": "Dusty Ryan",
-    "w": 2464,
-    "h": 3296,
-    "tier": "person"
-   },
-   "extract": "Dusty Mitchell Ryan is an American former professional baseball player. A catcher, Ryan played in Major League Baseball for the Detroit Tigers.",
-   "page": "https://en.wikipedia.org/wiki/Dusty_Ryan"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "2010",
    "text": "On November 6, 2010, the Chunichi Dragons and Chiba Lotte Marines played the longest game in Japan Series history.",
    "links": [
     "Japan Series"
    ],
    "about": "Japan Series",
-   "score": 30.113378809768637,
+   "score": 30.08161427006895,
    "abouts": [
     "Japan Series"
    ],
    "key": "b931b0e2ce0ac5ea",
-   "headline": "Dragons and Marines play longest game in Japan Series history",
+   "headline": "Dragons and Marines Play Longest Game in Japan Series History",
    "image": null,
    "extract": "The Japan Series, also the Nippon Series, is the annual championship series in Nippon Professional Baseball, the top baseball league in Japan. It is a best-of-seven series between the winning clubs of the league's two circuits, the Central League and the Pacific League, and is played in October or November. The first…",
    "page": "https://en.wikipedia.org/wiki/Japan_Series"
@@ -262,7 +272,7 @@
     "Mazda Stadium"
    ],
    "key": "770ca1b2cb136daf",
-   "headline": "Hiroshima City gives Mazda Motor naming rights to stadium",
+   "headline": "Hiroshima City Gives Mazda Naming Rights to Stadium",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MAZDA_Zoom-Zoom_Stadium_Hiroshima_facade%EF%BC%882014%EF%BC%89.jpg/960px-MAZDA_Zoom-Zoom_Stadium_Hiroshima_facade%EF%BC%882014%EF%BC%89.jpg",
     "credit": "HKT3012",
@@ -281,40 +291,6 @@
   {
    "src": "yearpage",
    "kind": "event",
-   "year": "2002",
-   "text": "It was a busy manager awards day. First Mike Scioscia who led the Anaheim Angels to a 24-game turnaround from a 74-88 record in 2001 to a World Championship was named American League Manager of the Year, then Tony La Russa who led the Cardinals to 96 wins and overcoming with the deaths of Jack Buck and Darryl Kile to win the National League Central was named National League Manager of the Year.",
-   "links": [
-    "Mike Scioscia",
-    "Tony La Russa",
-    "Jack Buck"
-   ],
-   "score": 82.0,
-   "abouts": [
-    "Mike Scioscia",
-    "Tony La Russa",
-    "Jack Buck"
-   ],
-   "about": "Mike Scioscia",
-   "key": "629a02599fab4100",
-   "headline": "Scioscia and La Russa named managers of the year in both leagues",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Sciosa1.jpg",
-    "credit": "Googie man on en.wikipedia",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Sciosa1.jpg",
-    "alt": "Red-jerseyed Angels manager arguing with umpire at home plate, catcher in gear",
-    "source": "checked",
-    "of": "Mike Scioscia",
-    "w": 645,
-    "h": 1000,
-    "tier": "person"
-   },
-   "extract": "Michael Lorri Scioscia, nicknamed \"Sosh\" and \"El Jefe\", is an American former catcher and manager in Major League Baseball (MLB). He managed the Angels from the 2000 season through the 2018 season, and was the longest-tenured manager in MLB and second-longest-tenured coach/manager in the \"Big Four\", behind only Gregg…",
-   "page": "https://en.wikipedia.org/wiki/Mike_Scioscia"
-  },
-  {
-   "src": "yearpage",
-   "kind": "event",
    "year": "2001",
    "text": "Major League Baseball owners vote 28–2 to contract two teams for the following season, with the Minnesota Twins and Montreal Expos—the teams expected to be eliminated—casting the dissenting votes.",
    "links": [
@@ -322,7 +298,7 @@
     "Minnesota Twins",
     "Montreal Expos"
    ],
-   "score": 37.41936227111337,
+   "score": 37.38270904513715,
    "abouts": [
     "2001 Major League Baseball contraction plan",
     "Minnesota Twins",
@@ -330,7 +306,7 @@
    ],
    "about": "2001 Major League Baseball contraction plan",
    "key": "92791cf9bc7a11a2",
-   "headline": "MLB owners vote 28–2 to contract two teams for next season",
+   "headline": "Owners Vote 28-2 to Contract Twins and Expos",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/051207-MPLS-006Metrodome-crop.jpg/960px-051207-MPLS-006Metrodome-crop.jpg",
     "credit": "Bobak Ha'Eri",
@@ -364,7 +340,7 @@
    ],
    "about": "Kazuhiro Sasaki",
    "key": "229c1e3918838898",
-   "headline": "Kazuhiro Sasaki, 32, becomes second-oldest rookie of the year winner",
+   "headline": "Sasaki, 32, Becomes Second-Oldest Rookie of the Year",
    "image": null,
    "extract": "Kazuhiro Sasaki is a Japanese former professional baseball relief pitcher. He played his entire Nippon Professional Baseball (NPB) career with the Yokohama Taiyō Whales / Yokohama BayStars, and played his entire Major League Baseball (MLB) career with the Seattle Mariners (2000–2003). His nickname \"Daimajin\" was named…",
    "page": "https://en.wikipedia.org/wiki/Kazuhiro_Sasaki"
@@ -387,7 +363,7 @@
    ],
    "about": "Milwaukee Brewers",
    "key": "b71ebcdbccf39707",
-   "headline": "Brewers switch to National League Central after Royals decline invitation",
+   "headline": "Brewers Switch to National League Central Division",
    "image": null,
    "extract": "The Milwaukee Brewers are an American professional baseball team based in Milwaukee. The Brewers compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. The team's name alludes to the city's association with the brewing industry and has been used by several other baseball…",
    "page": "https://en.wikipedia.org/wiki/Milwaukee_Brewers"
@@ -406,7 +382,7 @@
    ],
    "about": "David Justice",
    "key": "362a74d5e0a625fc",
-   "headline": "David Justice named National League Rookie of the Year",
+   "headline": "Justice Named National League Rookie of the Year",
    "image": null,
    "extract": "David Christopher Justice is an American former professional baseball outfielder and designated hitter who played 14 seasons in Major League Baseball (MLB). He played for the Atlanta Braves, Cleveland Indians, New York Yankees, and Oakland Athletics from 1989 to 2002.",
    "page": "https://en.wikipedia.org/wiki/David_Justice"
@@ -429,7 +405,7 @@
    ],
    "about": "Greg Olson (baseball)",
    "key": "7f2200bb337c8b88",
-   "headline": "Braves sign catcher Greg Olson, 29, granted free agency by Twins",
+   "headline": "Braves Sign Catcher Greg Olson, 29, as Free Agent",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/1988_CandL_Colorcraft_-_Greg_Olson_%28cropped%29.jpg",
     "credit": "CandL and Colorcraft",
@@ -463,7 +439,7 @@
    ],
    "about": "Ted Power",
    "key": "3df3e734cafa4dff",
-   "headline": "Reds trade Ted Power and Kurt Stillwell to Royals for Danny Jackson",
+   "headline": "Reds Trade Power and Stillwell to Royals for Jackson",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ted_Power.jpg/960px-Ted_Power.jpg",
     "credit": "Wknight94",
@@ -497,7 +473,7 @@
    ],
    "about": "Lou Gorman",
    "key": "c296e064b3997455",
-   "headline": "Lou Gorman resigns as Mariners GM to join Mets",
+   "headline": "Gorman Resigns as Mariners GM to Join Mets",
    "image": null,
    "extract": "James Gerald \"Lou\" Gorman was an American baseball executive, and the former general manager of the Seattle Mariners and Boston Red Sox of Major League Baseball. He spent more than three decades in baseball operations, as a general manager, assistant GM, farm system director or scouting director, and at the time of…",
    "page": "https://en.wikipedia.org/wiki/Lou_Gorman"
@@ -512,7 +488,7 @@
     "Dave McNally",
     "Seitz decision"
    ],
-   "score": 27.899489348015518,
+   "score": 27.871314148535134,
    "abouts": [
     "Andy Messersmith",
     "Dave McNally",
@@ -520,7 +496,7 @@
    ],
    "about": "Andy Messersmith",
    "key": "459482d0e3824963",
-   "headline": "Yankees unconditionally release Andy Messersmith, free agency pioneer",
+   "headline": "Yankees Unconditionally Release Andy Messersmith",
    "image": null,
    "extract": "John Alexander \"Andy\" Messersmith is an American former Major League Baseball right-handed pitcher. During a 12-year baseball career, he pitched for the California Angels (1968–72), Los Angeles Dodgers, Atlanta Braves (1976–77) and the New York Yankees (1978). As a member of the Dodgers, he appeared in the 1974 World…",
    "page": "https://en.wikipedia.org/wiki/Andy_Messersmith"
@@ -543,7 +519,7 @@
    ],
    "about": "closer (baseball)",
    "key": "e96e2f9fe830307f",
-   "headline": "Red Sox sign Bill Campbell to $1 million deal in first free-agent move",
+   "headline": "Red Sox Sign Bill Campbell, 27, in First Free-Agent Move",
    "image": null,
    "extract": "In baseball, a closing pitcher, more frequently referred to as a closer, is a relief pitcher who specializes in getting the final outs in a close game when his team is in the lead. A closer who successfully gets the final outs for their team in the final inning of a game is recorded as a save in baseball statistics.…",
    "page": "https://en.wikipedia.org/wiki/Closer_(baseball)"
@@ -566,7 +542,7 @@
    ],
    "about": "Mike Marshall (pitcher)",
    "key": "929b2b09d3538929",
-   "headline": "Mike Marshall becomes first relief pitcher to win NL Cy Young Award",
+   "headline": "Mike Marshall Wins Cy Young, First Relief Pitcher to Do So",
    "image": null,
    "extract": "Michael Grant Marshall was an American professional baseball pitcher. He played in Major League Baseball (MLB) in 1967 and from 1969 through 1981 for nine different teams. Marshall won the National League Cy Young Award in 1974 as a Los Angeles Dodger and was a two-time All-Star selection. He was the first relief…",
    "page": "https://en.wikipedia.org/wiki/Mike_Marshall_(pitcher)"
@@ -585,10 +561,33 @@
    ],
    "about": "Earl Gurley",
    "key": "e4ec131c48067195",
-   "headline": "Earl Gurley, Negro leagues outfielder and pitcher for Memphis Red Sox, dies",
+   "headline": "Earl Gurley, Negro Leagues Outfielder and Pitcher, Dies",
    "image": null,
    "extract": "Earl C. Gurley was an American Negro league baseball outfielder between 1922 and 1932.",
    "page": "https://en.wikipedia.org/wiki/Earl_Gurley"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1948",
+   "text": "The Detroit Tigers fire manager Steve O'Neill, at the helm since 1943, and replace him with former New York Yankees stalwart Red Rolfe, who had been Detroit's farm system director. O'Neill's 1945 Tigers won a pennant and World Series; Rolfe has five Fall Classic rings (1936–1939, 1941) from a decade spent with the Yankees as their four-time All-Star third baseman.",
+   "links": [
+    "Detroit Tigers",
+    "Steve O'Neill",
+    "New York Yankees"
+   ],
+   "score": 87.0,
+   "abouts": [
+    "Steve O'Neill",
+    "Detroit Tigers",
+    "New York Yankees"
+   ],
+   "about": "Steve O'Neill",
+   "key": "c5e13f60733c5c1b",
+   "headline": "Tigers Fire Steve O'Neill, Replace Him With Red Rolfe",
+   "image": null,
+   "extract": "Stephen Francis O'Neill was an American professional baseball catcher and manager. He played his first 13 seasons with the Cleveland Indians. As a manager, he led the 1945 Detroit Tigers to a World Series championship.",
+   "page": "https://en.wikipedia.org/wiki/Steve_O'Neill"
   },
   {
    "src": "yearpage",
@@ -600,7 +599,7 @@
     "Hank Greenberg",
     "Detroit Tigers"
    ],
-   "score": 81.45351121643927,
+   "score": 81.40970966720413,
    "abouts": [
     "BBWAA",
     "Hank Greenberg",
@@ -608,7 +607,7 @@
    ],
    "about": "BBWAA",
    "key": "3f976c26e183a834",
-   "headline": "Hank Greenberg wins AL Most Valuable Player for second time",
+   "headline": "Greenberg Wins Second AL MVP With 16 First-Place Votes",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hank_Greenberg_1946.jpg",
     "credit": "Frank Lyerla",
@@ -640,10 +639,10 @@
    ],
    "about": "Jack Chesbro",
    "key": "4bf7d0c3fb0dd6ec",
-   "headline": "Jack Chesbro, 57, Hall of Fame pitcher, dies",
+   "headline": "Jack Chesbro, 57, Hall of Fame Pitcher",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/ChesbroJack.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:ChesbroJack.jpg",
     "alt": "Black-and-white photo of a man in a baseball cap and striped-trimmed jersey with a large 'N'-style logo, arms crossed.",
@@ -670,7 +669,7 @@
    ],
    "about": "Morgan G. Bulkeley",
    "key": "dbaeedc042ae4734",
-   "headline": "Morgan G. Bulkeley, 84, first National League president, dies",
+   "headline": "Morgan Bulkeley, 84, First National League President",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Men_of_mark_in_Connecticut%3B_ideals_of_American_life_told_in_biographies_and_autobiographies_of_eminent_living_Americans_%281906%29_%2814774966724%29_%283x4a%29.jpg/960px-Men_of_mark_in_Connecticut%3B_ideals_of_American_life_told_in_biographies_and_autobiographies_of_eminent_living_Americans_%281906%29_%2814774966724%29_%283x4a%29.jpg",
     "credit": "Osborn, Norris Galpin, b. 1858, ed",
@@ -696,7 +695,7 @@
    "abouts": [],
    "about": null,
    "key": "2cef5a1bf01aa15b",
-   "headline": "Lowell Ladies' Men defeat NL champion Boston 9–4 in Inter-League playoff",
+   "headline": "Lowell Ladies' Men Beat Boston 9-4, Win Inter-League Playoff",
    "image": null,
    "extract": "",
    "page": ""
@@ -717,10 +716,10 @@
    ],
    "about": "Philadelphia White Stockings",
    "key": "83a3c2b0240fd0bc",
-   "headline": "Philadelphia and Athletic clubs play benefit game with extra infielder",
+   "headline": "Philadelphia and Athletic Clubs Play Benefit Game With 10 Men",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/1874_Philadelphia_Athletics_baseball.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:1874_Philadelphia_Athletics_baseball.jpg",
     "alt": "Formal team portrait of nine uniformed men in white, mustaches, studio backdrop.",

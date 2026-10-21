@@ -5,6 +5,46 @@
   {
    "src": "yearpage",
    "kind": "event",
+   "year": "1990",
+   "text": "The talk of an Oakland Athletics dynasty is proven premature, as the Cincinnati Reds beat Oakland 2–1 to complete one of the most stunning sweeps in World Series history. Series MVP José Rijo (2–0, 0.59 ERA) retires 20 batters in a row, Randy Myers getting the last two outs to give the Reds their first World Championship since 1976.",
+   "links": [
+    "Oakland Athletics",
+    "Cincinnati Reds",
+    "José Rijo"
+   ],
+   "score": 125.0,
+   "abouts": [
+    "José Rijo",
+    "Oakland Athletics",
+    "Cincinnati Reds"
+   ],
+   "about": "José Rijo",
+   "key": "69c32f1bbd2f5f91",
+   "headline": "Reds Beat Oakland 2-1, Complete Stunning World Series Sweep",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/1985_Mother%27s_Cookies_-_Oakland_Coliseum.JPG/960px-1985_Mother%27s_Cookies_-_Oakland_Coliseum.JPG",
+    "credit": "Mother's Cookies",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1985_Mother%27s_Cookies_-_Oakland_Coliseum.JPG",
+    "alt": "Oakland Coliseum baseball game, full stadium, green field, scoreboard",
+    "source": "checked",
+    "of": "Oakland Athletics",
+    "w": 1530,
+    "h": 1096,
+    "tier": "venue"
+   },
+   "extract": "José Antonio Rijo Abreu is a Dominican former pitcher in Major League Baseball (MLB) who spent the majority of his career with the Cincinnati Reds. Signed by the New York Yankees as an amateur free agent in 1980, Rijo made his MLB debut with them in 1984, and also played in MLB for the Oakland Athletics. He pitched…",
+   "page": "https://en.wikipedia.org/wiki/Jos%C3%A9_Rijo",
+   "video": {
+    "id": "ExCmJY1XDPk",
+    "title": "Reds sweep the Athletics to capture the 1990 World Series title",
+    "channel": "Cincinnati Reds"
+   },
+   "lead": true
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
    "year": "2018",
    "text": "The Los Angeles Dodgers advanced to the World Series after defeating the Milwaukee Brewers 5–1 in Game 7 of the NLCS at Miller Park. Christian Yelich hit a home run off Dodgers starter Walker Buehler in the first inning to give the Brewers an early lead.",
    "links": [
@@ -12,15 +52,15 @@
     "Miller Park",
     "Christian Yelich"
    ],
-   "score": 95,
+   "score": 93.43219815271156,
    "abouts": [
-    "Christian Yelich",
     "Miller Park",
+    "Christian Yelich",
     "2018 National League Championship Series"
    ],
-   "about": "Christian Yelich",
+   "about": "Miller Park",
    "key": "ebcbb8ba6c08aec0",
-   "headline": "Dodgers beat Brewers 5-1 in Game 7, advance to World Series",
+   "headline": "Dodgers Beat Brewers 5-1, Advance to World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2016-10-22_Clayton_Kershaw_1_%28cropped%29.jpg/960px-2016-10-22_Clayton_Kershaw_1_%28cropped%29.jpg",
     "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
@@ -33,39 +73,13 @@
     "h": 3205,
     "tier": "person"
    },
-   "extract": "Christian Stephen Yelich is an American professional baseball left fielder and designated hitter who captains the Milwaukee Brewers of Major League Baseball (MLB). He has previously played in MLB for the Miami Marlins. Internationally, Yelich represents the United States. In the 2017 World Baseball Classic (WBC), he…",
-   "page": "https://en.wikipedia.org/wiki/Christian_Yelich",
-   "lead": true
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
-   "year": "2020",
-   "text": "Derryl Cousins, 74, Major League Baseball umpire whose career spanned 34 seasons.",
-   "links": [
-    "Derryl Cousins"
-   ],
-   "score": 20.2885,
-   "abouts": [
-    "Derryl Cousins"
-   ],
-   "about": "Derryl Cousins",
-   "key": "551e7ff61bae9934",
-   "headline": "Umpire Derryl Cousins dies at 74",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Derryl_Cousins_and_Lou_Piniella.jpg/960px-Derryl_Cousins_and_Lou_Piniella.jpg",
-    "credit": "ttarasiuk",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Derryl_Cousins_and_Lou_Piniella.jpg",
-    "alt": "Umpire in black jacket talking with manager in blue pinstripes on grass",
-    "source": "checked",
-    "of": "Derryl Cousins (Commons search)",
-    "w": 1024,
-    "h": 768,
-    "tier": "person"
-   },
-   "extract": "Derryl Cousins was an American umpire in Major League Baseball (MLB), who worked in the American League (AL) from 1979 to 1999, and umpired throughout both leagues from 2000 until his retirement following the 2012 season, ending his career as a crew chief.",
-   "page": "https://en.wikipedia.org/wiki/Derryl_Cousins"
+   "extract": "American Family Field, known as Miller Park until 2020, is a retractable roof stadium in Milwaukee, Wisconsin. Located southwest of the intersection of Interstate 94 and Brewers Boulevard, it is the ballpark of Major League Baseball's Milwaukee Brewers. It opened in 2001 under the name Miller Park as a replacement for…",
+   "page": "https://en.wikipedia.org/wiki/American_Family_Field",
+   "video": {
+    "id": "UygoCT_K0bs",
+    "title": "NLCS Gm7: Yelich's 1st-inning homer in Game 7",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -81,7 +95,7 @@
     "Robin Yount"
    ],
    "key": "7de917946acfcaa5",
-   "headline": "Yount threw out the first pitch before Game 7 of the National League",
+   "headline": "Yount Throws out First Pitch Before Game 7 of NLCS",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Robin_Yount.jpg/960px-Robin_Yount.jpg",
     "credit": "Scott Ableman Quakerwildcat at en.wikipedia",
@@ -111,31 +125,10 @@
     "Kokomo Jackrabbits"
    ],
    "key": "df962ecb021530e6",
-   "headline": "Greg Van Horn named first Field Manager in Jackrabbits history",
+   "headline": "Greg Van Horn Named First Field Manager in Jackrabbits History",
    "image": null,
    "extract": "The Kokomo Jackrabbits were a collegiate summer league baseball team of the Northwoods League. They were based in Kokomo, Indiana and played their home games at Kokomo Municipal Stadium. Before joining the Northwoods League, the Jackrabbits played in the Prospect League.",
    "page": "https://en.wikipedia.org/wiki/Kokomo_Jackrabbits"
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
-   "year": "2012",
-   "text": "Dave May, 68, All-Star outfielder who spent 12 seasons in the majors with the Baltimore Orioles, Milwaukee Brewers, Atlanta Braves, Texas Rangers and Pittsburgh Pirates from 1967 to 1978, and also the player that was sent by Milwaukee to Atlanta in exchange for Hank Aaron.",
-   "links": [
-    "Dave May",
-    "Hank Aaron"
-   ],
-   "score": 20.372,
-   "abouts": [
-    "Dave May",
-    "Hank Aaron"
-   ],
-   "about": "Dave May",
-   "key": "96e98251b3f1bddd",
-   "headline": "Dave May, 68, All-Star outfielder with 12 major league seasons, dies",
-   "image": null,
-   "extract": "David LaFrance May was an American professional baseball player. He played in Major League Baseball as an outfielder from 1967 through 1978 for the Baltimore Orioles, Milwaukee Brewers, Atlanta Braves, Texas Rangers and the Pittsburgh Pirates. May was a member of the AL pennant winning Orioles team in 1969 and, was an…",
-   "page": "https://en.wikipedia.org/wiki/Dave_May"
   },
   {
    "src": "yearpage",
@@ -155,7 +148,7 @@
    ],
    "about": "Yankee Stadium (1923)",
    "key": "f3a860f8464ac00f",
-   "headline": "Red Sox beat Yankees four straight after losing first three in ALCS",
+   "headline": "Red Sox Beat Yankees Four Straight After Losing First Three",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2004alcs.png/960px-2004alcs.png",
     "credit": "Long2181998",
@@ -172,36 +165,6 @@
    "page": "https://en.wikipedia.org/wiki/Yankee_Stadium_(1923)"
   },
   {
-   "src": "yearpage",
-   "kind": "death",
-   "year": "2004",
-   "text": "Chuck Hiller, 70, second baseman for four NL teams who was that league's first player to hit a grand slam in the World Series (1962, as a San Francisco Giant); longtime coach.",
-   "links": [
-    "Chuck Hiller"
-   ],
-   "score": 20.2745,
-   "abouts": [
-    "Chuck Hiller"
-   ],
-   "about": "Chuck Hiller",
-   "key": "684cf161c55faee4",
-   "headline": "Chuck Hiller, 70, first NL player to hit World Series grand slam, dies",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Chuck_Hiller_1961.JPG",
-    "credit": "San Francisco Giants / MLB",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Chuck_Hiller_1961.JPG",
-    "alt": "Black-and-white portrait of a player in SF Giants cap holding a bat",
-    "source": "checked",
-    "of": "Chuck Hiller",
-    "w": 933,
-    "h": 1133,
-    "tier": "person"
-   },
-   "extract": "Charles Joseph Hiller was an American Major League Baseball second baseman. In the 1962 World Series, he became the first National League player to hit a grand slam in a World Series.",
-   "page": "https://en.wikipedia.org/wiki/Chuck_Hiller"
-  },
-  {
    "src": "article",
    "kind": "event",
    "year": "2003",
@@ -215,7 +178,7 @@
     "Quad Cities River Bandits"
    ],
    "key": "066f2366c0e4d812",
-   "headline": "Team renamed Swing of the Quad Cities after another contest",
+   "headline": "Team Renamed Swing of the Quad Cities in Contest",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Modern_Woodmen_Park.jpg",
     "credit": "Iowahwyman",
@@ -233,61 +196,6 @@
   },
   {
    "src": "yearpage",
-   "kind": "death",
-   "year": "1999",
-   "text": "Calvin Griffith, 87, succeeded uncle Clark Griffith as majority owner, president and de facto general manager of the Washington Senators and their successor, the Minnesota Twins, serving from October 27, 1955, to August 15, 1984; responsible for moving the Senators to Minnesota after the 1960 season.",
-   "links": [
-    "Calvin Griffith",
-    "Clark Griffith"
-   ],
-   "score": 21.051,
-   "abouts": [
-    "Calvin Griffith",
-    "Clark Griffith"
-   ],
-   "about": "Calvin Griffith",
-   "key": "f7b658a509fd305d",
-   "headline": "Calvin Griffith dies at 87, moved Senators to Minnesota",
-   "image": null,
-   "extract": "Calvin Robertson Griffith, born Calvin Griffith Robertson, was a Canadian-born American Major League Baseball team owner. As president, majority owner and de facto general manager of the Washington Senators/Minnesota Twins franchise of the American League from 1955 through 1984, he orchestrated the transfer of the…",
-   "page": "https://en.wikipedia.org/wiki/Calvin_Griffith"
-  },
-  {
-   "src": "yearpage",
-   "kind": "event",
-   "year": "1990",
-   "text": "The talk of an Oakland Athletics dynasty is proven premature, as the Cincinnati Reds beat Oakland 2–1 to complete one of the most stunning sweeps in World Series history. Series MVP José Rijo (2–0, 0.59 ERA) retires 20 batters in a row, Randy Myers getting the last two outs to give the Reds their first World Championship since 1976.",
-   "links": [
-    "Oakland Athletics",
-    "Cincinnati Reds",
-    "José Rijo"
-   ],
-   "score": 125.0,
-   "abouts": [
-    "José Rijo",
-    "Oakland Athletics",
-    "Cincinnati Reds"
-   ],
-   "about": "José Rijo",
-   "key": "69c32f1bbd2f5f91",
-   "headline": "Reds beat Oakland 2-1, complete stunning World Series sweep",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/1985_Mother%27s_Cookies_-_Oakland_Coliseum.JPG/960px-1985_Mother%27s_Cookies_-_Oakland_Coliseum.JPG",
-    "credit": "Mother's Cookies",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:1985_Mother%27s_Cookies_-_Oakland_Coliseum.JPG",
-    "alt": "Oakland Coliseum baseball game, full stadium, green field, scoreboard",
-    "source": "checked",
-    "of": "Oakland Athletics",
-    "w": 1530,
-    "h": 1096,
-    "tier": "venue"
-   },
-   "extract": "José Antonio Rijo Abreu is a Dominican former pitcher in Major League Baseball (MLB) who spent the majority of his career with the Cincinnati Reds. Signed by the New York Yankees as an amateur free agent in 1980, Rijo made his MLB debut with them in 1984, and also played in MLB for the Oakland Athletics. He pitched…",
-   "page": "https://en.wikipedia.org/wiki/Jos%C3%A9_Rijo"
-  },
-  {
-   "src": "yearpage",
    "kind": "event",
    "year": "1988",
    "text": "Orel Hershiser caps his dream season with a 5–2, four-hitter over the Oakland Athletics in Game 5 of the World Series to give the Dodgers their first championship since 1981 and sixth overall; it also makes them the only team with more than one Fall Classic championship during the 1980s. Hershiser is elected the series' MVP.",
@@ -296,7 +204,7 @@
     "Oakland Athletics",
     "1988 World Series"
    ],
-   "score": 120.28185589737765,
+   "score": 120.25383155616521,
    "abouts": [
     "1988 World Series",
     "Orel Hershiser",
@@ -304,7 +212,7 @@
    ],
    "about": "1988 World Series",
    "key": "643d433bbd9f7904",
-   "headline": "Hershiser pitches Dodgers to 5-2 win, World Series title",
+   "headline": "Hershiser Throws Four-Hitter, Dodgers Win World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/20140919_Orel_Hershiser_%281%29.JPG",
     "credit": "TonyTheTiger",
@@ -318,7 +226,12 @@
     "tier": "person"
    },
    "extract": "The 1988 World Series was the championship series of Major League Baseball's (MLB) 1988 season. The 85th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Oakland Athletics and the National League (NL) champion Los Angeles Dodgers, with the Dodgers upsetting…",
-   "page": "https://en.wikipedia.org/wiki/1988_World_Series"
+   "page": "https://en.wikipedia.org/wiki/1988_World_Series",
+   "video": {
+    "id": "Nhlsu7vY6dw",
+    "title": "1988 WS Gm5: Hershiser goes the distance in clincher",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -329,12 +242,12 @@
     "1988 Major League Baseball postseason"
    ],
    "about": "1988 Major League Baseball postseason",
-   "score": 65.28452425668236,
+   "score": 65.2653922174171,
    "abouts": [
     "1988 Major League Baseball postseason"
    ],
    "key": "03c48997bc9a653d",
-   "headline": "Dodgers shock Athletics in five games in 1988 World Series",
+   "headline": "Dodgers Shock Athletics in Five Games in World Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Greeting_World_Baseball_Champion_Los_Angeles_Dodgers_in_Rose_Garden_and_Being_Presented_with_Jersey.png",
     "credit": "White House Photographic Office",
@@ -348,7 +261,12 @@
     "tier": "event"
    },
    "extract": "The 1988 Major League Baseball postseason was the playoff tournament of Major League Baseball for the 1988 season. The winners of each division advance to the postseason and face each other in a League Championship Series to determine the pennant winners that face each other in the World Series.",
-   "page": "https://en.wikipedia.org/wiki/1988_Major_League_Baseball_postseason"
+   "page": "https://en.wikipedia.org/wiki/1988_Major_League_Baseball_postseason",
+   "video": {
+    "id": "N4nwMDZYXTI",
+    "title": "Kirk Gibson's legendary 1988 World Series walk-off home run, called by Vin Scully!",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -360,7 +278,7 @@
     "Bill Bergesch",
     "George Steinbrenner"
    ],
-   "score": 32.83658667374088,
+   "score": 22.0,
    "abouts": [
     "Bill Bergesch",
     "George Steinbrenner",
@@ -368,7 +286,7 @@
    ],
    "about": "Bill Bergesch",
    "key": "aef707fb993706e8",
-   "headline": "Reds hire Bill Bergesch, 63, as general manager",
+   "headline": "Reds Hire Bill Bergesch, 63, as General Manager",
    "image": null,
    "extract": "Louis William Bergesch was an American Major League Baseball executive. Beginning as a minor league front-office executive and scouting director in the St. Louis Cardinals organization, he would serve in a variety of management and front office roles over a career spanning almost five decades, except for a brief…",
    "page": "https://en.wikipedia.org/wiki/Bill_Bergesch"
@@ -391,10 +309,10 @@
    ],
    "about": "George Bamberger",
    "key": "c3b1e3e31f8df734",
-   "headline": "George Bamberger, 58, named manager of New York Mets",
+   "headline": "Bamberger, 58, Becomes Mets Manager, Pitching Guru",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/George_Bamberger_1950.jpg/960px-George_Bamberger_1950.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:George_Bamberger_1950.jpg",
     "alt": "Black-and-white photo of a baseball pitcher in cap and uniform, mid-windup, with stadium seating behind him.",
@@ -415,13 +333,13 @@
    "links": [
     "Cy Slapnicka"
    ],
-   "score": 20.0845,
+   "score": 20.0,
    "abouts": [
     "Cy Slapnicka"
    ],
    "about": "Cy Slapnicka",
    "key": "432efc73e86bd278",
-   "headline": "Cy Slapnicka dies at 93, celebrated Cleveland Indians scout",
+   "headline": "Cy Slapnicka, 93, Celebrated Indians Scout, Executive",
    "image": null,
    "extract": "Cyril Charles Slapnicka was an American Major League Baseball pitcher and executive. He played for the Chicago Cubs (1911) and Pittsburgh Pirates (1918). His playing career was unusual in that he went almost seven years between major league appearances. He also played 18 years of minor league ball.",
    "page": "https://en.wikipedia.org/wiki/Cy_Slapnicka"
@@ -444,7 +362,7 @@
    ],
    "about": "Mike Caldwell (baseball)",
    "key": "9338d43096e3dbc3",
-   "headline": "Giants and Cardinals make three-for-three trade to open offseason",
+   "headline": "Giants, Cardinals Make Three-for-Three Trade to Open Offseason",
    "image": null,
    "extract": "Ralph Michael Caldwell is an American former professional baseball left-handed pitcher.",
    "page": "https://en.wikipedia.org/wiki/Mike_Caldwell_(baseball)"
@@ -467,10 +385,10 @@
    ],
    "about": "Willie Davis (baseball)",
    "key": "a907d4ed305b1d0a",
-   "headline": "Willie Davis traded from Cardinals to Padres for Dick Sharon",
+   "headline": "Willie Davis Traded From Cardinals to Padres for Sharon",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Willie_Davis_1973.jpeg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Willie_Davis_1973.jpeg",
     "alt": "Smiling man in LA cap holding a baseball, black-and-white portrait",
@@ -491,13 +409,13 @@
    "links": [
     "Allen Russell"
    ],
-   "score": 20.056,
+   "score": 20.055,
    "abouts": [
     "Allen Russell"
    ],
    "about": "Allen Russell",
    "key": "67b60c4146fc88d4",
-   "headline": "Allen Russell dies at 72, led American League with nine saves",
+   "headline": "Allen Russell, 72, Pitcher, 1924 World Champion Senator",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Allen_Russell_1924.jpg/960px-Allen_Russell_1924.jpg",
     "credit": "National Photo Company Collection",
@@ -529,7 +447,7 @@
    ],
    "about": "Dick Walsh (executive)",
    "key": "46e2a60ad2072b3e",
-   "headline": "California Angels fire general manager Dick Walsh after bad 1971",
+   "headline": "Angels Fire General Manager Dick Walsh After Bad 1971",
    "image": null,
    "extract": "Richard Bishop Walsh Jr. was an American professional sports and events industry executive who, during a 50-plus year career, held high-level positions in Major League Baseball, professional soccer, and in convention center management. He was born in South Bend, Indiana, spent his early years in Evanston, Illinois,…",
    "page": "https://en.wikipedia.org/wiki/Dick_Walsh_(executive)"
@@ -552,7 +470,7 @@
    ],
    "about": "George Lauzerique",
    "key": "6e2d7ea1b2600934",
-   "headline": "Brewers trade three players to Cardinals for Jim Ellis and Carl Taylor",
+   "headline": "Brewers Trade Lauzerique, Huggins, McNertney to Cardinals",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/CountyStadium2000FirstBaseSide.jpg/960px-CountyStadium2000FirstBaseSide.jpg",
     "credit": "Barrel Man Sammy",
@@ -586,7 +504,7 @@
    ],
    "about": "Major League Baseball All-Star Game",
    "key": "db563d9e44bd9b1a",
-   "headline": "Mets acquire All-Star third baseman Ken Boyer from Cardinals",
+   "headline": "Mets Acquire Ken Boyer, 34, From St. Louis Cardinals",
    "image": null,
    "extract": "The Major League Baseball All-Star Game, also known as the \"Midsummer Classic\", is an annual professional baseball game sanctioned by Major League Baseball (MLB) and contested between the all-stars from the American League (AL) and National League (NL). Starting position players and designated hitters are selected by…",
    "page": "https://en.wikipedia.org/wiki/Major_League_Baseball_All-Star_Game"
@@ -605,7 +523,7 @@
    ],
    "about": "Lou Gertenrich",
    "key": "674395984f0ae862",
-   "headline": "Lou Gertenrich dies at 58, former Brewers and Pirates outfielder",
+   "headline": "Lou Gertenrich, 58, Former Brewers and Pirates Outfielder",
    "image": null,
    "extract": "Louis Wilhelm Gertenrich was an American professional baseball player. He played parts of two seasons in Major League Baseball as an outfielder for the Milwaukee Brewers and Pittsburgh Pirates.",
    "page": "https://en.wikipedia.org/wiki/Lou_Gertenrich"
@@ -624,7 +542,7 @@
     "Yankee Stadium (1923)"
    ],
    "key": "bb501fbc150f65bf",
-   "headline": "Syracuse beats Pittsburgh 3-0 in first Yankee Stadium football game",
+   "headline": "Syracuse Beats Pittsburgh 3-0 in First Yankee Stadium College Game",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yankee_Stadium_aerial_from_Blackhawk.jpg/960px-Yankee_Stadium_aerial_from_Blackhawk.jpg",
     "credit": "Severin St. Martin",
@@ -642,68 +560,6 @@
   },
   {
    "src": "yearpage",
-   "kind": "death",
-   "year": "1906",
-   "text": "Buck Ewing, 47, catcher, most notably for the New York Giants, who batted .303 lifetime and led NL in home runs and triples once each; captain of 1888–1889 NL champions batted .346 in 1888. championship series; in 1883 was one of the first two players to hit 10 home runs in a season; led NL in assists three times and double plays twice, was later Cincinnati manager.",
-   "links": [
-    "Buck Ewing"
-   ],
-   "score": 20.59,
-   "abouts": [
-    "Buck Ewing"
-   ],
-   "about": "Buck Ewing",
-   "key": "9c4286b086a4ff90",
-   "headline": "Buck Ewing dies at 47, Giants catcher and later Cincinnati manager",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Buck_Ewing%2C_1887.jpeg/960px-Buck_Ewing%2C_1887.jpeg",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Buck_Ewing,_1887.jpeg",
-    "alt": "Man in baseball uniform holding bat, studio backdrop, caption Buck Ewing",
-    "source": "checked",
-    "of": "Buck Ewing (Commons search)",
-    "w": 1057,
-    "h": 1515,
-    "tier": "person"
-   },
-   "extract": "William \"Buck\" Ewing was an American Major League Baseball player and manager. He was renowned for both his offensive and defensive skills during his playing career. In 1939, Ewing was elected to the Baseball Hall of Fame, becoming the first catcher to receive the honor.",
-   "page": "https://en.wikipedia.org/wiki/Buck_Ewing"
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
-   "year": "1898",
-   "text": "Curry Foley, 42, Irish outfielder/first baseman/pitcher who played from 1879 through 1883 for the Boston Red Caps and Buffalo Bisons National League teams, and the first major league player ever to hit for the cycle (May 25, 1882).",
-   "links": [
-    "Curry Foley",
-    "hitting for the cycle"
-   ],
-   "score": 20.147,
-   "abouts": [
-    "Curry Foley",
-    "hitting for the cycle"
-   ],
-   "about": "Curry Foley",
-   "key": "931f57ce5e755b9b",
-   "headline": "Curry Foley dies at 42, first major leaguer to hit for the cycle",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Curry_Foley_%28NYPL_b13537024-56697%29.jpg/960px-Curry_Foley_%28NYPL_b13537024-56697%29.jpg",
-    "credit": "Scan by NYPL",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Curry_Foley_(NYPL_b13537024-56697).jpg",
-    "alt": "Sepia studio portrait of a mustached man in a suit, cabinet card.",
-    "source": "checked",
-    "of": "Curry Foley (Commons search)",
-    "w": 2320,
-    "h": 2992,
-    "tier": "person"
-   },
-   "extract": "Charles Joseph \"Curry\" Foley was an American professional baseball player who played in the National League (NL) for five seasons from 1879 to 1883. He played as a pitcher, outfielder and first baseman for two teams in the NL: the Boston Red Caps (1879–80) and the Buffalo Bisons (1881–83).",
-   "page": "https://en.wikipedia.org/wiki/Curry_Foley"
-  },
-  {
-   "src": "yearpage",
    "kind": "event",
    "year": "1888",
    "text": "The Giants score five runs in the bottom of the eighth inning to take a 6–4 victory and a 4–1 lead in the series. (World Series results are also recorded for 1886.)",
@@ -717,7 +573,7 @@
    ],
    "about": "New York Giants (baseball)",
    "key": "aabcb723ee988f7a",
-   "headline": "Giants score five in eighth to beat 6-4 and take 4-1 series lead",
+   "headline": "Giants Score Five in Eighth, Win 6-4, Lead Series 4-1",
    "image": null,
    "extract": "The New York Giants were a Major League Baseball team in the National League that began play in the 1883 season as the New York Gothams and became known as the Giants in 1885. They continued as the New York Giants until the team moved to San Francisco after the 1957 season, where the team continues its history as the…",
    "page": "https://en.wikipedia.org/wiki/New_York_Giants_(baseball)"
@@ -736,7 +592,7 @@
    ],
    "about": "Tommy Bond (baseball)",
    "key": "5e1da47e210c2310",
-   "headline": "Tommy Bond shows curveball curves by throwing around stakes",
+   "headline": "Tommy Bond Shows Curveball Curves Around Stakes in Exhibition",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tommy_bond_baseball.jpg",
     "credit": "Wikimedia Commons",
@@ -768,40 +624,10 @@
    ],
    "about": "Boston Braves",
    "key": "7e3daa2b056280f1",
-   "headline": "Boston wins third straight pennant with 14-7 win over Athletic",
+   "headline": "Boston Wins Third Straight Pennant With 14-7 Win",
    "image": null,
    "extract": "The Boston Braves were a Major League Baseball team that played in Boston for the National League from 1871 to 1952. The team relocated to Milwaukee after the 1952 season, becoming the Milwaukee Braves, and subsequently moved to Atlanta in 1966.",
    "page": "https://en.wikipedia.org/wiki/Boston_Braves"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "1864",
-   "text": "John Joseph \"Jocko\" Fields (October 20, 1864 – October 14, 1950) was an American professional baseball player.",
-   "links": [
-    "Jocko Fields"
-   ],
-   "about": "Jocko Fields",
-   "score": 10.0,
-   "abouts": [
-    "Jocko Fields"
-   ],
-   "key": "33db494eb2a4a716",
-   "headline": "Jocko Fields born October 20, 1864, American professional player",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Jocko_Fields%2C_Pittsburgh_Alleghenys%2C_baseball_card_portrait_LCCN2007686933.jpg",
-    "credit": "Goodwin & Co., sponsor",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Jocko_Fields,_Pittsburgh_Alleghenys,_baseball_card_portrait_LCCN2007686933.jpg",
-    "alt": "Sepia baseball card portrait of player in uniform, Old Judge Cigarettes, 'Fields, C. Pittsburg'",
-    "source": "checked",
-    "of": "Jocko Fields (Commons search)",
-    "w": 566,
-    "h": 1024,
-    "tier": "person"
-   },
-   "extract": "John Joseph \"Jocko\" Fields was an American professional baseball player. He was born on October 20, 1864, in Cork, Ireland. Fields made his Major League debut on May 31, 1887. He played for the Pittsburgh Pirates, Pittsburgh Burghers, Philadelphia Phillies and New York Giants. Fields played 341 games in the majors,…",
-   "page": "https://en.wikipedia.org/wiki/Jocko_Fields"
   }
  ]
 }

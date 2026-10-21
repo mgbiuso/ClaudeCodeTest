@@ -5,36 +5,36 @@
   {
    "src": "yearpage",
    "kind": "event",
-   "year": "1961",
-   "text": "The St. Louis Cardinals welcome the return of free-agent second baseman Red Schoendienst, who had been released by the Milwaukee Braves on October 14, 1960. The future Hall of Famer, now 38, played 11½ seasons for the Cardinals before being traded away on June 14, 1956; he'll appear in 72 games during the coming season, largely as a pinch hitter, and bat an even .300.",
+   "year": "1960",
+   "text": "Victims of the ongoing attendance crisis plaguing minor league baseball, the New Orleans Pelicans, members of the Double-A Southern Association since 1901, disband after drawing only 71,577 fans during 1959. The Pelican franchise—which won nine SA championships over 59 seasons, but none since 1934—will move to Little Rock after businessmen there raise an initial $25,000 to re-enter the league in time for the season…",
    "links": [
-    "St. Louis Cardinals",
-    "Red Schoendienst",
-    "Milwaukee Braves"
+    "minor league baseball",
+    "New Orleans Pelicans (baseball)",
+    "Double-A (baseball)"
    ],
-   "score": 55.0,
+   "score": 80.72271537136393,
    "abouts": [
-    "Red Schoendienst",
-    "St. Louis Cardinals",
-    "Milwaukee Braves"
+    "Double-A (baseball)",
+    "minor league baseball",
+    "New Orleans Pelicans (baseball)"
    ],
-   "about": "Red Schoendienst",
-   "key": "10d7405be992dd1e",
-   "headline": "Cardinals welcome back Red Schoendienst, 38, as free agent",
+   "about": "Double-A (baseball)",
+   "key": "0eadf7fbfdc9a93a",
+   "headline": "New Orleans Pelicans Disband After Drawing 71,577 Fans in 1959",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Red_Schoendienst1983.jpg",
-    "credit": "Johnmaxmena (talk)john Mena",
-    "license": "CC BY 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Red_Schoendienst1983.jpg",
-    "alt": "Older man in Cardinals jersey #2, red cap, stadium background",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/1910NOLAPelicans.jpg",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1910NOLAPelicans.jpg",
+    "alt": "Team photo of players in uniforms, numbered 1-14, labeled New Orleans Team, Southern Association champions.",
     "source": "checked",
-    "of": "Red Schoendienst",
-    "w": 848,
-    "h": 882,
-    "tier": "person"
+    "of": "New Orleans Pelicans (baseball)",
+    "w": 800,
+    "h": 476,
+    "tier": "team"
    },
-   "extract": "Albert Fred \"Red\" Schoendienst was an American professional baseball second baseman and manager. He played 19 seasons in Major League Baseball (MLB) for the St. Louis Cardinals, New York Giants, and Milwaukee Braves from 1945 to 1963, and was named to 10 All-Star teams. He then managed the Cardinals from 1965 to 1976…",
-   "page": "https://en.wikipedia.org/wiki/Red_Schoendienst",
+   "extract": "Double-A is the second-highest level of play in Minor League Baseball in the United States since 1946, below only Triple-A. There are 30 teams classified at the Double-A level, one for each team in Major League Baseball, organized into three leagues: the Eastern League, the Southern League, and the Texas League.",
+   "page": "https://en.wikipedia.org/wiki/Double-A_(baseball)",
    "lead": true
   },
   {
@@ -55,7 +55,7 @@
    ],
    "about": "2025 Los Angeles Dodgers season",
    "key": "75ed4224652b5e12",
-   "headline": "Cubs and Dodgers play exhibitions in Tokyo against NPB clubs",
+   "headline": "Cubs, Dodgers Play Exhibitions in Tokyo vs. Tigers, Giants",
    "image": null,
    "extract": "The 2025 Los Angeles Dodgers season was the 136th season for the Los Angeles Dodgers franchise in Major League Baseball (MLB), their 68th season in Los Angeles, California, and their 64th season playing their home games at Dodger Stadium. They entered the season as the defending World Series champions after winning…",
    "page": "https://en.wikipedia.org/wiki/2025_Los_Angeles_Dodgers_season"
@@ -74,7 +74,7 @@
     "Edwin Díaz"
    ],
    "key": "3a4295cf2b7b98ad",
-   "headline": "After striking out the side in the ninth inning against the Dominican",
+   "headline": "Díaz Strikes out Side, Sends Puerto Rico to WBC Quarterfinals",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mets_closer_Edwin_Diaz_throwing_the_cheese_%2851267940604%29_%28cropped%29.jpg/960px-Mets_closer_Edwin_Diaz_throwing_the_cheese_%2851267940604%29_%28cropped%29.jpg",
     "credit": "All-Pro Reels from District of Columbia, USA",
@@ -104,7 +104,7 @@
    ],
    "about": "Augie Garrido",
    "key": "861ed9b85d9676b7",
-   "headline": "Augie Garrido dies at 79; winningest college baseball coach",
+   "headline": "Augie Garrido, 79, College Coach With 1,975 Wins",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/UT_baseball_coach_Augie_Garrido_2007-02-10.jpg/960px-UT_baseball_coach_Augie_Garrido_2007-02-10.jpg",
     "credit": "Johntex",
@@ -138,7 +138,7 @@
    ],
    "about": "Ed Charles",
    "key": "40dd6ccb06ae8534",
-   "headline": "Ed Charles, 84, Miracle Mets third baseman, dies",
+   "headline": "Ed Charles, 84, Key Third Baseman on 1969 Miracle Mets",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Edcharles.jpg/960px-Edcharles.jpg",
     "credit": "Terryballard",
@@ -172,7 +172,7 @@
    ],
    "about": "Bob Bruce",
    "key": "78b670163337b11b",
-   "headline": "Bob Bruce, 83, dies; pitched immaculate inning in 1964",
+   "headline": "Bob Bruce, 83, Pitcher Who Threw Immaculate Inning in 1964",
    "image": null,
    "extract": "Robert James Bruce was an American professional baseball player, a right-handed pitcher who appeared in 219 games in Major League Baseball from 1959 to 1967 for the Detroit Tigers, Houston Colt .45s / Astros, and Atlanta Braves.",
    "page": "https://en.wikipedia.org/wiki/Bob_Bruce"
@@ -195,7 +195,7 @@
    ],
    "about": "baseball in Cuba",
    "key": "a1b91a82b61ea0f9",
-   "headline": "The United States Department of the Treasury announced that American",
+   "headline": "Treasury Lets U.S. Employers Hire Cuban Citizens to Work Here",
    "image": null,
    "extract": "Baseball is the most popular sport in Cuba, followed by association football. Baseball was popularized in Cuba by Nemesio Guillot, who founded the first major baseball club in the country. It became the most played sport in the country in the 1870s, before the period of American intervention.",
    "page": "https://en.wikipedia.org/wiki/Baseball_in_Cuba"
@@ -214,7 +214,7 @@
    ],
    "about": "Alice Pollitt",
    "key": "1bdd4cb80ac76abb",
-   "headline": "Alice Pollitt, 86, All-American Girls infielder, dies",
+   "headline": "Alice Pollitt, 86, All-American Girls Pro Baseball Infielder",
    "image": null,
    "extract": "Alice Pollitt Deschaine [born Margaret Pollitt] was an infielder who played from 1947 through 1953 in the All-American Girls Professional Baseball League (AAGPBL). Listed at 5 ft 3 in (1.60 m), 150 lb., she batted and threw right-handed.",
    "page": "https://en.wikipedia.org/wiki/Alice_Pollitt"
@@ -233,10 +233,10 @@
    ],
    "about": "Dave Philley",
    "key": "c6fee22d9b15bb61",
-   "headline": "Dave Philley, 91, dies; held record for consecutive pinch-hits",
+   "headline": "Dave Philley, 91, Pinch-Hitting Specialist With Eight Teams",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dave_Philley_Athletics.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Dave_Philley_Athletics.jpg",
     "alt": "Man in dark cap with white 'A' and collared uniform, black-and-white photo",
@@ -267,7 +267,7 @@
    ],
    "about": "Beijing Wukesong Culture & Sports Center",
    "key": "a13f8bec20be0cfa",
-   "headline": "Dodgers, Padres tie 3-3 in first major league game in China",
+   "headline": "Dodgers and Padres Tie 3-3 in First MLB Game in China",
    "image": null,
    "extract": "The Los Angeles Dodgers are an American professional baseball team based in Los Angeles. The Dodgers compete in Major League Baseball (MLB) as a member club of the National League (NL) West Division. The club has won nine World Series championships and a record 26 National League pennants. As of 2026, Forbes ranked…",
    "page": "https://en.wikipedia.org/wiki/Los_Angeles_Dodgers"
@@ -288,7 +288,7 @@
    ],
    "about": "Bowie Kuhn",
    "key": "d103a0bb77ce69a8",
-   "headline": "Bowie Kuhn, 80, former commissioner, dies",
+   "headline": "Bowie Kuhn, 80, Commissioner Through Free Agency's Arrival",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bowie_Kuhn_1982.jpg",
     "credit": "Major League Baseball",
@@ -318,7 +318,7 @@
     "2002 Kansas City Royals season"
    ],
    "key": "f80b4db6943e95ab",
-   "headline": "Royals send Shawn Sonnier to Chicago to complete trade",
+   "headline": "Royals Send Shawn Sonnier to Chicago to Complete Trade",
    "image": null,
    "extract": "The 2002 Kansas City Royals season was the 34th season for the franchise, and their 30th at Kauffman Stadium. The Royals failed to improve on their 65–97 record from 2001, and finished fourth in the American League Central, with a record of 62 wins and 100 losses, their first 100 loss season in franchise history. The…",
    "page": "https://en.wikipedia.org/wiki/2002_Kansas_City_Royals_season"
@@ -337,7 +337,7 @@
    ],
    "about": "Dwight Evans (baseball)",
    "key": "b5ca5d1632f29f5b",
-   "headline": "Orioles release Dwight Evans, ending 20-year career",
+   "headline": "Orioles Release Dwight Evans, Ending 20-Year Career",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dwightevans.JPG/960px-Dwightevans.JPG",
     "credit": "Wikimedia Commons",
@@ -367,7 +367,7 @@
     "Mike Tyson (baseball)"
    ],
    "key": "48ed9f20161aa614",
-   "headline": "Cubs release Tyson, who retires from baseball",
+   "headline": "Cubs Release Tyson, Who Retires From Baseball",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mike_Tyson_Cardinals.jpg",
     "credit": "St. Louis Cardinals",
@@ -397,7 +397,7 @@
     "1980 New York Yankees season"
    ],
    "key": "dc3a1b6bfc7c00e0",
-   "headline": "45,152 fans see Yankees beat Orioles 9-3",
+   "headline": "Yankees Beat Orioles 9-3 Before 45,152 Fans",
    "image": null,
    "extract": "The 1980 New York Yankees season was the 78th season for the franchise. The team finished with a record of 103–59, finishing in first place in the American League East, 3 games ahead of the Baltimore Orioles. The Kansas City Royals swept the Yankees in the ALCS. New York was managed by Dick Howser. The Yankees played…",
    "page": "https://en.wikipedia.org/wiki/1980_New_York_Yankees_season"
@@ -416,7 +416,7 @@
     "1978 Atlanta Braves season"
    ],
    "key": "229ee5f886d82a5c",
-   "headline": "Rangers complete trade sending Ken Henderson to Mets",
+   "headline": "Rangers Send Ken Henderson to Mets to Finish Trade",
    "image": null,
    "extract": "The 1978 Atlanta Braves season was the 108th season for the franchise and their 13th in Atlanta.",
    "page": "https://en.wikipedia.org/wiki/1978_Atlanta_Braves_season"
@@ -439,7 +439,7 @@
    ],
    "about": "Baseball Hall of Fame",
    "key": "2059332e3e4de93f",
-   "headline": "Dodgers sign Juan Marichal, 37, former Giants ace, as free agent",
+   "headline": "Dodgers Sign Juan Marichal, 37, Former Giants Ace, as Free Agent",
    "image": null,
    "extract": "The National Baseball Hall of Fame and Museum is a history museum and hall of fame in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying baseball-related artifacts and exhibits, honoring those who…",
    "page": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
@@ -458,7 +458,7 @@
    ],
    "about": "Allie Watt",
    "key": "b6cbfa8c251e4a8f",
-   "headline": "Allie Watt, 68, former Senators second baseman, dies",
+   "headline": "Allie Watt, 68, Senators Second Baseman With One MLB Game",
    "image": null,
    "extract": "Albert Bailey Watt was an American Major League Baseball player who played in 1920 with the Washington Senators. Watt was the brother of former Major Leaguer, Frank Watt.",
    "page": "https://en.wikipedia.org/wiki/Allie_Watt"
@@ -466,36 +466,36 @@
   {
    "src": "yearpage",
    "kind": "event",
-   "year": "1960",
-   "text": "Victims of the ongoing attendance crisis plaguing minor league baseball, the New Orleans Pelicans, members of the Double-A Southern Association since 1901, disband after drawing only 71,577 fans during 1959. The Pelican franchise—which won nine SA championships over 59 seasons, but none since 1934—will move to Little Rock after businessmen there raise an initial $25,000 to re-enter the league in time for the season…",
+   "year": "1961",
+   "text": "The St. Louis Cardinals welcome the return of free-agent second baseman Red Schoendienst, who had been released by the Milwaukee Braves on October 14, 1960. The future Hall of Famer, now 38, played 11½ seasons for the Cardinals before being traded away on June 14, 1956; he'll appear in 72 games during the coming season, largely as a pinch hitter, and bat an even .300.",
    "links": [
-    "minor league baseball",
-    "New Orleans Pelicans (baseball)",
-    "Double-A (baseball)"
+    "St. Louis Cardinals",
+    "Red Schoendienst",
+    "Milwaukee Braves"
    ],
-   "score": 80.72271537136393,
+   "score": 55.0,
    "abouts": [
-    "Double-A (baseball)",
-    "minor league baseball",
-    "New Orleans Pelicans (baseball)"
+    "Red Schoendienst",
+    "St. Louis Cardinals",
+    "Milwaukee Braves"
    ],
-   "about": "Double-A (baseball)",
-   "key": "0eadf7fbfdc9a93a",
-   "headline": "New Orleans Pelicans disband after drawing just 71,577 fans",
+   "about": "Red Schoendienst",
+   "key": "10d7405be992dd1e",
+   "headline": "Cardinals Welcome Back Red Schoendienst, 38, as Pinch Hitter",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/1910NOLAPelicans.jpg",
-    "credit": "Wikimedia Commons",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:1910NOLAPelicans.jpg",
-    "alt": "Team photo of players in uniforms, numbered 1-14, labeled New Orleans Team, Southern Association champions.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Red_Schoendienst1983.jpg",
+    "credit": "Johnmaxmena (talk)john Mena",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_Schoendienst1983.jpg",
+    "alt": "Older man in Cardinals jersey #2, red cap, stadium background",
     "source": "checked",
-    "of": "New Orleans Pelicans (baseball)",
-    "w": 800,
-    "h": 476,
-    "tier": "team"
+    "of": "Red Schoendienst",
+    "w": 848,
+    "h": 882,
+    "tier": "person"
    },
-   "extract": "Double-A is the second-highest level of play in Minor League Baseball in the United States since 1946, below only Triple-A. There are 30 teams classified at the Double-A level, one for each team in Major League Baseball, organized into three leagues: the Eastern League, the Southern League, and the Texas League.",
-   "page": "https://en.wikipedia.org/wiki/Double-A_(baseball)"
+   "extract": "Albert Fred \"Red\" Schoendienst was an American professional baseball second baseman and manager. He played 19 seasons in Major League Baseball (MLB) for the St. Louis Cardinals, New York Giants, and Milwaukee Braves from 1945 to 1963, and was named to 10 All-Star teams. He then managed the Cardinals from 1965 to 1976…",
+   "page": "https://en.wikipedia.org/wiki/Red_Schoendienst"
   },
   {
    "src": "yearpage",
@@ -511,7 +511,7 @@
    ],
    "about": "Bill Cissell",
    "key": "ae692971c85af7b2",
-   "headline": "Bill Cissell, 45, infielder for five teams in 1928-1938, dies",
+   "headline": "Bill Cissell, 45, Middle Infielder Across 10 Seasons",
    "image": null,
    "extract": "Chalmer William Cissell born in Perryville, Missouri, was an American professional baseball infielder in Major League Baseball for the Chicago White Sox (1928–32), Cleveland Indians (1932–33), Boston Red Sox (1934), Philadelphia Athletics (1937) and New York Giants (1938).",
    "page": "https://en.wikipedia.org/wiki/Bill_Cissell"
@@ -530,7 +530,7 @@
     "Bill Dickey"
    ],
    "key": "489304929de9de98",
-   "headline": "Dickey enters Navy after Selective Service classifies him 1-A",
+   "headline": "Dickey Enters Navy After Being Classified 1-A, Fit for Service",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bill_Dickey_1937_cropped.jpg",
     "credit": "Harris & Ewing",
@@ -564,7 +564,7 @@
    ],
    "about": "National Baseball Hall of Fame and Museum",
    "key": "23e2688977618f59",
-   "headline": "Walter Johnson and Frankie Frisch named to broadcasting teams",
+   "headline": "Walter Johnson, 51, Named Senators Broadcaster, Frisch Joins Bees",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Walter_Johnson_1924.jpg/960px-Walter_Johnson_1924.jpg",
     "credit": "Jackson, William Henry, 1843-1942, photographer",
@@ -596,7 +596,7 @@
    ],
    "about": "Henry Chadwick (writer)",
    "key": "03d6622e4b9b404d",
-   "headline": "St. Louis groundskeeper begins covering bases during rain",
+   "headline": "Chadwick Notes St. Louis Groundskeeper Tarps Bases in Rain",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Henry_Chadwick_%28NYPL_b13537024-56451%29_%28cropped%29.jpg/960px-Henry_Chadwick_%28NYPL_b13537024-56451%29_%28cropped%29.jpg",
     "credit": "G. Frank E. Pearsall",

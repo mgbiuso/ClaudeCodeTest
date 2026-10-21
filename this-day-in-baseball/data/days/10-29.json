@@ -20,7 +20,7 @@
    ],
    "about": "1983 NBA Finals",
    "key": "cd38a091b4e0cb25",
-   "headline": "Phillies win World Series Game 5, first title since 1980",
+   "headline": "Phillies Win 4-3, Claim First Title Since 1980",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/2008_world_series_rain_delay.JPG",
     "credit": "Edg126",
@@ -35,6 +35,11 @@
    },
    "extract": "Citizens Bank Park is a baseball stadium in Philadelphia, Pennsylvania, United States. Home to Major League Baseball's Philadelphia Phillies, the stadium opened April 3, 2004.",
    "page": "https://en.wikipedia.org/wiki/Citizens_Bank_Park",
+   "video": {
+    "id": "h-dJtmTbvNY",
+    "title": "WS2008 Gm5: Lidge closes out WS, Kalas makes the call",
+    "channel": "MLB"
+   },
    "lead": true
   },
   {
@@ -55,7 +60,7 @@
    ],
    "about": "2017 World Series",
    "key": "e9e1b043a5265ec0",
-   "headline": "Astros rally three times to beat Dodgers 13–12 in Game 5",
+   "headline": "Astros Rally Past Dodgers 13-12 in 10 Innings, Lead Series",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2017_World_Series_champion_Houston_Astros_visit_White_House.jpg/960px-2017_World_Series_champion_Houston_Astros_visit_White_House.jpg",
     "credit": "The White House on Flickr",
@@ -85,7 +90,7 @@
    ],
    "about": "Al Richter",
    "key": "461a8d45e05e1e74",
-   "headline": "Al Richter, shortstop for Red Sox, dies at 90",
+   "headline": "Al Richter, 90, Former Red Sox Shortstop",
    "image": null,
    "extract": "Allen Gordon Richter was an American professional baseball player.",
    "page": "https://en.wikipedia.org/wiki/Al_Richter"
@@ -108,7 +113,7 @@
    ],
    "about": "José Abreu (first baseman)",
    "key": "e6510bf893c48b8e",
-   "headline": "José Abreu signs $68 million deal with Chicago White Sox",
+   "headline": "José Abreu Signs $68 Million Deal With White Sox",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jose_Abreu_on_deck_circle_at_Minute_Maid_2014.jpg/960px-Jose_Abreu_on_deck_circle_at_Minute_Maid_2014.jpg",
     "credit": "EricEnfermero",
@@ -138,7 +143,7 @@
     "Akron RubberDucks"
    ],
    "key": "9b6bbafb3f71a46e",
-   "headline": "Aeros become Akron RubberDucks, honoring city's rubber heritage",
+   "headline": "Aeros Become Akron RubberDucks, Honoring Rubber Capital",
    "image": null,
    "extract": "The Akron RubberDucks are a Minor League Baseball team based in Akron, Ohio. The team plays in the Eastern League and is the Double-A affiliate of the Cleveland Guardians. They play in 7 17 Credit Union Park, located in downtown Akron, which seats 7,630 fans. The nickname \"RubberDucks\" refers to Akron's history in the…",
    "page": "https://en.wikipedia.org/wiki/Akron_RubberDucks"
@@ -157,7 +162,7 @@
    ],
    "about": "Jerry Dipoto",
    "key": "f9ebf55f23efc77a",
-   "headline": "Angels hire Jerry Dipoto as 11th general manager in club history",
+   "headline": "Angels Hire Jerry Dipoto as 11th General Manager",
    "image": null,
    "extract": "Gerard Dipoto is an American baseball executive and former professional player. He is currently the president of baseball operations for the Seattle Mariners of Major League Baseball (MLB). He previously was the general manager of the Los Angeles Angels of Anaheim and worked in front office positions for the Arizona…",
    "page": "https://en.wikipedia.org/wiki/Jerry_Dipoto"
@@ -176,7 +181,7 @@
     "Vance Wilson"
    ],
    "key": "f0b3596cd6512285",
-   "headline": "Wilson named 13th manager of Kane County Cougars",
+   "headline": "Wilson Named 13th Manager of Kane County Cougars",
    "image": null,
    "extract": "Vance Allen Wilson is an American former professional baseball catcher and current coach. He is the third base coach for the Kansas City Royals of Major League Baseball (MLB). He played all or parts of eight seasons in MLB. Listed at 5'11\" tall and 215 pounds, he batted and threw right-handed during his career.",
    "page": "https://en.wikipedia.org/wiki/Vance_Wilson"
@@ -195,7 +200,7 @@
    ],
    "about": "Sandy Alderson",
    "key": "ca2982ab31a413c3",
-   "headline": "Mets name Sandy Alderson their new general manager",
+   "headline": "Mets Name Sandy Alderson Their New General Manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sandy_Alderson_crop.jpg/960px-Sandy_Alderson_crop.jpg",
     "credit": "Chamber of Fear; cropped by Beyond My Ken (talk) 02:52, 8 July 2011",
@@ -229,7 +234,7 @@
    ],
    "about": "A. J. Burnett",
    "key": "eb870a372f87180e",
-   "headline": "Yankees even World Series with 3–1 win over Phillies",
+   "headline": "Yankees Even World Series With 3-1 Win Over Phillies",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/2009_World_Series_Game_1_Ceremonial_first_pitch.jpg",
     "credit": "Samantha Appleton",
@@ -259,7 +264,7 @@
     "Chris Speier"
    ],
    "key": "60c8043f2137473b",
-   "headline": "Speier signed by Reds as infield coach, later bench coach",
+   "headline": "Speier Signed by Reds as Infield Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2013_05_18_061_Reds_Chris_Speier.jpg",
     "credit": "Dealphungo",
@@ -289,7 +294,7 @@
    ],
    "about": "Silas Simmons",
    "key": "b10995f8ed31d420",
-   "headline": "Silas Simmons, Negro leagues player, dies at 109 or 111",
+   "headline": "Silas Simmons, 109, Longest-Lived Pro Baseball Player",
    "image": null,
    "extract": "Silas Joseph Simmons was an American professional baseball player for African-American teams in the pre-Negro leagues era. He became the longest-lived major league player in history, surpassing Red Hoff, who died at age 107 in 1998.",
    "page": "https://en.wikipedia.org/wiki/Silas_Simmons"
@@ -308,7 +313,7 @@
    ],
    "about": "Al Niemiec",
    "key": "edb7556ce3771115",
-   "headline": "Al Niemiec, former second baseman, dies at 84",
+   "headline": "Al Niemiec, 84, Former Red Sox Second Baseman",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Al_Niemiec_Athletics.jpg",
     "credit": "Apex Photograph Company",
@@ -340,7 +345,7 @@
    ],
    "about": "Japan Series",
    "key": "bc0194af66dd72b7",
-   "headline": "Yomiuri Giants win Game 6, claim Japan Series title",
+   "headline": "Yomiuri Giants Win Game 6, Claim Japan Series Title",
    "image": null,
    "extract": "The Japan Series, also the Nippon Series, is the annual championship series in Nippon Professional Baseball, the top baseball league in Japan. It is a best-of-seven series between the winning clubs of the league's two circuits, the Central League and the Pacific League, and is played in October or November. The first…",
    "page": "https://en.wikipedia.org/wiki/Japan_Series"
@@ -363,7 +368,7 @@
    ],
    "about": "Buck Showalter",
    "key": "023380e05b76ca7c",
-   "headline": "Buck Showalter promoted to Yankees manager, replacing Stump Merrill",
+   "headline": "Yankees Promote Buck Showalter to Replace Stump Merrill",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Buck_Showalter_in_2017_%2836660713620%29.jpg/960px-Buck_Showalter_in_2017_%2836660713620%29.jpg",
     "credit": "Keith Allison from Hanover, MD, USA",
@@ -397,7 +402,7 @@
    ],
    "about": "Andy Cohen (baseball)",
    "key": "a8278fc19a70695c",
-   "headline": "Andy Cohen, 84, former Giants second baseman, dies",
+   "headline": "Andy Cohen, 84, Former Giants Second Baseman",
    "image": null,
    "extract": "Andrew Howard Cohen, nicknamed the \"Tuscaloosa Terror\", was an American professional baseball player, coach, and manager. He played as a second baseman in Major League Baseball (MLB) for the New York Giants, from 1926 to 1929. Cohen was an interim manager for the Philadelphia Phillies in 1960.",
    "page": "https://en.wikipedia.org/wiki/Andy_Cohen_(baseball)"
@@ -420,7 +425,7 @@
    ],
    "about": "Larry Himes",
    "key": "ec73c8590a6daa54",
-   "headline": "White Sox name Larry Himes, 46, vice president and GM",
+   "headline": "White Sox Name Larry Himes, 46, General Manager",
    "image": null,
    "extract": "Lawrence Austin Himes is an American former general manager (GM) for two Major League Baseball (MLB) teams: the Chicago White Sox (1986–1990); and the Chicago Cubs (1991–1994). Himes is likely best known for trading for Sammy Sosa during each tenure as GM. Prior to becoming a general manager, he was the California…",
    "page": "https://en.wikipedia.org/wiki/Larry_Himes"
@@ -443,7 +448,7 @@
    ],
    "about": "Ruly Carpenter",
    "key": "c265d2b6550b8482",
-   "headline": "Ruly Carpenter sells Phillies for record $30.175 million",
+   "headline": "Phillies Sold to Investment Group for $30.175 Million",
    "image": null,
    "extract": "Robert Ruliph Morgan \"Ruly\" Carpenter III was an American businessman and baseball executive. He was the principal owner and president of the Philadelphia Phillies from 1972 to 1981.",
    "page": "https://en.wikipedia.org/wiki/Ruly_Carpenter"
@@ -466,7 +471,7 @@
    ],
    "about": "Jim Bunning",
    "key": "db981a77f23ab057",
-   "headline": "Jim Bunning, 38, returns to Phillies as free agent",
+   "headline": "Jim Bunning Returns to Phillies as Free Agent",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jim_Bunning_as_ballplayer.jpg",
     "credit": "From collection of JGHowes, self-scanned for Wikipedia. JGHowes at",
@@ -500,10 +505,10 @@
    ],
    "about": "Yogi Berra",
    "key": "2f2d9df48696903b",
-   "headline": "Yankees release Yogi Berra, 38, so he can manage in 1964",
+   "headline": "Yankees Release Yogi Berra to Make Him Manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Yogi_Berra_%281957%29_%28cropped%29.jpg/960px-Yogi_Berra_%281957%29_%28cropped%29.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Yogi_Berra_(1957)_(cropped).jpg",
     "alt": "Man in Yankees pinstripe uniform and NY cap holding a bat.",
@@ -534,10 +539,10 @@
    ],
    "about": "Bob Turley",
    "key": "75369d54dbd031e1",
-   "headline": "Yankees sell Bob Turley, 32, contract to Los Angeles Angels",
+   "headline": "Yankees Sell Bob Turley Contract to Angels",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/BobTurley.png",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:BobTurley.png",
     "alt": "Pitcher in Yankees pinstripes mid-delivery, caption reads BOB TURLEY",
@@ -564,7 +569,7 @@
     "Carolina League"
    ],
    "key": "3ea48102a08d6aa2",
-   "headline": "Carolina League is announced after Durham organizational meeting",
+   "headline": "Carolina League Announced After Durham Meeting",
    "image": null,
    "extract": "The Carolina League is a Minor League Baseball league which has operated along the Atlantic Coast of the United States since 1945. Having been classified at various levels throughout its existence, it operated at Class A-Advanced from 1990 until its demotion to Single-A following Major League Baseball's 2021…",
    "page": "https://en.wikipedia.org/wiki/Carolina_League"
@@ -585,7 +590,7 @@
    ],
    "about": "New York Giants (NL)",
    "key": "9c9b4979a8c27482",
-   "headline": "Giants beat Brooklyn Bridegrooms 3–2, win World Series 6 games to 3",
+   "headline": "Giants Win Second Straight World Series, Beat Bridegrooms 3-2",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1883_New_York_Gothams.jpeg/960px-1883_New_York_Gothams.jpeg",
     "credit": "J Wood, 208 Bowery, N.Y.",

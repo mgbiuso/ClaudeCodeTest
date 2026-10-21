@@ -12,7 +12,7 @@
     "2011 World Series",
     "Connie Mack"
    ],
-   "score": 133.4691321919309,
+   "score": 133.43564810359555,
    "abouts": [
     "Connie Mack",
     "2011 World Series",
@@ -20,7 +20,7 @@
    ],
    "about": "Connie Mack",
    "key": "4fc482af2a7178e3",
-   "headline": "Tony La Russa retires as Cardinals manager after Series win",
+   "headline": "La Russa Retires as Cardinals Manager After World Series Win",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tony_La_Russa_by_Gage_Skidmore.jpg/960px-Tony_La_Russa_by_Gage_Skidmore.jpg",
     "credit": "Gage Skidmore",
@@ -47,7 +47,7 @@
     "Hanwha Eagles",
     "2025 Korean Series"
    ],
-   "score": 49.003585391411924,
+   "score": 48.95845324510059,
    "abouts": [
     "2025 Korean Series",
     "LG Twins",
@@ -55,7 +55,7 @@
    ],
    "about": "2025 Korean Series",
    "key": "dbb76706f4550d9b",
-   "headline": "LG Twins beat Hanwha Eagles, win fourth championship",
+   "headline": "LG Twins Beat Hanwha Eagles, Win Fourth Korean Series Title",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/LG_Twins_Jamsil_Stadium_Game_Photo.jpg/960px-LG_Twins_Jamsil_Stadium_Game_Photo.jpg",
     "credit": "Drewsamyoo",
@@ -81,15 +81,15 @@
     "Kauffman Stadium",
     "Ned Yost"
    ],
-   "score": 82.73296551048152,
+   "score": 62.0,
    "abouts": [
+    "Mike Matheny",
     "Kauffman Stadium",
-    "Ned Yost",
-    "Mike Matheny"
+    "Ned Yost"
    ],
-   "about": "Kauffman Stadium",
+   "about": "Mike Matheny",
    "key": "0ed95b5fcd55ac3c",
-   "headline": "Royals hire Mike Matheny as new manager, replacing Ned Yost",
+   "headline": "Royals Hire Mike Matheny as New Manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MikeMathenyphotoday2013.jpg/960px-MikeMathenyphotoday2013.jpg",
     "credit": "Johnmaxmena2",
@@ -102,8 +102,8 @@
     "h": 2724,
     "tier": "person"
    },
-   "extract": "Kauffman Stadium is a ballpark located in Kansas City, Missouri, and the home of Major League Baseball's Kansas City Royals. It is next door to Arrowhead Stadium, home of the National Football League's Kansas City Chiefs. Both make up the Truman Sports Complex. The stadium is named for Ewing Kauffman, the founder and…",
-   "page": "https://en.wikipedia.org/wiki/Kauffman_Stadium"
+   "extract": "Michael Scott Matheny is an American former professional baseball catcher and manager. He played 13 seasons in Major League Baseball (MLB) for the Milwaukee Brewers, Toronto Blue Jays, St. Louis Cardinals, and San Francisco Giants. He later spent seven seasons as the manager of the Cardinals, and three for the Kansas…",
+   "page": "https://en.wikipedia.org/wiki/Mike_Matheny"
   },
   {
    "src": "yearpage",
@@ -121,7 +121,7 @@
    ],
    "about": "Willie McCovey",
    "key": "b63c1219f0c33598",
-   "headline": "Willie McCovey, 80, Hall of Fame first baseman, dies",
+   "headline": "Willie McCovey, 80, Hall of Fame First Baseman",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cypress_Lawn_cemetery%2C_Colma%2C_California_5.jpg/960px-Cypress_Lawn_cemetery%2C_Colma%2C_California_5.jpg",
     "credit": "Mliu92",
@@ -145,13 +145,13 @@
    "links": [
     "2017 World Series"
    ],
-   "score": 88.1582840258396,
+   "score": 88.14368113367837,
    "abouts": [
     "2017 World Series"
    ],
    "about": "2017 World Series",
    "key": "b1db1be1598bbbb0",
-   "headline": "Dodgers beat Astros 3-1 to force deciding Game 7",
+   "headline": "Dodgers Beat Astros 3-1, Force Deciding Game 7",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/171025-F-HP195-1244_Falcons_soar_over_L.A._%28cropped%29.jpg",
     "credit": "Christopher Okula (Original version) UCinternational (Crop)",
@@ -176,12 +176,12 @@
     "Rate Field"
    ],
    "about": "Rate Field",
-   "score": 48.09504902212761,
+   "score": 25.0,
    "abouts": [
     "Rate Field"
    ],
    "key": "c319e431fb856357",
-   "headline": "Stadium renamed Guaranteed Rate Field in 13-year naming deal",
+   "headline": "Guaranteed Rate Buys Naming Rights in 13-Year Deal",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/GuaranteedRateField.jpg/960px-GuaranteedRateField.jpg",
     "credit": "Soxman07",
@@ -207,7 +207,7 @@
     "Citi Field",
     "Tyler Clippard"
    ],
-   "score": 92.30087961759014,
+   "score": 92.26353113255514,
    "abouts": [
     "Citi Field",
     "Daniel Murphy (baseball)",
@@ -215,7 +215,7 @@
    ],
    "about": "Citi Field",
    "key": "6b2beaebfd1c85cc",
-   "headline": "Royals rally in eighth, take 3-1 World Series lead over Mets",
+   "headline": "Royals Rally Past Mets 5-3, Take 3-1 World Series Lead",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/-WorldSeries_Game_1-_Eric_Hosmer_wins_it_%2822861501026%29.jpg/960px--WorldSeries_Game_1-_Eric_Hosmer_wins_it_%2822861501026%29.jpg",
     "credit": "Arturo Pardavila III from Hoboken, NJ, USA",
@@ -229,7 +229,12 @@
     "tier": "event"
    },
    "extract": "Citi Field is a baseball stadium located in Flushing Meadows–Corona Park, in the borough of Queens, New York City, United States. Opened in 2009, Citi Field is the home of Major League Baseball's New York Mets. The ballpark was built as a replacement for the adjacent Shea Stadium, which had been demolished shortly…",
-   "page": "https://en.wikipedia.org/wiki/Citi_Field"
+   "page": "https://en.wikipedia.org/wiki/Citi_Field",
+   "video": {
+    "id": "JqXF_50JgMk",
+    "title": "10/31/15: Royals a win away after wild rally in 8th",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -241,7 +246,7 @@
     "Rick Renteria",
     "2008 World Series"
    ],
-   "score": 69.03363741378001,
+   "score": 69.01457241415761,
    "abouts": [
     "Joe Maddon",
     "2008 World Series",
@@ -249,7 +254,7 @@
    ],
    "about": "Joe Maddon",
    "key": "96d5a7933fd6ed6b",
-   "headline": "Cubs hire Joe Maddon as 54th manager, replacing Rick Renteria",
+   "headline": "Cubs Hire Joe Maddon as 54th Manager",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Joe_Maddon_in_2013_%289553142672%29.jpg/960px-Joe_Maddon_in_2013_%289553142672%29.jpg",
     "credit": "Keith Allison from Hanover, MD, USA",
@@ -283,7 +288,7 @@
    ],
    "about": "Brad Halsey",
    "key": "d575642bcb2c20db",
-   "headline": "Brad Halsey, 33, former Yankees and Athletics pitcher, dies",
+   "headline": "Brad Halsey, 33, Former Yankees and Athletics Pitcher",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Halseyprint.jpg",
     "credit": "Jlaff at English Wikipedia",
@@ -317,7 +322,7 @@
    ],
    "about": "Buster Posey",
    "key": "a032c88de286fb25",
-   "headline": "Bumgarner and Posey become first all-rookie World Series battery since 1947",
+   "headline": "Bumgarner, Posey Form First All-Rookie World Series Battery Since 1947",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Madison_Bumgarner_on_June_21%2C_2011.jpg",
     "credit": "Ed Bierman on Flickr (Original version) UCinternational (Crop)",
@@ -347,7 +352,7 @@
    ],
    "about": "Artie Wilson",
    "key": "58505a42cccca43d",
-   "headline": "Artie Wilson, 90, Negro leagues All-Star shortstop, dies",
+   "headline": "Artie Wilson, 90, Negro Leagues All-Star Shortstop",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Artie_Wilson_1950.jpg/960px-Artie_Wilson_1950.jpg",
     "credit": "Unknown",
@@ -381,7 +386,7 @@
    ],
    "about": "Alex Rodriguez",
    "key": "20c60b9dcf6cdfe9",
-   "headline": "Yankees beat Phillies 8-5, take 2-1 World Series lead",
+   "headline": "Yankees Beat Phillies 8-5, Take 2-1 World Series Lead",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/A-Rod2_adjusted.jpg/960px-A-Rod2_adjusted.jpg",
     "credit": "Keith Allison Inefable001 (talk)",
@@ -395,7 +400,12 @@
     "tier": "person"
    },
    "extract": "Alexander Emmanuel Rodriguez, nicknamed \"A-Rod\", is an American former professional baseball shortstop and third baseman and current businessman. Rodriguez played 22 seasons in Major League Baseball (MLB) for the Seattle Mariners (1994–2000), Texas Rangers (2001–2003), and New York Yankees. Rodriguez is the chairman…",
-   "page": "https://en.wikipedia.org/wiki/Alex_Rodriguez"
+   "page": "https://en.wikipedia.org/wiki/Alex_Rodriguez",
+   "video": {
+    "id": "M6TYwUHf3yw",
+    "title": "WS 2009 Gm 3: A-Rod is awarded a home run on review",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -406,12 +416,12 @@
     "Al Pedrique"
    ],
    "about": "Al Pedrique",
-   "score": 34.87945568200897,
+   "score": 34.863327961330555,
    "abouts": [
     "Al Pedrique"
    ],
    "key": "32c9d0f31d88968f",
-   "headline": "Astros hire Pedrique as bench coach, former third base coach",
+   "headline": "Astros Hire Pedrique as Bench Coach",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Al_Pedrique_coaching_third_base_SWB_Sept_2016.jpg/960px-Al_Pedrique_coaching_third_base_SWB_Sept_2016.jpg",
     "credit": "EricEnfermero",
@@ -436,12 +446,12 @@
     "Jed Hoyer"
    ],
    "about": "Jed Hoyer",
-   "score": 29.866793999431987,
+   "score": 29.82929968403536,
    "abouts": [
     "Jed Hoyer"
    ],
    "key": "91eb8152129911f6",
-   "headline": "Hoyer joins Gang of Four running club after Epstein exits",
+   "headline": "Hoyer Part of Gang of Four Keeping Club Running After Epstein Exit",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jed_Hoyer_2011.jpg/960px-Jed_Hoyer_2011.jpg",
     "credit": "Natasha Baucas",
@@ -471,7 +481,7 @@
    ],
    "about": "Bob Thurman",
    "key": "377a55fecf073a8f",
-   "headline": "Bob Thurman dies at 81; slugging Negro leagues outfielder",
+   "headline": "Bob Thurman, 81, Slugging Outfielder in Negro Leagues",
    "image": null,
    "extract": "Robert Burns Thurman was an American professional baseball pitcher, outfielder and pinch-hitter. He played in the Negro leagues, the Puerto Rican winter league, and for a few years at the end of his career, in Major League Baseball with the Cincinnati Reds. He is a member of the Puerto Rican Baseball Hall of Fame.",
    "page": "https://en.wikipedia.org/wiki/Bob_Thurman"
@@ -494,7 +504,7 @@
    ],
    "about": "Richie Hebner",
    "key": "ea4330d4530aa944",
-   "headline": "Tigers acquire third baseman Richie Hebner from Mets",
+   "headline": "Tigers Acquire Richie Hebner From Mets for Two",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Richie_Hebner.jpg/960px-Richie_Hebner.jpg",
     "credit": "Stephen V. Russell",
@@ -528,7 +538,7 @@
    ],
    "about": "1977 World Series",
    "key": "d3efb3fbfbedf4a2",
-   "headline": "Mike Torrez, 31, granted free agency after two Series wins",
+   "headline": "Mike Torrez, 31, Granted Free Agency After Yankees Title",
    "image": null,
    "extract": "The 1977 World Series was the championship series of Major League Baseball's (MLB) 1977 season. The 74th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion New York Yankees and the National League (NL) champion Los Angeles Dodgers. The Yankees defeated the…",
    "page": "https://en.wikipedia.org/wiki/1977_World_Series"
@@ -547,7 +557,7 @@
    ],
    "about": "Buddy Myer",
    "key": "7d61d6d04e18f8c1",
-   "headline": "Buddy Myer dies at 70; 1935 American League batting champ",
+   "headline": "Buddy Myer, 70, Senators and Red Sox Second Baseman",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Myer%2C_Wash._LCCN2016840564.jpg/960px-Myer%2C_Wash._LCCN2016840564.jpg",
     "credit": "National Photo Company Collection",
@@ -581,7 +591,7 @@
    ],
    "about": "Jerry Reuss",
    "key": "78d76f15a7540208",
-   "headline": "Pirates acquire Jerry Reuss from Astros for Milt May",
+   "headline": "Pirates Acquire Jerry Reuss From Astros for Milt May",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Jerry_Reuss_08-06-09.jpg/960px-Jerry_Reuss_08-06-09.jpg",
     "credit": "Jerry Reuss",
@@ -596,25 +606,6 @@
    },
    "extract": "Jerry Reuss is an American former left-handed pitcher in Major League Baseball, best known for his years with the Los Angeles Dodgers.",
    "page": "https://en.wikipedia.org/wiki/Jerry_Reuss"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "1972",
-   "text": "Vukovich was traded along with Don Money and Bill Champion by the Phillies to the Brewers for Jim Lonborg, Ken Brett, Ken Sanders and Earl Stephenson on October 31, 1972.",
-   "links": [
-    "John Vukovich"
-   ],
-   "about": "John Vukovich",
-   "score": 66.35920803268249,
-   "abouts": [
-    "John Vukovich"
-   ],
-   "key": "7b97e0a7d9322400",
-   "headline": "Phillies trade Vukovich, Money and Champion to Brewers",
-   "image": null,
-   "extract": "John Christopher Vukovich, nicknamed \"Vuk\" or \"Johnny Vuk\", was an American professional baseball utility infielder, manager, and coach in Major League Baseball, best known for his years with the Philadelphia Phillies. He played in parts of ten seasons between 1970 and 1981 for the Phillies, Cincinnati Reds, and…",
-   "page": "https://en.wikipedia.org/wiki/John_Vukovich"
   },
   {
    "src": "yearpage",
@@ -634,10 +625,29 @@
    ],
    "about": "Jim Wilson (pitcher)",
    "key": "8725c8f4d9a28aea",
-   "headline": "Brewers swing seven-player trade with Phillies under Wilson",
+   "headline": "Brewers, Phillies Swing Seven-Player Trade Under Wilson",
    "image": null,
    "extract": "James Alger Wilson was an American professional baseball pitcher, scout and front-office executive. Although he was well-traveled as a player and compiled a career winning percentage of only .491 in 175 decisions, he threw the first no-hit, no-run game in Milwaukee's Major League history and was a three-time (1954–56)…",
    "page": "https://en.wikipedia.org/wiki/Jim_Wilson_(pitcher)"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1972",
+   "text": "Vukovich was traded along with Don Money and Bill Champion by the Phillies to the Brewers for Jim Lonborg, Ken Brett, Ken Sanders and Earl Stephenson on October 31, 1972.",
+   "links": [
+    "John Vukovich"
+   ],
+   "about": "John Vukovich",
+   "score": 50.0,
+   "abouts": [
+    "John Vukovich"
+   ],
+   "key": "7b97e0a7d9322400",
+   "headline": "Brewers Trade Ken Brett, Lonborg to Phillies for Vukovich",
+   "image": null,
+   "extract": "John Christopher Vukovich, nicknamed \"Vuk\" or \"Johnny Vuk\", was an American professional baseball utility infielder, manager, and coach in Major League Baseball, best known for his years with the Philadelphia Phillies. He played in parts of ten seasons between 1970 and 1981 for the Phillies, Cincinnati Reds, and…",
+   "page": "https://en.wikipedia.org/wiki/John_Vukovich"
   },
   {
    "src": "article",
@@ -653,7 +663,7 @@
     "Rick Dempsey"
    ],
    "key": "3e3f93338c29aee3",
-   "headline": "Twins trade Dempsey to Yankees for Danny Walton",
+   "headline": "Dempsey Traded From Twins to Yankees for Danny Walton",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/NY1973H46.jpg",
     "credit": "William F. Henderson",
@@ -687,7 +697,7 @@
    ],
    "about": "Alvin Dark",
    "key": "045519c9da26a3d9",
-   "headline": "Giants acquire Alvin Dark from Braves for Andre Rodgers",
+   "headline": "Giants Acquire Alvin Dark From Braves for Andre Rodgers",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1949_Bowman_Al_Dark.jpg",
     "credit": "Bowman Gum",
@@ -712,12 +722,12 @@
     "Ebbets Field"
    ],
    "about": "Ebbets Field",
-   "score": 31.972783696818283,
+   "score": 31.93721609959467,
    "abouts": [
     "Ebbets Field"
    ],
    "key": "05a469fb281d1933",
-   "headline": "Ebbets Field sold to Marvin Kratter for about $2,000,000",
+   "headline": "O'Malley Sells Ebbets Field to Marvin Kratter for $2 Million",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crowd_at_Ebbets_Field.jpg/960px-Crowd_at_Ebbets_Field.jpg",
     "credit": "Bain News Service, publisher",
@@ -751,7 +761,7 @@
    ],
    "about": "The Sporting News",
    "key": "96bdb13e6a3fe137",
-   "headline": "Sporting News names Dizzy Dean top play-by-play announcer",
+   "headline": "Sporting News Names Dizzy Dean Top Play-by-Play Announcer",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dizzy_Dean_Time.jpg",
     "credit": "Cover credit: Acme (Acme Newspictures, Inc.)Time magazine",
@@ -785,7 +795,7 @@
    ],
    "about": "Ed Walsh Jr.",
    "key": "af5c94f6d70994a2",
-   "headline": "Ed Walsh Jr. dies at 32; pitcher and son of Big Ed Walsh",
+   "headline": "Ed Walsh Jr., 32, Pitcher and Son of Hall of Famer",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ed_Walsh_and_Ed_Walsh_Jr._1928.jpg",
     "credit": "Unknown",
@@ -817,10 +827,10 @@
    ],
    "about": "Burleigh Grimes",
    "key": "0ed86bd70295a291",
-   "headline": "Cardinals release Burleigh Grimes, last legal spitball pitcher",
+   "headline": "Cardinals Release Burleigh Grimes, Last Legal Spitballer",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burleigh_Grimes.jpg/960px-Burleigh_Grimes.jpg",
-    "credit": "Unknown authorUnknown author",
+    "credit": "Unknown author",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Burleigh_Grimes.jpg",
     "alt": "Black-and-white portrait of a baseball player in a cap and Pirates-style jersey with a P",
