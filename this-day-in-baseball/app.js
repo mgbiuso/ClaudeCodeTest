@@ -382,6 +382,24 @@ function wireBox(data) {
     m.setAttribute("aria-label", "Hall of Famer");
     return m;
   };
+  if (data.feats && data.feats.items && data.feats.items.length) {
+    const c = el("div", "wire-col");
+    c.append(el("h3", "mini-head", "Feats and milestones"));
+    const bits = [];
+    if (data.feats.cycles) bits.push(`${data.feats.cycles} cycle${data.feats.cycles === 1 ? "" : "s"}`);
+    if (data.feats.milestones) bits.push(`${data.feats.milestones} milestone${data.feats.milestones === 1 ? "" : "s"}`);
+    if (bits.length) c.append(el("p", "wire-sum", `On record for this date: ${bits.join(" and ")}.`));
+    const ul = el("ul", "wire-list");
+    for (const it of data.feats.items) {
+      const li = el("li");
+      li.append(el("span", "yr", String(it.year)), it.text);
+      const s = star(it);
+      if (s) li.append(" ", s);
+      ul.append(li);
+    }
+    c.append(ul);
+    cols.push(c);
+  }
   if (data.wire && data.wire.count) {
     const c = el("div", "wire-col");
     c.append(el("h3", "mini-head", "The transaction wire"));

@@ -27,6 +27,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from retro_people import load_context, people_for, transactions_for, ejections_for, calendar_counts  # noqa: E402
+from retro_feats import load_feats, feats_for  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / ".cache" / "retrosheet"
@@ -322,7 +323,7 @@ def team_records(games, teams):
     return {"best": rows[:3], "worst": rows[-3:][::-1]}
 
 
-def build_day(month, day, rows, teams, parks, ctx):
+def build_day(month, day, rows, teams, parks, ctx, feats):
     gs = [Game(r, lab, teams) for r, lab in rows]
     nh = no_hitters(gs)
     numbers = build_numbers(gs, parks, nh)
@@ -335,6 +336,7 @@ def build_day(month, day, rows, teams, parks, ctx):
     rec["wire"] = transactions_for(month, day, ctx, teams, team_name)
     rec["people"] = people_for(month, day, ctx)
     rec["ejections"] = ejections_for(month, day, ctx)
+    rec["feats"] = feats_for(month, day, feats)
     return rec
 
 
@@ -366,13 +368,14 @@ def main():
     else:
         dates = sorted((int(p.stem[:2]), int(p.stem[3:])) for p in (ROOT / "data" / "days").glob("*.json"))
     teams, parks, ctx = load_teams(), load_parks(), load_context()
+    feats = load_feats(ctx, teams, team_name)
     games = collect([f"{m:02d}{d:02d}" for m, d in dates])
     OUT.mkdir(parents=True, exist_ok=True)
     for month, day in dates:
-        rec = build_day(month, day, games.get(f"{month:02d}{day:02d}", []), teams, parks, ctx)
+        rec = build_day(month, day, games.get(f"{month:02d}{day:02d}", []), teams, parks, ctx, feats)
         (OUT / f"{month:02d}-{day:02d}.json").write_text(json.dumps(rec, ensure_ascii=False, indent=1))
         print(f"{MONTHS[month - 1]} {day}: {rec['games']:,} games, {len(rec['items'])} stats, {len(rec['nohitters'])} no-hitters, "
-              f"wire {rec['wire'].get('count', 0):,}, debuts {len(rec['people'].get('debuts', []))}, ejections {rec['ejections'].get('count', 0)}")
+              f"wire {rec['wire'].get('count', 0):,}, debuts {len(rec['people'].get('debuts', []))}, ejections {rec['ejections'].get('count', 0)}, feats {rec['feats'].get('count', 0)}")
     if a.calendar:
         cal = calendar_counts(ctx, collect_counts())
         cal["built"] = sorted(p.stem.replace("-", "") for p in (ROOT / "data" / "days").glob("*.json"))

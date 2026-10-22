@@ -18,11 +18,31 @@ BASE = "https://www.retrosheet.org/"
 FILES = ["gamelogs/gl1871_2025.zip", "gamelogs/glws.zip", "gamelogs/gldv.zip", "gamelogs/gllc.zip",
          "gamelogs/glwc.zip", "gamelogs/glas.zip", "TEAMABR.TXT",
          "downloads/biodata.zip", "ejections.zip", "transactions/tranDB.zip"]
+# Retrosheet's own lists of feats and milestones (small web pages), saved in .cache/retrosheet/lists/.
+LISTS = ["cycles.htm", "TriplePlays.htm", "hr4cons.htm", "forfeits.htm", "Hidden%20Ball%20Tricks.htm", "miles-h.htm", "miles-hr.htm",
+         "miles-sb.htm", "miles-w.htm", "miles-k.htm", "miles-sv.htm"]
 UA = "ThisDayInBaseball/1.0 (personal history site; retrosheet game logs)"
+
+
+def fetch(rel, out):
+    req = urllib.request.Request(BASE + rel, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        data = r.read()
+    out.write_bytes(data)
+    return data
 
 
 def main():
     DEST.mkdir(parents=True, exist_ok=True)
+    (DEST / "lists").mkdir(exist_ok=True)
+    for rel in LISTS:
+        out = DEST / "lists" / rel.replace("%20", "_")
+        if out.exists() and out.stat().st_size > 0:
+            print(f"have lists/{out.name}")
+            continue
+        data = fetch(rel, out)
+        print(f"got lists/{out.name} ({len(data):,} bytes)")
+        time.sleep(2)
     for rel in FILES:
         out = DEST / Path(rel).name
         if out.exists() and out.stat().st_size > 0:

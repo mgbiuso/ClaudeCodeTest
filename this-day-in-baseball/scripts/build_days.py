@@ -570,12 +570,12 @@ def add_photos(stories):
 def day_record(month, day, stories):
     """One day file: the stories plus everything Retrosheet adds for this date (data/retro/MM-DD.json, made by retro_facts.py):
     "numbers" (stat strip, record book, game of the day, charts, team records), "wire" (transactions), "people" (debuts and
-    farewells) and "ejections"."""
+    farewells), "ejections" and "feats" (milestones, cycles and oddities)."""
     rec = {"month": month, "day": day, "stories": stories}
     facts = load_json_file(f"retro/{month:02d}-{day:02d}.json")
     if facts.get("items"):
         rec["numbers"] = {k: facts[k] for k in ("games", "items", "records", "nohitters", "gotd", "eras", "thenNow", "teams") if facts.get(k)}
-    for k in ("wire", "people", "ejections"):
+    for k in ("wire", "people", "ejections", "feats"):
         if facts.get(k) and (facts[k].get("count") or facts[k].get("debuts") or facts[k].get("farewells")):
             rec[k] = facts[k]
     return rec

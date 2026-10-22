@@ -1747,5 +1747,48 @@
     "star": true
    }
   ]
+ },
+ "feats": {
+  "count": 6,
+  "items": [
+   {
+    "year": 2012,
+    "text": "David Ortiz gets his 400th career home run",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 2006,
+    "text": "Billy Wagner gets his 300th career save",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1985,
+    "text": "Keith Hernandez hits for the cycle for the Mets (Atlanta-Fulton County Stadium)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1984,
+    "text": "Phil Niekro gets his 3,000th career strikeout",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1980,
+    "text": "Nolan Ryan gets his 3,000th career strikeout",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1883,
+    "text": "Forfeit: Providence at Philadelphia",
+    "star": false,
+    "kind": "forfeit"
+   }
+  ],
+  "cycles": 1,
+  "milestones": 4
  }
 }
