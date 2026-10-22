@@ -6,7 +6,7 @@
   {
    "label": "Games played on this date",
    "value": "14",
-   "note": "since 1871"
+   "note": "1871 to 2024"
   },
   {
    "label": "Most runs in a game",
@@ -61,6 +61,7 @@
    "note": "most games: NYC01 (3); WOR03 (1); BOS01 (1)"
   }
  ],
+ "through": 2024,
  "nohitters": [],
  "gotd": {
   "year": 2024,
@@ -214,6 +215,10 @@
     "value": "2011",
     "note": "146 transactions"
    }
+  ],
+  "years": [
+   1884,
+   2021
   ]
  },
  "people": {

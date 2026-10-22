@@ -187,17 +187,18 @@
     "Geoff Blum"
    ],
    "key": "4f5e95f0b438e10a",
-   "headline": "Blum Signed a Two-Year Contract Worth $2",
+   "headline": "Blum Signs Two-Year Contract Worth $2",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Geoff_Blum.jpg/960px-Geoff_Blum.jpg",
     "credit": "William Holtkamp on Flickr (Original version) User UCinternational",
     "license": "CC BY 2.0",
     "page": "https://commons.wikimedia.org/wiki/File:Geoff_Blum.jpg",
-    "alt": "American baseball player and analyst (born 1973)",
-    "source": "wikipedia",
+    "alt": "Pinstriped MLB player, back view, jersey 'BLUM' number 27, glove",
+    "source": "checked",
     "of": "Geoff Blum",
     "w": 1150,
-    "h": 1600
+    "h": 1600,
+    "tier": "person"
    },
    "extract": "Geoffrey Edward Blum is an American former professional baseball infielder in Major League Baseball who played for the Montreal Expos, Houston Astros, Tampa Bay Devil Rays, San Diego Padres, Chicago White Sox and Arizona Diamondbacks. He is currently the TV color analyst for the Houston Astros.",
    "page": "https://en.wikipedia.org/wiki/Geoff_Blum"
@@ -663,6 +664,10 @@
     "value": "2004",
     "note": "17 transactions"
    }
+  ],
+  "years": [
+   1884,
+   2021
   ]
  }
 }

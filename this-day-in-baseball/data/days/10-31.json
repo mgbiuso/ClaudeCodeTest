@@ -850,7 +850,7 @@
    {
     "label": "Games played on this date",
     "value": "9",
-    "note": "since 1872"
+    "note": "1872 to 2025"
    },
    {
     "label": "Most runs in a game",
@@ -905,6 +905,7 @@
     "note": "most games: NYC02 (1); Yankee Stadium I (1); Citizens Bank Park (1)"
    }
   ],
+  "through": 2025,
   "gotd": {
    "year": 2001,
    "visitor": "Diamondbacks",
@@ -1059,6 +1060,10 @@
     "value": "2019",
     "note": "158 transactions"
    }
+  ],
+  "years": [
+   1933,
+   2020
   ]
  },
  "people": {

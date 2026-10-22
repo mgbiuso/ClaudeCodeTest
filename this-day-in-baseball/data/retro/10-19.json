@@ -1,12 +1,12 @@
 {
  "month": 10,
  "day": 19,
- "games": 46,
+ "games": 47,
  "items": [
   {
    "label": "Games played on this date",
-   "value": "46",
-   "note": "since 1874"
+   "value": "47",
+   "note": "1874 to 2026"
   },
   {
    "label": "Most runs in a game",
@@ -62,20 +62,21 @@
   },
   {
    "label": "Home team won",
-   "value": "47%",
-   "note": "of 45 decided games"
+   "value": "48%",
+   "note": "of 46 decided games"
   },
   {
    "label": "Postseason games",
-   "value": "41",
-   "note": "League Championship Series 27, World Series 14"
+   "value": "42",
+   "note": "League Championship Series 27, World Series 14, American League Championship Series 1"
   },
   {
    "label": "Ballparks that hosted games",
-   "value": "30",
+   "value": "31",
    "note": "most games: Oakland-Alameda County Coliseum (3); Yankee Stadium I (3); Rogers Centre (3)"
   }
  ],
+ "through": 2026,
  "nohitters": [],
  "gotd": {
   "year": 1972,
@@ -160,9 +161,9 @@
   },
   {
    "decade": 2020,
-   "games": 8,
-   "rpg": 9.0,
-   "crowd": 42732
+   "games": 9,
+   "rpg": 9.11,
+   "crowd": 42454
   }
  ],
  "thenNow": {
@@ -177,14 +178,14 @@
    "event": ""
   },
   "latest": {
-   "year": 2025,
-   "visitor": "Mariners",
-   "home": "Blue Jays",
-   "vs": 2,
-   "hs": 6,
-   "crowd": 44764,
-   "park": "Rogers Centre",
-   "event": "League Championship Series"
+   "year": 2026,
+   "visitor": "Guardians",
+   "home": "Rays",
+   "vs": 3,
+   "hs": 7,
+   "crowd": 40230,
+   "park": "Tropicana Field",
+   "event": "American League Championship Series"
   }
  },
  "teams": null,
@@ -253,6 +254,10 @@
     "value": "1901",
     "note": "7 transactions"
    }
+  ],
+  "years": [
+   1901,
+   2021
   ]
  },
  "people": {
@@ -322,10 +327,15 @@
     "text": "Troy Tulowitzki (player) ejected by John Hirschbeck: called third strike",
     "star": false
    }
+  ],
+  "years": [
+   2015,
+   2015
   ]
  },
  "feats": {
   "count": 0,
   "items": []
- }
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
 }

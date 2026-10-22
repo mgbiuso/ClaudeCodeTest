@@ -902,7 +902,7 @@
    {
     "label": "Games played on this date",
     "value": "23",
-    "note": "since 1874"
+    "note": "1874 to 2025"
    },
    {
     "label": "Most runs in a game",
@@ -962,6 +962,7 @@
     "note": "most games: Yankee Stadium II (2); Busch Stadium III (2); Kauffman Stadium (2)"
    }
   ],
+  "through": 2025,
   "gotd": {
    "year": 2022,
    "visitor": "Phillies",
@@ -1128,6 +1129,10 @@
     "value": "2020",
     "note": "159 transactions"
    }
+  ],
+  "years": [
+   1891,
+   2020
   ]
  },
  "people": {

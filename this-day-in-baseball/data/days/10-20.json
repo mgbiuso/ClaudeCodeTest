@@ -636,7 +636,7 @@
    {
     "label": "Games played on this date",
     "value": "42",
-    "note": "since 1874"
+    "note": "1874 to 2025"
    },
    {
     "label": "Most runs in a game",
@@ -706,6 +706,7 @@
     "note": "most games: Oakland-Alameda County Coliseum (4); Yankee Stadium I (4); Busch Stadium II (3)"
    }
   ],
+  "through": 2025,
   "gotd": {
    "year": 1992,
    "visitor": "Braves",
@@ -815,7 +816,8 @@
     "park": "Rogers Centre",
     "event": "League Championship Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 170,
@@ -882,6 +884,10 @@
     "value": "1983",
     "note": "21 transactions"
    }
+  ],
+  "years": [
+   1886,
+   2021
   ]
  },
  "people": {
@@ -1001,6 +1007,10 @@
     "text": "Frank Chance (manager) ejected by Tommy Connolly: home run call",
     "star": true
    }
+  ],
+  "years": [
+   1910,
+   2023
   ]
  }
 }

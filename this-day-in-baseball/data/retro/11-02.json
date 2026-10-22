@@ -6,7 +6,7 @@
   {
    "label": "Games played on this date",
    "value": "4",
-   "note": "since 2009"
+   "note": "2009 to 2022"
   },
   {
    "label": "Most runs in a game",
@@ -61,6 +61,7 @@
    "note": "most games: Citizens Bank Park (2); Progressive Field (1); Minute Maid Park (1)"
   }
  ],
+ "through": 2022,
  "nohitters": [
   {
    "year": 2022,
@@ -218,6 +219,10 @@
     "value": "2018",
     "note": "292 transactions"
    }
+  ],
+  "years": [
+   1932,
+   2021
   ]
  },
  "people": {

@@ -972,7 +972,7 @@
    {
     "label": "Games played on this date",
     "value": "26",
-    "note": "since 1874"
+    "note": "1874 to 2025"
    },
    {
     "label": "Most runs in a game",
@@ -1042,6 +1042,7 @@
     "note": "most games: Busch Stadium III (3); HRT01 (2); Kauffman Stadium (2)"
    }
   ],
+  "through": 2025,
   "gotd": {
    "year": 2025,
    "visitor": "Blue Jays",
@@ -1224,6 +1225,10 @@
     "value": "2003",
     "note": "66 transactions"
    }
+  ],
+  "years": [
+   1909,
+   2021
   ]
  },
  "people": {
@@ -1304,6 +1309,10 @@
     "text": "Joaquin Andujar (player) ejected by Don Denkinger: balls and strikes",
     "star": false
    }
+  ],
+  "years": [
+   1985,
+   1985
   ]
  }
 }

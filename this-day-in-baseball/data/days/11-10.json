@@ -194,18 +194,8 @@
     "Rochester Red Wings"
    ],
    "key": "94caab9c3ef71834",
-   "headline": "Twins Management Disclosed to the Red Wings That They Would Be",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/1988_Pucko-Liberatore_Rochester_Red_Wings.jpg",
-    "credit": "Pucko/Liberatore",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:1988_Pucko-Liberatore_Rochester_Red_Wings.jpg",
-    "alt": "Rochester Red Wings",
-    "source": "commons",
-    "of": "Rochester Red Wings",
-    "w": 705,
-    "h": 1000
-   },
+   "headline": "Twins End Red Wings Partnership in Minor League Overhaul",
+   "image": null,
    "extract": "The Rochester Red Wings are a Minor League Baseball team of the International League and the Triple-A affiliate of the Washington Nationals. They are located in Rochester, New York, and play their home games at ESL Ballpark, located in downtown Rochester. Founded in 1899, they are the oldest continuously operating…",
    "page": "https://en.wikipedia.org/wiki/Rochester_Red_Wings"
   },
@@ -1112,6 +1102,10 @@
     "value": "1982",
     "note": "41 transactions"
    }
+  ],
+  "years": [
+   1891,
+   2021
   ]
  },
  "people": {

@@ -1,0 +1,426 @@
+{
+ "month": 10,
+ "day": 12,
+ "games": 133,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "133",
+   "note": "1872 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "20",
+   "note": "Dark Blues 18, Athletics 2 (1875)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "16 runs",
+   "note": "Dark Blues 18, Athletics 2 (1875)"
+  },
+  {
+   "label": "Longest game",
+   "value": "12 innings",
+   "note": "Athletics at Braves (1914)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "6",
+   "note": "latest: Cardinals 5, Giants 4 (2014)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "65,633",
+   "note": "Cardinals at Yankees (1964)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "6",
+   "note": "Cubs (2015); Cubs 8, Cardinals 6"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "28",
+   "note": "Royals 9, Astros 6 (2015)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "5",
+   "note": "Senators (1898)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "10",
+   "note": "Athletics 10, Cubs 8 (1929)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "67 and 277 min",
+   "note": "1911 and 2017"
+  },
+  {
+   "label": "Home team won",
+   "value": "52%",
+   "note": "of 131 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "89",
+   "note": "League Championship Series 43, World Series 26, Division Series 18"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "76",
+   "note": "most games: Fenway Park (6); Busch Stadium II (6); Washington Park III (5)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [],
+ "gotd": {
+  "year": 1914,
+  "visitor": "Athletics",
+  "home": "Braves",
+  "inn": 12,
+  "vline": [
+   "1",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "1",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "1"
+  ],
+  "vr": 4,
+  "hr": 5,
+  "vh": 8,
+  "hh": 9,
+  "ve": 2,
+  "he": 1,
+  "crowd": 35520,
+  "park": "Fenway Park",
+  "event": "World Series",
+  "why": "World Series, 12 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 4,
+   "rpg": 13.5,
+   "crowd": 633
+  },
+  {
+   "decade": 1880,
+   "games": 11,
+   "rpg": 10.45,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 20,
+   "rpg": 8.7,
+   "crowd": 1279
+  },
+  {
+   "decade": 1900,
+   "games": 8,
+   "rpg": 8.25,
+   "crowd": 8868
+  },
+  {
+   "decade": 1910,
+   "games": 10,
+   "rpg": 6.7,
+   "crowd": 21802
+  },
+  {
+   "decade": 1920,
+   "games": 5,
+   "rpg": 6.8,
+   "crowd": 38456
+  },
+  {
+   "decade": 1960,
+   "games": 4,
+   "rpg": 7.75,
+   "crowd": 47563
+  },
+  {
+   "decade": 1970,
+   "games": 8,
+   "rpg": 7.38,
+   "crowd": 51406
+  },
+  {
+   "decade": 1980,
+   "games": 10,
+   "rpg": 8.4,
+   "crowd": 51985
+  },
+  {
+   "decade": 1990,
+   "games": 11,
+   "rpg": 9.0,
+   "crowd": 50451
+  },
+  {
+   "decade": 2000,
+   "games": 14,
+   "rpg": 8.14,
+   "crowd": 49605
+  },
+  {
+   "decade": 2010,
+   "games": 16,
+   "rpg": 9.62,
+   "crowd": 44128
+  },
+  {
+   "decade": 2020,
+   "games": 12,
+   "rpg": 7.58,
+   "crowd": 40195
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1872,
+   "visitor": "Braves",
+   "home": "Lord Baltimores",
+   "vs": 9,
+   "hs": 8,
+   "crowd": 600,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "Dodgers",
+   "home": "Brewers",
+   "vs": 4,
+   "hs": 7,
+   "crowd": 42516,
+   "park": "American Family Field",
+   "event": "National League Championship Series"
+  }
+ },
+ "teams": null,
+ "wire": {
+  "count": 163,
+  "items": [
+   {
+    "year": 1998,
+    "text": "Mariners trade Scott Prouty to the Dodgers for Eric Weaver",
+    "star": false
+   },
+   {
+    "year": 1970,
+    "text": "Astros trade Hector Torres to the Cubs for Roger Metzger",
+    "star": false
+   },
+   {
+    "year": 1966,
+    "text": "Mets trade Lou Klimchock and Ernie Bowman to the Indians for Floyd Weaver",
+    "star": false
+   },
+   {
+    "year": 1965,
+    "text": "Senators trade Woodie Held to the Orioles for John Orsino",
+    "star": false
+   },
+   {
+    "year": 1962,
+    "text": "Colts buy Dick Williams from the Orioles",
+    "star": true
+   },
+   {
+    "year": 1946,
+    "text": "Indians trade cash to the Yankees for Eddie Bockman",
+    "star": false
+   },
+   {
+    "year": 1933,
+    "text": "Indians trade Bill Cissell to the Red Sox for Lloyd Brown",
+    "star": false
+   },
+   {
+    "year": 1912,
+    "text": "Cubs release Mordecai Brown",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "87",
+    "note": "most in 2005 (10)"
+   },
+   {
+    "label": "Trades made",
+    "value": "21",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "11",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2007",
+    "note": "11 transactions"
+   }
+  ],
+  "years": [
+   1895,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1947,
+    "name": "Bill Avery",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1934,
+    "name": "Horn",
+    "star": false,
+    "seasons": 9
+   },
+   {
+    "year": 1934,
+    "name": "Andy Yurchak",
+    "star": false,
+    "seasons": 4
+   },
+   {
+    "year": 1934,
+    "name": "James Bray",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1898,
+    "name": "Mike Heydon",
+    "star": false,
+    "seasons": 10
+   },
+   {
+    "year": 1898,
+    "name": "Joe Rickert",
+    "star": false,
+    "seasons": 4
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2017,
+    "name": "Jayson Werth",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 2002,
+    "name": "Chuck Finley",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 1987,
+    "name": "Johnny Grubb",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1985,
+    "name": "Jay Johnstone",
+    "star": false,
+    "seasons": 20
+   },
+   {
+    "year": 1929,
+    "name": "George Burns",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1911,
+    "name": "Bill Dahlen",
+    "star": false,
+    "seasons": 21
+   }
+  ],
+  "debutCount": 12,
+  "farewellCount": 52,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1947,
+    "name": "Ewell Blackwell",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 3,
+  "managers": 0,
+  "items": [
+   {
+    "year": 1992,
+    "text": "Gene Tenace (coach) ejected by Drew Coble: check swing",
+    "star": false
+   },
+   {
+    "year": 1972,
+    "text": "Frank Howard (player) ejected by John Rice: call at 1b",
+    "star": false
+   },
+   {
+    "year": 1909,
+    "text": "Bill Donovan (player) ejected by Bill Klem: bench jockeying",
+    "star": false
+   }
+  ],
+  "years": [
+   1909,
+   1992
+  ]
+ },
+ "feats": {
+  "count": 1,
+  "items": [
+   {
+    "year": 1892,
+    "text": "Forfeit: Cleveland at Pittsburgh",
+    "star": false,
+    "kind": "forfeit"
+   }
+  ],
+  "cycles": 0,
+  "milestones": 0
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

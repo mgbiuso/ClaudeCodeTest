@@ -512,7 +512,7 @@
    {
     "label": "Games played on this date",
     "value": "1",
-    "note": "since 2022"
+    "note": "2022 to 2022"
    },
    {
     "label": "Most runs in a game",
@@ -552,6 +552,7 @@
     "note": "most games: Minute Maid Park (1)"
    }
   ],
+  "through": 2022,
   "gotd": {
    "year": 2022,
    "visitor": "Phillies",
@@ -656,6 +657,10 @@
     "value": "2013",
     "note": "279 transactions"
    }
+  ],
+  "years": [
+   1887,
+   2021
   ]
  },
  "people": {

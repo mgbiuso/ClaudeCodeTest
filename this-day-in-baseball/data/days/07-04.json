@@ -40,12 +40,31 @@
   {
    "src": "yearpage",
    "kind": "death",
+   "year": "2026",
+   "text": "Al Holland, 73, pitcher from 1977–87 for the Pirates, Giants, Phillies, Angels and Yankees.",
+   "links": [
+    "Al Holland"
+   ],
+   "score": 20.6515,
+   "abouts": [
+    "Al Holland"
+   ],
+   "about": "Al Holland",
+   "key": "fe9b2a56bcadebf1",
+   "headline": "Al Holland, 73, Pitcher for Pirates, Giants, Phillies, Angels, Yankees",
+   "image": null,
+   "extract": "Alfred Willis Holland was an American professional baseball relief pitcher, who played Major League Baseball (MLB) for the Pittsburgh Pirates, San Francisco Giants, Philadelphia Phillies, California Angels, and New York Yankees, from 1977 to 1987.",
+   "page": "https://en.wikipedia.org/wiki/Al_Holland"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
    "year": "2025",
    "text": "Bobby Jenks, 44, pitcher from 2005–11 for the White Sox and Red Sox and later a minor league coach.",
    "links": [
     "Bobby Jenks"
    ],
-   "score": 25.5205,
+   "score": 25.462,
    "abouts": [
     "Bobby Jenks"
    ],
@@ -70,47 +89,13 @@
   {
    "src": "yearpage",
    "kind": "death",
-   "year": "2017",
-   "text": "Gene Conley, 86, three-time All-Star pitcher and the first Minor League player to earn two MVP Awards honors, who also is the only athlete to own dual-sport championships in MLB and the NBA, while pitching for the World Series champion Milwaukee Braves in 1957, and as a forward for the Boston Celtics in three championships from 1959 to 1961.",
-   "links": [
-    "Gene Conley",
-    "Major League Baseball",
-    "National Basketball Association"
-   ],
-   "score": 21.192,
-   "abouts": [
-    "Gene Conley",
-    "National Basketball Association",
-    "Major League Baseball"
-   ],
-   "about": "Gene Conley",
-   "key": "f6010df7989b1e29",
-   "headline": "Gene Conley, 86, Three-Time All-Star Pitcher, Celtics Forward",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/1951_Gene_Conley_Hartford_Chiefs.jpg/960px-1951_Gene_Conley_Hartford_Chiefs.jpg",
-    "credit": "WUlbrich18",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:1951_Gene_Conley_Hartford_Chiefs.jpg",
-    "alt": "Pitcher in Hartford-style uniform on a ballfield, glove on hand, stadium behind",
-    "source": "checked",
-    "of": "Gene Conley (Commons search)",
-    "w": 1311,
-    "h": 1608,
-    "tier": "person"
-   },
-   "extract": "Donald Eugene Conley was an American professional baseball and basketball player. He pitched for four teams in Major League Baseball (MLB) from 1952 to 1963. Conley also played as a forward in the 1952–53 season and from 1958 to 1964 for two teams in the National Basketball Association (NBA). He is the second person,…",
-   "page": "https://en.wikipedia.org/wiki/Gene_Conley"
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
    "year": "2014",
    "text": "Earl Robinson, 77, backup outfielder and third baseman for the Los Angeles Dodgers and Baltimore Orioles in part of four seasons from 1958 to 1964, as well as a member of the Cal Athletic Hall of Fame who starred in both basketball and baseball for the California Golden Bears in the 1950s.",
    "links": [
     "Earl Robinson (baseball)",
     "California Golden Bears"
    ],
-   "score": 20.055,
+   "score": 20.0,
    "abouts": [
     "Earl Robinson (baseball)",
     "California Golden Bears"
@@ -165,7 +150,7 @@
     "Adam Dunn",
     "Tommy Hanson"
    ],
-   "score": 50.11152311467534,
+   "score": 50.04789180397271,
    "abouts": [
     "Adam Dunn",
     "Tommy Hanson"
@@ -196,7 +181,7 @@
    "links": [
     "Jake Westbrook"
    ],
-   "score": 25.318542796957086,
+   "score": 25.295923088156854,
    "abouts": [
     "Jake Westbrook"
    ],
@@ -228,7 +213,7 @@
     "AL East",
     "Detroit Tigers"
    ],
-   "score": 115.31422556638525,
+   "score": 115.35480457900468,
    "abouts": [
     "AL East",
     "pennant (sports)",
@@ -251,7 +236,7 @@
     "Philadelphia Phillies",
     "San Francisco Giants"
    ],
-   "score": 31.5938632991274,
+   "score": 31.55982830184183,
    "abouts": [
     "Steve Carlton",
     "Philadelphia Phillies",
@@ -285,7 +270,7 @@
     "New York Mets",
     "Atlanta Braves"
    ],
-   "score": 57.1334832798908,
+   "score": 57.164302079760716,
    "abouts": [
     "Atlanta–Fulton County Stadium",
     "New York Mets",
@@ -319,7 +304,7 @@
     "Steve Howe (baseball)",
     "Major League Baseball Rookie of the Year Award"
    ],
-   "score": 30.22720169907387,
+   "score": 30.10429140959158,
    "abouts": [
     "Major League Baseball Rookie of the Year Award",
     "Steve Howe (baseball)",
@@ -342,7 +327,7 @@
     "Kansas City Royals",
     "California Angels"
    ],
-   "score": 29.809951437200326,
+   "score": 29.808766070933913,
    "abouts": [
     "AL West",
     "Kansas City Royals",
@@ -368,36 +353,6 @@
   },
   {
    "src": "yearpage",
-   "kind": "death",
-   "year": "1980",
-   "text": "Jack Martin, 93, shortstop who played from 1912 to 1914 for the Highlanders, Boston Braves and Philadelphia Phillies.",
-   "links": [
-    "Jack Martin (baseball)"
-   ],
-   "score": 20.0725,
-   "abouts": [
-    "Jack Martin (baseball)"
-   ],
-   "about": "Jack Martin (baseball)",
-   "key": "db432d226888aa14",
-   "headline": "Jack Martin, 93, Shortstop for Highlanders, Braves, Phillies",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/John_C._%22Jack%22_Martin%2C_Boston_NL_%28baseball%29_LCCN2014697620.jpg/960px-John_C._%22Jack%22_Martin%2C_Boston_NL_%28baseball%29_LCCN2014697620.jpg",
-    "credit": "Bain News Service, publisher",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:John_C._%22Jack%22_Martin,_Boston_NL_(baseball)_LCCN2014697620.jpg",
-    "alt": "Black-and-white portrait of a smiling man in a baseball uniform, labeled MARTIN",
-    "source": "checked",
-    "of": "Jack Martin (baseball) (Commons search)",
-    "w": 5760,
-    "h": 4154,
-    "tier": "person"
-   },
-   "extract": "John Christopher Martin was an American weak-hitting, slick-fielding infielder in Major League Baseball, playing mainly at shortstop for three different teams between the 1912 and 1914 seasons. Listed at 5 ft 9 in (1.75 m), 159 lb., he batted and threw right-handed.",
-   "page": "https://en.wikipedia.org/wiki/Jack_Martin_(baseball)"
-  },
-  {
-   "src": "yearpage",
    "kind": "event",
    "year": "1978",
    "text": "At the unofficial halfway milestone of the regular season, there are tight races in three of MLB's four divisions. The San Francisco Giants lead their traditional enemies, the Los Angeles Dodgers (46–34), by two games in the National League West, with the Cincinnati Reds (46–35) only 2½ back.",
@@ -406,7 +361,7 @@
     "Los Angeles Dodgers",
     "National League West"
    ],
-   "score": 20.0,
+   "score": 40.24434447869965,
    "abouts": [
     "National League West",
     "San Francisco Giants",
@@ -429,7 +384,7 @@
     "pennant (sports)",
     "American League West"
    ],
-   "score": 64.80995143720033,
+   "score": 64.80876607093391,
    "abouts": [
     "American League West",
     "U.S. Bicentennial",
@@ -450,7 +405,7 @@
    "links": [
     "Del Webb"
    ],
-   "score": 22.9795,
+   "score": 22.926000000000002,
    "abouts": [
     "Del Webb"
    ],
@@ -654,7 +609,7 @@
     "Cincinnati Redlegs",
     "St. Louis Cardinals"
    ],
-   "score": 43.942786115044115,
+   "score": 43.944658028462484,
    "abouts": [
     "Cincinnati Redlegs",
     "National League (baseball)",
@@ -700,7 +655,7 @@
     "Philadelphia Athletics",
     "Fenway Park"
    ],
-   "score": 33.28149741964728,
+   "score": 10.0,
    "abouts": [
     "Fenway Park",
     "Boston Red Sox",
@@ -723,25 +678,6 @@
    },
    "extract": "Fenway Park is a ballpark in Boston, Massachusetts, United States, close to Kenmore Square. Since 1912, it has been the home field of Major League Baseball's (MLB) Boston Red Sox. While the stadium was built in 1912, it was substantially rebuilt in 1934, and underwent major renovations and modifications in the 21st…",
    "page": "https://en.wikipedia.org/wiki/Fenway_Park"
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
-   "year": "1947",
-   "text": "Jeff Sweeney, 58, catcher for the New York Highlanders/Yankees in the early 1900s, who in 1914 stole 19 bases, the most ever by a Yankee catcher in a single season.",
-   "links": [
-    "Jeff Sweeney"
-   ],
-   "score": 20.106,
-   "abouts": [
-    "Jeff Sweeney"
-   ],
-   "about": "Jeff Sweeney",
-   "key": "31949e165ccc019f",
-   "headline": "Jeff Sweeney, 58, Highlanders and Yankees Catcher, Stole 19 Bases",
-   "image": null,
-   "extract": "Edward Francis Sweeney, often referred to as \"Big Ed Sweeney\", was an American professional baseball catcher. He played in Major League Baseball for the New York Highlanders / Yankees of the American League from 1908 to 1915 and the Pittsburgh Pirates of the National League in 1919.",
-   "page": "https://en.wikipedia.org/wiki/Ed_Sweeney_(baseball)"
   },
   {
    "src": "yearpage",
@@ -845,7 +781,7 @@
     "New York Yankees",
     "Washington Senators (1901–1960)"
    ],
-   "score": 28.567452715469713,
+   "score": 28.545077084860587,
    "abouts": [
     "Doubleheader (baseball)",
     "New York Yankees",
@@ -883,7 +819,7 @@
     "George Mullin (baseball)",
     "Detroit Tigers"
    ],
-   "score": 63.56745271546971,
+   "score": 63.54507708486059,
    "abouts": [
     "Doubleheader (baseball)",
     "George Mullin (baseball)",
@@ -917,13 +853,13 @@
     "New York Giants (baseball)",
     "Hooks Wiltse"
    ],
-   "score": 97.23579015671109,
+   "score": 85.0,
    "abouts": [
-    "Hooks Wiltse",
     "Perfect game (baseball)",
+    "Hooks Wiltse",
     "New York Giants (baseball)"
    ],
-   "about": "Hooks Wiltse",
+   "about": "Perfect game (baseball)",
    "key": "ef242a609c067342",
    "headline": "Wiltse No-Hits Phillies in 1-0 Win Over 10 Innings",
    "image": {
@@ -938,8 +874,8 @@
     "h": 1377,
     "tier": "person"
    },
-   "extract": "George Leroy \"Hooks\" Wiltse was an American professional baseball pitcher. He played 12 seasons in Major League Baseball (MLB) from 1904 to 1915. He was the younger brother of pitcher Snake Wiltse.",
-   "page": "https://en.wikipedia.org/wiki/Hooks_Wiltse"
+   "extract": "In baseball, a perfect game is a game in which one or more pitchers complete a minimum of nine innings with no batter from the opposing team reaching base safely. To achieve a perfect game, a team must not allow any opposing player to reach base by any means: no hits, walks, hit batsmen, catcher's interference,…",
+   "page": "https://en.wikipedia.org/wiki/Perfect_game_(baseball)"
   },
   {
    "src": "yearpage",
@@ -950,7 +886,7 @@
     "Connie McGeehan",
     "1903 Philadelphia Athletics season"
    ],
-   "score": 21.41650614351775,
+   "score": 21.505149978319906,
    "abouts": [
     "Connie McGeehan",
     "1903 Philadelphia Athletics season"
@@ -1061,7 +997,7 @@
     "Albert Spalding",
     "Chicago Cubs"
    ],
-   "score": 28.669195003485747,
+   "score": 28.656331745377457,
    "abouts": [
     "Albert Spalding",
     "Chicago Cubs"
@@ -1237,7 +1173,7 @@
    {
     "label": "Games played on this date",
     "value": "2,059",
-    "note": "since 1871"
+    "note": "1871 to 2025"
    },
    {
     "label": "Most runs in a game",
@@ -1302,6 +1238,7 @@
     "note": "most games: Wrigley Field (84); Sportsman's Park III (74); Fenway Park (71)"
    }
   ],
+  "through": 2025,
   "nohitters": [
    {
     "year": 1908,
@@ -1550,7 +1487,8 @@
      "pct": 0.382
     }
    ]
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 140,
@@ -1617,6 +1555,10 @@
     "value": "2018",
     "note": "8 transactions"
    }
+  ],
+  "years": [
+   1889,
+   2021
   ]
  },
  "people": {
@@ -1746,6 +1688,10 @@
     "text": "Tony LaRussa (manager) ejected by George Maloney: call at hp",
     "star": true
    }
+  ],
+  "years": [
+   1894,
+   2024
   ]
  },
  "feats": {

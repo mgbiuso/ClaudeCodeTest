@@ -407,18 +407,8 @@
     "Nick Leyva"
    ],
    "key": "7bf949bb936787d6",
-   "headline": "Leyva Was Reassigned as the Blue Jays' Bench Coach",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nickleyva1987.jpg",
-    "credit": "Johnmaxmena (talk)john Mena",
-    "license": "CC BY 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Nickleyva1987.jpg",
-    "alt": "American baseball coach and manager (born 1953)",
-    "source": "wikipedia",
-    "of": "Nick Leyva",
-    "w": 245,
-    "h": 294
-   },
+   "headline": "Leyva Reassigned as Blue Jays Bench Coach, Butterfield Takes Third Base",
+   "image": null,
    "extract": "Nicholas Tomas Leyva is an American former professional baseball player, coach, and manager. After his retirement as a Minor League Baseball (MiLB) player, Leyva moved into coaching. His Major League Baseball (MLB) coaching stops included the St. Louis Cardinals, Toronto Blue Jays, Milwaukee Brewers, and Pittsburgh…",
    "page": "https://en.wikipedia.org/wiki/Nick_Leyva"
   },
@@ -941,7 +931,7 @@
    {
     "label": "Games played on this date",
     "value": "14",
-    "note": "since 1871"
+    "note": "1871 to 2024"
    },
    {
     "label": "Most runs in a game",
@@ -996,6 +986,7 @@
     "note": "most games: NYC01 (3); WOR03 (1); BOS01 (1)"
    }
   ],
+  "through": 2024,
   "gotd": {
    "year": 2024,
    "visitor": "Dodgers",
@@ -1148,6 +1139,10 @@
     "value": "2011",
     "note": "146 transactions"
    }
+  ],
+  "years": [
+   1884,
+   2021
   ]
  },
  "people": {

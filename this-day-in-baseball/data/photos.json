@@ -3069,6 +3069,22 @@
   "reason": "event: Commissioner's Trophy and American League pennant display in front of Chicago skyline",
   "model": "claude-haiku-5-5"
  },
+ "4482bf6ca74a1488": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%22Thank_you_Turner_Field%22.jpg/960px-%22Thank_you_Turner_Field%22.jpg",
+   "credit": "RyanW20.01",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Thank_you_Turner_Field%22.jpg",
+   "alt": "Night scoreboard reading 'Thank you Turner Field' with Braves logo.",
+   "source": "checked",
+   "of": "Turner Field",
+   "w": 4496,
+   "h": 3000,
+   "tier": "venue"
+  },
+  "reason": "venue: Night scoreboard reading 'Thank you Turner Field' with Braves logo.",
+  "model": "claude-haiku-5-5"
+ },
  "44b07014befd0603": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/-34%2C_Ken_Brett%2C_Angels%2C_1977.jpg/960px--34%2C_Ken_Brett%2C_Angels%2C_1977.jpg",
@@ -3257,6 +3273,22 @@
   "reason": "no free-licensed candidates",
   "model": "claude-haiku-5-5"
  },
+ "4ac0a2207887487c": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wilmington_Park%2C_home_of_the_Wilmington_Baseball_Club%2C_the_Blue_Rocks%2C_Wilmington%2C_Delaware.jpg/960px-Wilmington_Park%2C_home_of_the_Wilmington_Baseball_Club%2C_the_Blue_Rocks%2C_Wilmington%2C_Delaware.jpg",
+   "credit": "Boston Public Library",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Wilmington_Park,_home_of_the_Wilmington_Baseball_Club,_the_Blue_Rocks,_Wilmington,_Delaware.jpg",
+   "alt": "Illuminated postcard view of Wilmington Park baseball stadium with crowd and players",
+   "source": "checked",
+   "of": "Wilmington Park",
+   "w": 1500,
+   "h": 954,
+   "tier": "venue"
+  },
+  "reason": "venue: Illuminated postcard view of Wilmington Park baseball stadium with crowd and players",
+  "model": "claude-haiku-5-5"
+ },
  "4ac9172fca9c487a": {
   "image": null,
   "reason": "judge found no fitting photo",
@@ -3392,6 +3424,22 @@
    "tier": "person"
   },
   "reason": "person: Older man with light hair in red shirt, smiling indoors",
+  "model": "claude-haiku-5-5"
+ },
+ "4f5e95f0b438e10a": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Geoff_Blum.jpg/960px-Geoff_Blum.jpg",
+   "credit": "William Holtkamp on Flickr (Original version) User UCinternational",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Geoff_Blum.jpg",
+   "alt": "Pinstriped MLB player, back view, jersey 'BLUM' number 27, glove",
+   "source": "checked",
+   "of": "Geoff Blum",
+   "w": 1150,
+   "h": 1600,
+   "tier": "person"
+  },
+  "reason": "person: Pinstriped MLB player, back view, jersey 'BLUM' number 27, glove",
   "model": "claude-haiku-5-5"
  },
  "4fc482af2a7178e3": {
@@ -3837,6 +3885,22 @@
    "tier": "person"
   },
   "reason": "person: Black-and-white portrait of a middle-aged man in a light suit and tie.",
+  "model": "claude-haiku-5-5"
+ },
+ "5bbf016c7c7aa4de": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Paredes_1_61824_%28cropped%29.jpg",
+   "credit": "Sewageboy",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Paredes_1_61824_(cropped).jpg",
+   "alt": "Pitcher in gray Milwaukee road jersey number 49, adjusting navy cap.",
+   "source": "checked",
+   "of": "Enoli Paredes",
+   "w": 884,
+   "h": 1102,
+   "tier": "person"
+  },
+  "reason": "person: Pitcher in gray Milwaukee road jersey number 49, adjusting navy cap.",
   "model": "claude-haiku-5-5"
  },
  "5d9c85e097c1eae3": {
@@ -5069,6 +5133,11 @@
   "reason": "team: Player in orange Astros jersey number 1 fielding a ball on the field",
   "model": "claude-haiku-5-5"
  },
+ "7bf949bb936787d6": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
  "7c60abf271d54461": {
   "image": null,
   "reason": "rejected Bruce Bochy (2011).jpg: The story is about Bochy managing the Rangers in 2022-2023, but the photo shows a Giants uniform and a 2011-era setting, matching the file name's 2011 date and the 2010 World Series article rather than the Rangers period described.",
@@ -5935,6 +6004,11 @@
   "reason": "weak pick (0.1): Shantz proclamation photo from 2025, decades after the 1952 story; a career photo of the main subject is needed, not a 2025 civic event photo.",
   "model": "claude-haiku-5-5"
  },
+ "8c5859e6d6efb700": {
+  "image": null,
+  "reason": "weak pick (0.02): Nick Martinez of the 2022 Padres is not a main subject of this story; wrong team and era.",
+  "model": "claude-haiku-5-5"
+ },
  "8c5ad8b25e735c47": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Frank_Pigeon_of_the_Eckford_B.B._club%2C_Brooklyn%2C_E.D._LCCN98510871_%28cropped%29.jpg",
@@ -6460,6 +6534,11 @@
   "reason": "judge found no fitting photo",
   "model": "claude-haiku-5-5"
  },
+ "94caab9c3ef71834": {
+  "image": null,
+  "reason": "rejected 1988 Pucko-Liberatore Rochester Red Wings.jpg: The photo is a 1988 Governor's Cup champions baseball card, which does not depict the November 2020 Twins partnership disclosure described in the story. It shows the Rochester Red Wings, but the event and period don't match the story's 2020 setting.",
+  "model": "claude-haiku-5-5"
+ },
  "94d53d1cf6eafce8": {
   "image": null,
   "reason": "judge found no fitting photo",
@@ -6911,6 +6990,22 @@
    "tier": "person"
   },
   "reason": "person: Pitcher in white Nationals home jersey and red cap, mid-delivery",
+  "model": "claude-haiku-5-5"
+ },
+ "9eb2ecde11502702": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kyle_Lewis_2019.jpg/960px-Kyle_Lewis_2019.jpg",
+   "credit": "PaulHamaker Cropped by 佾珜",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kyle_Lewis_2019.jpg",
+   "alt": "Batter in Mariners home whites, navy helmet, batting stance, dugout crowd behind.",
+   "source": "checked",
+   "of": "Kyle Lewis",
+   "w": 1091,
+   "h": 1902,
+   "tier": "person"
+  },
+  "reason": "person: Batter in Mariners home whites, navy helmet, batting stance, dugout crowd behind.",
   "model": "claude-haiku-5-5"
  },
  "9ec16aedba91577e": {
@@ -8605,6 +8700,11 @@
  "c390bd21e8bc321b": {
   "image": null,
   "reason": "weak pick (0.2): Charles Comiskey was the Browns' first baseman and manager in 1886, but this is a 1888 card and he is not the main subject of the story (Caruthers and O'Neill are).",
+  "model": "claude-haiku-5-5"
+ },
+ "c3ab92b2fae64a66": {
+  "image": null,
+  "reason": "judge found no fitting photo",
   "model": "claude-haiku-5-5"
  },
  "c3b1e3e31f8df734": {
@@ -10501,6 +10601,11 @@
   "reason": "weak pick (0.1): 2008 celebration is 22 years after the story, outside the 5-year window.",
   "model": "claude-haiku-5-5"
  },
+ "ecd07a3d1f8f39c9": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
  "ecff0ed10ae97e0d": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dan_Duquette_Buck_Showalter_Luke_Scott.jpeg/960px-Dan_Duquette_Buck_Showalter_Luke_Scott.jpeg",
@@ -11228,6 +11333,11 @@
    "tier": "person"
   },
   "reason": "person: Smiling man in Arizona Diamondbacks cap and jersey, baseball setting",
+  "model": "claude-haiku-5-5"
+ },
+ "fe9b2a56bcadebf1": {
+  "image": null,
+  "reason": "no free-licensed candidates",
   "model": "claude-haiku-5-5"
  },
  "ff10e415f0a58589": {

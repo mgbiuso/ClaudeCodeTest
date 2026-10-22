@@ -183,6 +183,7 @@ figcaption a { text-decoration-thickness: 1px; }
   .num:first-child { padding-left: 0; border-left: 0; }
 }
 
+.numbers-note { margin: 6px 0 0; font-size: 13.5px; font-style: italic; color: var(--ink-soft); }
 /* by the numbers: extras */
 .numbers-extra { display: grid; grid-template-columns: 1fr; gap: 0; margin-top: 4px; }
 .nx { padding: 14px 0 6px; border-top: 1px solid var(--rule); }

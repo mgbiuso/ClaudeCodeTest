@@ -686,7 +686,7 @@
    {
     "label": "Games played on this date",
     "value": "2",
-    "note": "since 2001"
+    "note": "2001 to 2022"
    },
    {
     "label": "Most runs in a game",
@@ -731,6 +731,7 @@
     "note": "most games: Chase Field (1); Citizens Bank Park (1)"
    }
   ],
+  "through": 2022,
   "gotd": {
    "year": 2022,
    "visitor": "Astros",
@@ -857,6 +858,10 @@
     "value": "2012",
     "note": "296 transactions"
    }
+  ],
+  "years": [
+   1884,
+   2021
   ]
  },
  "people": {

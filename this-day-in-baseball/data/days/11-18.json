@@ -856,6 +856,10 @@
     "value": "1997",
     "note": "100 transactions"
    }
+  ],
+  "years": [
+   1895,
+   2021
   ]
  }
 }

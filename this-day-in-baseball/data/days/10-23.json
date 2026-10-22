@@ -560,7 +560,7 @@
    ],
    "about": "Jackie Robinson",
    "key": "f7147dc0c4acc7a6",
-   "headline": "Jackie Robinson of the Kansas City Monarchs Signs a Contract",
+   "headline": "Jackie Robinson Signs With Montreal Royals, Breaking MLB Color Barrier",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Baseball._Jack_Robinson_BAnQ_P48S1P12829_%28cropped%29.jpg",
     "credit": "Conrad Poirier",
@@ -708,7 +708,7 @@
    {
     "label": "Games played on this date",
     "value": "32",
-    "note": "since 1871"
+    "note": "1871 to 2023"
    },
    {
     "label": "Most runs in a game",
@@ -778,6 +778,7 @@
     "note": "most games: Fenway Park (4); Citizens Bank Park (3); Atlanta-Fulton County Stadium (2)"
    }
   ],
+  "through": 2023,
   "gotd": {
    "year": 2005,
    "visitor": "Astros",
@@ -948,6 +949,10 @@
     "value": "1998",
     "note": "46 transactions"
    }
+  ],
+  "years": [
+   1901,
+   2021
   ]
  },
  "people": {

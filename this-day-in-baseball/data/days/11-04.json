@@ -908,7 +908,7 @@
    {
     "label": "Games played on this date",
     "value": "2",
-    "note": "since 2001"
+    "note": "2001 to 2009"
    },
    {
     "label": "Most runs in a game",
@@ -953,6 +953,7 @@
     "note": "most games: Chase Field (1); Yankee Stadium II (1)"
    }
   ],
+  "through": 2009,
   "gotd": {
    "year": 2001,
    "visitor": "Yankees",
@@ -1079,6 +1080,10 @@
     "value": "2014",
     "note": "292 transactions"
    }
+  ],
+  "years": [
+   1891,
+   2021
   ]
  },
  "people": {

@@ -6,7 +6,7 @@
   {
    "label": "Games played on this date",
    "value": "42",
-   "note": "since 1871"
+   "note": "1871 to 2023"
   },
   {
    "label": "Most runs in a game",
@@ -71,6 +71,7 @@
    "note": "most games: Yankee Stadium I (5); NYC01 (4); Fenway Park (3)"
   }
  ],
+ "through": 2023,
  "nohitters": [],
  "gotd": {
   "year": 2000,
@@ -248,6 +249,10 @@
     "value": "1994",
     "note": "17 transactions"
    }
+  ],
+  "years": [
+   1932,
+   2021
   ]
  },
  "people": {
@@ -352,10 +357,15 @@
     "text": "Billy Martin (manager) ejected by Bruce Froemming: throwing baseball onto field",
     "star": false
    }
+  ],
+  "years": [
+   1976,
+   2022
   ]
  },
  "feats": {
   "count": 0,
   "items": []
- }
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
 }

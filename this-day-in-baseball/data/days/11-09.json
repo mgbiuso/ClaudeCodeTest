@@ -134,17 +134,18 @@
     "Turner Field"
    ],
    "key": "4482bf6ca74a1488",
-   "headline": "Georgia State and the Atlanta-Fulton County Recreation Authority",
+   "headline": "Georgia State, Atlanta Reach Tentative Deal for Turner Field",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Turner_Field_2013.jpg/960px-Turner_Field_2013.jpg",
-    "credit": "Zpb52",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Turner_Field_2013.jpg",
-    "alt": "Former baseball stadium in Atlanta, Georgia",
-    "source": "wikipedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%22Thank_you_Turner_Field%22.jpg/960px-%22Thank_you_Turner_Field%22.jpg",
+    "credit": "RyanW20.01",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%22Thank_you_Turner_Field%22.jpg",
+    "alt": "Night scoreboard reading 'Thank you Turner Field' with Braves logo.",
+    "source": "checked",
     "of": "Turner Field",
-    "w": 3264,
-    "h": 2448
+    "w": 4496,
+    "h": 3000,
+    "tier": "venue"
    },
    "extract": "Turner Field was a baseball stadium located in Atlanta, Georgia. From 1997 to 2016, it served as the home ballpark to the Atlanta Braves of Major League Baseball (MLB). Originally built as Centennial Olympic Stadium in 1996 to serve as the centerpiece of the 1996 Summer Olympics, it was converted into a baseball…",
    "page": "https://en.wikipedia.org/wiki/Turner_Field"
@@ -622,17 +623,18 @@
     "Wilmington Park"
    ],
    "key": "4ac0a2207887487c",
-   "headline": "Delaware Played Its First Game at Wilmington Park on November 9",
+   "headline": "Delaware Beats Pennsylvania Military College 14-7 in First Game",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wilmington_Park%2C_home_of_the_Wilmington_Baseball_Club%2C_the_Blue_Rocks%2C_Wilmington%2C_Delaware.jpg/960px-Wilmington_Park%2C_home_of_the_Wilmington_Baseball_Club%2C_the_Blue_Rocks%2C_Wilmington%2C_Delaware.jpg",
     "credit": "Boston Public Library",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Wilmington_Park,_home_of_the_Wilmington_Baseball_Club,_the_Blue_Rocks,_Wilmington,_Delaware.jpg",
-    "alt": "Ballpark in Wilmington, Delaware",
-    "source": "wikipedia",
+    "alt": "Illuminated postcard view of Wilmington Park baseball stadium with crowd and players",
+    "source": "checked",
     "of": "Wilmington Park",
     "w": 1500,
-    "h": 954
+    "h": 954,
+    "tier": "venue"
    },
    "extract": "Wilmington Park was a ballpark in Wilmington, Delaware that was located at the corner of 30th Street and Governor Printz Boulevard. It was home to the University of Delaware football team from 1940 to 1952 and the Wilmington Blue Rocks of the Class B Interstate League from 1940 to 1952. The Blue Rocks were an…",
    "page": "https://en.wikipedia.org/wiki/Wilmington_Park"
@@ -737,6 +739,10 @@
     "value": "2009",
     "note": "312 transactions"
    }
+  ],
+  "years": [
+   1908,
+   2021
   ]
  },
  "people": {

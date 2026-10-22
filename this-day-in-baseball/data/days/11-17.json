@@ -51,17 +51,18 @@
     "Kyle Lewis"
    ],
    "key": "9eb2ecde11502702",
-   "headline": "The Mariners Traded Lewis to the Arizona Diamondbacks in Exchange",
+   "headline": "Mariners Trade Lewis to Diamondbacks for Cooper Hummel",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kyle_Lewis_2019.jpg/960px-Kyle_Lewis_2019.jpg",
     "credit": "PaulHamaker Cropped by 佾珜",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Kyle_Lewis_2019.jpg",
-    "alt": "American baseball player (born 1995)",
-    "source": "wikipedia",
+    "alt": "Batter in Mariners home whites, navy helmet, batting stance, dugout crowd behind.",
+    "source": "checked",
     "of": "Kyle Lewis",
     "w": 1091,
-    "h": 1902
+    "h": 1902,
+    "tier": "person"
    },
    "extract": "Kyle Alexander Lewis is an American former professional baseball outfielder. He played in Major League Baseball (MLB) for the Seattle Mariners and Arizona Diamondbacks. Prior to his MLB debut, he played college baseball for the Mercer Bears.",
    "page": "https://en.wikipedia.org/wiki/Kyle_Lewis"
@@ -763,6 +764,10 @@
     "value": "1992",
     "note": "89 transactions"
    }
+  ],
+  "years": [
+   1893,
+   2021
   ]
  }
 }

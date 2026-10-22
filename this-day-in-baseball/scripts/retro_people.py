@@ -76,6 +76,7 @@ def transactions_for(month, day, ctx, teams, team_name):
         return out
     tc = collections.Counter(r[7].strip() for r in rows)
     years = collections.Counter(int(r[0][:4]) for r in rows)
+    out["years"] = [min(years), max(years)]
     free = [r for r in rows if r[7].strip() == "Fg"]
     if free:
         fy = collections.Counter(int(r[0][:4]) for r in free)
@@ -181,6 +182,7 @@ def ejections_for(month, day, ctx):
     out = {"count": len(rows), "managers": sum(1 for r in rows if r["JOB"] == "M"), "items": []}
     if not rows:
         return out
+    out["years"] = [int(min(r["DATE"][-4:] for r in rows)), int(max(r["DATE"][-4:] for r in rows))]
     scored = []
     for r in rows:
         y = int(r["DATE"][-4:])

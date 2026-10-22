@@ -346,6 +346,7 @@ function numbersBox(numbers) {
     row.append(cell);
   }
   box.append(row);
+  if (numbers.note) box.append(el("p", "numbers-note", numbers.note));
 
   const extras = el("div", "numbers-extra");
   if (numbers.gotd) {
@@ -415,7 +416,7 @@ function agateBlocks(data) {
   if (data.wire && data.wire.count) {
     const c = el("div", "agate");
     c.append(el("h3", "mini-head", "The transaction wire"));
-    const sum = el("p", "wire-sum", `${data.wire.count.toLocaleString("en-US")} moves on this date since 1873. ` +
+    const sum = el("p", "wire-sum", `${data.wire.count.toLocaleString("en-US")} moves on this date, ${data.wire.years ? `${data.wire.years[0]} to ${data.wire.years[1]}` : "since 1873"}. ` +
       (data.wire.summary || []).filter((s) => s.label !== "Busiest year").map((s) => `${s.value} ${s.label.toLowerCase()}`).join("; ") + ".");
     c.append(sum);
     const ul = el("ul", "wire-list");
@@ -465,7 +466,7 @@ function agateBlocks(data) {
   if (data.ejections && data.ejections.count) {
     const c = el("div", "agate");
     c.append(el("h3", "mini-head", "Thrown out"));
-    c.append(el("p", "wire-sum", `${data.ejections.count.toLocaleString("en-US")} ejections on this date, ${data.ejections.managers.toLocaleString("en-US")} of them managers.`));
+    c.append(el("p", "wire-sum", `${data.ejections.count.toLocaleString("en-US")} ejections on this date${data.ejections.years ? `, ${data.ejections.years[0]} to ${data.ejections.years[1]}` : ""}, ${data.ejections.managers.toLocaleString("en-US")} of them managers.`));
     const ul = el("ul", "wire-list");
     for (const it of (data.ejections.items || []).slice(0, 4)) {
       const li = el("li");

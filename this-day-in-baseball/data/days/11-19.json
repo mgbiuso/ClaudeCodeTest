@@ -205,18 +205,8 @@
     "Félix Bautista (baseball)"
    ],
    "key": "c3ab92b2fae64a66",
-   "headline": "Bautista Signed With the Miami Marlins",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Perfil_F%C3%A9lix_Bautista_Senador_San_Juan_wikipedia.png",
-    "credit": "Rafasuma",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Perfil_F%C3%A9lix_Bautista_Senador_San_Juan_wikipedia.png",
-    "alt": "Félix Bautista (baseball)",
-    "source": "commons",
-    "of": "Félix Bautista (baseball)",
-    "w": 317,
-    "h": 460
-   },
+   "headline": "Bautista Signs With Miami Marlins as International Free Agent",
+   "image": null,
    "extract": "Félix Alexander Bautista is a Dominican professional baseball pitcher for the Baltimore Orioles of Major League Baseball (MLB). He signed with the Miami Marlins as an international free agent in 2012, and made his MLB debut in 2022 with the Orioles. Bautista was an All-Star and the American League Reliever of the Year…",
    "page": "https://en.wikipedia.org/wiki/F%C3%A9lix_Bautista_(baseball)"
   },
@@ -862,6 +852,10 @@
     "value": "2012",
     "note": "24 transactions"
    }
+  ],
+  "years": [
+   1885,
+   2021
   ]
  }
 }

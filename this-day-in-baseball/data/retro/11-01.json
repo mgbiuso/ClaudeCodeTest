@@ -6,7 +6,7 @@
   {
    "label": "Games played on this date",
    "value": "10",
-   "note": "since 1873"
+   "note": "1873 to 2025"
   },
   {
    "label": "Most runs in a game",
@@ -66,6 +66,7 @@
    "note": "most games: Citizens Bank Park (2); NYC01 (1); Yankee Stadium I (1)"
   }
  ],
+ "through": 2025,
  "nohitters": [],
  "gotd": {
   "year": 2001,
@@ -225,6 +226,10 @@
     "value": "2010",
     "note": "143 transactions"
    }
+  ],
+  "years": [
+   1893,
+   2021
   ]
  },
  "people": {

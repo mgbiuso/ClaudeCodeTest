@@ -32,6 +32,24 @@ def fetch(rel, out):
     return data
 
 
+def fetch_new_seasons():
+    """Seasons after 2025 appear as gamelogs/glYYYY.zip once Retrosheet publishes them; take any that exist."""
+    import datetime
+    import urllib.error
+    for year in range(2026, datetime.date.today().year + 1):
+        out = DEST / f"gl{year}.zip"
+        if out.exists():
+            continue
+        try:
+            fetch(f"gamelogs/gl{year}.zip", out)
+            zipfile.ZipFile(out).testzip()
+            print(f"got {out.name}: Retrosheet now has {year}, so the Wikipedia postseason stand-in switches off")
+        except urllib.error.HTTPError:
+            out.unlink(missing_ok=True)
+            print(f"{year}: not published by Retrosheet yet")
+        time.sleep(2)
+
+
 def main():
     DEST.mkdir(parents=True, exist_ok=True)
     (DEST / "lists").mkdir(exist_ok=True)
@@ -56,6 +74,7 @@ def main():
             zipfile.ZipFile(out).testzip()  # raises if the download is damaged
         print(f"got {out.name} ({len(data):,} bytes)")
         time.sleep(2)
+    fetch_new_seasons()
 
 
 if __name__ == "__main__":

@@ -6,7 +6,7 @@
   {
    "label": "Games played on this date",
    "value": "2,059",
-   "note": "since 1871"
+   "note": "1871 to 2025"
   },
   {
    "label": "Most runs in a game",
@@ -71,6 +71,7 @@
    "note": "most games: Wrigley Field (84); Sportsman's Park III (74); Fenway Park (71)"
   }
  ],
+ "through": 2025,
  "nohitters": [
   {
    "year": 1908,
@@ -385,6 +386,10 @@
     "value": "2018",
     "note": "8 transactions"
    }
+  ],
+  "years": [
+   1889,
+   2021
   ]
  },
  "people": {
@@ -514,6 +519,10 @@
     "text": "Tony LaRussa (manager) ejected by George Maloney: call at hp",
     "star": true
    }
+  ],
+  "years": [
+   1894,
+   2024
   ]
  },
  "feats": {
@@ -558,5 +567,6 @@
   ],
   "cycles": 1,
   "milestones": 4
- }
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
 }

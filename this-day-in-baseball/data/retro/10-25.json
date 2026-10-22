@@ -6,7 +6,7 @@
   {
    "label": "Games played on this date",
    "value": "23",
-   "note": "since 1873"
+   "note": "1873 to 2025"
   },
   {
    "label": "Most runs in a game",
@@ -71,6 +71,7 @@
    "note": "most games: Dodger Stadium (3); PHI01 (2); Shea Stadium (2)"
   }
  ],
+ "through": 2025,
  "nohitters": [],
  "gotd": {
   "year": 2005,
@@ -252,6 +253,10 @@
     "value": "1993",
     "note": "25 transactions"
    }
+  ],
+  "years": [
+   1898,
+   2021
   ]
  },
  "people": {
@@ -321,6 +326,10 @@
     "text": "Danny Cox (player) ejected by Dave Phillips: balls and strikes",
     "star": false
    }
+  ],
+  "years": [
+   1987,
+   1987
   ]
  },
  "feats": {

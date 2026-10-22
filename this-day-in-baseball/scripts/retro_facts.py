@@ -28,6 +28,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from retro_people import load_context, people_for, transactions_for, ejections_for, calendar_counts  # noqa: E402
 from retro_feats import load_feats, feats_for  # noqa: E402
+import wiki_postseason as wp  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / ".cache" / "retrosheet"
@@ -96,6 +97,12 @@ def collect(date_keys):
         for row in csv.reader(io.StringIO(z.read(name).decode("latin-1"))):
             if len(row) > 105 and row[0][4:] in want:
                 out[row[0][4:]].append((row, ""))
+    for extra in sorted(CACHE.glob("gl20[0-9][0-9].zip")):  # seasons published after the big file (see fetch_retrosheet.py)
+        z = zipfile.ZipFile(extra)
+        for name in z.namelist():
+            for row in csv.reader(io.StringIO(z.read(name).decode("latin-1"))):
+                if len(row) > 105 and row[0][4:] in want:
+                    out[row[0][4:]].append((row, ""))
     for stem, label in POST.items():
         z = zipfile.ZipFile(CACHE / f"{stem}.zip")
         for row in csv.reader(io.StringIO(z.read(f"{stem}.txt").decode("latin-1"))):
@@ -146,6 +153,35 @@ class Game:
         return max((runs_in(t) for t in self.vline + self.hline), default=0)
 
 
+class ExtGame(Game):
+    """A current-year postseason game read from Wikipedia (see wiki_postseason.py), shaped like a game-log row."""
+
+    def __init__(self, g, teams):
+        self.year = g["year"]
+        self.date = f"{g['year']}{g['month']:02d}{g['day']:02d}"
+        self.label = g["series"]
+        code = lambda abr: wp.ABBR.get(abr, abr)
+        self.vcode, self.hcode = code(g["roadAbr"]), code(g["homeAbr"])
+        self.v, self.h = team_name(teams, self.vcode, self.year) if self.vcode in teams else g["road"], \
+            team_name(teams, self.hcode, self.year) if self.hcode in teams else g["home"]
+        self.vs, self.hs = g["rr"], g["hr"]
+        played = lambda line: sum(1 for x in line if x != "x")
+        self.outs = 3 * (played(g["rl"]) + played(g["hl"]))
+        self.park = "WIKI:" + g["park"]
+        self.parkname = g["park"]
+        self.crowd = g["crowd"] or 0
+        self.minutes = 0
+        self.vline, self.hline = g["rl"], g["hl"]
+        self.vh, self.hh = g["rh"], g["hh"]
+        self.vhr, self.hhr = len(g["roadHR"]), len(g["homeHR"])
+        self.vso = self.hso = self.vsb = self.hsb = self.vbb = self.hbb = self.vhbp = self.hhbp = None
+        self.vlob = self.hlob = self.vpit = self.hpit = None
+        self.verr, self.herr = g["re"], g["he"]
+        self.vsp = self.hsp = ""
+        self.weather = g["weather"]
+        self.ok = True
+
+
 def winner_first(g):
     a, b = (g.v, g.vs), (g.h, g.hs)
     w, l = (a, b) if a[1] >= b[1] else (b, a)
@@ -184,7 +220,7 @@ def build_numbers(games, parks, nohit):
     by = lambda fn, items=valid: max(items, key=fn)
     years = sorted({g.year for g in valid})
     items, records = [], []
-    items.append({"label": "Games played on this date", "value": f"{n:,}", "note": f"since {years[0]}"})
+    items.append({"label": "Games played on this date", "value": f"{n:,}", "note": f"{years[0]} to {years[-1]}"})
     top = by(lambda g: g.vs + g.hs)
     items.append({"label": "Most runs in a game", "value": str(top.vs + top.hs), "note": f"{winner_first(top)} ({top.year})"})
     blow = by(lambda g: abs(g.vs - g.hs))
@@ -243,9 +279,9 @@ def build_numbers(games, parks, nohit):
         add("Postseason games", str(len(post)), ", ".join(f"{k} {v}" for k, v in names.most_common(3)))
     pk = collections.Counter(g.park for g in valid if g.park)
     if pk:
-        top3 = [f"{parks.get(code, (code,))[0]} ({cnt})" for code, cnt in pk.most_common(3)]
+        top3 = [f"{parks.get(code, (code.replace('WIKI:', ''),))[0]} ({cnt})" for code, cnt in pk.most_common(3)]
         add("Ballparks that hosted games", str(len(pk)), "most games: " + "; ".join(top3))
-    return {"items": items[:6], "records": records}
+    return {"items": items[:6], "records": records, "through": years[-1]}
 
 
 def game_of_day(games, parks):
@@ -282,7 +318,7 @@ def game_of_day(games, parks):
         why.append("one-run game")
     return {"year": g.year, "visitor": g.v, "home": g.h, "inn": cols, "vline": pad(g.vline), "hline": pad(g.hline),
             "vr": g.vs, "hr": g.hs, "vh": g.vh, "hh": g.hh, "ve": g.verr, "he": g.herr, "crowd": g.crowd or None,
-            "park": parks.get(g.park, (None,))[0], "event": g.label, "why": ", ".join(why)}
+            "park": parks.get(g.park, (g.park[5:] if g.park.startswith("WIKI:") else None,))[0], "event": g.label, "why": ", ".join(why)}
 
 
 def eras(games):
@@ -304,7 +340,7 @@ def then_now(games, parks):
     if len(valid) < 2:
         return None
     pack = lambda g: {"year": g.year, "visitor": g.v, "home": g.h, "vs": g.vs, "hs": g.hs, "crowd": g.crowd or None,
-                      "park": parks.get(g.park, (None,))[0], "event": g.label}
+                      "park": parks.get(g.park, (g.park[5:] if g.park.startswith("WIKI:") else None,))[0], "event": g.label}
     return {"first": pack(valid[0]), "latest": pack(valid[-1])}
 
 
@@ -325,11 +361,12 @@ def team_records(games, teams):
 
 def build_day(month, day, rows, teams, parks, ctx, feats):
     gs = [Game(r, lab, teams) for r, lab in rows]
+    gs += [ExtGame(g, teams) for g in wp.games_for(month, day)]  # the current year's postseason, until Retrosheet publishes it
     nh = no_hitters(gs)
     numbers = build_numbers(gs, parks, nh)
     rec = {"month": month, "day": day, "games": len([g for g in gs if g.ok])}
     if numbers:
-        rec.update({"items": numbers["items"], "records": numbers["records"], "nohitters": nh, "gotd": game_of_day(gs, parks),
+        rec.update({"items": numbers["items"], "records": numbers["records"], "through": numbers["through"], "nohitters": nh, "gotd": game_of_day(gs, parks),
                     "eras": eras(gs), "thenNow": then_now(gs, parks), "teams": team_records(gs, teams)})
     else:
         rec.update({"items": [], "records": [], "nohitters": []})
@@ -337,6 +374,11 @@ def build_day(month, day, rows, teams, parks, ctx, feats):
     rec["people"] = people_for(month, day, ctx)
     rec["ejections"] = ejections_for(month, day, ctx)
     rec["feats"] = feats_for(month, day, feats)
+    import datetime
+    today = datetime.date.today()
+    if today.year > wp.RETRO_LAST_YEAR and (month, day) <= (today.month, today.day):
+        rec["note"] = (f"{today.year} regular-season games are not in Retrosheet yet, so {today.year} here is postseason only, "
+                       f"taken from Wikipedia's box scores. Retrosheet adds the full season after it ends.")
     return rec
 
 

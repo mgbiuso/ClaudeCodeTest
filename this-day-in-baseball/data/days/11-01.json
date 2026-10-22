@@ -153,7 +153,7 @@
     "Donnie Ecker"
    ],
    "key": "ecd07a3d1f8f39c9",
-   "headline": "The Texas Rangers Hired Ecker as Their Bench Coach",
+   "headline": "Rangers Hire Ecker as Bench Coach and Offensive Coordinator",
    "image": null,
    "extract": "Donald Joseph Ecker is an American professional baseball coach and former infielder who currently serves as the bench coach for the Baltimore Orioles of Major League Baseball (MLB). He played college baseball for California State University, Long Beach and Lewis–Clark State College. The Texas Rangers selected Ecker in…",
    "page": "https://en.wikipedia.org/wiki/Donnie_Ecker"
@@ -897,7 +897,7 @@
    {
     "label": "Games played on this date",
     "value": "10",
-    "note": "since 1873"
+    "note": "1873 to 2025"
    },
    {
     "label": "Most runs in a game",
@@ -957,6 +957,7 @@
     "note": "most games: Citizens Bank Park (2); NYC01 (1); Yankee Stadium I (1)"
    }
   ],
+  "through": 2025,
   "gotd": {
    "year": 2001,
    "visitor": "Diamondbacks",
@@ -1115,6 +1116,10 @@
     "value": "2010",
     "note": "143 transactions"
    }
+  ],
+  "years": [
+   1893,
+   2021
   ]
  },
  "people": {

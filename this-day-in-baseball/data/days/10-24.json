@@ -930,7 +930,7 @@
    {
     "label": "Games played on this date",
     "value": "26",
-    "note": "since 1873"
+    "note": "1873 to 2025"
    },
    {
     "label": "Most runs in a game",
@@ -1000,6 +1000,7 @@
     "note": "most games: Fenway Park (4); Atlanta-Fulton County Stadium (3); Oracle Park (3)"
    }
   ],
+  "through": 2025,
   "gotd": {
    "year": 1995,
    "visitor": "Braves",
@@ -1174,6 +1175,10 @@
     "value": "1994",
     "note": "24 transactions"
    }
+  ],
+  "years": [
+   1884,
+   2019
   ]
  },
  "people": {

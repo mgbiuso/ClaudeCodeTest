@@ -958,7 +958,7 @@
    {
     "label": "Games played on this date",
     "value": "23",
-    "note": "since 1874"
+    "note": "1874 to 2024"
    },
    {
     "label": "Most runs in a game",
@@ -1023,6 +1023,7 @@
     "note": "most games: HRT01 (2); Progressive Field (2); Yankee Stadium I (2)"
    }
   ],
+  "through": 2024,
   "gotd": {
    "year": 2018,
    "visitor": "Red Sox",
@@ -1211,6 +1212,10 @@
     "value": "2003",
     "note": "37 transactions"
    }
+  ],
+  "years": [
+   1903,
+   2021
   ]
  },
  "people": {
@@ -1280,6 +1285,10 @@
     "text": "Bobby Cox (manager) ejected by Tim Welke: call at 2b",
     "star": true
    }
+  ],
+  "years": [
+   1996,
+   1996
   ]
  }
 }

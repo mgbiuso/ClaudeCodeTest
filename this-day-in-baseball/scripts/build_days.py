@@ -24,7 +24,12 @@ ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / ".cache"
 UA = {"User-Agent": "this-day-in-baseball/1.0 (mgbiuso@gmail.com)"}
 PAUSE = 0.5
-FIRST_YEAR, LAST_YEAR = 1871, 2025
+import sys as _sys
+_sys.path.insert(0, str(Path(__file__).resolve().parent))
+import wiki_postseason as wp  # noqa: E402  (current-year postseason games from Wikipedia)
+import datetime as _dt
+TODAY = _dt.date.today()
+FIRST_YEAR, LAST_YEAR = 1871, TODAY.year  # the current year is included, up to today (see not_in_future)
 BASEBALL = "Q5369"
 STATS = {"net": 0, "cached": 0, "failed": []}
 MONTHS = {m: i for i, m in enumerate(calendar.month_name) if m}
@@ -574,7 +579,9 @@ def day_record(month, day, stories):
     rec = {"month": month, "day": day, "stories": stories}
     facts = load_json_file(f"retro/{month:02d}-{day:02d}.json")
     if facts.get("items"):
-        rec["numbers"] = {k: facts[k] for k in ("games", "items", "records", "nohitters", "gotd", "eras", "thenNow", "teams") if facts.get(k)}
+        rec["numbers"] = {k: facts[k] for k in ("games", "items", "records", "through", "nohitters", "gotd", "eras", "thenNow", "teams") if facts.get(k)}
+    if facts.get("note") and rec.get("numbers"):
+        rec["numbers"]["note"] = facts["note"]
     for k in ("wire", "people", "ejections", "feats"):
         if facts.get(k) and (facts[k].get("count") or facts[k].get("debuts") or facts[k].get("farewells")):
             rec[k] = facts[k]
@@ -614,13 +621,20 @@ def pick_lead(stories):
     return [lead] + rest
 
 
+def not_in_future(rows, month, day):
+    """Wikipedia lists scheduled events for the current year ("November 1: free agency begins"); drop any dated after today."""
+    return [r for r in rows if not (int(r["year"]) == TODAY.year and (month, day) > (TODAY.month, TODAY.day))
+            and int(r["year"]) <= TODAY.year]
+
+
 def stories_for(month, day, pages):
     rows = []
     for title, text in pages:
         rows += parse_year_page(title, text, month, day)
     rows += onthisday(month, day)
     rows += article_sentences(month, day)
-    return rank(rows)
+    rows += wp.story_rows(month, day)
+    return rank(not_in_future(rows, month, day))
 
 
 def write_rss():
