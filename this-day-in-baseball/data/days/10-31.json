@@ -868,10 +868,249 @@
     "note": "Diamondbacks at Yankees (2001)"
    },
    {
+    "label": "Walk-off wins",
+    "value": "1",
+    "note": "latest: Yankees 4, Diamondbacks 3 (2001)"
+   },
+   {
     "label": "Biggest crowd",
     "value": "55,863",
     "note": "Diamondbacks at Yankees (2001)"
    }
+  ],
+  "records": [
+   {
+    "label": "Most home runs by one team",
+    "value": "3",
+    "note": "Yankees (2001); Yankees 4, Diamondbacks 3"
+   },
+   {
+    "label": "Most strikeouts in a game",
+    "value": "21",
+    "note": "Dodgers 3, Astros 1 (2017)"
+   },
+   {
+    "label": "Shortest and longest games",
+    "value": "120 and 240 min",
+    "note": "1872 and 2021"
+   },
+   {
+    "label": "Postseason games",
+    "value": "8",
+    "note": "World Series 8"
+   },
+   {
+    "label": "Ballparks that hosted games",
+    "value": "9",
+    "note": "most games: NYC02 (1); Yankee Stadium I (1); Citizens Bank Park (1)"
+   }
+  ],
+  "gotd": {
+   "year": 2001,
+   "visitor": "Diamondbacks",
+   "home": "Yankees",
+   "inn": 10,
+   "vline": [
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0"
+   ],
+   "hline": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "1"
+   ],
+   "vr": 3,
+   "hr": 4,
+   "vh": 6,
+   "hh": 7,
+   "ve": 0,
+   "he": 0,
+   "crowd": 55863,
+   "park": "Yankee Stadium I",
+   "event": "World Series",
+   "why": "World Series, 10 innings, walk-off"
+  },
+  "eras": [
+   {
+    "decade": 1870,
+    "games": 1,
+    "rpg": 21.0,
+    "crowd": null
+   },
+   {
+    "decade": 2000,
+    "games": 2,
+    "rpg": 10.0,
+    "crowd": null
+   },
+   {
+    "decade": 2010,
+    "games": 3,
+    "rpg": 5.33,
+    "crowd": 50288
+   },
+   {
+    "decade": 2020,
+    "games": 3,
+    "rpg": 12.0,
+    "crowd": 45407
+   }
+  ],
+  "thenNow": {
+   "first": {
+    "year": 1872,
+    "visitor": "Lord Baltimores",
+    "home": "Atlantics",
+    "vs": 14,
+    "hs": 7,
+    "crowd": 200,
+    "park": null,
+    "event": ""
+   },
+   "latest": {
+    "year": 2025,
+    "visitor": "Dodgers",
+    "home": "Blue Jays",
+    "vs": 3,
+    "hs": 1,
+    "crowd": 44710,
+    "park": "Rogers Centre",
+    "event": "World Series"
+   }
+  }
+ },
+ "wire": {
+  "count": 804,
+  "items": [
+   {
+    "year": 2019,
+    "text": "CC Sabathia becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 2013,
+    "text": "Todd Helton becomes a free agent (Rockies)",
+    "star": true
+   },
+   {
+    "year": 2013,
+    "text": "Roy Halladay becomes a free agent (Phillies)",
+    "star": true
+   },
+   {
+    "year": 2008,
+    "text": "Pedro Martinez becomes a free agent (Mets)",
+    "star": true
+   },
+   {
+    "year": 2008,
+    "text": "John Smoltz becomes a free agent (Braves)",
+    "star": true
+   },
+   {
+    "year": 2007,
+    "text": "Tom Glavine becomes a free agent (Mets)",
+    "star": true
+   },
+   {
+    "year": 2006,
+    "text": "Craig Biggio becomes a free agent (Astros)",
+    "star": true
+   },
+   {
+    "year": 2006,
+    "text": "Greg Maddux becomes a free agent (Dodgers)",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "690",
+    "note": "most in 2019 (150)"
+   },
+   {
+    "label": "Trades made",
+    "value": "36",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "35",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2019",
+    "note": "158 transactions"
+   }
   ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1943,
+    "name": "Fred Bell",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1943,
+    "name": "Jack Calvey",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2017,
+    "name": "Carlos Beltran",
+    "star": false,
+    "seasons": 20
+   },
+   {
+    "year": 2009,
+    "name": "Eric Bruntlett",
+    "star": false,
+    "seasons": 7
+   },
+   {
+    "year": 1935,
+    "name": "Henry Wright",
+    "star": false,
+    "seasons": 4
+   },
+   {
+    "year": 1872,
+    "name": "John Barrett",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1872,
+    "name": "Thomas Lowe",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "debutCount": 2,
+  "farewellCount": 5,
+  "hofDebuts": 0,
+  "managerDebuts": []
  }
 }

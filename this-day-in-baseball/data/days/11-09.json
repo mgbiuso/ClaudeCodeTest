@@ -671,5 +671,100 @@
    "extract": "In baseball, a player earns a Triple Crown when they lead a league in three specific statistical categories in the same season. The term \"Triple Crown\" generally refers to the batting achievement of leading a league in batting average, home runs, and runs batted in (RBI) over the same season. The term \"Pitching Triple…",
    "page": "https://en.wikipedia.org/wiki/Triple_Crown_(baseball)"
   }
- ]
+ ],
+ "wire": {
+  "count": 555,
+  "items": [
+   {
+    "year": 2005,
+    "text": "Larry Walker becomes a free agent (Cardinals)",
+    "star": true
+   },
+   {
+    "year": 2001,
+    "text": "Dodgers trade Jesus Cordero and Eric Junge to the Phillies for Omar Daal",
+    "star": false
+   },
+   {
+    "year": 1993,
+    "text": "Marlins trade cash and Jeff Darwin to the Mariners for Dave Magadan",
+    "star": false
+   },
+   {
+    "year": 1987,
+    "text": "Paul Molitor becomes a free agent (Brewers)",
+    "star": true
+   },
+   {
+    "year": 1987,
+    "text": "Jack Morris becomes a free agent (Tigers)",
+    "star": true
+   },
+   {
+    "year": 1976,
+    "text": "Athletics release Billy Williams",
+    "star": true
+   },
+   {
+    "year": 1973,
+    "text": "Padres trade Clay Kirby to the Reds for Bobby Tolan and Dave Tomlin",
+    "star": false
+   },
+   {
+    "year": 1950,
+    "text": "White Sox release Luke Appling",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "401",
+    "note": "most in 2009 (306)"
+   },
+   {
+    "label": "Trades made",
+    "value": "29",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "85",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2009",
+    "note": "312 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1935,
+    "name": "Larry Barton",
+    "star": false,
+    "seasons": 9
+   },
+   {
+    "year": 1935,
+    "name": "Cecil Lupton",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1935,
+    "name": "Cecil Lupton",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "debutCount": 2,
+  "farewellCount": 1,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ }
 }

@@ -764,9 +764,302 @@
     "note": "Mets at Braves (1999)"
    },
    {
+    "label": "Walk-off wins",
+    "value": "6",
+    "note": "latest: Diamondbacks 2, Phillies 1 (2023)"
+   },
+   {
     "label": "Biggest crowd",
     "value": "67,025",
     "note": "Indians at Marlins (1997)"
+   }
+  ],
+  "records": [
+   {
+    "label": "Most home runs by one team",
+    "value": "4",
+    "note": "Yankees (2009); Angels 5, Yankees 4"
+   },
+   {
+    "label": "Most strikeouts in a game",
+    "value": "23",
+    "note": "Padres 8, Phillies 5 (2022)"
+   },
+   {
+    "label": "Most steals by one team",
+    "value": "6",
+    "note": "Braves (1999)"
+   },
+   {
+    "label": "Most runs in one inning",
+    "value": "7",
+    "note": "Reds 8, Athletics 3 (1990)"
+   },
+   {
+    "label": "Shortest and longest games",
+    "value": "110 and 265 min",
+    "note": "1874 and 1999"
+   },
+   {
+    "label": "Home team won",
+    "value": "47%",
+    "note": "of 45 decided games"
+   },
+   {
+    "label": "Postseason games",
+    "value": "41",
+    "note": "League Championship Series 27, World Series 14"
+   },
+   {
+    "label": "Ballparks that hosted games",
+    "value": "30",
+    "note": "most games: Oakland-Alameda County Coliseum (3); Yankee Stadium I (3); Rogers Centre (3)"
+   }
+  ],
+  "gotd": {
+   "year": 1972,
+   "visitor": "Reds",
+   "home": "Athletics",
+   "inn": 9,
+   "vline": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0"
+   ],
+   "hline": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "2"
+   ],
+   "vr": 2,
+   "hr": 3,
+   "vh": 7,
+   "hh": 10,
+   "ve": 1,
+   "he": 1,
+   "crowd": 49410,
+   "park": "Oakland-Alameda County Coliseum",
+   "event": "World Series",
+   "why": "World Series, walk-off"
+  },
+  "eras": [
+   {
+    "decade": 1870,
+    "games": 3,
+    "rpg": 6.33,
+    "crowd": 515
+   },
+   {
+    "decade": 1880,
+    "games": 2,
+    "rpg": 9.0,
+    "crowd": null
+   },
+   {
+    "decade": 1970,
+    "games": 2,
+    "rpg": 6.5,
+    "crowd": null
+   },
+   {
+    "decade": 1980,
+    "games": 6,
+    "rpg": 7.83,
+    "crowd": 46436
+   },
+   {
+    "decade": 1990,
+    "games": 5,
+    "rpg": 11.4,
+    "crowd": 57085
+   },
+   {
+    "decade": 2000,
+    "games": 9,
+    "rpg": 6.44,
+    "crowd": 48716
+   },
+   {
+    "decade": 2010,
+    "games": 11,
+    "rpg": 8.91,
+    "crowd": 46210
+   },
+   {
+    "decade": 2020,
+    "games": 8,
+    "rpg": 9.0,
+    "crowd": 42732
+   }
+  ],
+  "thenNow": {
+   "first": {
+    "year": 1874,
+    "visitor": "Braves",
+    "home": "White Stockings",
+    "vs": 2,
+    "hs": 5,
+    "crowd": 400,
+    "park": null,
+    "event": ""
+   },
+   "latest": {
+    "year": 2025,
+    "visitor": "Mariners",
+    "home": "Blue Jays",
+    "vs": 2,
+    "hs": 6,
+    "crowd": 44764,
+    "park": "Rogers Centre",
+    "event": "League Championship Series"
+   }
+  }
+ },
+ "wire": {
+  "count": 104,
+  "items": [
+   {
+    "year": 1995,
+    "text": "Cardinals trade Marc Ronan to the Brewers for Mike Stefanski",
+    "star": false
+   },
+   {
+    "year": 1972,
+    "text": "Indians trade Eddie Leon to the White Sox for Walt Williams",
+    "star": false
+   },
+   {
+    "year": 1970,
+    "text": "Royals trade Fran Healy to the Giants for Bob Garibaldi",
+    "star": false
+   },
+   {
+    "year": 1965,
+    "text": "Mets trade cash to the Astros for Jerry Grote",
+    "star": false
+   },
+   {
+    "year": 1959,
+    "text": "Orioles trade cash to the Dodgers for Jim Gentile",
+    "star": false
+   },
+   {
+    "year": 1949,
+    "text": "Athletics trade Nellie Fox to the White Sox for Joe Tipton",
+    "star": true
+   },
+   {
+    "year": 1939,
+    "text": "Reds release Al Simmons",
+    "star": true
+   },
+   {
+    "year": 1927,
+    "text": "Senators trade Dick Coffman and Earl McNeely to the Browns for Milt Gaston and Sad Sam Jones",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "28",
+    "note": "most in 1994 (4)"
+   },
+   {
+    "label": "Trades made",
+    "value": "23",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "3",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1901",
+    "note": "7 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1935,
+    "name": "Robert Griffin",
+    "star": false,
+    "seasons": 3
+   },
+   {
+    "year": 1929,
+    "name": "Joe Eddleman",
+    "star": false,
+    "seasons": 2
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2017,
+    "name": "John Lackey",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 2016,
+    "name": "Dioner Navarro",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 2016,
+    "name": "Melvin Upton",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 2006,
+    "name": "Michael Tucker",
+    "star": false,
+    "seasons": 12
+   },
+   {
+    "year": 2005,
+    "name": "Larry Walker",
+    "star": true,
+    "seasons": 17
+   },
+   {
+    "year": 1884,
+    "name": "Tim Murnane",
+    "star": false,
+    "seasons": 13
+   }
+  ],
+  "debutCount": 2,
+  "farewellCount": 19,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 1,
+  "managers": 0,
+  "items": [
+   {
+    "year": 2015,
+    "text": "Troy Tulowitzki (player) ejected by John Hirschbeck: called third strike",
+    "star": false
    }
   ]
  }

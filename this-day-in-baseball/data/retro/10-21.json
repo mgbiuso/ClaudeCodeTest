@@ -24,10 +24,334 @@
    "note": "Reds at Red Sox (1975)"
   },
   {
+   "label": "Walk-off wins",
+   "value": "4",
+   "note": "latest: Yankees 3, Mariners 1 (2001)"
+  },
+  {
    "label": "Biggest crowd",
    "value": "65,838",
    "note": "Royals at Phillies (1980)"
   }
  ],
- "nohitters": []
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "5",
+   "note": "Dodgers (2021); Dodgers 11, Braves 2"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "23",
+   "note": "Yankees 6, Marlins 1 (2003)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "7",
+   "note": "Marlins 14, Indians 11 (1997)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "90 and 291 min",
+   "note": "1872 and 2000"
+  },
+  {
+   "label": "Home team won",
+   "value": "57%",
+   "note": "of 42 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "32",
+   "note": "World Series 19, League Championship Series 13"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "27",
+   "note": "most games: Yankee Stadium I (5); NYC01 (4); Fenway Park (3)"
+  }
+ ],
+ "nohitters": [],
+ "gotd": {
+  "year": 2000,
+  "visitor": "Mets",
+  "home": "Yankees",
+  "inn": 12,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "3",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 3,
+  "hr": 4,
+  "vh": 10,
+  "hh": 12,
+  "ve": 0,
+  "he": 0,
+  "crowd": 55913,
+  "park": "Yankee Stadium I",
+  "event": "World Series",
+  "why": "World Series, 12 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 10,
+   "rpg": 17.8,
+   "crowd": 840
+  },
+  {
+   "decade": 1970,
+   "games": 4,
+   "rpg": 9.5,
+   "crowd": 48494
+  },
+  {
+   "decade": 1980,
+   "games": 4,
+   "rpg": 6.25,
+   "crowd": 52821
+  },
+  {
+   "decade": 1990,
+   "games": 6,
+   "rpg": 7.0,
+   "crowd": 55553
+  },
+  {
+   "decade": 2000,
+   "games": 8,
+   "rpg": 8.25,
+   "crowd": 48959
+  },
+  {
+   "decade": 2010,
+   "games": 6,
+   "rpg": 7.33,
+   "crowd": 43666
+  },
+  {
+   "decade": 2020,
+   "games": 4,
+   "rpg": 9.0,
+   "crowd": 39003
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1871,
+   "visitor": "White Stockings",
+   "home": "Haymakers",
+   "vs": 11,
+   "hs": 5,
+   "crowd": null,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2023,
+   "visitor": "Phillies",
+   "home": "Diamondbacks",
+   "vs": 6,
+   "hs": 1,
+   "crowd": 47897,
+   "park": "Chase Field",
+   "event": "League Championship Series"
+  }
+ },
+ "teams": null,
+ "wire": {
+  "count": 102,
+  "items": [
+   {
+    "year": 2012,
+    "text": "Blue Jays trade David Carpenter and John Farrell to the Red Sox for Mike Aviles",
+    "star": false
+   },
+   {
+    "year": 2010,
+    "text": "Yankees trade Andrew Shive and Matt Cusick to the Indians",
+    "star": false
+   },
+   {
+    "year": 1994,
+    "text": "Andre Dawson becomes a free agent (Red Sox)",
+    "star": true
+   },
+   {
+    "year": 1983,
+    "text": "Braves trade Brett Butler and Brook Jacoby to the Indians",
+    "star": false
+   },
+   {
+    "year": 1981,
+    "text": "Yankees trade Willie McGee to the Cardinals for Bob Sykes",
+    "star": false
+   },
+   {
+    "year": 1971,
+    "text": "Dodgers trade Tom Hutton to the Phillies for Larry Hisle",
+    "star": false
+   },
+   {
+    "year": 1969,
+    "text": "Pirates trade Carl Taylor and Frank Vanzin to the Cardinals for Dave Giusti and Dave Ricketts",
+    "star": false
+   },
+   {
+    "year": 1947,
+    "text": "Indians release Al Lopez",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "32",
+    "note": "most in 1994 (17)"
+   },
+   {
+    "label": "Trades made",
+    "value": "27",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "11",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1994",
+    "note": "17 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1945,
+    "name": "Bud DePriest",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1945,
+    "name": "Roy Nicely",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1945,
+    "name": "Charles Petersen",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1934,
+    "name": "Fred Berger",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1934,
+    "name": "George Buchanan",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1871,
+    "name": "Mike Brannock",
+    "star": false,
+    "seasons": 5
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2012,
+    "name": "Chris Carpenter",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 2009,
+    "name": "Mark Loretta",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 2007,
+    "name": "Kenny Lofton",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 2001,
+    "name": "Dave Martinez",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 2001,
+    "name": "Norm Charlton",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1980,
+    "name": "Jose Cardenal",
+    "star": false,
+    "seasons": 18
+   }
+  ],
+  "debutCount": 8,
+  "farewellCount": 31,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1945,
+    "name": "Joe Sprinz",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 2,
+  "managers": 1,
+  "items": [
+   {
+    "year": 2022,
+    "text": "Jurickson Profar (player) ejected by Ted Barrett: balls and strikes (check swing)",
+    "star": false
+   },
+   {
+    "year": 1976,
+    "text": "Billy Martin (manager) ejected by Bruce Froemming: throwing baseball onto field",
+    "star": false
+   }
+  ]
+ }
 }

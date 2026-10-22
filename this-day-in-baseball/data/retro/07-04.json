@@ -24,31 +24,496 @@
    "note": "Athletics at Red Sox (1905)"
   },
   {
-   "label": "No-hitters",
-   "value": "3",
-   "note": "latest: Yankees over Red Sox (1983)"
+   "label": "Walk-off wins",
+   "value": "157",
+   "note": "latest: Blue Jays 4, Angels 3 (2025)"
   },
   {
-   "label": "Biggest crowd",
-   "value": "75,000",
-   "note": "Senators at Yankees (1933)"
+   "label": "No-hitters",
+   "value": "3",
+   "note": "latest: Dave Righetti (1983)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "8",
+   "note": "Red Sox (1977); Red Sox 9, Blue Jays 6"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "29",
+   "note": "Diamondbacks 5, Mets 4 (2013)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "10",
+   "note": "Cubs (1903)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "14",
+   "note": "Red Sox 19, Athletics 5 (1948)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "77 and 370 min",
+   "note": "1928 and 1985"
+  },
+  {
+   "label": "Home team won",
+   "value": "56%",
+   "note": "of 2,043 decided games"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "145",
+   "note": "most games: Wrigley Field (84); Sportsman's Park III (74); Fenway Park (71)"
   }
  ],
  "nohitters": [
   {
    "year": 1908,
    "by": "Giants",
-   "against": "Phillies"
+   "against": "Phillies",
+   "pitcher": "Hooks Wiltse",
+   "combined": false,
+   "perfect": false,
+   "event": ""
   },
   {
    "year": 1912,
    "by": "Tigers",
-   "against": "Browns"
+   "against": "Browns",
+   "pitcher": "George Mullin",
+   "combined": false,
+   "perfect": false,
+   "event": ""
   },
   {
    "year": 1983,
    "by": "Yankees",
-   "against": "Red Sox"
+   "against": "Red Sox",
+   "pitcher": "Dave Righetti",
+   "combined": false,
+   "perfect": false,
+   "event": ""
   }
- ]
+ ],
+ "gotd": {
+  "year": 1985,
+  "visitor": "Mets",
+  "home": "Braves",
+  "inn": 19,
+  "vline": [
+   "1",
+   "0",
+   "0",
+   "4",
+   "0",
+   "1",
+   "0",
+   "1",
+   "1",
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "5"
+  ],
+  "hline": [
+   "1",
+   "0",
+   "2",
+   "0",
+   "1",
+   "0",
+   "0",
+   "4",
+   "0",
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "2"
+  ],
+  "vr": 16,
+  "hr": 13,
+  "vh": 28,
+  "hh": 18,
+  "ve": 2,
+  "he": 3,
+  "crowd": 44947,
+  "park": "Atlanta-Fulton County Stadium",
+  "event": "",
+  "why": "19 innings"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 30,
+   "rpg": 16.6,
+   "crowd": 5879
+  },
+  {
+   "decade": 1880,
+   "games": 118,
+   "rpg": 11.75,
+   "crowd": 7405
+  },
+  {
+   "decade": 1890,
+   "games": 122,
+   "rpg": 12.32,
+   "crowd": 6635
+  },
+  {
+   "decade": 1900,
+   "games": 135,
+   "rpg": 8.03,
+   "crowd": 8830
+  },
+  {
+   "decade": 1910,
+   "games": 158,
+   "rpg": 8.49,
+   "crowd": 11046
+  },
+  {
+   "decade": 1920,
+   "games": 140,
+   "rpg": 10.36,
+   "crowd": 18858
+  },
+  {
+   "decade": 1930,
+   "games": 152,
+   "rpg": 9.84,
+   "crowd": 22744
+  },
+  {
+   "decade": 1940,
+   "games": 146,
+   "rpg": 9.05,
+   "crowd": 25431
+  },
+  {
+   "decade": 1950,
+   "games": 141,
+   "rpg": 9.06,
+   "crowd": 24076
+  },
+  {
+   "decade": 1960,
+   "games": 145,
+   "rpg": 8.61,
+   "crowd": 21657
+  },
+  {
+   "decade": 1970,
+   "games": 140,
+   "rpg": 8.24,
+   "crowd": 25915
+  },
+  {
+   "decade": 1980,
+   "games": 122,
+   "rpg": 8.35,
+   "crowd": 31160
+  },
+  {
+   "decade": 1990,
+   "games": 140,
+   "rpg": 9.16,
+   "crowd": 32462
+  },
+  {
+   "decade": 2000,
+   "games": 150,
+   "rpg": 10.37,
+   "crowd": 35855
+  },
+  {
+   "decade": 2010,
+   "games": 145,
+   "rpg": 8.7,
+   "crowd": 34950
+  },
+  {
+   "decade": 2020,
+   "games": 75,
+   "rpg": 9.0,
+   "crowd": 31672
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1871,
+   "visitor": "Forest Citys",
+   "home": "White Stockings",
+   "vs": 13,
+   "hs": 17,
+   "crowd": 9000,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2025,
+   "visitor": "Angels",
+   "home": "Blue Jays",
+   "vs": 3,
+   "hs": 4,
+   "crowd": 30119,
+   "park": "Rogers Centre",
+   "event": ""
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Nationals",
+    "w": 37,
+    "l": 25,
+    "pct": 0.597
+   },
+   {
+    "team": "Red Sox",
+    "w": 99,
+    "l": 68,
+    "pct": 0.593
+   },
+   {
+    "team": "Yankees",
+    "w": 97,
+    "l": 74,
+    "pct": 0.567
+   }
+  ],
+  "worst": [
+   {
+    "team": "Rays",
+    "w": 10,
+    "l": 17,
+    "pct": 0.37
+   },
+   {
+    "team": "Rockies",
+    "w": 12,
+    "l": 20,
+    "pct": 0.375
+   },
+   {
+    "team": "Brewers",
+    "w": 21,
+    "l": 34,
+    "pct": 0.382
+   }
+  ]
+ },
+ "wire": {
+  "count": 140,
+  "items": [
+   {
+    "year": 2018,
+    "text": "Reds trade Dylan Floro, Zach Neal and cash to the Dodgers for Aneurys Zabala and James Marinan",
+    "star": false
+   },
+   {
+    "year": 2012,
+    "text": "Astros trade Carlos Lee to the Marlins for Matt Dominguez and Rob Rasmussen",
+    "star": false
+   },
+   {
+    "year": 2001,
+    "text": "Yankees trade Brian Boehringer to the Giants for Bobby Estalella and Joe Smith",
+    "star": false
+   },
+   {
+    "year": 1998,
+    "text": "Marlins trade Jay Powell and Scott Makarewicz to the Astros for Ramon Castro",
+    "star": false
+   },
+   {
+    "year": 1998,
+    "text": "Dodgers trade Paul Konerko and Dennys Reyes to the Reds for Jeff Shaw",
+    "star": false
+   },
+   {
+    "year": 1986,
+    "text": "Steve Carlton signs with the Giants",
+    "star": true
+   },
+   {
+    "year": 1967,
+    "text": "Yankees trade cash and Ray Barker to the Orioles for Steve Barber",
+    "star": false
+   },
+   {
+    "year": 1966,
+    "text": "Astros release Robin Roberts",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "2",
+    "note": "most in 2005 (1)"
+   },
+   {
+    "label": "Trades made",
+    "value": "37",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "43",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2018",
+    "note": "8 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 2005,
+    "name": "Justin Verlander",
+    "star": false,
+    "seasons": 21
+   },
+   {
+    "year": 2000,
+    "name": "Jon Garland",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1999,
+    "name": "John McDonald",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1971,
+    "name": "Bruce Kison",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 1967,
+    "name": "Sparky Lyle",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1948,
+    "name": "Elston Howard",
+    "star": false,
+    "seasons": 21
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1990,
+    "name": "Mike Norris",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1960,
+    "name": "Jim Hegan",
+    "star": false,
+    "seasons": 20
+   },
+   {
+    "year": 1938,
+    "name": "Clint Thomas",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1923,
+    "name": "Fred Carisch",
+    "star": false,
+    "seasons": 21
+   },
+   {
+    "year": 1910,
+    "name": "Elmer Flick",
+    "star": true,
+    "seasons": 13
+   },
+   {
+    "year": 1891,
+    "name": "Pop Snyder",
+    "star": false,
+    "seasons": 19
+   }
+  ],
+  "debutCount": 129,
+  "farewellCount": 122,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1959,
+    "name": "Billy Jurges",
+    "star": false
+   },
+   {
+    "year": 1939,
+    "name": "Frank Shellenback",
+    "star": false
+   },
+   {
+    "year": 1933,
+    "name": "Oscar Levis",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 192,
+  "managers": 50,
+  "items": [
+   {
+    "year": 2022,
+    "text": "Tony LaRussa (manager) ejected by David Rackley: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 2004,
+    "text": "Alan Trammell (manager) ejected by Gary Cederstrom: called third strike",
+    "star": true
+   },
+   {
+    "year": 2000,
+    "text": "Bobby Cox (manager) ejected by Derryl Cousins: balls and strikes (bumped umpire)",
+    "star": true
+   },
+   {
+    "year": 1991,
+    "text": "Bobby Cox (manager) ejected by Gary Darling: called third strike",
+    "star": true
+   },
+   {
+    "year": 1980,
+    "text": "Tony LaRussa (manager) ejected by George Maloney: call at hp",
+    "star": true
+   }
+  ]
+ }
 }

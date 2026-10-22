@@ -3,5 +3,86 @@
  "day": 15,
  "games": 0,
  "items": [],
- "nohitters": []
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 134,
+  "items": [
+   {
+    "year": 2014,
+    "text": "Royals trade Brandon Laird to the Nationals for cash",
+    "star": false
+   },
+   {
+    "year": 1979,
+    "text": "Pirates trade cash, George Hill and Martin Rivas to the Red Sox for Mike Easler",
+    "star": false
+   },
+   {
+    "year": 1978,
+    "text": "Giants trade cash, Gary Alexander, Gary Thomasson, Dave Heaverlo, Alan Wirth, John Henry Johnson and Phil Huffman to the Athletics for Vida Blue",
+    "star": false
+   },
+   {
+    "year": 1978,
+    "text": "Blue Jays trade cash and Tom Bruno to the Cardinals for Rick Bosetti",
+    "star": false
+   },
+   {
+    "year": 1977,
+    "text": "Athletics trade Phil Garner, Tommy Helms and Chris Batton to the Pirates for Dave Giusti, Doc Medich, Doug Bair, Rick Langford, Tony Armas and Mitchell Page",
+    "star": false
+   },
+   {
+    "year": 1975,
+    "text": "Juan Marichal signs with the Dodgers",
+    "star": true
+   },
+   {
+    "year": 1971,
+    "text": "Angels trade Steve Kealey and Dave Adlesh to the White Sox for Art Kusnyer",
+    "star": false
+   },
+   {
+    "year": 1961,
+    "text": "Red Schoendienst signs with the Cardinals",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "3",
+    "note": "most in 2002 (1)"
+   },
+   {
+    "label": "Trades made",
+    "value": "52",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "36",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1977",
+    "note": "17 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

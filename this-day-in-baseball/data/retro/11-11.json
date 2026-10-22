@@ -3,5 +3,105 @@
  "day": 11,
  "games": 0,
  "items": [],
- "nohitters": []
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 196,
+  "items": [
+   {
+    "year": 1999,
+    "text": "Blue Jays trade Pat Hentgen and Paul Spoljaric to the Cardinals for Alberto Castillo, Matt DeWitt and Lance Painter",
+    "star": false
+   },
+   {
+    "year": 1997,
+    "text": "Yankees trade cash and Charlie Hayes to the Giants for Alberto Castillo and Chris Singleton",
+    "star": false
+   },
+   {
+    "year": 1995,
+    "text": "Wade Boggs becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 1991,
+    "text": "Jack Morris becomes a free agent (Twins)",
+    "star": true
+   },
+   {
+    "year": 1940,
+    "text": "Dodgers trade cash, Vito Tamulis, Bill Crouch and Mickey Livingston to the Phillies for Kirby Higbe",
+    "star": false
+   },
+   {
+    "year": 1928,
+    "text": "Rick Ferrell signs with the Browns",
+    "star": true
+   },
+   {
+    "year": 1897,
+    "text": "Giants trade cash, Jim Donnelly and Ducky Holmes to the Cardinals for Mike Grady and Fred Hartman",
+    "star": false
+   },
+   {
+    "year": 1896,
+    "text": "Orioles trade Steve Brodie and Jim Donnelly to the Pirates for Jake Stenzel, Tom O'Brien, Harry Truby and Elmer Horton",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "34",
+    "note": "most in 1995 (7)"
+   },
+   {
+    "label": "Trades made",
+    "value": "50",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "94",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2004",
+    "note": "13 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1943,
+    "name": "Bill Seinsoth",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1933,
+    "name": "Young",
+    "star": false,
+    "seasons": 4
+   }
+  ],
+  "farewells": [],
+  "debutCount": 2,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1943,
+    "name": "Pat Aherne",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

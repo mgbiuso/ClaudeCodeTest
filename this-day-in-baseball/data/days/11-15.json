@@ -597,5 +597,72 @@
    "extract": "John \"Hartford Jack\" Farrell was an outfielder in Major League Baseball in the 19th century.",
    "page": "https://en.wikipedia.org/wiki/Jack_Farrell_(outfielder)"
   }
- ]
+ ],
+ "wire": {
+  "count": 217,
+  "items": [
+   {
+    "year": 2017,
+    "text": "Athletics trade Ryon Healy to the Mariners for Emilio Pagan and Alexander Campos",
+    "star": false
+   },
+   {
+    "year": 2006,
+    "text": "Padres trade Jon Adkins and Ben Johnson to the Mets for Heath Bell and Royce Ring",
+    "star": false
+   },
+   {
+    "year": 2002,
+    "text": "Twins trade Matt Kinney and Javier Valentin to the Brewers for Matt Yeatman and Jerry Oakes",
+    "star": false
+   },
+   {
+    "year": 2002,
+    "text": "Padres trade Gene Kingsale to the Tigers for Mike Rivera",
+    "star": false
+   },
+   {
+    "year": 1991,
+    "text": "Reds trade Jack Armstrong, Scott Scudder and Joe Turek to the Indians for Greg Swindell",
+    "star": false
+   },
+   {
+    "year": 1989,
+    "text": "Braves release Bruce Sutter",
+    "star": true
+   },
+   {
+    "year": 1988,
+    "text": "Indians trade Don Lovell and John Githens to the Orioles for Tom Magrann and Jerry Holtz",
+    "star": false
+   },
+   {
+    "year": 1933,
+    "text": "Cardinals trade Jimmie Wilson to the Phillies for Spud Davis and Eddie Delker",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "13",
+    "note": "most in 1990 (2)"
+   },
+   {
+    "label": "Trades made",
+    "value": "31",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "138",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2004",
+    "note": "17 transactions"
+   }
+  ]
+ }
 }

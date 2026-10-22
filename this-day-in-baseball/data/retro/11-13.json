@@ -3,5 +3,86 @@
  "day": 13,
  "games": 0,
  "items": [],
- "nohitters": []
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 351,
+  "items": [
+   {
+    "year": 2015,
+    "text": "Padres trade Craig Kimbrel to the Red Sox for Manuel Margot, Javy Guerra, Carlos Asuaje and Logan Allen",
+    "star": false
+   },
+   {
+    "year": 2008,
+    "text": "Randy Johnson becomes a free agent (Diamondbacks)",
+    "star": true
+   },
+   {
+    "year": 2008,
+    "text": "Yankees trade Wilson Betemit, Jeffrey Marquez and Jhonny Nunez to the White Sox for Nick Swisher and Kanekoa Texeira",
+    "star": false
+   },
+   {
+    "year": 1996,
+    "text": "Indians trade Jeff Kent, Julian Tavarez and Jose Vizcaino to the Giants for Matt Williams",
+    "star": false
+   },
+   {
+    "year": 1989,
+    "text": "Rich Gossage becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 1989,
+    "text": "Rickey Henderson becomes a free agent (Athletics)",
+    "star": true
+   },
+   {
+    "year": 1981,
+    "text": "Reggie Jackson becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 1981,
+    "text": "Fergie Jenkins becomes a free agent (Rangers)",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "146",
+    "note": "most in 1989 (89)"
+   },
+   {
+    "label": "Trades made",
+    "value": "52",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "120",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1989",
+    "note": "92 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

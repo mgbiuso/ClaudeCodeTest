@@ -648,5 +648,72 @@
    "extract": "Michael Joseph \"King\" Kelly, also commonly known as \"$10,000 Kelly\", was an American baseball outfielder, catcher, and player-manager in various professional American baseball leagues including the National League, International Association, Players' League, and the American Association. He spent the majority of his…",
    "page": "https://en.wikipedia.org/wiki/King_Kelly"
   }
- ]
+ ],
+ "wire": {
+  "count": 216,
+  "items": [
+   {
+    "year": 2018,
+    "text": "Mariners trade Mike Zunino, Guillermo Heredia and Michael Plassmeyer to the Rays for Mallex Smith and Jake Fraley",
+    "star": false
+   },
+   {
+    "year": 2005,
+    "text": "Frank Thomas becomes a free agent (White Sox)",
+    "star": true
+   },
+   {
+    "year": 2004,
+    "text": "Padres trade cash, Terrence Long and Dennis Tankersley to the Royals for Ryan Bukvich and Darrell May",
+    "star": false
+   },
+   {
+    "year": 1999,
+    "text": "Blue Jays trade Shawn Green and Jorge Nunez to the Dodgers for Pedro Borbon and Raul Mondesi",
+    "star": false
+   },
+   {
+    "year": 1992,
+    "text": "Robin Yount becomes a free agent (Brewers)",
+    "star": true
+   },
+   {
+    "year": 1984,
+    "text": "Dennis Eckersley becomes a free agent (Cubs)",
+    "star": true
+   },
+   {
+    "year": 1984,
+    "text": "Rollie Fingers becomes a free agent (Brewers)",
+    "star": true
+   },
+   {
+    "year": 1928,
+    "text": "Rick Ferrell becomes a free agent (Tigers)",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "88",
+    "note": "most in 1984 (54)"
+   },
+   {
+    "label": "Trades made",
+    "value": "35",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "70",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1984",
+    "note": "54 transactions"
+   }
+  ]
+ }
 }

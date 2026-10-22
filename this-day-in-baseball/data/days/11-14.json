@@ -740,5 +740,112 @@
    "extract": "The Cleveland Spiders were an American professional baseball team based in Cleveland, Ohio. The team competed at the major league level from 1887 to 1899, first for two seasons as a member of the now-defunct American Association (AA), followed by eleven seasons in the National League (NL). Early names for the team…",
    "page": "https://en.wikipedia.org/wiki/Cleveland_Spiders"
   }
- ]
+ ],
+ "wire": {
+  "count": 188,
+  "items": [
+   {
+    "year": 2018,
+    "text": "Pirates trade Jordan Luplow and Max Moroff to the Indians for Erik Gonzalez, Tahnaj Thomas and Dante Mendoza",
+    "star": false
+   },
+   {
+    "year": 2014,
+    "text": "Rays trade Jeremy Hellickson to the Diamondbacks for Justin Williams and Andrew Velazquez",
+    "star": false
+   },
+   {
+    "year": 2003,
+    "text": "Twins trade cash and A.J. Pierzynski to the Giants for Joe Nathan, Francisco Liriano and Boof Bonser",
+    "star": false
+   },
+   {
+    "year": 1996,
+    "text": "Blue Jays trade Brandon Cromer, Jose Pett and Jose Silva to the Pirates for Carlos Garcia, Dan Plesac and Orlando Merced",
+    "star": false
+   },
+   {
+    "year": 1989,
+    "text": "Mets release Gary Carter",
+    "star": true
+   },
+   {
+    "year": 1985,
+    "text": "Brewers release Rollie Fingers",
+    "star": true
+   },
+   {
+    "year": 1895,
+    "text": "Phillies trade Billy Hamilton to the Braves for Billy Nash",
+    "star": true
+   },
+   {
+    "year": 1894,
+    "text": "Braves buy Jimmy Collins",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "5",
+    "note": "most in 1994 (1)"
+   },
+   {
+    "label": "Trades made",
+    "value": "43",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "111",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2012",
+    "note": "17 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1943,
+    "name": "Bud Dawson",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1925,
+    "name": "Les Cook",
+    "star": false,
+    "seasons": 2
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1943,
+    "name": "Bud Dawson",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1943,
+    "name": "Walter Olsen",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1943,
+    "name": "Bill Seinsoth",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "debutCount": 2,
+  "farewellCount": 3,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ }
 }

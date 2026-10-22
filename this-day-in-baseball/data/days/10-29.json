@@ -631,9 +631,246 @@
     "note": "Dodgers at Astros (2017)"
    },
    {
+    "label": "Walk-off wins",
+    "value": "1",
+    "note": "latest: Astros 13, Dodgers 12 (2017)"
+   },
+   {
     "label": "Biggest crowd",
     "value": "52,175",
     "note": "Blue Jays at Dodgers (2025)"
+   }
+  ],
+  "records": [
+   {
+    "label": "Most home runs by one team",
+    "value": "5",
+    "note": "Astros (2017); Astros 13, Dodgers 12"
+   },
+   {
+    "label": "Most strikeouts in a game",
+    "value": "23",
+    "note": "Yankees 3, Phillies 1 (2009)"
+   },
+   {
+    "label": "Most steals by one team",
+    "value": "5",
+    "note": "Yankees (2024)"
+   },
+   {
+    "label": "Shortest and longest games",
+    "value": "90 and 317 min",
+    "note": "1872 and 2017"
+   },
+   {
+    "label": "Postseason games",
+    "value": "9",
+    "note": "World Series 9"
+   },
+   {
+    "label": "Ballparks that hosted games",
+    "value": "9",
+    "note": "most games: NYC01 (3); Minute Maid Park (3); Yankee Stadium II (2)"
+   }
+  ],
+  "gotd": {
+   "year": 2017,
+   "visitor": "Dodgers",
+   "home": "Astros",
+   "inn": 10,
+   "vline": [
+    "3",
+    "0",
+    "0",
+    "1",
+    "3",
+    "0",
+    "1",
+    "1",
+    "3",
+    "0"
+   ],
+   "hline": [
+    "0",
+    "0",
+    "0",
+    "4",
+    "3",
+    "0",
+    "4",
+    "1",
+    "0",
+    "1"
+   ],
+   "vr": 12,
+   "hr": 13,
+   "vh": 14,
+   "hh": 14,
+   "ve": 1,
+   "he": 1,
+   "crowd": 43300,
+   "park": "Minute Maid Park",
+   "event": "World Series",
+   "why": "World Series, 10 innings, walk-off"
+  },
+  "eras": [
+   {
+    "decade": 1870,
+    "games": 5,
+    "rpg": 13.6,
+    "crowd": 383
+   },
+   {
+    "decade": 2000,
+    "games": 1,
+    "rpg": 4.0,
+    "crowd": null
+   },
+   {
+    "decade": 2010,
+    "games": 4,
+    "rpg": 12.0,
+    "crowd": 42231
+   },
+   {
+    "decade": 2020,
+    "games": 4,
+    "rpg": 7.75,
+    "crowd": 46838
+   }
+  ],
+  "thenNow": {
+   "first": {
+    "year": 1872,
+    "visitor": "Lord Baltimores",
+    "home": "Mutuals",
+    "vs": 4,
+    "hs": 1,
+    "crowd": null,
+    "park": null,
+    "event": ""
+   },
+   "latest": {
+    "year": 2025,
+    "visitor": "Blue Jays",
+    "home": "Dodgers",
+    "vs": 6,
+    "hs": 1,
+    "crowd": 52175,
+    "park": "Dodger Stadium",
+    "event": "World Series"
+   }
+  }
+ },
+ "wire": {
+  "count": 978,
+  "items": [
+   {
+    "year": 2018,
+    "text": "Joe Mauer becomes a free agent (Twins)",
+    "star": true
+   },
+   {
+    "year": 2018,
+    "text": "CC Sabathia becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 2012,
+    "text": "David Ortiz becomes a free agent (Red Sox)",
+    "star": true
+   },
+   {
+    "year": 2012,
+    "text": "Scott Rolen becomes a free agent (Reds)",
+    "star": true
+   },
+   {
+    "year": 2007,
+    "text": "Mariano Rivera becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 2004,
+    "text": "Barry Larkin becomes a free agent (Reds)",
+    "star": true
+   },
+   {
+    "year": 2003,
+    "text": "Greg Maddux becomes a free agent (Braves)",
+    "star": true
+   },
+   {
+    "year": 1969,
+    "text": "Jim Bunning signs with the Phillies",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "876",
+    "note": "most in 2007 (341)"
+   },
+   {
+    "label": "Trades made",
+    "value": "19",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "47",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2007",
+    "note": "348 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1933,
+    "name": "Walter Burch",
+    "star": false,
+    "seasons": 14
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1875,
+    "name": "Count Gedney",
+    "star": false,
+    "seasons": 4
+   },
+   {
+    "year": 1875,
+    "name": "Tom Miller",
+    "star": false,
+    "seasons": 2
+   }
+  ],
+  "debutCount": 1,
+  "farewellCount": 2,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1930,
+    "name": "Lefty Grove",
+    "star": true
+   }
+  ]
+ },
+ "ejections": {
+  "count": 1,
+  "managers": 1,
+  "items": [
+   {
+    "year": 2019,
+    "text": "Dave Martinez (manager) ejected by Sam Holbrook: interference call",
+    "star": false
    }
   ]
  }

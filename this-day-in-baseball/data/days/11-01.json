@@ -915,9 +915,275 @@
     "note": "Diamondbacks at Yankees (2001)"
    },
    {
+    "label": "Walk-off wins",
+    "value": "1",
+    "note": "latest: Yankees 3, Diamondbacks 2 (2001)"
+   },
+   {
     "label": "Biggest crowd",
     "value": "56,018",
     "note": "Diamondbacks at Yankees (2001)"
+   }
+  ],
+  "records": [
+   {
+    "label": "Most home runs by one team",
+    "value": "5",
+    "note": "Phillies (2022); Phillies 7, Astros 0"
+   },
+   {
+    "label": "Most strikeouts in a game",
+    "value": "22",
+    "note": "Royals 7, Mets 2 (2015)"
+   },
+   {
+    "label": "Most steals by one team",
+    "value": "4",
+    "note": "Royals (2015)"
+   },
+   {
+    "label": "Shortest and longest games",
+    "value": "152 and 255 min",
+    "note": "2010 and 2001"
+   },
+   {
+    "label": "Postseason games",
+    "value": "9",
+    "note": "World Series 9"
+   },
+   {
+    "label": "Ballparks that hosted games",
+    "value": "9",
+    "note": "most games: Citizens Bank Park (2); NYC01 (1); Yankee Stadium I (1)"
+   }
+  ],
+  "gotd": {
+   "year": 2001,
+   "visitor": "Diamondbacks",
+   "home": "Yankees",
+   "inn": 12,
+   "vline": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "hline": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "1"
+   ],
+   "vr": 2,
+   "hr": 3,
+   "vh": 8,
+   "hh": 9,
+   "ve": 0,
+   "he": 1,
+   "crowd": 56018,
+   "park": "Yankee Stadium I",
+   "event": "World Series",
+   "why": "World Series, 12 innings, walk-off"
+  },
+  "eras": [
+   {
+    "decade": 1870,
+    "games": 1,
+    "rpg": 13.0,
+    "crowd": null
+   },
+   {
+    "decade": 2000,
+    "games": 2,
+    "rpg": 8.0,
+    "crowd": null
+   },
+   {
+    "decade": 2010,
+    "games": 4,
+    "rpg": 7.75,
+    "crowd": 47286
+   },
+   {
+    "decade": 2020,
+    "games": 3,
+    "rpg": 7.0,
+    "crowd": 46312
+   }
+  ],
+  "thenNow": {
+   "first": {
+    "year": 1873,
+    "visitor": "White Stockings",
+    "home": "Atlantics",
+    "vs": 1,
+    "hs": 12,
+    "crowd": null,
+    "park": null,
+    "event": ""
+   },
+   "latest": {
+    "year": 2025,
+    "visitor": "Dodgers",
+    "home": "Blue Jays",
+    "vs": 5,
+    "hs": 4,
+    "crowd": 44713,
+    "park": "Rogers Centre",
+    "event": "World Series"
+   }
+  }
+ },
+ "wire": {
+  "count": 663,
+  "items": [
+   {
+    "year": 2010,
+    "text": "Jim Thome becomes a free agent (Twins)",
+    "star": true
+   },
+   {
+    "year": 2010,
+    "text": "Derek Jeter becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 2008,
+    "text": "Trevor Hoffman becomes a free agent (Padres)",
+    "star": true
+   },
+   {
+    "year": 2008,
+    "text": "CC Sabathia becomes a free agent (Brewers)",
+    "star": true
+   },
+   {
+    "year": 2002,
+    "text": "Fred McGriff becomes a free agent (Cubs)",
+    "star": true
+   },
+   {
+    "year": 1997,
+    "text": "Wade Boggs becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 1993,
+    "text": "Harold Baines becomes a free agent (Orioles)",
+    "star": true
+   },
+   {
+    "year": 1993,
+    "text": "Eddie Murray becomes a free agent (Mets)",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "486",
+    "note": "most in 2010 (143)"
+   },
+   {
+    "label": "Trades made",
+    "value": "26",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "51",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2010",
+    "note": "143 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1930,
+    "name": "Bert Hunter",
+    "star": false,
+    "seasons": 7
+   },
+   {
+    "year": 1930,
+    "name": "Art Parker",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1925,
+    "name": "Joe Pirrone",
+    "star": false,
+    "seasons": 6
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2017,
+    "name": "Andre Ethier",
+    "star": false,
+    "seasons": 12
+   },
+   {
+    "year": 2016,
+    "name": "Jeff Manship",
+    "star": false,
+    "seasons": 8
+   },
+   {
+    "year": 2015,
+    "name": "Alex Rios",
+    "star": false,
+    "seasons": 12
+   },
+   {
+    "year": 2010,
+    "name": "Bengie Molina",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1930,
+    "name": "O'Neal Pullen",
+    "star": false,
+    "seasons": 6
+   },
+   {
+    "year": 1873,
+    "name": "Jimmy Wood",
+    "star": false,
+    "seasons": 3
+   }
+  ],
+  "debutCount": 3,
+  "farewellCount": 7,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1930,
+    "name": "Fred Haney",
+    "star": false
    }
   ]
  }

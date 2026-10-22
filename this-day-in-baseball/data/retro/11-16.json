@@ -3,5 +3,86 @@
  "day": 16,
  "games": 0,
  "items": [],
- "nohitters": []
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 297,
+  "items": [
+   {
+    "year": 2015,
+    "text": "Rangers trade Leonys Martin and Anthony Bass to the Mariners for Tom Wilhelmsen and James Jones",
+    "star": false
+   },
+   {
+    "year": 2012,
+    "text": "Athletics trade Tyson Ross and A.J. Kirby-Jones to the Padres for Andy Parrino and Andrew Werner",
+    "star": false
+   },
+   {
+    "year": 2009,
+    "text": "Randy Johnson becomes a free agent (Giants)",
+    "star": true
+   },
+   {
+    "year": 2002,
+    "text": "Rockies trade cash, Juan Pierre and Mike Hampton to the Marlins for Charles Johnson, Preston Wilson, Vic Darensbourg and Pablo Ozuna",
+    "star": false
+   },
+   {
+    "year": 2001,
+    "text": "Cal Ripken becomes a free agent (Orioles)",
+    "star": true
+   },
+   {
+    "year": 1999,
+    "text": "Rockies trade Darryl Kile, Luther Hackman and Dave Veres to the Cardinals for Manny Aybar, Brent Butler, Rich Croushore and Jose Jimenez",
+    "star": false
+   },
+   {
+    "year": 1979,
+    "text": "Tony Perez signs with the Red Sox",
+    "star": true
+   },
+   {
+    "year": 1954,
+    "text": "Cubs trade Ralph Kiner to the Indians for cash",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "12",
+    "note": "most in 2009 (4)"
+   },
+   {
+    "label": "Trades made",
+    "value": "64",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "165",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1950",
+    "note": "22 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

@@ -24,10 +24,303 @@
    "note": "White Sox at Astros (2005)"
   },
   {
+   "label": "Walk-off wins",
+   "value": "4",
+   "note": "latest: Dodgers 6, Yankees 3 (2024)"
+  },
+  {
    "label": "Biggest crowd",
    "value": "67,498",
    "note": "Indians at Marlins (1997)"
   }
  ],
- "nohitters": []
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "4",
+   "note": "Astros (2017); Astros 7, Dodgers 6"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "25",
+   "note": "White Sox 7, Astros 5 (2005)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "4",
+   "note": "Rays (2008)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "139 and 341 min",
+   "note": "1981 and 2005"
+  },
+  {
+   "label": "Home team won",
+   "value": "61%",
+   "note": "of 23 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "20",
+   "note": "World Series 19, League Championship Series 1"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "17",
+   "note": "most games: Dodger Stadium (3); PHI01 (2); Shea Stadium (2)"
+  }
+ ],
+ "nohitters": [],
+ "gotd": {
+  "year": 2005,
+  "visitor": "White Sox",
+  "home": "Astros",
+  "inn": 14,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "5",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "2"
+  ],
+  "hline": [
+   "1",
+   "0",
+   "2",
+   "1",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "vr": 7,
+  "hr": 5,
+  "vh": 14,
+  "hh": 8,
+  "ve": 3,
+  "he": 1,
+  "crowd": 42848,
+  "park": "Minute Maid Park",
+  "event": "World Series",
+  "why": "World Series, 14 innings"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 3,
+   "rpg": 14.33,
+   "crowd": null
+  },
+  {
+   "decade": 1910,
+   "games": 1,
+   "rpg": 7.0,
+   "crowd": null
+  },
+  {
+   "decade": 1980,
+   "games": 3,
+   "rpg": 6.67,
+   "crowd": 55523
+  },
+  {
+   "decade": 1990,
+   "games": 2,
+   "rpg": 6.0,
+   "crowd": null
+  },
+  {
+   "decade": 2000,
+   "games": 6,
+   "rpg": 6.33,
+   "crowd": 47786
+  },
+  {
+   "decade": 2010,
+   "games": 5,
+   "rpg": 8.2,
+   "crowd": 44460
+  },
+  {
+   "decade": 2020,
+   "games": 3,
+   "rpg": 7.0,
+   "crowd": 36146
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1873,
+   "visitor": "Braves",
+   "home": "Athletics",
+   "vs": 6,
+   "hs": 10,
+   "crowd": null,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2025,
+   "visitor": "Dodgers",
+   "home": "Blue Jays",
+   "vs": 5,
+   "hs": 1,
+   "crowd": 44607,
+   "park": "Rogers Centre",
+   "event": "World Series"
+  }
+ },
+ "teams": null,
+ "wire": {
+  "count": 159,
+  "items": [
+   {
+    "year": 1994,
+    "text": "Dennis Eckersley becomes a free agent (Athletics)",
+    "star": true
+   },
+   {
+    "year": 1994,
+    "text": "Alan Trammell becomes a free agent (Tigers)",
+    "star": true
+   },
+   {
+    "year": 1993,
+    "text": "Lee Smith becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 1978,
+    "text": "Padres trade cash, Oscar Gamble and Dave Roberts to the Rangers for Mike Hargrove, Kurt Bevacqua and Bill Fahey",
+    "star": false
+   },
+   {
+    "year": 1973,
+    "text": "Padres trade Mike Caldwell to the Giants for Willie McCovey and Bernie Williams",
+    "star": true
+   },
+   {
+    "year": 1973,
+    "text": "Cubs trade Fergie Jenkins to the Rangers for Bill Madlock and Vic Harris",
+    "star": true
+   },
+   {
+    "year": 1955,
+    "text": "White Sox trade Jim Busby and Chico Carrasquel to the Indians for Larry Doby",
+    "star": true
+   },
+   {
+    "year": 1932,
+    "text": "Rogers Hornsby signs with the Cardinals",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "63",
+    "note": "most in 1993 (22)"
+   },
+   {
+    "label": "Trades made",
+    "value": "28",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "26",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1993",
+    "note": "25 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1948,
+    "name": "Morley Bockman",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1875,
+    "name": "Sam Weaver",
+    "star": false,
+    "seasons": 12
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2007,
+    "name": "Curt Schilling",
+    "star": false,
+    "seasons": 20
+   },
+   {
+    "year": 1997,
+    "name": "Kevin Seitzer",
+    "star": false,
+    "seasons": 12
+   },
+   {
+    "year": 1987,
+    "name": "Roy Smalley",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1931,
+    "name": "Frank Warfield",
+    "star": false,
+    "seasons": 11
+   },
+   {
+    "year": 1931,
+    "name": "Script Lee",
+    "star": false,
+    "seasons": 8
+   },
+   {
+    "year": 1875,
+    "name": "John McMullin",
+    "star": false,
+    "seasons": 5
+   }
+  ],
+  "debutCount": 2,
+  "farewellCount": 9,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 1,
+  "managers": 0,
+  "items": [
+   {
+    "year": 1987,
+    "text": "Danny Cox (player) ejected by Dave Phillips: balls and strikes",
+    "star": false
+   }
+  ]
+ }
 }

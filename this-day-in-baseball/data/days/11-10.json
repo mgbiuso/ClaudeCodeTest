@@ -1046,5 +1046,100 @@
    "extract": "",
    "page": ""
   }
- ]
+ ],
+ "wire": {
+  "count": 298,
+  "items": [
+   {
+    "year": 2008,
+    "text": "Nationals trade Emilio Bonifacio, P.J. Dean and Jake Smolinski to the Marlins for Scott Olsen and Josh Willingham",
+    "star": false
+   },
+   {
+    "year": 2008,
+    "text": "Rockies trade Matt Holliday to the Athletics for Carlos Gonzalez, Huston Street and Greg Smith",
+    "star": false
+   },
+   {
+    "year": 2006,
+    "text": "Craig Biggio signs with the Astros",
+    "star": true
+   },
+   {
+    "year": 2006,
+    "text": "Yankees trade Gary Sheffield to the Tigers for Anthony Claggett, Humberto Sanchez and Kevin Whelan",
+    "star": false
+   },
+   {
+    "year": 1999,
+    "text": "Phillies trade Adam Eaton, Carlton Loewer and Steve Montgomery to the Padres for Andy Ashby",
+    "star": false
+   },
+   {
+    "year": 1998,
+    "text": "Reds trade Bret Boone and Mike Remlinger to the Braves for Rob Bell, Denny Neagle and Michael Tucker",
+    "star": false
+   },
+   {
+    "year": 1978,
+    "text": "Yankees trade cash, Domingo Ramos, Mike Heath, Sparky Lyle, Larry McCall and Dave Rajsich to the Rangers for Dave Righetti, Juan Beniquez, Mike Griffin, Paul Mirabella and Greg Jemison",
+    "star": false
+   },
+   {
+    "year": 1975,
+    "text": "Royals release Harmon Killebrew",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "73",
+    "note": "most in 1982 (40)"
+   },
+   {
+    "label": "Trades made",
+    "value": "64",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "92",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1982",
+    "note": "41 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1935,
+    "name": "George McDonald",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1935,
+    "name": "Bob Rowe",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1935,
+    "name": "John Hines",
+    "star": false,
+    "seasons": 12
+   }
+  ],
+  "debutCount": 2,
+  "farewellCount": 1,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ }
 }

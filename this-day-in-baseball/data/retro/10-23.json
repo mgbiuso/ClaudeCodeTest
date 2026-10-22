@@ -24,10 +24,316 @@
    "note": "Yankees at Braves (1996)"
   },
   {
+   "label": "Walk-off wins",
+   "value": "3",
+   "note": "latest: White Sox 7, Astros 6 (2005)"
+  },
+  {
    "label": "Biggest crowd",
    "value": "65,975",
    "note": "Yankees at Marlins (2003)"
   }
  ],
- "nohitters": []
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "4",
+   "note": "Rangers (2023); Rangers 11, Astros 4"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "27",
+   "note": "Braves 4, Dodgers 2 (2021)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "4",
+   "note": "Athletics (1910)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "9",
+   "note": "Haymakers 19, White Stockings 12 (1871)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "110 and 257 min",
+   "note": "1874 and 1996"
+  },
+  {
+   "label": "Home team won",
+   "value": "56%",
+   "note": "of 32 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "26",
+   "note": "World Series 19, League Championship Series 7"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "25",
+   "note": "most games: Fenway Park (4); Citizens Bank Park (3); Atlanta-Fulton County Stadium (2)"
+  }
+ ],
+ "nohitters": [],
+ "gotd": {
+  "year": 2005,
+  "visitor": "Astros",
+  "home": "White Sox",
+  "inn": 9,
+  "vline": [
+   "0",
+   "1",
+   "1",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "2"
+  ],
+  "hline": [
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "4",
+   "0",
+   "1"
+  ],
+  "vr": 6,
+  "hr": 7,
+  "vh": 9,
+  "hh": 12,
+  "ve": 0,
+  "he": 0,
+  "crowd": 41432,
+  "park": "Guaranteed Rate Field;U.S. Cellular Field",
+  "event": "World Series",
+  "why": "World Series, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 6,
+   "rpg": 16.0,
+   "crowd": 640
+  },
+  {
+   "decade": 1910,
+   "games": 1,
+   "rpg": 9.0,
+   "crowd": null
+  },
+  {
+   "decade": 1980,
+   "games": 3,
+   "rpg": 6.0,
+   "crowd": 47960
+  },
+  {
+   "decade": 1990,
+   "games": 5,
+   "rpg": 10.6,
+   "crowd": 50237
+  },
+  {
+   "decade": 2000,
+   "games": 5,
+   "rpg": 11.2,
+   "crowd": 45198
+  },
+  {
+   "decade": 2010,
+   "games": 6,
+   "rpg": 8.67,
+   "crowd": 43042
+  },
+  {
+   "decade": 2020,
+   "games": 6,
+   "rpg": 8.83,
+   "crowd": 39137
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1871,
+   "visitor": "White Stockings",
+   "home": "Haymakers",
+   "vs": 12,
+   "hs": 19,
+   "crowd": 800,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2023,
+   "visitor": "Rangers",
+   "home": "Astros",
+   "vs": 11,
+   "hs": 4,
+   "crowd": 42814,
+   "park": "Minute Maid Park",
+   "event": "League Championship Series"
+  }
+ },
+ "teams": null,
+ "wire": {
+  "count": 146,
+  "items": [
+   {
+    "year": 2013,
+    "text": "Dodgers trade Alex Castellanos to the Red Sox for Jeremy Hazelbaker and cash",
+    "star": false
+   },
+   {
+    "year": 1981,
+    "text": "Brewers trade Rickey Keeton to the Astros for Pete Ladd",
+    "star": false
+   },
+   {
+    "year": 1981,
+    "text": "Twins trade Mike Kinnunen to the Cardinals for Jeff Little",
+    "star": false
+   },
+   {
+    "year": 1980,
+    "text": "Gaylord Perry becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 1980,
+    "text": "Don Sutton becomes a free agent (Dodgers)",
+    "star": true
+   },
+   {
+    "year": 1974,
+    "text": "Cubs trade Billy Williams to the Athletics for Darold Knowles, Bob Locker and Manny Trillo",
+    "star": true
+   },
+   {
+    "year": 1974,
+    "text": "Athletics trade Dan Ford and Dennis Myers to the Twins for Pat Bourque",
+    "star": false
+   },
+   {
+    "year": 1945,
+    "text": "Jackie Robinson signs with the Dodgers",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "69",
+    "note": "most in 1998 (43)"
+   },
+   {
+    "label": "Trades made",
+    "value": "22",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "18",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1998",
+    "note": "46 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1947,
+    "name": "Bob Stassi",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1934,
+    "name": "Ollie Carnegie",
+    "star": false,
+    "seasons": 10
+   },
+   {
+    "year": 1934,
+    "name": "Dick Goldberg",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1927,
+    "name": "Jimmy Lyston",
+    "star": false,
+    "seasons": 6
+   },
+   {
+    "year": 1927,
+    "name": "Joe Bird",
+    "star": false,
+    "seasons": 5
+   },
+   {
+    "year": 1875,
+    "name": "Fred Goldsmith",
+    "star": false,
+    "seasons": 10
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2013,
+    "name": "Ryan Dempster",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1996,
+    "name": "Mike Aldrete",
+    "star": false,
+    "seasons": 11
+   },
+   {
+    "year": 1993,
+    "name": "Alfredo Griffin",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1946,
+    "name": "Ed Stone",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1934,
+    "name": "John Henry Russell",
+    "star": false,
+    "seasons": 10
+   },
+   {
+    "year": 1932,
+    "name": "Eggie Dallard",
+    "star": false,
+    "seasons": 8
+   }
+  ],
+  "debutCount": 11,
+  "farewellCount": 20,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

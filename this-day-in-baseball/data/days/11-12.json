@@ -920,5 +920,87 @@
    "extract": "Hugh N. Nicol was an American professional baseball player. An outfielder, Nicol played in Major League Baseball for the Chicago White Stockings, St. Louis Browns, Cincinnati Red Stockings, and Cincinnati Reds. Nicol's debut game took place on May 3, 1881. His final game took place on August 2, 1890.",
    "page": "https://en.wikipedia.org/wiki/Hugh_Nicol"
   }
- ]
+ ],
+ "wire": {
+  "count": 361,
+  "items": [
+   {
+    "year": 2015,
+    "text": "Braves trade Andrelton Simmons and Jose Briceno to the Angels for Erick Aybar, Sean Newcomb, Chris Ellis and cash",
+    "star": false
+   },
+   {
+    "year": 1987,
+    "text": "White Sox trade Richard Dotson and Scott Nielsen to the Yankees for Dan Pasqua, Mark Salas and Steve Rosenberg",
+    "star": false
+   },
+   {
+    "year": 1986,
+    "text": "Steve Carlton becomes a free agent (White Sox)",
+    "star": true
+   },
+   {
+    "year": 1986,
+    "text": "Andre Dawson becomes a free agent (Expos)",
+    "star": true
+   },
+   {
+    "year": 1985,
+    "text": "Rod Carew becomes a free agent (Angels)",
+    "star": true
+   },
+   {
+    "year": 1985,
+    "text": "Carlton Fisk becomes a free agent (White Sox)",
+    "star": true
+   },
+   {
+    "year": 1928,
+    "text": "Ray Schalk signs with the Giants",
+    "star": true
+   },
+   {
+    "year": 1923,
+    "text": "Giants trade Casey Stengel, Dave Bancroft and Bill Cunningham to the Braves for Billy Southworth and Joe Oeschger",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "149",
+    "note": "most in 1986 (77)"
+   },
+   {
+    "label": "Trades made",
+    "value": "58",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "117",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1986",
+    "note": "83 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1933,
+    "name": "Clements",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [],
+  "debutCount": 1,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ }
 }

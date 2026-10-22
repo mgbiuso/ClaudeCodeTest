@@ -119,6 +119,8 @@ const hasMedia = (s) => hasVideo(s) || s.image;
 function kickerFor(story, tag) {
   const k = el("div", "kicker");
   k.append(el("span", "yr", story.year), el("span", "tag", tag));
+  const ago = new Date().getFullYear() - (+story.year || 0);
+  if (ago >= 25 && ago % 25 === 0) k.append(el("span", "anniv", `${ago} years ago`));
   return k;
 }
 
@@ -137,7 +139,9 @@ function bodyFor(story) {
 }
 
 function card(story, { tag, accent, cls }) {
+  const index = story.__i;
   const node = el("article", `story ${cls || ""}${story.kind === "death" ? " death" : ""}`);
+  if (index != null) node.id = `story-${index}`;
   node.style.setProperty("--accent", accent);
   const head = el("div", "head");
   head.append(kickerFor(story, tag), el("h3", "headline", story.headline || story.text));
@@ -229,7 +233,96 @@ function columnBox(cls, nodes, fillers) {
   return box;
 }
 
-// An almanac-style strip of Retrosheet facts about every game ever played on this date.
+// ---------- Retrosheet extras ----------
+// An almanac-style strip of Retrosheet facts about every game ever played on this date, then the game of the day,
+// small charts by decade, team records and the record book. Everything is set with textContent / SVG built by hand.
+
+const SVG_NS = "http://www.w3.org/2000/svg";
+function svg(tag, attrs) {
+  const n = document.createElementNS(SVG_NS, tag);
+  for (const [k, v] of Object.entries(attrs || {})) n.setAttribute(k, v);
+  return n;
+}
+
+function barChart(rows, key, title, fmt) {
+  const data = rows.filter((r) => r[key] != null);
+  if (data.length < 3) return null;
+  const fig = el("figure", "chart");
+  const W = 320, H = 118, pad = { l: 4, r: 4, t: 14, b: 22 };
+  const max = Math.max(...data.map((r) => r[key]));
+  const bw = (W - pad.l - pad.r) / data.length;
+  const s = svg("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": `${title}: ${data.map((r) => `${r.decade}s ${fmt(r[key])}`).join(", ")}` });
+  const peak = data.reduce((a, b) => (b[key] > a[key] ? b : a));
+  data.forEach((r, i) => {
+    const h = Math.max(2, ((H - pad.t - pad.b) * r[key]) / max);
+    const x = pad.l + i * bw;
+    s.append(svg("rect", { x: x + 1.5, y: H - pad.b - h, width: Math.max(2, bw - 3), height: h, class: r === peak ? "bar peak" : "bar" }));
+    if (i % 2 === 0 || data.length < 8) {
+      const t = svg("text", { x: x + bw / 2, y: H - 7, "text-anchor": "middle", class: "tick" });
+      t.textContent = i === 0 || r.decade % 100 === 0 ? String(r.decade) : `'${String(r.decade).slice(2)}`;
+      s.append(t);
+    }
+  });
+  const pk = svg("text", { x: pad.l + data.indexOf(peak) * bw + bw / 2, y: pad.t - 3, "text-anchor": "middle", class: "peak-label" });
+  pk.textContent = fmt(peak[key]);
+  s.append(pk);
+  fig.append(s, el("figcaption", "", title));
+  return fig;
+}
+
+function scoreboard(g) {
+  const box = el("div", "gotd");
+  const tbl = el("table", "linescore");
+  const head = el("tr");
+  head.append(el("th", "team", ""));
+  for (let i = 1; i <= g.inn; i++) head.append(el("th", "", String(i)));
+  for (const c of ["R", "H", "E"]) head.append(el("th", "tot", c));
+  tbl.append(head);
+  for (const [name, line, r, h, e] of [[g.visitor, g.vline, g.vr, g.vh, g.ve], [g.home, g.hline, g.hr, g.hh, g.he]]) {
+    const row = el("tr", (r > (name === g.visitor ? g.hr : g.vr)) ? "win" : "");
+    row.append(el("th", "team", name));
+    line.forEach((x) => row.append(el("td", "", x)));
+    for (const v of [r, h, e]) row.append(el("td", "tot", v == null ? "" : String(v)));
+    tbl.append(row);
+  }
+  box.append(tbl);
+  const bits = [`${g.year}`, g.park, g.crowd ? `${g.crowd.toLocaleString("en-US")} fans` : ""].filter(Boolean).join(", ");
+  box.append(el("p", "gotd-cap", `${bits}${g.why ? `. ${g.why[0].toUpperCase()}${g.why.slice(1)}.` : ""}`));
+  return box;
+}
+
+function thenNow(tn) {
+  const box = el("div", "thennow");
+  for (const [label, g] of [["First on record", tn.first], ["Latest", tn.latest]]) {
+    const cell = el("div", "tn");
+    const w = g.vs > g.hs ? [g.visitor, g.vs, g.home, g.hs] : [g.home, g.hs, g.visitor, g.vs];
+    cell.append(el("div", "tn-year", String(g.year)), el("div", "tn-label", label));
+    cell.append(el("div", "tn-score", `${w[0]} ${w[1]}, ${w[2]} ${w[3]}`));
+    const where = [g.event, g.park, g.crowd ? `${g.crowd.toLocaleString("en-US")} fans` : ""].filter(Boolean).join(" \u00b7 ");
+    if (where) cell.append(el("div", "tn-note", where));
+    box.append(cell);
+  }
+  return box;
+}
+
+function teamsTable(t) {
+  const box = el("div", "teamrec");
+  for (const [label, rows] of [["Best on this date", t.best], ["Toughest on this date", t.worst]]) {
+    const col = el("div", "tr-col");
+    col.append(el("h4", "mini-head", label));
+    for (const r of rows) {
+      const line = el("div", "tr-row");
+      const bar = el("span", "tr-bar");
+      bar.style.width = `${Math.round(r.pct * 100)}%`;
+      bar.setAttribute("aria-hidden", "true");
+      line.append(el("span", "tr-team", r.team), el("span", "tr-rec", `${r.w}\u2013${r.l}`), bar);
+      col.append(line);
+    }
+    box.append(col);
+  }
+  return box;
+}
+
 function numbersBox(numbers) {
   const box = el("section", "numbers");
   box.setAttribute("aria-label", "By the numbers");
@@ -241,6 +334,202 @@ function numbersBox(numbers) {
     row.append(cell);
   }
   box.append(row);
+
+  const extras = el("div", "numbers-extra");
+  if (numbers.gotd) {
+    const c = el("div", "nx");
+    c.append(el("h3", "mini-head", "Game of the day"), scoreboard(numbers.gotd));
+    if (numbers.thenNow) c.append(el("h3", "mini-head", "Then and now"), thenNow(numbers.thenNow));
+    extras.append(c);
+  }
+  const charts = [];
+  if (numbers.eras) {
+    const r = barChart(numbers.eras, "rpg", "Runs per game, by decade", (v) => v.toFixed(1));
+    const a = barChart(numbers.eras, "crowd", "Average crowd, by decade", (v) => `${Math.round(v / 1000)}k`);
+    if (r) charts.push(r);
+    if (a) charts.push(a);
+  }
+  if (charts.length || numbers.teams) {
+    const c = el("div", "nx");
+    if (charts.length) c.append(el("h3", "mini-head", "Through the years"), ...charts);
+    if (numbers.teams) c.append(el("h3", "mini-head", "Teams on this date"), teamsTable(numbers.teams));
+    extras.append(c);
+  }
+  if (numbers.records && numbers.records.length) {
+    const c = el("div", "nx");
+    c.append(el("h3", "mini-head", "The record book"));
+    const dl = el("dl", "recbook");
+    for (const r of numbers.records) {
+      const dt = el("dt", "", r.label);
+      const dd = el("dd");
+      dd.append(el("strong", "", r.value), ` ${r.note}`);
+      dl.append(dt, dd);
+    }
+    c.append(dl);
+    extras.append(c);
+  }
+  if (extras.children.length) box.append(extras);
+  return box;
+}
+
+// The wire: transactions, debuts and farewells, ejections, set like the agate columns of a sports page.
+function wireBox(data) {
+  const cols = [];
+  const star = (s) => {
+    if (!s.star) return null;
+    const m = el("span", "hof", "\u2605");
+    m.title = "Hall of Famer";
+    m.setAttribute("aria-label", "Hall of Famer");
+    return m;
+  };
+  if (data.wire && data.wire.count) {
+    const c = el("div", "wire-col");
+    c.append(el("h3", "mini-head", "The transaction wire"));
+    const sum = el("p", "wire-sum", `${data.wire.count.toLocaleString("en-US")} moves on this date since 1873. ` +
+      (data.wire.summary || []).filter((s) => s.label !== "Busiest year").map((s) => `${s.value} ${s.label.toLowerCase()}`).join("; ") + ".");
+    c.append(sum);
+    const ul = el("ul", "wire-list");
+    for (const it of data.wire.items || []) {
+      const li = el("li");
+      li.append(el("span", "yr", String(it.year)), it.text);
+      const s = star(it);
+      if (s) li.append(" ", s);
+      ul.append(li);
+    }
+    c.append(ul);
+    cols.push(c);
+  }
+  const p = data.people;
+  if (p && (p.debuts.length || p.farewells.length)) {
+    const c = el("div", "wire-col");
+    c.append(el("h3", "mini-head", "Debuts and farewells"));
+    const people = (label, list, total) => {
+      if (!list.length) return;
+      c.append(el("h4", "mini-sub", `${label} (${total.toLocaleString("en-US")} on this date)`));
+      const ul = el("ul", "wire-list");
+      for (const it of list) {
+        const li = el("li");
+        li.append(el("span", "yr", String(it.year)), `${it.name}${it.seasons > 1 ? `, ${it.seasons} seasons` : ""}`);
+        const s = star(it);
+        if (s) li.append(" ", s);
+        ul.append(li);
+      }
+      c.append(ul);
+    };
+    people("Major league debuts", p.debuts, p.debutCount);
+    people("Final games", p.farewells, p.farewellCount);
+    if (p.managerDebuts && p.managerDebuts.length) {
+      c.append(el("h4", "mini-sub", "First game as manager"));
+      const ul = el("ul", "wire-list");
+      for (const it of p.managerDebuts) {
+        const li = el("li");
+        li.append(el("span", "yr", String(it.year)), it.name);
+        const s = star(it);
+        if (s) li.append(" ", s);
+        ul.append(li);
+      }
+      c.append(ul);
+    }
+    cols.push(c);
+  }
+  if (data.ejections && data.ejections.count) {
+    const c = el("div", "wire-col");
+    c.append(el("h3", "mini-head", "Thrown out"));
+    c.append(el("p", "wire-sum", `${data.ejections.count.toLocaleString("en-US")} ejections on this date, ${data.ejections.managers.toLocaleString("en-US")} of them managers.`));
+    const ul = el("ul", "wire-list");
+    for (const it of data.ejections.items || []) {
+      const li = el("li");
+      li.append(el("span", "yr", String(it.year)), it.text);
+      const s = star(it);
+      if (s) li.append(" ", s);
+      ul.append(li);
+    }
+    c.append(ul);
+    cols.push(c);
+  }
+  if (!cols.length) return null;
+  const box = el("section", "wire");
+  box.append(el("h2", "reverse-head", "Around the league"));
+  const row = el("div", "wire-row");
+  row.style.setProperty("--n", cols.length);
+  cols.forEach((c) => row.append(c));
+  box.append(row);
+  return box;
+}
+
+// A thin ruler from the oldest to the newest year with one tick per story; a tick jumps to its story.
+function ribbon(stories) {
+  const years = stories.map((s) => +s.year).filter(Boolean);
+  if (years.length < 3) return null;
+  const min = Math.min(...years), max = Math.max(...years);
+  const span = Math.max(1, max - min);
+  const box = el("nav", "ribbon");
+  box.setAttribute("aria-label", "Stories by year");
+  const line = el("div", "ribbon-line");
+  const first = Math.ceil(min / 10) * 10;
+  for (let d = first; d <= max; d += 10) {
+    const t = el("span", "ribbon-decade", `${d}`);
+    t.style.left = `${((d - min) / span) * 100}%`;
+    line.append(t);
+  }
+  stories.forEach((s, i) => {
+    const y = +s.year;
+    if (!y) return;
+    const a = el("a", "ribbon-tick");
+    a.href = `#story-${i}`;
+    a.style.left = `${((y - min) / span) * 100}%`;
+    a.title = `${y}: ${s.headline}`;
+    a.setAttribute("aria-label", `${y}: ${s.headline}`);
+    a.addEventListener("click", (ev) => {
+      ev.preventDefault();
+      const node = document.getElementById(`story-${i}`);
+      if (node) { node.scrollIntoView({ behavior: "smooth", block: "center" }); node.classList.add("flash"); setTimeout(() => node.classList.remove("flash"), 1600); }
+    });
+    line.append(a);
+  });
+  box.append(el("span", "ribbon-end", String(min)), line, el("span", "ribbon-end", String(max)));
+  return box;
+}
+
+// Year at a glance: one square per calendar day, shaded by how much Retrosheet knows about it.
+let calendarData = null;
+async function loadCalendar() {
+  if (calendarData) return calendarData;
+  try {
+    const res = await fetch("data/retro/calendar.json", { cache: "no-cache" });
+    calendarData = res.ok ? await res.json() : {};
+  } catch (err) {
+    calendarData = {};
+  }
+  return calendarData;
+}
+
+function calendarBox(cal, when) {
+  const keys = Object.keys(cal).filter((k) => k !== "built");
+  if (!keys.length) return null;
+  const built = new Set(cal.built || []);
+  const score = (v) => Math.log10(1 + v[0]) + 0.5 * Math.log10(1 + v[1]) + 0.5 * Math.log10(1 + v[2]) + 0.4 * Math.log10(1 + v[3]);
+  const max = Math.max(...keys.map((k) => score(cal[k])));
+  const box = el("section", "yearcal");
+  box.append(el("h2", "reverse-head", "The year at a glance"));
+  box.append(el("p", "yearcal-note", "Darker days have more games, moves and milestones on record. Outlined days are in this edition."));
+  const grid = el("div", "yearcal-grid");
+  MONTHS.forEach((name, mi) => {
+    const rowEl = el("div", "yc-row");
+    rowEl.append(el("span", "yc-month", name.slice(0, 3)));
+    for (let d = 1; d <= DAYS_IN[mi]; d++) {
+      const k = `${pad(mi + 1)}${pad(d)}`;
+      const v = cal[k] || [0, 0, 0, 0];
+      const level = Math.min(4, Math.round((score(v) / max) * 4));
+      const a = el("a", `yc l${level}${built.has(k) ? " built" : ""}${mi + 1 === when.month && d === when.day ? " now" : ""}`);
+      a.href = `#${pad(mi + 1)}-${pad(d)}`;
+      a.title = `${name} ${d}: ${v[0].toLocaleString("en-US")} games, ${v[1].toLocaleString("en-US")} moves`;
+      a.setAttribute("aria-label", a.title);
+      rowEl.append(a);
+    }
+    grid.append(rowEl);
+  });
+  box.append(grid);
   return box;
 }
 
@@ -249,12 +538,15 @@ function render(data, when) {
   wrap.replaceChildren();
   columnJobs = [];
   const stories = data.stories || [];
+  stories.forEach((s, i) => { s.__i = i; });  // lets the year ribbon find each story
 
   const head = el("div", "date-head");
   head.append(el("div", "when", `${MONTHS[when.month - 1]} ${when.day}`));
   const years = stories.map((s) => +s.year).filter(Boolean);
   head.append(el("div", "count", years.length ? `${stories.length} stories · ${Math.min(...years)} to ${Math.max(...years)}` : ""));
   wrap.append(head);
+  const rib = ribbon(stories);
+  if (rib) wrap.append(rib);
   if (!stories.length) return;
 
   // Tiers: the lead, then photo stories (beside the lead first, then in columns), obituaries, then text-only briefs.
@@ -307,6 +599,9 @@ function render(data, when) {
     wrap.append(grid);
   }
 
+  const wire = wireBox(data);
+  if (wire) wrap.append(wire);
+
   if (deaths.length) {
     const box = el("section", "memoriam");
     box.append(el("h2", "reverse-head", "In memoriam"));
@@ -322,6 +617,9 @@ function render(data, when) {
     box.append(list);
     wrap.append(box);
   }
+
+  const cal = calendarBox(calendarData || {}, when);
+  if (cal) wrap.append(cal);
 
   columnJobs.forEach(fillColumns);
 }
@@ -347,6 +645,7 @@ async function load() {
     const res = await fetch(`data/days/${pad(when.month)}-${pad(when.day)}.json`, { cache: "no-cache" });
     if (!res.ok) throw new Error(String(res.status));
     const data = await res.json();
+    await loadCalendar();
     current = { data, when };
     $("status").hidden = true;
     render(data, when);

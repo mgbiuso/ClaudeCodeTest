@@ -24,5 +24,181 @@
    "note": "Yankees at Diamondbacks (2001)"
   }
  ],
- "nohitters": []
+ "records": [
+  {
+   "label": "Most strikeouts in a game",
+   "value": "24",
+   "note": "Astros 3, Phillies 2 (2022)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "8",
+   "note": "Diamondbacks 15, Yankees 2 (2001)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "213 and 237 min",
+   "note": "2001 and 2022"
+  },
+  {
+   "label": "Postseason games",
+   "value": "2",
+   "note": "World Series 2"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "2",
+   "note": "most games: Chase Field (1); Citizens Bank Park (1)"
+  }
+ ],
+ "nohitters": [],
+ "gotd": {
+  "year": 2022,
+  "visitor": "Astros",
+  "home": "Phillies",
+  "inn": 9,
+  "vline": [
+   "1",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0"
+  ],
+  "hline": [
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0"
+  ],
+  "vr": 3,
+  "hr": 2,
+  "vh": 9,
+  "hh": 6,
+  "ve": 0,
+  "he": 1,
+  "crowd": 45693,
+  "park": "Citizens Bank Park",
+  "event": "World Series",
+  "why": "World Series"
+ },
+ "eras": [],
+ "thenNow": {
+  "first": {
+   "year": 2001,
+   "visitor": "Yankees",
+   "home": "Diamondbacks",
+   "vs": 2,
+   "hs": 15,
+   "crowd": 49707,
+   "park": "Chase Field",
+   "event": "World Series"
+  },
+  "latest": {
+   "year": 2022,
+   "visitor": "Astros",
+   "home": "Phillies",
+   "vs": 3,
+   "hs": 2,
+   "crowd": 45693,
+   "park": "Citizens Bank Park",
+   "event": "World Series"
+  }
+ },
+ "teams": null,
+ "wire": {
+  "count": 1144,
+  "items": [
+   {
+    "year": 2017,
+    "text": "Ichiro Suzuki becomes a free agent (Marlins)",
+    "star": true
+   },
+   {
+    "year": 2010,
+    "text": "Adrian Beltre becomes a free agent (Red Sox)",
+    "star": true
+   },
+   {
+    "year": 2010,
+    "text": "Vladimir Guerrero becomes a free agent (Rangers)",
+    "star": true
+   },
+   {
+    "year": 2008,
+    "text": "Ken Griffey becomes a free agent (White Sox)",
+    "star": true
+   },
+   {
+    "year": 2004,
+    "text": "Roberto Alomar becomes a free agent (White Sox)",
+    "star": true
+   },
+   {
+    "year": 2003,
+    "text": "Astros trade Billy Wagner to the Phillies for Brandon Duckworth, Taylor Buchholz and Ezequiel Astacio",
+    "star": true
+   },
+   {
+    "year": 1993,
+    "text": "Alan Trammell signs with the Tigers",
+    "star": true
+   },
+   {
+    "year": 1988,
+    "text": "Twins trade Bert Blyleven and Kevin Trudeau to the Angels for Mike Cook, Rob Wassenaar and Paul Sorrento",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "1,018",
+    "note": "most in 2012 (291)"
+   },
+   {
+    "label": "Trades made",
+    "value": "43",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "45",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2012",
+    "note": "296 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [
+   {
+    "year": 2001,
+    "name": "Bobby Witt",
+    "star": false,
+    "seasons": 16
+   }
+  ],
+  "debutCount": 0,
+  "farewellCount": 1,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

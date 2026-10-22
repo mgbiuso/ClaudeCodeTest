@@ -718,5 +718,136 @@
    "extract": "The following are the baseball events of the year 1890 throughout the world.",
    "page": "https://en.wikipedia.org/wiki/1890_in_baseball"
   }
- ]
+ ],
+ "wire": {
+  "count": 766,
+  "items": [
+   {
+    "year": 2018,
+    "text": "CC Sabathia signs with the Yankees",
+    "star": true
+   },
+   {
+    "year": 2011,
+    "text": "Royals trade Melky Cabrera to the Giants for Jonathan Sanchez and Ryan Verdugo",
+    "star": false
+   },
+   {
+    "year": 2007,
+    "text": "Astros trade Brad Lidge and Eric Bruntlett to the Phillies for Michael Bourn, Geoff Geary and Mike Costanzo",
+    "star": false
+   },
+   {
+    "year": 1995,
+    "text": "Andre Dawson becomes a free agent (Marlins)",
+    "star": true
+   },
+   {
+    "year": 1983,
+    "text": "Rod Carew becomes a free agent (Angels)",
+    "star": true
+   },
+   {
+    "year": 1983,
+    "text": "Rich Gossage becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 1928,
+    "text": "Cubs trade cash, Socks Seibold, Percy Jones, Lou Legett, Freddie Maguire and Bruce Cunningham to the Braves for Rogers Hornsby",
+    "star": true
+   },
+   {
+    "year": 1912,
+    "text": "Cardinals release Roger Bresnahan",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "621",
+    "note": "most in 2016 (268)"
+   },
+   {
+    "label": "Trades made",
+    "value": "33",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "86",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2016",
+    "note": "272 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1937,
+    "name": "Shafer",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1925,
+    "name": "Howard Lindimore",
+    "star": false,
+    "seasons": 2
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1948,
+    "name": "Cool Papa Bell",
+    "star": true,
+    "seasons": 25
+   },
+   {
+    "year": 1948,
+    "name": "Jack Paepke",
+    "star": false,
+    "seasons": 5
+   },
+   {
+    "year": 1948,
+    "name": "Jerry Gardner",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1943,
+    "name": "Larry Barton",
+    "star": false,
+    "seasons": 9
+   },
+   {
+    "year": 1943,
+    "name": "Fred Bell",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1943,
+    "name": "Jack Calvey",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "debutCount": 2,
+  "farewellCount": 8,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1925,
+    "name": "Doc Crandall",
+    "star": false
+   }
+  ]
+ }
 }

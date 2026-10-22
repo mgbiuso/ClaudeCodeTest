@@ -3,5 +3,86 @@
  "day": 6,
  "games": 0,
  "items": [],
- "nohitters": []
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 1153,
+  "items": [
+   {
+    "year": 2009,
+    "text": "Vladimir Guerrero becomes a free agent (Angels)",
+    "star": true
+   },
+   {
+    "year": 2009,
+    "text": "Pedro Martinez becomes a free agent (Phillies)",
+    "star": true
+   },
+   {
+    "year": 2001,
+    "text": "Harold Baines becomes a free agent (White Sox)",
+    "star": true
+   },
+   {
+    "year": 2001,
+    "text": "Tim Raines becomes a free agent (Orioles)",
+    "star": true
+   },
+   {
+    "year": 1995,
+    "text": "Harold Baines becomes a free agent (Orioles)",
+    "star": true
+   },
+   {
+    "year": 1995,
+    "text": "Fred McGriff becomes a free agent (Braves)",
+    "star": true
+   },
+   {
+    "year": 1992,
+    "text": "Gary Carter becomes a free agent (Expos)",
+    "star": true
+   },
+   {
+    "year": 1992,
+    "text": "Rich Gossage becomes a free agent (Athletics)",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "1,003",
+    "note": "most in 2017 (313)"
+   },
+   {
+    "label": "Trades made",
+    "value": "41",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "73",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2017",
+    "note": "318 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

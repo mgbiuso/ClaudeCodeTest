@@ -24,10 +24,311 @@
    "note": "Red Sox at Dodgers (2018)"
   },
   {
+   "label": "Walk-off wins",
+   "value": "6",
+   "note": "latest: Dodgers 3, Red Sox 2 (2018)"
+  },
+  {
    "label": "Biggest crowd",
    "value": "67,204",
    "note": "Indians at Marlins (1997)"
   }
  ],
- "nohitters": []
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "4",
+   "note": "Yankees (1999); Yankees 6, Braves 5"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "34",
+   "note": "Dodgers 3, Red Sox 2 (2018)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "7",
+   "note": "Braves 15, White Stockings 3 (1874)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "110 and 440 min",
+   "note": "1874 and 2018"
+  },
+  {
+   "label": "Home team won",
+   "value": "70%",
+   "note": "of 23 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "20",
+   "note": "World Series 20"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "17",
+   "note": "most games: HRT01 (2); Progressive Field (2); Yankee Stadium I (2)"
+  }
+ ],
+ "nohitters": [],
+ "gotd": {
+  "year": 2018,
+  "visitor": "Red Sox",
+  "home": "Dodgers",
+  "inn": 18,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 2,
+  "hr": 3,
+  "vh": 7,
+  "hh": 11,
+  "ve": 1,
+  "he": 1,
+  "crowd": 53114,
+  "park": "Dodger Stadium",
+  "event": "World Series",
+  "why": "World Series, 18 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 3,
+   "rpg": 12.0,
+   "crowd": 482
+  },
+  {
+   "decade": 1910,
+   "games": 1,
+   "rpg": 15.0,
+   "crowd": null
+  },
+  {
+   "decade": 1980,
+   "games": 1,
+   "rpg": 3.0,
+   "crowd": null
+  },
+  {
+   "decade": 1990,
+   "games": 5,
+   "rpg": 7.4,
+   "crowd": 55825
+  },
+  {
+   "decade": 2000,
+   "games": 6,
+   "rpg": 7.33,
+   "crowd": 47854
+  },
+  {
+   "decade": 2010,
+   "games": 5,
+   "rpg": 6.8,
+   "crowd": 45139
+  },
+  {
+   "decade": 2020,
+   "games": 2,
+   "rpg": 7.0,
+   "crowd": null
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1874,
+   "visitor": "White Stockings",
+   "home": "Braves",
+   "vs": 3,
+   "hs": 15,
+   "crowd": 800,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2024,
+   "visitor": "Yankees",
+   "home": "Dodgers",
+   "vs": 2,
+   "hs": 4,
+   "crowd": 52725,
+   "park": "Dodger Stadium",
+   "event": "World Series"
+  }
+ },
+ "teams": null,
+ "wire": {
+  "count": 224,
+  "items": [
+   {
+    "year": 1998,
+    "text": "Roberto Alomar becomes a free agent (Orioles)",
+    "star": true
+   },
+   {
+    "year": 1998,
+    "text": "Rickey Henderson becomes a free agent (Athletics)",
+    "star": true
+   },
+   {
+    "year": 1992,
+    "text": "Wade Boggs becomes a free agent (Red Sox)",
+    "star": true
+   },
+   {
+    "year": 1992,
+    "text": "Greg Maddux becomes a free agent (Cubs)",
+    "star": true
+   },
+   {
+    "year": 1973,
+    "text": "Dodgers trade Jim Fairey and Mike Floyd to the Twins for Charlie Manuel and Glenn Ezell",
+    "star": false
+   },
+   {
+    "year": 1973,
+    "text": "Cardinals trade Rick Wise and Bernie Carbo to the Red Sox for Reggie Smith and Ken Tatum",
+    "star": false
+   },
+   {
+    "year": 1938,
+    "text": "Browns trade Oral Hildebrand and Buster Mills to the Yankees for Joe Glenn and Myril Hoag",
+    "star": false
+   },
+   {
+    "year": 1934,
+    "text": "Red Sox trade cash and Lyn Lary to the Senators for Joe Cronin",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "120",
+    "note": "most in 2003 (35)"
+   },
+   {
+    "label": "Trades made",
+    "value": "35",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "23",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2003",
+    "note": "37 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1941,
+    "name": "Brown",
+    "star": false,
+    "seasons": 5
+   },
+   {
+    "year": 1941,
+    "name": "Bill Jewell",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2005,
+    "name": "Jeff Bagwell",
+    "star": true,
+    "seasons": 15
+   },
+   {
+    "year": 2002,
+    "name": "Shawon Dunston",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1999,
+    "name": "Chili Davis",
+    "star": false,
+    "seasons": 19
+   },
+   {
+    "year": 1999,
+    "name": "Otis Nixon",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 1997,
+    "name": "Darren Daulton",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 1941,
+    "name": "Jake Dunn",
+    "star": false,
+    "seasons": 12
+   }
+  ],
+  "debutCount": 2,
+  "farewellCount": 15,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 1,
+  "managers": 1,
+  "items": [
+   {
+    "year": 1996,
+    "text": "Bobby Cox (manager) ejected by Tim Welke: call at 2b",
+    "star": true
+   }
+  ]
+ }
 }

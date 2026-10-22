@@ -529,6 +529,167 @@
     "value": "42,958",
     "note": "Phillies at Astros (2022)"
    }
+  ],
+  "records": [
+   {
+    "label": "Most strikeouts in a game",
+    "value": "21",
+    "note": "Astros 4, Phillies 1 (2022)"
+   },
+   {
+    "label": "Shortest and longest games",
+    "value": "193 and 193 min",
+    "note": "2022 and 2022"
+   },
+   {
+    "label": "Postseason games",
+    "value": "1",
+    "note": "World Series 1"
+   },
+   {
+    "label": "Ballparks that hosted games",
+    "value": "1",
+    "note": "most games: Minute Maid Park (1)"
+   }
+  ],
+  "gotd": {
+   "year": 2022,
+   "visitor": "Phillies",
+   "home": "Astros",
+   "inn": 9,
+   "vline": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0"
+   ],
+   "hline": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "4",
+    "0",
+    "0",
+    "x"
+   ],
+   "vr": 1,
+   "hr": 4,
+   "vh": 3,
+   "hh": 7,
+   "ve": 1,
+   "he": 0,
+   "crowd": 42958,
+   "park": "Minute Maid Park",
+   "event": "World Series",
+   "why": "World Series"
+  }
+ },
+ "wire": {
+  "count": 913,
+  "items": [
+   {
+    "year": 2012,
+    "text": "David Ortiz signs with the Red Sox",
+    "star": true
+   },
+   {
+    "year": 2009,
+    "text": "Adrian Beltre becomes a free agent (Mariners)",
+    "star": true
+   },
+   {
+    "year": 2009,
+    "text": "Ivan Rodriguez becomes a free agent (Rangers)",
+    "star": true
+   },
+   {
+    "year": 2008,
+    "text": "Tom Glavine becomes a free agent (Braves)",
+    "star": true
+   },
+   {
+    "year": 2008,
+    "text": "Mike Mussina becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 2001,
+    "text": "Tony Gwynn becomes a free agent (Padres)",
+    "star": true
+   },
+   {
+    "year": 2001,
+    "text": "Rickey Henderson becomes a free agent (Padres)",
+    "star": true
+   },
+   {
+    "year": 1999,
+    "text": "Tim Raines becomes a free agent (Athletics)",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "685",
+    "note": "most in 2013 (278)"
+   },
+   {
+    "label": "Trades made",
+    "value": "51",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "60",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2013",
+    "note": "279 transactions"
+   }
   ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1943,
+    "name": "Gerrit",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1943,
+    "name": "William Prout",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1943,
+    "name": "Gerrit",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1943,
+    "name": "William Prout",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "debutCount": 2,
+  "farewellCount": 2,
+  "hofDebuts": 0,
+  "managerDebuts": []
  }
 }

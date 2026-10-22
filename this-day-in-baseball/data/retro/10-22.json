@@ -24,10 +24,328 @@
    "note": "Twins at Braves (1991)"
   },
   {
+   "label": "Walk-off wins",
+   "value": "3",
+   "note": "latest: Marlins 4, Yankees 3 (2003)"
+  },
+  {
    "label": "Biggest crowd",
    "value": "65,934",
    "note": "Yankees at Marlins (2003)"
   }
  ],
- "nohitters": []
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "4",
+   "note": "Cardinals (2011); Cardinals 16, Rangers 7"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "22",
+   "note": "Astros 5, Yankees 0 (2022)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "5",
+   "note": "Cardinals (1987)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "6",
+   "note": "Angels 7, Yankees 6 (2009)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "80 and 244 min",
+   "note": "1872 and 1991"
+  },
+  {
+   "label": "Home team won",
+   "value": "53%",
+   "note": "of 34 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "29",
+   "note": "World Series 20, League Championship Series 9"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "23",
+   "note": "most games: NYC01 (4); Atlanta-Fulton County Stadium (3); Minute Maid Park (3)"
+  }
+ ],
+ "nohitters": [],
+ "gotd": {
+  "year": 2003,
+  "visitor": "Yankees",
+  "home": "Marlins",
+  "inn": 12,
+  "vline": [
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "3",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 3,
+  "hr": 4,
+  "vh": 12,
+  "hh": 10,
+  "ve": 0,
+  "he": 0,
+  "crowd": 65934,
+  "park": "Sun Life Stadium",
+  "event": "World Series",
+  "why": "World Series, 12 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 6,
+   "rpg": 12.0,
+   "crowd": 528
+  },
+  {
+   "decade": 1910,
+   "games": 1,
+   "rpg": 7.0,
+   "crowd": null
+  },
+  {
+   "decade": 1970,
+   "games": 2,
+   "rpg": 6.0,
+   "crowd": null
+  },
+  {
+   "decade": 1980,
+   "games": 3,
+   "rpg": 7.0,
+   "crowd": 47634
+  },
+  {
+   "decade": 1990,
+   "games": 5,
+   "rpg": 9.0,
+   "crowd": 50349
+  },
+  {
+   "decade": 2000,
+   "games": 8,
+   "rpg": 9.62,
+   "crowd": 48838
+  },
+  {
+   "decade": 2010,
+   "games": 6,
+   "rpg": 10.33,
+   "crowd": 45349
+  },
+  {
+   "decade": 2020,
+   "games": 4,
+   "rpg": 9.25,
+   "crowd": 44530
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1872,
+   "visitor": "Braves",
+   "home": "Eckfords",
+   "vs": 4,
+   "hs": 3,
+   "crowd": null,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2023,
+   "visitor": "Rangers",
+   "home": "Astros",
+   "vs": 9,
+   "hs": 2,
+   "crowd": 42368,
+   "park": "Minute Maid Park",
+   "event": "League Championship Series"
+  }
+ },
+ "teams": null,
+ "wire": {
+  "count": 147,
+  "items": [
+   {
+    "year": 1980,
+    "text": "Dave Winfield becomes a free agent (Padres)",
+    "star": true
+   },
+   {
+    "year": 1976,
+    "text": "Cardinals trade Mike Wallace to the Rangers for John Sutton",
+    "star": false
+   },
+   {
+    "year": 1974,
+    "text": "Reds trade Pat Osburn to the Brewers for John Vukovich",
+    "star": false
+   },
+   {
+    "year": 1974,
+    "text": "Giants trade Bobby Bonds to the Yankees for Bobby Murcer",
+    "star": false
+   },
+   {
+    "year": 1973,
+    "text": "Angels trade cash, Clyde Wright, Steve Barber, Ken Berry and Art Kusnyer to the Brewers for Ellie Rodriguez, Skip Lockwood, Gary Ryerson, Ollie Brown and Joe Lahoud",
+    "star": false
+   },
+   {
+    "year": 1971,
+    "text": "Brewers trade Tommy Matchick and Bruce Look to the Orioles for Mike Ferraro and Michael Herson",
+    "star": false
+   },
+   {
+    "year": 1971,
+    "text": "Twins trade Paul Powell to the Dodgers for Bobby Darwin",
+    "star": false
+   },
+   {
+    "year": 1969,
+    "text": "Dodgers release Jim Bunning",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "58",
+    "note": "most in 1989 (10)"
+   },
+   {
+    "label": "Trades made",
+    "value": "29",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "26",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1989",
+    "note": "10 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1944,
+    "name": "Jack Paepke",
+    "star": false,
+    "seasons": 5
+   },
+   {
+    "year": 1944,
+    "name": "Clint Cameron",
+    "star": false,
+    "seasons": 4
+   },
+   {
+    "year": 1944,
+    "name": "Burns",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1944,
+    "name": "Greke",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1873,
+    "name": "Ed Atkinson",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2014,
+    "name": "Josh Willingham",
+    "star": false,
+    "seasons": 11
+   },
+   {
+    "year": 2001,
+    "name": "Stan Javier",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 2001,
+    "name": "Jay Buhner",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 1972,
+    "name": "Julian Javier",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1972,
+    "name": "Ted Uhlaender",
+    "star": false,
+    "seasons": 8
+   },
+   {
+    "year": 1910,
+    "name": "John Kane",
+    "star": false,
+    "seasons": 4
+   }
+  ],
+  "debutCount": 5,
+  "farewellCount": 8,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 1,
+  "managers": 0,
+  "items": [
+   {
+    "year": 1910,
+    "text": "Tom Needham (player) ejected by Tommy Connolly: timing of third out",
+    "star": false
+   }
+  ]
+ }
 }

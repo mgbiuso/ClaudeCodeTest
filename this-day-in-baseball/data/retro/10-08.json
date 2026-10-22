@@ -21,24 +21,467 @@
   {
    "label": "Longest game",
    "value": "15 innings",
-   "note": "Devil Rays at Indians (2022)"
+   "note": "Rays at Guardians (2022)"
   },
   {
-   "label": "No-hitters",
+   "label": "Walk-off wins",
+   "value": "11",
+   "note": "latest: Guardians 1, Rays 0 (2022)"
+  },
+  {
+   "label": "No-hitters (1 perfect)",
    "value": "1",
-   "note": "latest: Yankees over Dodgers (1956)"
+   "note": "latest: Don Larsen (1956)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "5",
+   "note": "Red Sox (2021); Red Sox 14, Rays 6"
   },
   {
-   "label": "Biggest crowd",
-   "value": "70,306",
-   "note": "Braves at Indians (1948)"
+   "label": "Most strikeouts in a game",
+   "value": "39",
+   "note": "Guardians 1, Rays 0 (2022)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "7",
+   "note": "Cubs (1907)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "7",
+   "note": "Browns 17, Tigers 2 (1911)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "64 and 297 min",
+   "note": "1914 and 2022"
+  },
+  {
+   "label": "Home team won",
+   "value": "55%",
+   "note": "of 206 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "114",
+   "note": "Division Series 47, World Series 32, League Championship Series 31"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "86",
+   "note": "most games: West Side Grounds (10); Yankee Stadium I (7); Robison Field (6)"
   }
  ],
  "nohitters": [
   {
    "year": 1956,
    "by": "Yankees",
-   "against": "Dodgers"
+   "against": "Dodgers",
+   "pitcher": "Don Larsen",
+   "combined": false,
+   "perfect": true,
+   "event": "World Series"
   }
- ]
+ ],
+ "gotd": {
+  "year": 1945,
+  "visitor": "Tigers",
+  "home": "Cubs",
+  "inn": 12,
+  "vline": [
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "2",
+   "4",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "4",
+   "1",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 7,
+  "hr": 8,
+  "vh": 13,
+  "hh": 15,
+  "ve": 1,
+  "he": 3,
+  "crowd": 41708,
+  "park": "Wrigley Field",
+  "event": "World Series",
+  "why": "World Series, 12 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 3,
+   "rpg": 13.67,
+   "crowd": null
+  },
+  {
+   "decade": 1880,
+   "games": 35,
+   "rpg": 11.54,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 18,
+   "rpg": 9.83,
+   "crowd": 4659
+  },
+  {
+   "decade": 1900,
+   "games": 28,
+   "rpg": 7.46,
+   "crowd": 8447
+  },
+  {
+   "decade": 1910,
+   "games": 23,
+   "rpg": 6.74,
+   "crowd": 8188
+  },
+  {
+   "decade": 1920,
+   "games": 5,
+   "rpg": 6.4,
+   "crowd": 47955
+  },
+  {
+   "decade": 1930,
+   "games": 5,
+   "rpg": 7.8,
+   "crowd": 40452
+  },
+  {
+   "decade": 1940,
+   "games": 5,
+   "rpg": 6.4,
+   "crowd": 41874
+  },
+  {
+   "decade": 1950,
+   "games": 4,
+   "rpg": 7.25,
+   "crowd": 51887
+  },
+  {
+   "decade": 1960,
+   "games": 6,
+   "rpg": 7.5,
+   "crowd": 51504
+  },
+  {
+   "decade": 1970,
+   "games": 7,
+   "rpg": 6.71,
+   "crowd": 47099
+  },
+  {
+   "decade": 1980,
+   "games": 15,
+   "rpg": 8.0,
+   "crowd": 47852
+  },
+  {
+   "decade": 1990,
+   "games": 10,
+   "rpg": 7.3,
+   "crowd": 50654
+  },
+  {
+   "decade": 2000,
+   "games": 14,
+   "rpg": 8.93,
+   "crowd": 47920
+  },
+  {
+   "decade": 2010,
+   "games": 16,
+   "rpg": 9.0,
+   "crowd": 43071
+  },
+  {
+   "decade": 2020,
+   "games": 20,
+   "rpg": 10.0,
+   "crowd": 43448
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1873,
+   "visitor": "Nationals",
+   "home": "Mutuals",
+   "vs": 9,
+   "hs": 17,
+   "crowd": null,
+   "park": "NYC01",
+   "event": ""
+  },
+  "latest": {
+   "year": 2025,
+   "visitor": "Mariners",
+   "home": "Tigers",
+   "vs": 3,
+   "hs": 9,
+   "crowd": 37069,
+   "park": "Comerica Park",
+   "event": "Division Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Cubs",
+    "w": 15,
+    "l": 8,
+    "pct": 0.652
+   },
+   {
+    "team": "Red Sox",
+    "w": 11,
+    "l": 6,
+    "pct": 0.647
+   },
+   {
+    "team": "Yankees",
+    "w": 19,
+    "l": 12,
+    "pct": 0.613
+   }
+  ],
+  "worst": [
+   {
+    "team": "Tigers",
+    "w": 3,
+    "l": 11,
+    "pct": 0.214
+   },
+   {
+    "team": "Braves",
+    "w": 7,
+    "l": 12,
+    "pct": 0.368
+   },
+   {
+    "team": "Pirates",
+    "w": 7,
+    "l": 11,
+    "pct": 0.389
+   }
+  ]
+ },
+ "wire": {
+  "count": 205,
+  "items": [
+   {
+    "year": 1979,
+    "text": "Rangers trade Ray Fontenot and Gene Nelson to the Yankees for Bob Polinsky, Neal Mersch and Mark Softy",
+    "star": false
+   },
+   {
+    "year": 1968,
+    "text": "Indians trade Eddie Fisher to the Angels for Jack Hamilton",
+    "star": false
+   },
+   {
+    "year": 1967,
+    "text": "Braves trade Denny Lemaster and Denis Menke to the Astros for Sonny Jackson and Chuck Harrison",
+    "star": false
+   },
+   {
+    "year": 1954,
+    "text": "Dodgers trade Ray Moore to the Orioles for Chico Garcia",
+    "star": false
+   },
+   {
+    "year": 1953,
+    "text": "Giants trade cash, Frank Hiller, Adrian Zabala and Chuck Diering to the San Francisco for Windy McCall",
+    "star": false
+   },
+   {
+    "year": 1953,
+    "text": "Toronto trade Don Johnson to the White Sox for Hector Rodriguez",
+    "star": false
+   },
+   {
+    "year": 1941,
+    "text": "Reds release Lloyd Waner",
+    "star": true
+   },
+   {
+    "year": 1936,
+    "text": "Cardinals trade Ripper Collins and Roy Parmelee to the Cubs for Lon Warneke",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "99",
+    "note": "most in 2001 (26)"
+   },
+   {
+    "label": "Trades made",
+    "value": "26",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "11",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2001",
+    "note": "27 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1941,
+    "name": "F. Davis",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1941,
+    "name": "Tom Davis",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1927,
+    "name": "Walter Cannady",
+    "star": false,
+    "seasons": 19
+   },
+   {
+    "year": 1886,
+    "name": "Jack Boyle",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1886,
+    "name": "Clarence Stephens",
+    "star": false,
+    "seasons": 6
+   },
+   {
+    "year": 1885,
+    "name": "Jimmy Ryan",
+    "star": false,
+    "seasons": 19
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2011,
+    "name": "Magglio Ordonez",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 2010,
+    "name": "Billy Wagner",
+    "star": true,
+    "seasons": 16
+   },
+   {
+    "year": 2010,
+    "name": "Mike Sweeney",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1940,
+    "name": "Jimmie Wilson",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1919,
+    "name": "Sherry Magee",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1914,
+    "name": "Charlie Carr",
+    "star": false,
+    "seasons": 17
+   }
+  ],
+  "debutCount": 16,
+  "farewellCount": 74,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1941,
+    "name": "Ted Williams",
+    "star": true
+   },
+   {
+    "year": 1939,
+    "name": "Charlie Berry",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 9,
+  "managers": 1,
+  "items": [
+   {
+    "year": 2010,
+    "text": "Bobby Cox (manager) ejected by Paul Emmel: call at 1b (threw hat)",
+    "star": true
+   },
+   {
+    "year": 1988,
+    "text": "Jay Howell (player) ejected by Harry Wendelstedt: doctored ball (pine tar)",
+    "star": false
+   },
+   {
+    "year": 1988,
+    "text": "Bruce Hurst (player) ejected by Ken Kaiser: interference call",
+    "star": false
+   },
+   {
+    "year": 1972,
+    "text": "Lerrin LaGrow (player) ejected by Nestor Chylak: intentional hbp",
+    "star": false
+   },
+   {
+    "year": 1972,
+    "text": "Bert Campaneris (player) ejected by Nestor Chylak: fighting (threw bat)",
+    "star": false
+   }
+  ]
+ }
 }

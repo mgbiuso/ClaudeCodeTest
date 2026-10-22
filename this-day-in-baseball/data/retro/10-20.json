@@ -24,10 +24,354 @@
    "note": "Astros at Cardinals (2004)"
   },
   {
+   "label": "Walk-off wins",
+   "value": "3",
+   "note": "latest: Giants 6, Phillies 5 (2010)"
+  },
+  {
    "label": "Biggest crowd",
    "value": "64,667",
    "note": "Yankees at Padres (1998)"
   }
  ],
- "nohitters": []
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "4",
+   "note": "Giants (2002); Angels 11, Giants 10"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "26",
+   "note": "Dodgers 5, Brewers 1 (2018)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "4",
+   "note": "Dodgers (2024)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "7",
+   "note": "Mariners 14, Yankees 3 (2001)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "100 and 256 min",
+   "note": "1874 and 2016"
+  },
+  {
+   "label": "Home team won",
+   "value": "43%",
+   "note": "of 42 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "37",
+   "note": "League Championship Series 20, World Series 17"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "25",
+   "note": "most games: Oakland-Alameda County Coliseum (4); Yankee Stadium I (4); Busch Stadium II (3)"
+  }
+ ],
+ "nohitters": [],
+ "gotd": {
+  "year": 1992,
+  "visitor": "Braves",
+  "home": "Blue Jays",
+  "inn": 9,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "1",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "1",
+   "1"
+  ],
+  "vr": 2,
+  "hr": 3,
+  "vh": 9,
+  "hh": 6,
+  "ve": 0,
+  "he": 1,
+  "crowd": 51813,
+  "park": "Rogers Centre",
+  "event": "World Series",
+  "why": "World Series, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 5,
+   "rpg": 12.2,
+   "crowd": 438
+  },
+  {
+   "decade": 1910,
+   "games": 1,
+   "rpg": 17.0,
+   "crowd": null
+  },
+  {
+   "decade": 1970,
+   "games": 2,
+   "rpg": 6.5,
+   "crowd": null
+  },
+  {
+   "decade": 1980,
+   "games": 5,
+   "rpg": 6.8,
+   "crowd": 51303
+  },
+  {
+   "decade": 1990,
+   "games": 6,
+   "rpg": 10.67,
+   "crowd": 56556
+  },
+  {
+   "decade": 2000,
+   "games": 7,
+   "rpg": 14.43,
+   "crowd": 47713
+  },
+  {
+   "decade": 2010,
+   "games": 8,
+   "rpg": 9.0,
+   "crowd": 46762
+  },
+  {
+   "decade": 2020,
+   "games": 8,
+   "rpg": 9.88,
+   "crowd": 41310
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1874,
+   "visitor": "Mutuals",
+   "home": "Atlantics",
+   "vs": 0,
+   "hs": 5,
+   "crowd": 400,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2025,
+   "visitor": "Mariners",
+   "home": "Blue Jays",
+   "vs": 3,
+   "hs": 4,
+   "crowd": 44770,
+   "park": "Rogers Centre",
+   "event": "League Championship Series"
+  }
+ },
+ "teams": null,
+ "wire": {
+  "count": 170,
+  "items": [
+   {
+    "year": 2012,
+    "text": "Marlins trade cash and Heath Bell to the Diamondbacks",
+    "star": false
+   },
+   {
+    "year": 1994,
+    "text": "Harold Baines becomes a free agent (Orioles)",
+    "star": true
+   },
+   {
+    "year": 1976,
+    "text": "Giants trade John D'Acquisto, Mike Caldwell and Dave Rader to the Cardinals for Willie Crawford, Vic Harris and John Curtis",
+    "star": false
+   },
+   {
+    "year": 1972,
+    "text": "Cubs trade Tom Phoebus to the Braves for Tony La Russa",
+    "star": true
+   },
+   {
+    "year": 1971,
+    "text": "Giants trade Gary Ryerson and Wes Scott to the Brewers for John Morris",
+    "star": false
+   },
+   {
+    "year": 1970,
+    "text": "Twins trade Herman Hill and Bob Wissler to the Cardinals for Sal Campisi and Jim Kennedy",
+    "star": false
+   },
+   {
+    "year": 1970,
+    "text": "Brewers trade Jerry McNertney, George Lauzerique and Jessie Huggins to the Cardinals for Carl Taylor and Jim Ellis",
+    "star": false
+   },
+   {
+    "year": 1965,
+    "text": "Mets trade Charley Smith and Al Jackson to the Cardinals for Ken Boyer",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "65",
+    "note": "most in 1983 (21)"
+   },
+   {
+    "label": "Trades made",
+    "value": "45",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "9",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1983",
+    "note": "21 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1935,
+    "name": "Mike Frankovich",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1935,
+    "name": "Goldberg",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1935,
+    "name": "Tack Summers",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1934,
+    "name": "Bill Allington",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1934,
+    "name": "Carl Dittmar",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1934,
+    "name": "Cliff Ograin",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2015,
+    "name": "LaTroy Hawkins",
+    "star": false,
+    "seasons": 21
+   },
+   {
+    "year": 2015,
+    "name": "Chris Denorfia",
+    "star": false,
+    "seasons": 11
+   },
+   {
+    "year": 2004,
+    "name": "Peter Munro",
+    "star": false,
+    "seasons": 6
+   },
+   {
+    "year": 1935,
+    "name": "Mike Frankovich",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1929,
+    "name": "Julius Green",
+    "star": false,
+    "seasons": 2
+   },
+   {
+    "year": 1910,
+    "name": "Ginger Beaumont",
+    "star": false,
+    "seasons": 12
+   }
+  ],
+  "debutCount": 6,
+  "farewellCount": 9,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1934,
+    "name": "Harry Johnson",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 6,
+  "managers": 3,
+  "items": [
+   {
+    "year": 2023,
+    "text": "Dusty Baker (manager) ejected by Marvin Hudson: intentional hit by pitch",
+    "star": false
+   },
+   {
+    "year": 2023,
+    "text": "Bryan Abreu (player) ejected by Marvin Hudson: intentionally hitting batter",
+    "star": false
+   },
+   {
+    "year": 2023,
+    "text": "Adolis Garcia (player) ejected by Marvin Hudson: inciting brawl",
+    "star": false
+   },
+   {
+    "year": 1992,
+    "text": "Bobby Cox (manager) ejected by Joe West: check swing (threw helmet)",
+    "star": true
+   },
+   {
+    "year": 1910,
+    "text": "Frank Chance (manager) ejected by Tommy Connolly: home run call",
+    "star": true
+   }
+  ]
+ }
 }

@@ -29,5 +29,260 @@
    "note": "Athletics at Giants (1989)"
   }
  ],
- "nohitters": []
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "4",
+   "note": "Red Sox (2018); Red Sox 5, Dodgers 1"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "25",
+   "note": "Giants 4, Tigers 3 (2012)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "7",
+   "note": "Giants 9, Rangers 0 (2010)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "105 and 274 min",
+   "note": "1874 and 2022"
+  },
+  {
+   "label": "Home team won",
+   "value": "39%",
+   "note": "of 23 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "19",
+   "note": "World Series 19"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "18",
+   "note": "most games: Yankee Stadium II (2); Busch Stadium III (2); Kauffman Stadium (2)"
+  }
+ ],
+ "nohitters": [],
+ "gotd": {
+  "year": 2022,
+  "visitor": "Phillies",
+  "home": "Astros",
+  "inn": 10,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "3",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "hline": [
+   "0",
+   "2",
+   "3",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "vr": 6,
+  "hr": 5,
+  "vh": 9,
+  "hh": 10,
+  "ve": 0,
+  "he": 0,
+  "crowd": 42903,
+  "park": "Minute Maid Park",
+  "event": "World Series",
+  "why": "World Series, 10 innings"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 4,
+   "rpg": 14.75,
+   "crowd": 500
+  },
+  {
+   "decade": 1980,
+   "games": 2,
+   "rpg": 13.0,
+   "crowd": null
+  },
+  {
+   "decade": 1990,
+   "games": 1,
+   "rpg": 1.0,
+   "crowd": null
+  },
+  {
+   "decade": 2000,
+   "games": 3,
+   "rpg": 6.0,
+   "crowd": 49965
+  },
+  {
+   "decade": 2010,
+   "games": 9,
+   "rpg": 6.78,
+   "crowd": 44531
+  },
+  {
+   "decade": 2020,
+   "games": 4,
+   "rpg": 8.75,
+   "crowd": 46831
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1874,
+   "visitor": "Athletics",
+   "home": "Braves",
+   "vs": 7,
+   "hs": 10,
+   "crowd": 1500,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2025,
+   "visitor": "Blue Jays",
+   "home": "Dodgers",
+   "vs": 6,
+   "hs": 2,
+   "crowd": 52552,
+   "park": "Dodger Stadium",
+   "event": "World Series"
+  }
+ },
+ "teams": null,
+ "wire": {
+  "count": 579,
+  "items": [
+   {
+    "year": 2005,
+    "text": "Trevor Hoffman becomes a free agent (Padres)",
+    "star": true
+   },
+   {
+    "year": 2005,
+    "text": "Mike Piazza becomes a free agent (Mets)",
+    "star": true
+   },
+   {
+    "year": 2004,
+    "text": "Adrian Beltre becomes a free agent (Dodgers)",
+    "star": true
+   },
+   {
+    "year": 2004,
+    "text": "Edgar Martinez becomes a free agent (Mariners)",
+    "star": true
+   },
+   {
+    "year": 2002,
+    "text": "Tom Glavine becomes a free agent (Braves)",
+    "star": true
+   },
+   {
+    "year": 2002,
+    "text": "Tim Raines becomes a free agent (Marlins)",
+    "star": true
+   },
+   {
+    "year": 1947,
+    "text": "Braves buy Hoyt Wilhelm",
+    "star": true
+   },
+   {
+    "year": 1937,
+    "text": "Tony Lazzeri signs with the Cubs",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "497",
+    "note": "most in 2020 (159)"
+   },
+   {
+    "label": "Trades made",
+    "value": "21",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "31",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2020",
+    "note": "159 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [
+   {
+    "year": 2012,
+    "name": "Ryan Theriot",
+    "star": false,
+    "seasons": 8
+   },
+   {
+    "year": 2011,
+    "name": "Arthur Rhodes",
+    "star": false,
+    "seasons": 21
+   },
+   {
+    "year": 2007,
+    "name": "Bobby Kielty",
+    "star": false,
+    "seasons": 7
+   },
+   {
+    "year": 1934,
+    "name": "Joe Berkowitz",
+    "star": false,
+    "seasons": 5
+   },
+   {
+    "year": 1928,
+    "name": "Charlie Mason",
+    "star": false,
+    "seasons": 4
+   },
+   {
+    "year": 1875,
+    "name": "Charlie Pabor",
+    "star": false,
+    "seasons": 5
+   }
+  ],
+  "debutCount": 0,
+  "farewellCount": 12,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

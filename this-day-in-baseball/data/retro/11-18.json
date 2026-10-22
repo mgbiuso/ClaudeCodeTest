@@ -3,5 +3,86 @@
  "day": 18,
  "games": 0,
  "items": [],
- "nohitters": []
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 433,
+  "items": [
+   {
+    "year": 2007,
+    "text": "Tom Glavine signs with the Braves",
+    "star": true
+   },
+   {
+    "year": 2007,
+    "text": "Greg Maddux signs with the Padres",
+    "star": true
+   },
+   {
+    "year": 2006,
+    "text": "Frank Thomas signs with the Blue Jays",
+    "star": true
+   },
+   {
+    "year": 1997,
+    "text": "Red Sox trade Carl Pavano to the Expos for Pedro Martinez",
+    "star": true
+   },
+   {
+    "year": 1997,
+    "text": "Devil Rays buy Fred McGriff from the Braves",
+    "star": true
+   },
+   {
+    "year": 1996,
+    "text": "Harold Baines becomes a free agent (White Sox)",
+    "star": true
+   },
+   {
+    "year": 1996,
+    "text": "Eddie Murray becomes a free agent (Orioles)",
+    "star": true
+   },
+   {
+    "year": 1895,
+    "text": "Dodgers buy Tommy McCarthy from the Braves",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "40",
+    "note": "most in 1996 (27)"
+   },
+   {
+    "label": "Trades made",
+    "value": "101",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "163",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1997",
+    "note": "100 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

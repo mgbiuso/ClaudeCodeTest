@@ -3,5 +3,86 @@
  "day": 17,
  "games": 0,
  "items": [],
- "nohitters": []
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 395,
+  "items": [
+   {
+    "year": 2016,
+    "text": "Yankees trade Brian McCann and cash to the Astros for Albert Abreu and Jorge Guzman",
+    "star": false
+   },
+   {
+    "year": 2014,
+    "text": "Braves trade Jason Heyward and Jordan Walden to the Cardinals for Shelby Miller and Tyrell Jenkins",
+    "star": false
+   },
+   {
+    "year": 2010,
+    "text": "Athletics trade Rajai Davis to the Blue Jays for Danny Farquhar and Trystan Magnuson",
+    "star": false
+   },
+   {
+    "year": 1975,
+    "text": "Rangers trade Fergie Jenkins to the Red Sox for Juan Beniquez and Steve Barr",
+    "star": true
+   },
+   {
+    "year": 1975,
+    "text": "Braves trade Dusty Baker and Ed Goodson to the Dodgers for Jim Wynn, Tom Paciorek, Lee Lacy and Jerry Royster",
+    "star": false
+   },
+   {
+    "year": 1954,
+    "text": "Yankees trade Gene Woodling, Harry Byrd, Jim McDonald, Hal Smith, Gus Triandos and Willie Miranda to the Orioles for Bob Turley, Don Larsen and Billy Hunter",
+    "star": false
+   },
+   {
+    "year": 1947,
+    "text": "Red Sox trade cash, Roy Partee, Jim Wilson, Al Widmar, Eddie Pellagrini, Pete Layden and Joe Ostrowski to the Browns for Vern Stephens and Jack Kramer",
+    "star": false
+   },
+   {
+    "year": 1933,
+    "text": "Pirates trade Adam Comorosky and Tony Piet to the Reds for Red Lucas and Wally Roettger",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "7",
+    "note": "most in 2009 (2)"
+   },
+   {
+    "label": "Trades made",
+    "value": "105",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "159",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1992",
+    "note": "89 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

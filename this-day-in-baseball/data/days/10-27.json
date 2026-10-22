@@ -990,9 +990,319 @@
     "note": "Blue Jays at Dodgers (2025)"
    },
    {
+    "label": "Walk-off wins",
+    "value": "6",
+    "note": "latest: Dodgers 6, Blue Jays 5 (2025)"
+   },
+   {
     "label": "Biggest crowd",
     "value": "62,038",
     "note": "Athletics at Giants (1989)"
+   }
+  ],
+  "records": [
+   {
+    "label": "Most home runs by one team",
+    "value": "5",
+    "note": "Athletics (1989); Athletics 13, Giants 7"
+   },
+   {
+    "label": "Most strikeouts in a game",
+    "value": "29",
+    "note": "Dodgers 6, Blue Jays 5 (2025)"
+   },
+   {
+    "label": "Most steals by one team",
+    "value": "4",
+    "note": "Diamondbacks (2023)"
+   },
+   {
+    "label": "Most runs in one inning",
+    "value": "8",
+    "note": "Braves 11, White Stockings 6 (1874)"
+   },
+   {
+    "label": "Shortest and longest games",
+    "value": "120 and 399 min",
+    "note": "1874 and 2025"
+   },
+   {
+    "label": "Home team won",
+    "value": "73%",
+    "note": "of 26 decided games"
+   },
+   {
+    "label": "Postseason games",
+    "value": "23",
+    "note": "World Series 23"
+   },
+   {
+    "label": "Ballparks that hosted games",
+    "value": "19",
+    "note": "most games: Busch Stadium III (3); HRT01 (2); Kauffman Stadium (2)"
+   }
+  ],
+  "gotd": {
+   "year": 2025,
+   "visitor": "Blue Jays",
+   "home": "Dodgers",
+   "inn": 18,
+   "vline": [
+    "0",
+    "0",
+    "0",
+    "4",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "hline": [
+    "0",
+    "1",
+    "1",
+    "0",
+    "2",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+   ],
+   "vr": 5,
+   "hr": 6,
+   "vh": 15,
+   "hh": 16,
+   "ve": 0,
+   "he": 2,
+   "crowd": 52654,
+   "park": "Dodger Stadium",
+   "event": "World Series",
+   "why": "World Series, 18 innings, walk-off"
+  },
+  "eras": [
+   {
+    "decade": 1870,
+    "games": 3,
+    "rpg": 17.67,
+    "crowd": null
+   },
+   {
+    "decade": 1980,
+    "games": 3,
+    "rpg": 14.67,
+    "crowd": 52909
+   },
+   {
+    "decade": 1990,
+    "games": 2,
+    "rpg": 3.0,
+    "crowd": null
+   },
+   {
+    "decade": 2000,
+    "games": 6,
+    "rpg": 7.67,
+    "crowd": 48140
+   },
+   {
+    "decade": 2010,
+    "games": 8,
+    "rpg": 10.62,
+    "crowd": 45321
+   },
+   {
+    "decade": 2020,
+    "games": 4,
+    "rpg": 8.75,
+    "crowd": 37349
+   }
+  ],
+  "thenNow": {
+   "first": {
+    "year": 1874,
+    "visitor": "White Stockings",
+    "home": "Braves",
+    "vs": 6,
+    "hs": 11,
+    "crowd": null,
+    "park": null,
+    "event": ""
+   },
+   "latest": {
+    "year": 2025,
+    "visitor": "Blue Jays",
+    "home": "Dodgers",
+    "vs": 5,
+    "hs": 6,
+    "crowd": 52654,
+    "park": "Dodger Stadium",
+    "event": "World Series"
+   }
+  }
+ },
+ "wire": {
+  "count": 334,
+  "items": [
+   {
+    "year": 2005,
+    "text": "Billy Wagner becomes a free agent (Phillies)",
+    "star": true
+   },
+   {
+    "year": 2003,
+    "text": "Vladimir Guerrero becomes a free agent (Expos)",
+    "star": true
+   },
+   {
+    "year": 2000,
+    "text": "Mike Mussina becomes a free agent (Orioles)",
+    "star": true
+   },
+   {
+    "year": 1997,
+    "text": "Rickey Henderson becomes a free agent (Angels)",
+    "star": true
+   },
+   {
+    "year": 1965,
+    "text": "Cardinals trade Bill White, Dick Groat and Bob Uecker to the Phillies for Pat Corrales, Art Mahaffey and Alex Johnson",
+    "star": false
+   },
+   {
+    "year": 1952,
+    "text": "Tigers trade cash, Cliff Mapes and Neil Berry to the Browns for Jake Crawford",
+    "star": false
+   },
+   {
+    "year": 1950,
+    "text": "Indians release Joe Gordon",
+    "star": true
+   },
+   {
+    "year": 1924,
+    "text": "Pirates trade Charlie Grimm, Rabbit Maranville and Wilbur Cooper to the Cubs for Vic Aldridge, George Grantham and Al Niehaus",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "252",
+    "note": "most in 2003 (62)"
+   },
+   {
+    "label": "Trades made",
+    "value": "31",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "23",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2003",
+    "note": "66 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1934,
+    "name": "Sawyer",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1929,
+    "name": "A. Citrano",
+    "star": false,
+    "seasons": 2
+   },
+   {
+    "year": 1874,
+    "name": "Jack Farrell",
+    "star": false,
+    "seasons": 9
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2018,
+    "name": "Ryan Madson",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 2015,
+    "name": "Michael Cuddyer",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 2008,
+    "name": "Geoff Jenkins",
+    "star": false,
+    "seasons": 11
+   },
+   {
+    "year": 1999,
+    "name": "Darryl Strawberry",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 1985,
+    "name": "Mike Jorgensen",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1985,
+    "name": "Steve Braun",
+    "star": false,
+    "seasons": 15
+   }
+  ],
+  "debutCount": 3,
+  "farewellCount": 14,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 2,
+  "managers": 1,
+  "items": [
+   {
+    "year": 1985,
+    "text": "Whitey Herzog (manager) ejected by Don Denkinger: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1985,
+    "text": "Joaquin Andujar (player) ejected by Don Denkinger: balls and strikes",
+    "star": false
    }
   ]
  }

@@ -796,5 +796,72 @@
    "extract": "Abraham Gilbert Mills was an American baseball executive. He was the fourth president of the National League of Professional Base Ball Clubs (1883–1884), and is best known for heading the \"Mills Commission\" which controversially credited Civil War general Abner Doubleday with the invention of baseball.",
    "page": "https://en.wikipedia.org/wiki/Abraham_G._Mills"
   }
- ]
+ ],
+ "wire": {
+  "count": 315,
+  "items": [
+   {
+    "year": 2021,
+    "text": "Phillies trade Joel Valdez and T.J. Rumfield to the Yankees for Donny Sands and Nick Nelson",
+    "star": false
+   },
+   {
+    "year": 2018,
+    "text": "Mariners trade James Paxton to the Yankees for Justus Sheffield, Erik Swanson and Dom Thompson-Williams",
+    "star": false
+   },
+   {
+    "year": 2012,
+    "text": "Marlins trade cash, Josh Johnson, Mark Buehrle, Jose Reyes, John Buck and Emilio Bonifacio to the Blue Jays for Henderson Alvarez, Yunel Escobar, Adeiny Hechavarria, Jeff Mathis, Jake Marisnick, Justin Nicolino and Anthony DeSclafani",
+    "star": false
+   },
+   {
+    "year": 2007,
+    "text": "Mariano Rivera signs with the Yankees",
+    "star": true
+   },
+   {
+    "year": 1998,
+    "text": "Cardinals trade Jeff Brantley, Ron Gant and Cliff Politte to the Phillies for Ricky Bottalico and Garrett Stephenson",
+    "star": false
+   },
+   {
+    "year": 1997,
+    "text": "Tigers trade Ryan Balfe, Dan Miceli and Donne Wall to the Padres for Trey Beamon and Tim Worrell",
+    "star": false
+   },
+   {
+    "year": 1993,
+    "text": "Expos trade Delino DeShields to the Dodgers for Pedro Martinez",
+    "star": true
+   },
+   {
+    "year": 1979,
+    "text": "Nolan Ryan signs with the Astros",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "9",
+    "note": "most in 2001 (2)"
+   },
+   {
+    "label": "Trades made",
+    "value": "74",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "159",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2012",
+    "note": "24 transactions"
+   }
+  ]
+ }
 }

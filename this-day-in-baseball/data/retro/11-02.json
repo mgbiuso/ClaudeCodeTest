@@ -26,7 +26,7 @@
   {
    "label": "No-hitters",
    "value": "1",
-   "note": "latest: Astros over Phillies (2022)"
+   "note": "latest: Astros (2022)"
   },
   {
    "label": "Biggest crowd",
@@ -34,11 +34,277 @@
    "note": "Yankees at Phillies (2009)"
   }
  ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "3",
+   "note": "Phillies (2009); Phillies 8, Yankees 6"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "25",
+   "note": "Astros 5, Phillies 0 (2022)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "202 and 268 min",
+   "note": "2021 and 2016"
+  },
+  {
+   "label": "Postseason games",
+   "value": "4",
+   "note": "World Series 4"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "3",
+   "note": "most games: Citizens Bank Park (2); Progressive Field (1); Minute Maid Park (1)"
+  }
+ ],
  "nohitters": [
   {
    "year": 2022,
    "by": "Astros",
-   "against": "Phillies"
+   "against": "Phillies",
+   "pitcher": null,
+   "combined": true,
+   "perfect": false,
+   "event": "World Series"
   }
- ]
+ ],
+ "gotd": {
+  "year": 2022,
+  "visitor": "Astros",
+  "home": "Phillies",
+  "inn": 9,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "5",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "vr": 5,
+  "hr": 0,
+  "vh": 10,
+  "hh": 0,
+  "ve": 0,
+  "he": 0,
+  "crowd": 45693,
+  "park": "Citizens Bank Park",
+  "event": "World Series",
+  "why": "World Series, no-hitter"
+ },
+ "eras": [
+  {
+   "decade": 2000,
+   "games": 1,
+   "rpg": 14.0,
+   "crowd": null
+  },
+  {
+   "decade": 2010,
+   "games": 1,
+   "rpg": 15.0,
+   "crowd": null
+  },
+  {
+   "decade": 2020,
+   "games": 2,
+   "rpg": 6.0,
+   "crowd": null
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 2009,
+   "visitor": "Yankees",
+   "home": "Phillies",
+   "vs": 6,
+   "hs": 8,
+   "crowd": 46178,
+   "park": "Citizens Bank Park",
+   "event": "World Series"
+  },
+  "latest": {
+   "year": 2022,
+   "visitor": "Astros",
+   "home": "Phillies",
+   "vs": 5,
+   "hs": 0,
+   "crowd": 45693,
+   "park": "Citizens Bank Park",
+   "event": "World Series"
+  }
+ },
+ "teams": null,
+ "wire": {
+  "count": 1356,
+  "items": [
+   {
+    "year": 2017,
+    "text": "CC Sabathia becomes a free agent (Yankees)",
+    "star": true
+   },
+   {
+    "year": 2010,
+    "text": "Trevor Hoffman becomes a free agent (Brewers)",
+    "star": true
+   },
+   {
+    "year": 2004,
+    "text": "Pedro Martinez becomes a free agent (Red Sox)",
+    "star": true
+   },
+   {
+    "year": 2003,
+    "text": "Ivan Rodriguez becomes a free agent (Marlins)",
+    "star": true
+   },
+   {
+    "year": 1999,
+    "text": "Tigers trade Frank Catalanotto, Francisco Cordero, Bill Haselman, Gabe Kapler, Justin Thompson and Alan Webb to the Rangers for Juan Gonzalez, Danny Patterson and Gregg Zaun",
+    "star": false
+   },
+   {
+    "year": 1992,
+    "text": "Ozzie Smith becomes a free agent (Cardinals)",
+    "star": true
+   },
+   {
+    "year": 1992,
+    "text": "Dave Winfield becomes a free agent (Blue Jays)",
+    "star": true
+   },
+   {
+    "year": 1974,
+    "text": "Braves trade Hank Aaron to the Brewers for Dave May",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "1,212",
+    "note": "most in 2011 (281)"
+   },
+   {
+    "label": "Trades made",
+    "value": "36",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "40",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2018",
+    "note": "292 transactions"
+   }
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1930,
+    "name": "Jim Willis",
+    "star": false,
+    "seasons": 11
+   },
+   {
+    "year": 1930,
+    "name": "Joe Berkowitz",
+    "star": false,
+    "seasons": 5
+   },
+   {
+    "year": 1930,
+    "name": "Jack Ridley",
+    "star": false,
+    "seasons": 3
+   },
+   {
+    "year": 1930,
+    "name": "Lonny Baker",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1930,
+    "name": "Johnny Walters",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2016,
+    "name": "Coco Crisp",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 2016,
+    "name": "David Ross",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 1947,
+    "name": "Bill Hoskins",
+    "star": false,
+    "seasons": 11
+   },
+   {
+    "year": 1930,
+    "name": "Lonny Baker",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1930,
+    "name": "Art Parker",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1930,
+    "name": "Johnny Walters",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "debutCount": 5,
+  "farewellCount": 6,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1930,
+    "name": "Joe Hewitt",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ }
 }

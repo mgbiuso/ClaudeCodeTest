@@ -921,10 +921,216 @@
     "note": "Yankees 7, Phillies 3 (2009)"
    },
    {
+    "label": "Walk-off wins",
+    "value": "1",
+    "note": "latest: Diamondbacks 3, Yankees 2 (2001)"
+   },
+   {
     "label": "Biggest crowd",
     "value": "50,315",
     "note": "Phillies at Yankees (2009)"
    }
+  ],
+  "records": [
+   {
+    "label": "Most strikeouts in a game",
+    "value": "23",
+    "note": "Diamondbacks 3, Yankees 2 (2001)"
+   },
+   {
+    "label": "Shortest and longest games",
+    "value": "200 and 232 min",
+    "note": "2001 and 2009"
+   },
+   {
+    "label": "Postseason games",
+    "value": "2",
+    "note": "World Series 2"
+   },
+   {
+    "label": "Ballparks that hosted games",
+    "value": "2",
+    "note": "most games: Chase Field (1); Yankee Stadium II (1)"
+   }
+  ],
+  "gotd": {
+   "year": 2001,
+   "visitor": "Yankees",
+   "home": "Diamondbacks",
+   "inn": 9,
+   "vline": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "0"
+   ],
+   "hline": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "2"
+   ],
+   "vr": 2,
+   "hr": 3,
+   "vh": 6,
+   "hh": 11,
+   "ve": 3,
+   "he": 0,
+   "crowd": 49589,
+   "park": "Chase Field",
+   "event": "World Series",
+   "why": "World Series, walk-off"
+  },
+  "thenNow": {
+   "first": {
+    "year": 2001,
+    "visitor": "Yankees",
+    "home": "Diamondbacks",
+    "vs": 2,
+    "hs": 3,
+    "crowd": 49589,
+    "park": "Chase Field",
+    "event": "World Series"
+   },
+   "latest": {
+    "year": 2009,
+    "visitor": "Phillies",
+    "home": "Yankees",
+    "vs": 3,
+    "hs": 7,
+    "crowd": 50315,
+    "park": "Yankee Stadium II",
+    "event": "World Series"
+   }
+  }
+ },
+ "wire": {
+  "count": 870,
+  "items": [
+   {
+    "year": 2011,
+    "text": "Jim Thome signs with the Phillies",
+    "star": true
+   },
+   {
+    "year": 1993,
+    "text": "Robin Yount becomes a free agent (Brewers)",
+    "star": true
+   },
+   {
+    "year": 1992,
+    "text": "Bert Blyleven becomes a free agent (Angels)",
+    "star": true
+   },
+   {
+    "year": 1992,
+    "text": "Andre Dawson becomes a free agent (Cubs)",
+    "star": true
+   },
+   {
+    "year": 1991,
+    "text": "Carlton Fisk becomes a free agent (White Sox)",
+    "star": true
+   },
+   {
+    "year": 1991,
+    "text": "Dave Parker becomes a free agent (Blue Jays)",
+    "star": true
+   },
+   {
+    "year": 1988,
+    "text": "Nolan Ryan becomes a free agent (Astros)",
+    "star": true
+   },
+   {
+    "year": 1929,
+    "text": "Dave Bancroft signs with the Giants",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "756",
+    "note": "most in 2014 (287)"
+   },
+   {
+    "label": "Trades made",
+    "value": "17",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "63",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2014",
+    "note": "292 transactions"
+   }
   ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1934,
+    "name": "Johnny Vusich",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2009,
+    "name": "Pedro Martinez",
+    "star": true,
+    "seasons": 18
+   },
+   {
+    "year": 2009,
+    "name": "Scott Eyre",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 2001,
+    "name": "Paul O'Neill",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 2001,
+    "name": "Scott Brosius",
+    "star": false,
+    "seasons": 11
+   },
+   {
+    "year": 1934,
+    "name": "Jimmie Crandall",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1934,
+    "name": "Carl Dittmar",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "debutCount": 1,
+  "farewellCount": 8,
+  "hofDebuts": 0,
+  "managerDebuts": []
  }
 }

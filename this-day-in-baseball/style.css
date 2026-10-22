@@ -183,6 +183,96 @@ figcaption a { text-decoration-thickness: 1px; }
   .num:first-child { padding-left: 0; border-left: 0; }
 }
 
+/* by the numbers: extras */
+.numbers-extra { display: grid; grid-template-columns: 1fr; gap: 0; margin-top: 4px; }
+.nx { padding: 14px 0 6px; border-top: 1px solid var(--rule); }
+.mini-head { margin: 0 0 8px; font-family: var(--cond); font-weight: 400; font-size: 22px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink); }
+.nx .mini-head ~ .mini-head, .nx > * + .mini-head { margin-top: 16px; }
+.mini-sub { margin: 12px 0 4px; font-family: var(--cond); font-weight: 400; font-size: 16px; letter-spacing: .1em; text-transform: uppercase; color: var(--red); }
+.linescore { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; font-size: 15px; }
+.linescore th, .linescore td { padding: 3px 0; text-align: center; border-bottom: 1px solid var(--rule); min-width: 18px; }
+.linescore th.team { text-align: left; font-family: var(--cond); font-weight: 400; font-size: 19px; letter-spacing: .06em; text-transform: uppercase; padding-right: 8px; white-space: nowrap; }
+.linescore tr:first-child th { font-family: var(--cond); font-weight: 400; font-size: 14px; color: var(--ink-soft); border-bottom: 2px solid var(--ink); }
+.linescore .tot { border-left: 1px solid var(--rule); font-weight: 800; padding-left: 4px; padding-right: 4px; }
+.linescore tr.win td, .linescore tr.win th.team { font-weight: 800; }
+.gotd-cap { margin: 6px 0 0; font-size: 13.5px; line-height: 1.35; color: var(--ink-soft); }
+.thennow { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.tn-year { font-family: var(--cond); font-size: 34px; line-height: 1; }
+.tn-label { font-family: var(--cond); font-size: 15px; letter-spacing: .1em; text-transform: uppercase; color: var(--red); }
+.tn-score { margin-top: 3px; font-weight: 800; font-size: 14.5px; line-height: 1.25; }
+.tn-note { margin-top: 2px; font-size: 13px; color: var(--ink-soft); line-height: 1.3; }
+.chart { margin: 0 0 12px; }
+.chart svg { display: block; width: 100%; height: auto; }
+.chart .bar { fill: var(--ink); }
+.chart .bar.peak { fill: var(--red); }
+.chart .tick { font-family: var(--cond); font-size: 11px; fill: var(--ink-soft); letter-spacing: .04em; }
+.chart .peak-label { font-family: var(--cond); font-size: 13px; fill: var(--red); letter-spacing: .04em; }
+.chart figcaption { margin-top: 2px; }
+.teamrec { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.teamrec .mini-head { font-size: 15px; color: var(--red); letter-spacing: .1em; margin-bottom: 4px; }
+.tr-row { position: relative; display: flex; justify-content: space-between; gap: 8px; padding: 3px 0 7px; border-bottom: 1px solid var(--rule); font-size: 14.5px; }
+.tr-team { font-weight: 800; }
+.tr-rec { font-variant-numeric: tabular-nums; }
+.tr-bar { position: absolute; left: 0; bottom: 2px; height: 3px; background: var(--ink); }
+.recbook { margin: 0; }
+.recbook dt { margin-top: 8px; font-family: var(--cond); font-size: 15px; letter-spacing: .1em; text-transform: uppercase; color: var(--red); }
+.recbook dd { margin: 0 0 4px; font-size: 14.5px; line-height: 1.35; padding-bottom: 6px; border-bottom: 1px solid var(--rule); }
+.recbook dd strong { font-weight: 900; }
+@media (min-width: 900px) {
+  .numbers-extra { grid-template-columns: 1.15fr 1fr 1fr; }
+  .nx { padding: 16px 20px 8px; border-top: 0; border-left: 2px solid var(--rule); }
+  .nx:first-child { padding-left: 0; border-left: 0; }
+  .nx:last-child { padding-right: 0; }
+}
+
+/* the wire */
+.wire { margin-top: 22px; border-top: 4px solid var(--ink); }
+.wire-row { display: grid; grid-template-columns: 1fr; }
+.wire-col { padding: 14px 0 10px; border-top: 1px solid var(--rule); }
+.wire-sum { margin: 0 0 8px; font-size: 14px; line-height: 1.35; color: var(--ink-soft); }
+.wire-list { margin: 0; padding: 0; list-style: none; }
+.wire-list li { padding: 5px 0; border-top: 1px solid var(--rule); font-size: 14.5px; line-height: 1.35; }
+.wire-list li:first-child { border-top: 0; }
+.wire-list .yr { font-family: var(--cond); font-size: 19px; letter-spacing: .02em; margin-right: 8px; color: var(--ink); }
+.hof { color: var(--red); font-size: 13px; }
+@media (min-width: 900px) {
+  .wire { border-top-width: 9px; }
+  .wire-row { grid-template-columns: repeat(var(--n, 3), 1fr); }
+  .wire-col { padding: 16px 20px 10px; border-top: 0; border-left: 2px solid var(--rule); }
+  .wire-col:first-child { padding-left: 0; border-left: 0; }
+  .wire-col:last-child { padding-right: 0; }
+}
+
+/* year ribbon */
+.ribbon { position: relative; display: flex; align-items: center; gap: 10px; margin: 6px 0 4px; padding: 6px 0; }
+.ribbon-end { font-family: var(--cond); font-size: 17px; letter-spacing: .06em; }
+.ribbon-line { position: relative; flex: 1; height: 26px; border-top: 2px solid var(--ink); margin-top: 8px; }
+.ribbon-decade { position: absolute; top: 14px; transform: translateX(-50%); font-family: var(--cond); font-size: 11px; color: var(--ink-soft); letter-spacing: .04em; }
+.ribbon-decade::before { content: ""; position: absolute; left: 50%; top: -14px; height: 8px; border-left: 1px solid var(--ink); }
+.ribbon-tick { position: absolute; top: -9px; width: 12px; height: 16px; margin-left: -6px; text-decoration: none; }
+.ribbon-tick::after { content: ""; position: absolute; left: 50%; top: 0; width: 4px; height: 14px; margin-left: -2px; background: var(--red); }
+.ribbon-tick:hover::after, .ribbon-tick:focus-visible::after { background: var(--ink); height: 18px; top: -3px; }
+.ribbon-tick:focus-visible { outline: 2px solid var(--ink); outline-offset: 1px; }
+@media (max-width: 899px) { .ribbon-tick { width: 16px; margin-left: -8px; } .ribbon-decade:nth-child(even) { display: none; } }
+.story.flash { outline: 3px solid var(--red); outline-offset: 6px; transition: outline-color .4s; }
+
+/* anniversary badge */
+.anniv { font-family: var(--cond); font-size: 16px; letter-spacing: .1em; text-transform: uppercase; color: var(--red); border: 2px solid var(--red); padding: 1px 7px 0; }
+
+/* year at a glance */
+.yearcal { margin-top: 28px; border-top: 4px solid var(--ink); }
+.yearcal-note { margin: 0 0 8px; font-size: 14px; color: var(--ink-soft); }
+.yearcal-grid { display: grid; gap: 3px; overflow-x: auto; padding-bottom: 6px; }
+.yc-row { display: flex; align-items: center; gap: 3px; min-width: 520px; }
+.yc-month { width: 34px; font-family: var(--cond); font-size: 15px; letter-spacing: .08em; text-transform: uppercase; }
+.yc { display: block; flex: 1; max-width: 34px; aspect-ratio: 1; background: var(--paper-2); border: 1px solid transparent; }
+.yc.l1 { background: #e7c3c4; } .yc.l2 { background: #cf8f92; } .yc.l3 { background: #b9575c; } .yc.l4 { background: #a3262c; }
+.yc.built { border-color: var(--ink); }
+.yc.now { outline: 3px solid var(--ink); outline-offset: 1px; position: relative; z-index: 1; }
+.yc:hover { border-color: var(--ink); }
+.yc:focus-visible { outline: 2px solid var(--ink); }
+@media (min-width: 900px) { .yearcal { border-top-width: 9px; } .yc-row { min-width: 0; } }
+
 /* in memoriam box */
 .memoriam { margin-top: 18px; border-top: 4px solid var(--ink); }
 @media (min-width: 900px) { .memoriam, .briefs { border-top-width: 9px; } }
