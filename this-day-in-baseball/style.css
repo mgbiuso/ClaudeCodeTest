@@ -225,6 +225,16 @@ figcaption a { text-decoration-thickness: 1px; }
   .nx:last-child { padding-right: 0; }
 }
 
+/* boxes mixed in among the stories */
+.agate { margin: 6px 0 24px; padding: 10px 0 4px; border-top: 4px solid var(--ink); }
+.agate:first-child { margin-top: 0; }
+.brief-item { padding: 9px 0; border-top: 1px solid var(--rule); font-size: 15px; line-height: 1.4; }
+.agate .mini-head + .brief-item { border-top: 0; padding-top: 4px; }
+.brief-item .yr { font-family: var(--cond); font-size: 22px; color: var(--accent); margin-right: 6px; }
+.brief-item a.more { font-family: var(--cond); letter-spacing: .08em; text-transform: uppercase; margin-left: 4px; white-space: nowrap; }
+@media (max-width: 899px) { .agate { margin: 22px 0 26px; } .brief-item { font-size: 17px; } .wire-list li { font-size: 16px; } }
+@media (min-width: 900px) { .agate { border-top-width: 6px; } }
+
 /* the wire */
 .wire { margin-top: 22px; border-top: 4px solid var(--ink); }
 .wire-row { display: grid; grid-template-columns: 1fr; }

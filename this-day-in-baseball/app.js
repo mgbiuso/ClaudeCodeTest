@@ -184,12 +184,24 @@ function fillColumns({ box, nodes, fillers = [] }) {
   const probe = cols[Math.min(1, count - 1)];  // a middle column has the narrowest text width, so measure there
   const heights = nodes.map((node) => { probe.append(node); return node.offsetHeight; });
   const spread = (sums) => Math.max(...sums) - Math.min(...sums);
+  const boxCount = nodes.filter((n) => n.classList && n.classList.contains("agate")).length;
+  const spreadOut = (assign) => {  // every column keeps at least one box when there are enough to go round
+    if (boxCount < count) return true;
+    const has = new Array(count).fill(0);
+    assign.forEach((c, i) => { if (nodes[i].classList && nodes[i].classList.contains("agate")) has[c]++; });
+    return has.every((n) => n > 0);
+  };
   const sumsOf = (assign) => { const s = new Array(count).fill(0); assign.forEach((c, i) => { s[c] += heights[i]; }); return s; };
 
-  // Start with tallest-first into the shortest column, then try single moves and swaps while they help.
-  const order = nodes.map((_, i) => i).sort((x, y) => heights[y] - heights[x]);
+  // The boxes (In brief, Around the league) are dealt to the columns in turn, so each column gets some and they stay
+  // where they were placed; the stories are then balanced around them.
+  const fixed = nodes.map((n) => n.classList && n.classList.contains("agate"));
   const assign = new Array(nodes.length).fill(0);
   const sums = new Array(count).fill(0);
+  let turn = 0;
+  nodes.forEach((n, i) => { if (fixed[i]) { assign[i] = turn++ % count; sums[assign[i]] += heights[i]; } });
+  // Start with tallest-first into the shortest column, then try single moves and swaps while they help.
+  const order = nodes.map((_, i) => i).filter((i) => !fixed[i]).sort((x, y) => heights[y] - heights[x]);
   for (const i of order) { const c = sums.indexOf(Math.min(...sums)); assign[i] = c; sums[c] += heights[i]; }
   for (let pass = 0; pass < 50; pass++) {
     let best = spread(sumsOf(assign)), change = null;
@@ -199,12 +211,12 @@ function fillColumns({ box, nodes, fillers = [] }) {
         if (c === was) continue;
         assign[i] = c;
         const s = spread(sumsOf(assign));
-        if (s < best) { best = s; change = [i, c, null]; }
+        if (s < best && spreadOut(assign)) { best = s; change = [i, c, null]; }
         for (let j = i + 1; j < nodes.length; j++) {
-          if (assign[j] !== c) continue;  // swap with a story that sits in the target column
+          if (assign[j] !== c) continue;  // swap with a node that sits in the target column
           assign[j] = was;
           const s2 = spread(sumsOf(assign));
-          if (s2 < best) { best = s2; change = [i, c, j]; }
+          if (s2 < best && spreadOut(assign)) { best = s2; change = [i, c, j]; }
           assign[j] = c;
         }
       }
@@ -373,7 +385,7 @@ function numbersBox(numbers) {
 }
 
 // The wire: transactions, debuts and farewells, ejections, set like the agate columns of a sports page.
-function wireBox(data) {
+function agateBlocks(data) {
   const cols = [];
   const star = (s) => {
     if (!s.star) return null;
@@ -383,14 +395,14 @@ function wireBox(data) {
     return m;
   };
   if (data.feats && data.feats.items && data.feats.items.length) {
-    const c = el("div", "wire-col");
+    const c = el("div", "agate");
     c.append(el("h3", "mini-head", "Feats and milestones"));
     const bits = [];
     if (data.feats.cycles) bits.push(`${data.feats.cycles} cycle${data.feats.cycles === 1 ? "" : "s"}`);
     if (data.feats.milestones) bits.push(`${data.feats.milestones} milestone${data.feats.milestones === 1 ? "" : "s"}`);
     if (bits.length) c.append(el("p", "wire-sum", `On record for this date: ${bits.join(" and ")}.`));
     const ul = el("ul", "wire-list");
-    for (const it of data.feats.items) {
+    for (const it of data.feats.items.slice(0, 5)) {
       const li = el("li");
       li.append(el("span", "yr", String(it.year)), it.text);
       const s = star(it);
@@ -401,13 +413,13 @@ function wireBox(data) {
     cols.push(c);
   }
   if (data.wire && data.wire.count) {
-    const c = el("div", "wire-col");
+    const c = el("div", "agate");
     c.append(el("h3", "mini-head", "The transaction wire"));
     const sum = el("p", "wire-sum", `${data.wire.count.toLocaleString("en-US")} moves on this date since 1873. ` +
       (data.wire.summary || []).filter((s) => s.label !== "Busiest year").map((s) => `${s.value} ${s.label.toLowerCase()}`).join("; ") + ".");
     c.append(sum);
     const ul = el("ul", "wire-list");
-    for (const it of data.wire.items || []) {
+    for (const it of (data.wire.items || []).slice(0, 5)) {
       const li = el("li");
       li.append(el("span", "yr", String(it.year)), it.text);
       const s = star(it);
@@ -419,13 +431,13 @@ function wireBox(data) {
   }
   const p = data.people;
   if (p && (p.debuts.length || p.farewells.length)) {
-    const c = el("div", "wire-col");
+    const c = el("div", "agate");
     c.append(el("h3", "mini-head", "Debuts and farewells"));
     const people = (label, list, total) => {
       if (!list.length) return;
       c.append(el("h4", "mini-sub", `${label} (${total.toLocaleString("en-US")} on this date)`));
       const ul = el("ul", "wire-list");
-      for (const it of list) {
+      for (const it of list.slice(0, 4)) {
         const li = el("li");
         li.append(el("span", "yr", String(it.year)), `${it.name}${it.seasons > 1 ? `, ${it.seasons} seasons` : ""}`);
         const s = star(it);
@@ -451,11 +463,11 @@ function wireBox(data) {
     cols.push(c);
   }
   if (data.ejections && data.ejections.count) {
-    const c = el("div", "wire-col");
+    const c = el("div", "agate");
     c.append(el("h3", "mini-head", "Thrown out"));
     c.append(el("p", "wire-sum", `${data.ejections.count.toLocaleString("en-US")} ejections on this date, ${data.ejections.managers.toLocaleString("en-US")} of them managers.`));
     const ul = el("ul", "wire-list");
-    for (const it of data.ejections.items || []) {
+    for (const it of (data.ejections.items || []).slice(0, 4)) {
       const li = el("li");
       li.append(el("span", "yr", String(it.year)), it.text);
       const s = star(it);
@@ -465,14 +477,33 @@ function wireBox(data) {
     c.append(ul);
     cols.push(c);
   }
-  if (!cols.length) return null;
-  const box = el("section", "wire");
-  box.append(el("h2", "reverse-head", "Around the league"));
-  const row = el("div", "wire-row");
-  row.style.setProperty("--n", cols.length);
-  cols.forEach((c) => row.append(c));
-  box.append(row);
-  return box;
+  return cols;
+}
+
+// Text-only stories, grouped four to a box so they can sit between the photo stories.
+function briefBlocks(list, nextAccent) {
+  const blocks = [];
+  for (let i = 0; i < list.length; i += 4) {
+    const box = el("div", "agate brief-block");
+    box.append(el("h3", "mini-head", "In brief"));
+    list.slice(i, i + 4).forEach((s) => box.append(brief(s, nextAccent(), "div")));
+    blocks.push(box);
+  }
+  return blocks;
+}
+
+// Mix the boxes in among the stories: a box first, then one after every couple of stories, so the page keeps changing pace.
+function interleave(cards, blocks) {
+  const nodes = [];
+  let b = 0;
+  const every = Math.max(1, Math.floor(cards.length / Math.max(1, blocks.length)));
+  if (b < blocks.length) nodes.push(blocks[b++]);
+  cards.forEach((c, i) => {
+    nodes.push(c);
+    if ((i + 1) % every === 0 && b < blocks.length) nodes.push(blocks[b++]);
+  });
+  while (b < blocks.length) nodes.push(blocks[b++]);
+  return nodes;
 }
 
 // A thin ruler from the oldest to the newest year with one tick per story; a tick jumps to its story.
@@ -607,32 +638,25 @@ function render(data, when) {
     top.classList.add("no-side");
   }
 
-  // On a wide screen the text-only briefs fill the bottoms of the columns; on a phone they get their own list.
-  const inColumns = wide.matches && text.length > 0;
-  if (pool.length || inColumns) {
-    const nodes = pool.map((s) => card(s, { tag: "On this date", accent: nextAccent(), cls: "" }));
-    const fillers = inColumns ? text.map((s) => brief(s, nextAccent(), "div")) : [];
+  // Below the numbers: photo stories with the "In brief" items and the "Around the league" boxes mixed in among them.
+  const cards = pool.map((s) => card(s, { tag: "On this date", accent: nextAccent(), cls: "" }));
+  const briefs = briefBlocks(text, nextAccent);
+  const agate = agateBlocks(data) || [];
+  const blocks = [];
+  for (let i = 0; i < Math.max(briefs.length, agate.length); i++) {
+    if (i < briefs.length) blocks.push(briefs[i]);
+    if (i < agate.length) blocks.push(agate[i]);
+  }
+  if (cards.length || blocks.length) {
     const grid = el("section", "std-grid");
-    grid.append(columnBox("", nodes, fillers));
+    grid.append(columnBox("", interleave(cards, blocks)));
     wrap.append(grid);
   }
-
-  const wire = wireBox(data);
-  if (wire) wrap.append(wire);
 
   if (deaths.length) {
     const box = el("section", "memoriam");
     box.append(el("h2", "reverse-head", "In memoriam"));
     box.append(columnBox("memoriam-grid", deaths.map((s) => card(s, { tag: "Remembered", accent: nextAccent(), cls: "" }))));
-    wrap.append(box);
-  }
-
-  if (text.length && !inColumns) {
-    const box = el("section", "briefs");
-    box.append(el("h2", "reverse-head", "In brief"));
-    const list = el("ul", "briefs-list");
-    text.forEach((s) => list.append(brief(s, nextAccent())));
-    box.append(list);
     wrap.append(box);
   }
 
