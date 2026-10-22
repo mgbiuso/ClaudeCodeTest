@@ -1,0 +1,1503 @@
+{
+ "month": 10,
+ "day": 11,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2017",
+   "text": "The Boston Red Sox announced that John Farrell will not return as manager in the 2018 season. Overall, Farrell spent nine seasons with the Red Sox from 2013 through 2017. He posted a 432–374 record, guiding the team to three American League Division titles and the 2013 World Series championship. He also served as the Sox pitching coach from 2007 to 2010, including the 2007 World Series champion team.",
+   "links": [
+    "John Farrell (manager)",
+    "Manager (baseball)",
+    "2013 World Series"
+   ],
+   "score": 143.41876691666263,
+   "abouts": [
+    "2013 World Series",
+    "John Farrell (manager)",
+    "Manager (baseball)"
+   ],
+   "about": "2013 World Series",
+   "key": "8c8ac8a804cd38da",
+   "headline": "Red Sox Say John Farrell Will Not Return as Manager in 2018",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/John_Farrell_in_2017_%2836546350813%29.jpg/960px-John_Farrell_in_2017_%2836546350813%29.jpg",
+    "credit": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Farrell_in_2017_(36546350813).jpg",
+    "alt": "Smiling man in navy Red Sox cap and jacket, batting practice background",
+    "source": "checked",
+    "of": "John Farrell (manager)",
+    "w": 3204,
+    "h": 3554,
+    "tier": "person"
+   },
+   "extract": "The 2013 World Series was the championship series of Major League Baseball's (MLB) 2013 season. The 109th edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Boston Red Sox and the National League (NL) champion St. Louis Cardinals; the Red Sox won, 4 games to 2 to win…",
+   "page": "https://en.wikipedia.org/wiki/2013_World_Series",
+   "lead": true
+  },
+  {
+   "src": "postseason",
+   "kind": "event",
+   "year": "2026",
+   "text": "In Game 1 of the 2026 National League Championship Series at American Family Field, Milwaukee beat Los Angeles 2–1. The Dodgers opened the scoring in the top of the second inning when Shohei Ohtani scored on an RBI single by Andy Pages. Los Angeles threatened to expand its lead against Brewers ace Jacob Misiorowski, loading the bases with one out, but Enrique Hernández grounded into an inning-ending double play.",
+   "links": [
+    "2026 National League Championship Series"
+   ],
+   "about": "2026 National League Championship Series",
+   "score": 68.73515476734713,
+   "abouts": [
+    "2026 National League Championship Series"
+   ],
+   "key": "3e7e7baebc94513a",
+   "headline": "Brewers Beat Dodgers 2-1 in NLCS Game 1 Opener",
+   "image": null,
+   "extract": "The 2026 National League Championship Series (NLCS) was the best-of-seven playoff in Major League Baseball's 2026 postseason between the Los Angeles Dodgers and the Milwaukee Brewers in a rematch of last year's matchup for the National League (NL) pennant and the right to play in the 2026 World Series. The series…",
+   "page": "https://en.wikipedia.org/wiki/2026_National_League_Championship_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2022",
+   "text": "American League Division Series and National League Division Series began.",
+   "links": [
+    "2022 American League Division Series",
+    "2022 National League Division Series"
+   ],
+   "score": 37.775472242891595,
+   "abouts": [
+    "2022 National League Division Series",
+    "2022 American League Division Series"
+   ],
+   "about": "2022 National League Division Series",
+   "key": "c3c1d93c69a0d06c",
+   "headline": "Division Series Openers Get Underway in Both Leagues",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cleveland_Guardians_%2852442037572%29.jpg/960px-Cleveland_Guardians_%2852442037572%29.jpg",
+    "credit": "Erik Drost",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cleveland_Guardians_(52442037572).jpg",
+    "alt": "Night aerial view of a packed baseball stadium during a game",
+    "source": "checked",
+    "of": "2022 American League Division Series",
+    "w": 6048,
+    "h": 4024,
+    "tier": "venue"
+   },
+   "extract": "The 2022 National League Division Series (NLDS) were the two best-of-five playoff series in Major League Baseball's (MLB) 2022 postseason to determine the participating teams of the 2022 National League Championship Series (NLCS). These matchups were:(1) Los Angeles Dodgers vs. (5) San Diego Padres : Padres won the…",
+   "page": "https://en.wikipedia.org/wiki/2022_National_League_Division_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2020",
+   "text": "Joe Morgan, 77, Hall of Fame second baseman for the Cincinnati Reds who won back to back World Series in 1975 and 1976, being named NL MVP during both championship seasons, and ten-time All-Star.",
+   "links": [
+    "Joe Morgan"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Joe Morgan"
+   ],
+   "about": "Joe Morgan",
+   "key": "edac80dd2d7f9282",
+   "headline": "Joe Morgan, 77, Hall of Fame Second Baseman for Reds",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Joe_Morgan_Reds_1972.jpg",
+    "credit": "Cincinnati Reds",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Morgan_Reds_1972.jpg",
+    "alt": "Smiling man in red Cincinnati Reds 'C' cap and red-trimmed jersey",
+    "source": "checked",
+    "of": "Joe Morgan",
+    "w": 564,
+    "h": 743,
+    "tier": "person"
+   },
+   "extract": "Joe Leonard Morgan was an American professional baseball second baseman who played 22 seasons in Major League Baseball (MLB) for the Houston Colt .45s / Astros, Cincinnati Reds, San Francisco Giants, Philadelphia Phillies, and Oakland Athletics from 1963 to 1984. He won two World Series championships with the Reds in…",
+   "page": "https://en.wikipedia.org/wiki/Joe_Morgan"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2019",
+   "text": "In Game 1 of the National League Championship Series, Washington Nationals pitcher Aníbal Sánchez carried a no-hitter into the eighth inning against the St. Louis Cardinals and lost it on a two-outs single by José Martínez in a 2–0 win over St. Louis at Busch Stadium.",
+   "links": [
+    "2019 National League Championship Series",
+    "Aníbal Sánchez",
+    "no-hitter"
+   ],
+   "score": 112.56342198108581,
+   "abouts": [
+    "Aníbal Sánchez",
+    "no-hitter",
+    "2019 National League Championship Series"
+   ],
+   "about": "Aníbal Sánchez",
+   "key": "e84cbdac082e72ae",
+   "headline": "Sánchez's No-Hit Bid Ends in Eighth as Nationals Win",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Anibal_Sanchez_%2846667343805%29_%28cropped%29.jpg/960px-Anibal_Sanchez_%2846667343805%29_%28cropped%29.jpg",
+    "credit": "Ian D'Andrea on Flickr",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Anibal_Sanchez_(46667343805)_(cropped).jpg",
+    "alt": "Baseball player in gray Washington road uniform, #19, fielding a ball on grass",
+    "source": "checked",
+    "of": "Aníbal Sánchez",
+    "w": 1961,
+    "h": 2249,
+    "tier": "person"
+   },
+   "extract": "Aníbal Alejandro Sánchez Jr. is a Venezuelan former professional baseball pitcher. He made his Major League Baseball (MLB) debut in 2006 with the Florida Marlins and also played for the Detroit Tigers, Atlanta Braves, and Washington Nationals. On September 6, 2006, in his 13th career Major League start, Sánchez…",
+   "page": "https://en.wikipedia.org/wiki/An%C3%ADbal_S%C3%A1nchez"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2018",
+   "text": "On October 11, 2018, Davis was relieved of duties as hitting coach for the Chicago Cubs.",
+   "links": [
+    "Chili Davis"
+   ],
+   "about": "Chili Davis",
+   "score": 28.663576701749964,
+   "abouts": [
+    "Chili Davis"
+   ],
+   "key": "13019bf0af1936e5",
+   "headline": "Cubs Relieve Davis of Hitting Coach Duties",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chili_Davis_1996.jpg/960px-Chili_Davis_1996.jpg",
+    "credit": "Jerry Reuss",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chili_Davis_1996.jpg",
+    "alt": "Batter in gray road uniform with 'DAVIS 44' swinging a bat",
+    "source": "checked",
+    "of": "Chili Davis",
+    "w": 1511,
+    "h": 1541,
+    "tier": "person"
+   },
+   "extract": "Charles Theodore \"Chili\" Davis is a Jamaican-American former professional baseball player. He played as an outfielder and designated hitter from 1981 to 1999 for the San Francisco Giants (1981–1987), California Angels, Minnesota Twins (1991–1992), Kansas City Royals (1997) and New York Yankees (1998–1999). His first…",
+   "page": "https://en.wikipedia.org/wiki/Chili_Davis"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2017",
+   "text": "Betty Moczynski, 91, All-American Girls Professional League outfielder, one of the original members of the league in 1943 with the Rockford Peaches.",
+   "links": [
+    "Betty Moczynski",
+    "Rockford Peaches"
+   ],
+   "score": 20.061,
+   "abouts": [
+    "Betty Moczynski",
+    "Rockford Peaches"
+   ],
+   "about": "Betty Moczynski",
+   "key": "8dca905196ebdd07",
+   "headline": "Betty Moczynski, 91, Original All-American Girls League Outfielder",
+   "image": null,
+   "extract": "Betty Moczynski played in the All-American Girls Professional Baseball League between 1943 and 1947. She was nicknamed Moe in the league. She both batted and threw right-handed and held the position of utility outfield.",
+   "page": "https://en.wikipedia.org/wiki/Betty_Moczynski"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2016",
+   "text": "On October 11, 2016, the Braves named Snitker their full time manager for the 2017 season.",
+   "links": [
+    "Brian Snitker"
+   ],
+   "about": "Brian Snitker",
+   "score": 42.720690688317944,
+   "abouts": [
+    "Brian Snitker"
+   ],
+   "key": "a4caed3ce19e32b7",
+   "headline": "Braves Name Snitker Full-Time Manager for 2017 Season",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Brian_Snitker.jpg",
+    "credit": "Chrisjnelson on en.wikipedia",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Brian_Snitker.jpg",
+    "alt": "Player in white Braves jersey #43 'SNITKER', hands on hips, at field",
+    "source": "checked",
+    "of": "Brian Snitker",
+    "w": 662,
+    "h": 772,
+    "tier": "person"
+   },
+   "extract": "Brian Gerald Snitker is an American professional baseball coach and manager. He was the manager for the Atlanta Braves of Major League Baseball (MLB) for 10 seasons from 2016 to 2025. Snitker has spent 49 years in the Braves organization, starting as a catcher and first baseman in the Braves' minor league system from…",
+   "page": "https://en.wikipedia.org/wiki/Brian_Snitker"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2014",
+   "text": "The Cardinals opened the National League Championship Series at Busch Stadium on October 11, 2014, against the San Francisco Giants.",
+   "links": [
+    "Busch Stadium"
+   ],
+   "about": "Busch Stadium",
+   "score": 80.71163441577131,
+   "abouts": [
+    "Busch Stadium"
+   ],
+   "key": "3994610d0557e337",
+   "headline": "Cardinals Open NLCS at Busch Stadium Against Giants",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Busch_Pano_2022.jpg/960px-Busch_Pano_2022.jpg",
+    "credit": "Lightmetro",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Busch_Pano_2022.jpg",
+    "alt": "Panoramic view of a full baseball stadium with downtown St. Louis skyline and Gateway Arch",
+    "source": "checked",
+    "of": "Busch Stadium",
+    "w": 7915,
+    "h": 3918,
+    "tier": "venue"
+   },
+   "extract": "Busch Stadium is a baseball stadium located in St. Louis, Missouri, United States. It is the home of Major League Baseball's St. Louis Cardinals. It has a seating capacity of 44,383, with 3,706 club seats and 61 luxury suites. It replaced Busch Memorial Stadium and occupies a portion of that stadium's former…",
+   "page": "https://en.wikipedia.org/wiki/Busch_Stadium"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2013",
+   "text": "On October 11, 2013, Butler was named the third base/outfield coach for the Miami Marlins.",
+   "links": [
+    "Brett Butler (baseball)"
+   ],
+   "about": "Brett Butler (baseball)",
+   "score": 28.165826768419514,
+   "abouts": [
+    "Brett Butler (baseball)"
+   ],
+   "key": "ebe67194149c780c",
+   "headline": "Butler Named Third Base and Outfield Coach for Marlins",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brett_Butler%2C_Los_Angeles_Dodgers%2C_April_14%2C_1993.jpg",
+    "credit": "Gabriel Cervantes",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Brett_Butler,_Los_Angeles_Dodgers,_April_14,_1993.jpg",
+    "alt": "Man in Dodgers cap and jersey, number 22, in a ballpark",
+    "source": "checked",
+    "of": "Brett Butler (baseball)",
+    "w": 503,
+    "h": 754,
+    "tier": "person"
+   },
+   "extract": "Brett Morgan Butler is an American former center fielder in Major League Baseball and coach. He played for five different teams from 1981 through 1997. A leadoff hitter for the majority of his career, Butler led the league in triples four times, runs scored twice, walks once, and was named a National League All-Star…",
+   "page": "https://en.wikipedia.org/wiki/Brett_Butler_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2010",
+   "text": "The San Francisco Giants defeat the Atlanta Braves 3–2 to win the NLDS 3 games to 1. All four games in the series are decided by one run.",
+   "links": [
+    "San Francisco Giants",
+    "Atlanta Braves",
+    "2010 National League Division Series"
+   ],
+   "score": 25.74147048717373,
+   "abouts": [
+    "2010 National League Division Series",
+    "San Francisco Giants",
+    "Atlanta Braves"
+   ],
+   "about": "2010 National League Division Series",
+   "key": "245aeb37723bae7f",
+   "headline": "Giants Beat Braves 3-2, Sweep NLDS 3-1 in One-Run Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG/960px-2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG",
+    "credit": "BrokenSphere",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG",
+    "alt": "Night baseball game at AT&T Park, crowded stands, orange-clad fans.",
+    "source": "checked",
+    "of": "San Francisco Giants",
+    "w": 4000,
+    "h": 2248,
+    "tier": "event"
+   },
+   "extract": "The 2010 National League Division Series (NLDS) were two best-of-five playoff series in Major League Baseball’s 2010 postseason to determine the participating teams in the 2010 National League Championship Series. The three divisional winners and a fourth team—a \"Wild Card\"—played in two series from October 6 to 11.…",
+   "page": "https://en.wikipedia.org/wiki/2010_National_League_Division_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2005",
+   "text": "Well-rested, playing in front of a sold-out home crowd and with their top pitcher José Contreras on the mound against a road-weary team, the Chicago White Sox have everything lined up for a quick start in the American League Championship Series, but lose to the Los Angeles Angels 3–2 in Game 1.",
+   "links": [
+    "José Contreras",
+    "Chicago White Sox",
+    "Los Angeles Angels"
+   ],
+   "score": 63.07237683045197,
+   "abouts": [
+    "José Contreras",
+    "Chicago White Sox",
+    "Los Angeles Angels"
+   ],
+   "about": "José Contreras",
+   "key": "e1ea5126c595a544",
+   "headline": "White Sox Lose 3-2 to Angels in ALCS Game 1",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Jose_Contreras_pitching.jpg",
+    "credit": "mcclouds on Flickr",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jose_Contreras_pitching.jpg",
+    "alt": "Pitcher wearing #52 CONTRERAS White Sox jersey on the mound at a ballpark, dugout behind.",
+    "source": "checked",
+    "of": "José Contreras",
+    "w": 800,
+    "h": 600,
+    "tier": "person"
+   },
+   "extract": "José Ariel Contreras Camejo is a Cuban former professional baseball pitcher, who played in the Cuban National Series (CNS), Major League Baseball (MLB), and internationally for the Cuban national baseball team. He also played in the Chinese Professional Baseball League (CPBL) for the Chinatrust Brothers.",
+   "page": "https://en.wikipedia.org/wiki/Jos%C3%A9_Contreras"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2005",
+   "text": "The series began on October 11, 2005 with the Angels winning the first game at U.",
+   "links": [
+    "2005 Los Angeles Angels season"
+   ],
+   "about": "2005 Los Angeles Angels season",
+   "score": 24.268491058880873,
+   "abouts": [
+    "2005 Los Angeles Angels season"
+   ],
+   "key": "c008dfea28892329",
+   "headline": "Angels Win First Game of Series at U",
+   "image": null,
+   "extract": "The 2005 Los Angeles Angels season was the 45th season of the Angels franchise in the American League, the 40th in Anaheim, and their 40th season playing their home games at Angel Stadium of Anaheim. The regular season ended with a record of 95–67, resulting in the Angels winning the American League West title for the…",
+   "page": "https://en.wikipedia.org/wiki/2005_Los_Angeles_Angels_season"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2004",
+   "text": "The Houston Astros post a 12-3 triumph over the Atlanta Braves in the decisive fifth game of the NLDS. Winning a postseason series for the first time in the 43-year history of the franchise, the Astros earn a spot in the best-of-seven NLCS against the St. Louis Cardinals.",
+   "links": [
+    "Houston Astros",
+    "Atlanta Braves",
+    "St. Louis Cardinals"
+   ],
+   "score": 25.0,
+   "abouts": [
+    "Houston Astros",
+    "Atlanta Braves",
+    "St. Louis Cardinals"
+   ],
+   "about": "Houston Astros",
+   "key": "0201b6d16fc03a37",
+   "headline": "Astros Rout Braves 12-3, Win First Postseason Series",
+   "image": null,
+   "extract": "The Houston Astros are an American professional baseball team based in Houston. The Astros compete in Major League Baseball (MLB) as a member club of the American League (AL) West Division. They are one of two major league clubs based in Texas; the Texas Rangers belong to the same division. They play their home games…",
+   "page": "https://en.wikipedia.org/wiki/Houston_Astros"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1997",
+   "text": "Mike Mussina sets record for most strikeouts in a postseason game for the losing team (15) as the Baltimore Orioles lose to the Cleveland Indians 2-1.",
+   "links": [
+    "Mike Mussina",
+    "Baltimore Orioles",
+    "Cleveland Indians"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "Mike Mussina",
+    "Baltimore Orioles",
+    "Cleveland Indians"
+   ],
+   "about": "Mike Mussina",
+   "key": "5287efd655235be0",
+   "headline": "Mussina Strikes out 15 in Orioles' 2-1 Loss to Indians",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/BAL1993A35MUSSINA.jpg",
+    "credit": "William F. Henderson",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:BAL1993A35MUSSINA.jpg",
+    "alt": "Navy baseball jersey with 'MUSSINA' and number 35 on back.",
+    "source": "checked",
+    "of": "Mike Mussina",
+    "w": 960,
+    "h": 830,
+    "tier": "person"
+   },
+   "extract": "Michael Cole Mussina, nicknamed \"Moose\", is an American former baseball starting pitcher who played 18 seasons in Major League Baseball (MLB) for the Baltimore Orioles (1991–2000) and the New York Yankees (2001–2008). In 2019, Mussina was elected to the Baseball Hall of Fame.",
+   "page": "https://en.wikipedia.org/wiki/Mike_Mussina"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1996",
+   "text": "After the Kaneohe franchise announcement was rescinded in October, the Kona Man O'Wars franchise also did not proceed to play in the upcoming season, with league play scheduled to begin on October 11, 1996.",
+   "links": [
+    "Kona Man O'Wars"
+   ],
+   "about": "Kona Man O'Wars",
+   "score": 35.0,
+   "abouts": [
+    "Kona Man O'Wars"
+   ],
+   "key": "edb0150f20a885e1",
+   "headline": "Kona Man O'Wars Skip Season as League Play Set to Begin",
+   "image": null,
+   "extract": "The Kona Man O'Wars were a planned expansion Hawaii Winter Baseball team based in Kailua-Kona, Hawaii. The Kona Man O'Wars franchise folded just before the beginning of the 1996–1997 winter league season.",
+   "page": "https://en.wikipedia.org/wiki/Kona_Man_O'Wars"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1992",
+   "text": "Two-sport Deion Sanders plays for the Atlanta Falcons in their game with the Miami Dolphins and flies immediately afterwards to Pittsburgh to play in the Atlanta Braves' playoff Game 5 against the Pittsburgh Pirates in an attempt to become the first professional athlete to play in games for two separate sports in the same day. However, Sanders does not play in the game for the Braves.",
+   "links": [
+    "Deion Sanders",
+    "Atlanta Falcons",
+    "Miami Dolphins"
+   ],
+   "score": 35,
+   "abouts": [
+    "Deion Sanders",
+    "Atlanta Falcons",
+    "Miami Dolphins"
+   ],
+   "about": "Deion Sanders",
+   "key": "6054c56b6c3ffab9",
+   "headline": "Sanders Plays for Falcons, Flies to Pittsburgh for Braves",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Deion_Sanders_Braves_1993.jpg/960px-Deion_Sanders_Braves_1993.jpg",
+    "credit": "Jim Accordino",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Deion_Sanders_Braves_1993.jpg",
+    "alt": "Batter in white Braves uniform with 'SANDERS' jersey, catcher in gray road uniform, Atlanta ballpark crowd.",
+    "source": "checked",
+    "of": "Deion Sanders",
+    "w": 1302,
+    "h": 931,
+    "tier": "person"
+   },
+   "extract": "",
+   "page": ""
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1981",
+   "text": "The first-ever postseason divisional series conclude. Three of the matchups go the full five games.",
+   "links": [],
+   "score": 10.0,
+   "abouts": [],
+   "about": null,
+   "key": "5158badc05fb6c4f",
+   "headline": "First-Ever Postseason Divisional Series Conclude, Three Go Five",
+   "image": null,
+   "extract": "",
+   "page": ""
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1978",
+   "text": "The Dodgers take a 2–0 lead in the World Series with a 4–3 win in Game 2. The Dodgers' Ron Cey and the Yankees' Reggie Jackson drive in all the runs for their respective teams. Bob Welch saves the win for Burt Hooton in dramatic fashion, putting two runners on before striking out Jackson for the final out.",
+   "links": [
+    "1978 World Series",
+    "Ron Cey",
+    "Reggie Jackson"
+   ],
+   "score": 69.32196202575294,
+   "abouts": [
+    "1978 World Series",
+    "Ron Cey",
+    "Reggie Jackson"
+   ],
+   "about": "1978 World Series",
+   "key": "fd84d1a94d89fab2",
+   "headline": "Dodgers Lead World Series 2-0 After 4-3 Game 2 Win",
+   "image": null,
+   "extract": "The 1978 World Series was the championship series of Major League Baseball's (MLB) 1978 season. The 75th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion New York Yankees and the National League (NL) champion Los Angeles Dodgers. In a rematch of the previous…",
+   "page": "https://en.wikipedia.org/wiki/1978_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1976",
+   "text": "In the last of the eighth inning, leading the Hanshin Tigers 4–1 with two out and a full count, Sadaharu Oh hits his 715th home run to pass Babe Ruth's mark. He finishes the season with 716 HRs and takes aim at Hank Aaron's record.",
+   "links": [
+    "Hanshin Tigers",
+    "Sadaharu Oh",
+    "Babe Ruth"
+   ],
+   "score": 80,
+   "abouts": [
+    "Babe Ruth",
+    "Sadaharu Oh",
+    "Hanshin Tigers"
+   ],
+   "about": "Babe Ruth",
+   "key": "434bd72f10202bb2",
+   "headline": "Sadaharu Oh Hits 715th Home Run, Passing Babe Ruth",
+   "image": null,
+   "extract": "George Herman \"Babe\" Ruth was an American professional baseball player whose career in Major League Baseball (MLB) spanned 22 seasons, from 1914 through 1935. Nicknamed \"the Bambino\" and \"the Sultan of Swat\", he began his MLB career as a star left-handed pitcher for the Boston Red Sox, but achieved his greatest fame…",
+   "page": "https://en.wikipedia.org/wiki/Babe_Ruth"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1970",
+   "text": "The Boston Red Sox trade 25-year-old local star Tony Conigliaro (36 HR, 116 RBI, .266) to the California Angels, along with pitcher Ray Jarvis and catcher Jerry Moses, for pitcher Ken Tatum, second baseman Doug Griffin and outfielder Jarvis Tatum. Hampered by poor vision after a beanball struck him in the face in August 1967, Conigliaro will play only 74 games for the 1971 Angels before retiring.",
+   "links": [
+    "Boston Red Sox",
+    "Tony Conigliaro",
+    "Los Angeles Angels"
+   ],
+   "score": 25.0,
+   "abouts": [
+    "Tony Conigliaro",
+    "Boston Red Sox",
+    "Los Angeles Angels"
+   ],
+   "about": "Tony Conigliaro",
+   "key": "52166561fb0a9149",
+   "headline": "Red Sox Trade Tony Conigliaro to California Angels",
+   "image": null,
+   "extract": "Anthony Richard Conigliaro, nicknamed \"Tony C\" and \"Conig\", was an American Major League Baseball (MLB) outfielder and right-handed batter who played for the Boston Red Sox and California Angels (1971). Born in Revere, Massachusetts, he was a 1962 graduate of St. Mary's High School in Lynn. Conigliaro started his MLB…",
+   "page": "https://en.wikipedia.org/wiki/Tony_Conigliaro"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1967",
+   "text": "Gil Hodges, the Brooklyn Dodgers' Hall-of-Fame first baseman of the 1950s, returns to New York City, his adopted home, as the third permanent manager in New York Mets' history. Because Hodges, 43, is still under contract to the Washington Senators, whom he has managed since May 23, 1963, compensation will be arranged during the interleague trading period that coincides with the winter meetings.",
+   "links": [
+    "Gil Hodges",
+    "Brooklyn Dodgers",
+    "National Baseball Hall of Fame and Museum"
+   ],
+   "score": 52.56771139976982,
+   "abouts": [
+    "Gil Hodges",
+    "National Baseball Hall of Fame and Museum",
+    "Brooklyn Dodgers"
+   ],
+   "about": "Gil Hodges",
+   "key": "0ca5a8bd8e837990",
+   "headline": "Gil Hodges, 43, Returns to New York as Mets Manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gil_Hodges_1949.png",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Gil_Hodges_1949.png",
+    "alt": "Batter in Dodgers-style jersey, bat cocked, vintage ballpark stands behind",
+    "source": "checked",
+    "of": "Gil Hodges",
+    "w": 877,
+    "h": 1388,
+    "tier": "person"
+   },
+   "extract": "Gilbert Raymond Hodges was an American first baseman and manager in Major League Baseball (MLB) who played most of his 18-year career for the Brooklyn / Los Angeles Dodgers. An eight-time All-Star, he anchored the infield for the Dodgers through six pennant winners and two World Series titles before leading the New…",
+   "page": "https://en.wikipedia.org/wiki/Gil_Hodges"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1964",
+   "text": "A team of U.S. college baseball players defeats a Japanese amateur all-star team, 6–2, in the lone game of baseball at the 1964 Summer Olympics, featured as a demonstration sport.",
+   "links": [
+    "college baseball",
+    "baseball at the 1964 Summer Olympics",
+    "demonstration sport"
+   ],
+   "score": 29.32581609753043,
+   "abouts": [
+    "college baseball",
+    "demonstration sport",
+    "baseball at the 1964 Summer Olympics"
+   ],
+   "about": "college baseball",
+   "key": "c56da108983b9ae4",
+   "headline": "US College Team Beats Japan 6-2 in Olympic Baseball Demo",
+   "image": null,
+   "extract": "College baseball is baseball that is played by student-athletes at institutions of higher education. In the United States, college baseball is sanctioned mainly by the National Collegiate Athletic Association (NCAA); in Japan, it is governed by the All Japan University Baseball Federation .",
+   "page": "https://en.wikipedia.org/wiki/College_baseball"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1962",
+   "text": "The New York Mets purchase the contracts of minor-league infielder Ron Hunt from the Milwaukee Braves, and catcher Norm Sherry and outfielder Dick Smith from the Los Angeles Dodgers. Hunt, 21, proves to be the most impactful acquisition, becoming the Mets' regular second baseman in 1963 en route to a 12-year NL career.",
+   "links": [
+    "New York Mets",
+    "Ron Hunt",
+    "Milwaukee Braves"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Ron Hunt",
+    "New York Mets",
+    "Milwaukee Braves"
+   ],
+   "about": "Ron Hunt",
+   "key": "1d8524989cf4dc49",
+   "headline": "Mets Acquire Ron Hunt, 21, From Milwaukee Braves",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ron_Hunt_Mets.jpg",
+    "credit": "New York Mets",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ron_Hunt_Mets.jpg",
+    "alt": "Man in Mets cap posing for vintage portrait photo",
+    "source": "checked",
+    "of": "Ron Hunt",
+    "w": 630,
+    "h": 900,
+    "tier": "person"
+   },
+   "extract": "Ronald Kenneth Hunt was an American professional baseball second baseman. He played 12 seasons in Major League Baseball from 1963 to 1974 for the New York Mets, Los Angeles Dodgers, San Francisco Giants, Montreal Expos, and St. Louis Cardinals. Hunt batted and threw right-handed.",
+   "page": "https://en.wikipedia.org/wiki/Ron_Hunt"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1961",
+   "text": "The Mets purchase left-hander Johnny Antonelli from the Milwaukee Braves. Antonelli is well-remembered from his time as ace of the 1954 world-champion New York Giants' pitching staff. But Antonelli, 31, decides to retire from the mound prior to the Mets' inaugural spring training camp.",
+   "links": [
+    "New York Mets",
+    "Johnny Antonelli",
+    "Milwaukee Braves"
+   ],
+   "score": 60.0,
+   "abouts": [
+    "Johnny Antonelli",
+    "New York Mets",
+    "Milwaukee Braves"
+   ],
+   "about": "Johnny Antonelli",
+   "key": "1b8a4706dd0c774e",
+   "headline": "Mets Purchase Johnny Antonelli, Who Retires Before Camp",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1954_Bowman_Johnny_Antonelli.jpg/960px-1954_Bowman_Johnny_Antonelli.jpg",
+    "credit": "Bowman Gum",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1954_Bowman_Johnny_Antonelli.jpg",
+    "alt": "Baseball card of pitcher in Giants jersey, Johnny Antonelli nameplate visible",
+    "source": "checked",
+    "of": "Johnny Antonelli",
+    "w": 1000,
+    "h": 1476,
+    "tier": "person"
+   },
+   "extract": "John August Antonelli was an American professional baseball player, a left-handed starting pitcher who played in Major League Baseball (MLB) for the Boston / Milwaukee Braves, New York / San Francisco Giants, and Cleveland Indians between 1948 and 1961. Noted at the outset of his pro career as the recipient of the…",
+   "page": "https://en.wikipedia.org/wiki/Johnny_Antonelli"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1956",
+   "text": "Chicago Cubs owner Philip K. Wrigley accepts the resignations of VP/player personnel Wid Matthews, business manager James T. Gallagher and field manager Stan Hack. Their replacements are three veterans of the Chicago organization: Charlie Grimm, two-time Cubs' manager (1932–1938, 1944–1949) who also played first base for them (1926–1937), and John Holland, general manager of the Los Angeles Angels of the Pacific…",
+   "links": [
+    "Chicago Cubs",
+    "Philip K. Wrigley",
+    "Wid Matthews"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Philip K. Wrigley",
+    "Wid Matthews",
+    "Chicago Cubs"
+   ],
+   "about": "Philip K. Wrigley",
+   "key": "8342335a5f2418fa",
+   "headline": "Cubs Accept Resignations, Name Charlie Grimm as Manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1906_Chicago_Cubs.jpg/960px-1906_Chicago_Cubs.jpg",
+    "credit": "George Lawrence Company",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1906_Chicago_Cubs.jpg",
+    "alt": "Sepia team photo of the 1906 Chicago National League club in uniform, with roster names printed below",
+    "source": "checked",
+    "of": "Chicago Cubs",
+    "w": 3000,
+    "h": 2200,
+    "tier": "team"
+   },
+   "extract": "Philip Knight Wrigley was an American chewing gum manufacturer and a Major League Baseball executive, inheriting both of those roles as the son of William Wrigley Jr.",
+   "page": "https://en.wikipedia.org/wiki/Philip_K._Wrigley"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1951",
+   "text": "The Boston Braves trade outfielder Bob Addis to the Chicago Cubs for shortstop Jack Cusick.",
+   "links": [
+    "Boston Braves",
+    "Bob Addis",
+    "Chicago Cubs"
+   ],
+   "score": 35.24609011335091,
+   "abouts": [
+    "Bob Addis",
+    "Boston Braves",
+    "Chicago Cubs"
+   ],
+   "about": "Bob Addis",
+   "key": "7f62fc4b6aaac027",
+   "headline": "Braves Trade Bob Addis to Cubs for Jack Cusick",
+   "image": null,
+   "extract": "Robert Gordon Addis was an American professional baseball player. The outfielder appeared in 208 Major League Baseball games over four seasons (1950–53) for three National League teams. He threw right-handed, batted left-handed, and was listed as 6 feet (1.8 m) tall and 170 pounds (77 kg).",
+   "page": "https://en.wikipedia.org/wiki/Bob_Addis"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1946",
+   "text": "High-profile owners Bill Veeck and Larry MacPhail share today's spotlight with Game 5 of the 1946 World Series when Veeck's Cleveland Indians obtain six-time All-Star second baseman Joe Gordon from MacPhail's New York Yankees for starting pitcher Allie Reynolds. Gordon, 31, is a former (1942) AL MVP; he's bound for the Hall of Fame.",
+   "links": [
+    "Bill Veeck",
+    "Larry MacPhail",
+    "1946 World Series"
+   ],
+   "score": 125.06881927366967,
+   "abouts": [
+    "Bill Veeck",
+    "1946 World Series",
+    "Larry MacPhail"
+   ],
+   "about": "Bill Veeck",
+   "key": "49720f8c5635da99",
+   "headline": "Indians Get Joe Gordon From Yankees for Allie Reynolds",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Larry_MacPhail_1942.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Larry_MacPhail_1942.jpg",
+    "alt": "Black-and-white portrait of a man in suit and tie, photo of period",
+    "source": "checked",
+    "of": "Larry MacPhail",
+    "w": 601,
+    "h": 658,
+    "tier": "person"
+   },
+   "extract": "William Louis Veeck Jr., also known as \"Sport Shirt Bill\" and \"Wild Bill\" was an American Major League Baseball franchise owner and promoter. Veeck was at various times the owner of the Cleveland Indians, the St. Louis Browns, and the Chicago White Sox.",
+   "page": "https://en.wikipedia.org/wiki/Bill_Veeck"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1943",
+   "text": "With their mound ace, Chandler, hurling his second complete game, a 2–0 shutout, the Yankees defeat the Cardinals to win their tenth World Series championship, four games to one, before 33,872. Bill Dickey's two-run homer breaks a scoreless tie in the sixth inning.",
+   "links": [
+    "Spud Chandler",
+    "New York Yankees",
+    "St. Louis Cardinals"
+   ],
+   "score": 75.0,
+   "abouts": [
+    "Spud Chandler",
+    "New York Yankees",
+    "St. Louis Cardinals"
+   ],
+   "about": "Spud Chandler",
+   "key": "f7167b8cc10c5ef6",
+   "headline": "Chandler Shuts out Cardinals 2-0, Yankees Win World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Spud_Chandler_1947.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Spud_Chandler_1947.jpg",
+    "alt": "Black-and-white photo of a man with short dark hair, smiling, white collar.",
+    "source": "checked",
+    "of": "Spud Chandler",
+    "w": 927,
+    "h": 1152,
+    "tier": "person"
+   },
+   "extract": "Spurgeon Ferdinand \"Spud\" Chandler was an American professional baseball player. He played in Major League Baseball as a right-handed starting pitcher and played his entire career for the New York Yankees from 1937 through 1947.",
+   "page": "https://en.wikipedia.org/wiki/Spud_Chandler"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1929",
+   "text": "Philadelphia Athletics game two starting pitcher George Earnshaw is the starter in game three of the World Series as well, and pitches all nine innings. The Cubs win their only game of the World Series, 3–1.",
+   "links": [
+    "starting pitcher",
+    "George Earnshaw"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "starting pitcher",
+    "George Earnshaw"
+   ],
+   "about": "starting pitcher",
+   "key": "806e70ad2d239aa2",
+   "headline": "Earnshaw Pitches All Nine Innings, Cubs Win 3-1",
+   "image": null,
+   "extract": "In baseball, a starting pitcher or starter is the first pitcher in the game for each team. A pitcher is credited with a game started if they throw the first pitch to the opponent's first batter of a game. Starting pitchers are expected to pitch for a significant portion of the game, although their ability to do this…",
+   "page": "https://en.wikipedia.org/wiki/Starting_pitcher"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1925",
+   "text": "Walter Johnson wins his second game of the 1925 World Series, holding the Pirates to six hits, and no runs.",
+   "links": [],
+   "score": 50.0,
+   "abouts": [],
+   "about": null,
+   "key": "05efdb90cb3cf844",
+   "headline": "Walter Johnson Wins Second World Series Game, Six Hits",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Griffith_Stadium_during_1925_World_Series.jpg/960px-Griffith_Stadium_during_1925_World_Series.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Griffith_Stadium_during_1925_World_Series.jpg",
+    "alt": "Packed black-and-white stadium view of a baseball game with fans in stands",
+    "source": "checked",
+    "of": "1925 World Series",
+    "w": 5220,
+    "h": 3714,
+    "tier": "venue"
+   },
+   "extract": "",
+   "page": ""
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1923",
+   "text": "The New York Yankees win their first World Series game against the New York Giants in nine tries on two home runs by Babe Ruth. Going back to the 1921 World Series, they were 0–8–1, with a tie game in the 1922 World Series.",
+   "links": [
+    "World Series",
+    "1921 World Series",
+    "1922 World Series"
+   ],
+   "score": 87.72405955878888,
+   "abouts": [
+    "1921 World Series",
+    "1922 World Series",
+    "World Series"
+   ],
+   "about": "1921 World Series",
+   "key": "6838e8d004f1628b",
+   "headline": "Ruth Homers Twice, Yankees Win First World Series Game vs Giants",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ny_yankees_team_1923.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ny_yankees_team_1923.jpg",
+    "alt": "Black-and-white team photo of players in uniforms before a large stadium.",
+    "source": "checked",
+    "of": "1923 World Series",
+    "w": 800,
+    "h": 543,
+    "tier": "team"
+   },
+   "extract": "The 1921 World Series was the championship series in Major League Baseball for the 1921 season. The 18th edition of the World Series, it matched the National League (NL) champion New York Giants and the American League (AL) champion New York Yankees.",
+   "page": "https://en.wikipedia.org/wiki/1921_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1921",
+   "text": "The New York Giants battle back from 3–0 and 5–3 deficits to beat the Yankees 8–5 in game six of the World Series.",
+   "links": [],
+   "score": 50.0,
+   "abouts": [],
+   "about": null,
+   "key": "7485775d92796dfc",
+   "headline": "Giants Rally From 3-0 and 5-3 Deficits, Beat Yankees 8-5",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mike_McNally_Steals_home_1921_World_Series.jpg",
+    "credit": "Bain News Service, publisher",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Mike_McNally_Steals_home_1921_World_Series.jpg",
+    "alt": "Black-and-white ballpark view of a play at home plate, crowded stands, caption 'McNally steals home'.",
+    "source": "checked",
+    "of": "1921 World Series",
+    "w": 589,
+    "h": 419,
+    "tier": "event"
+   },
+   "extract": "",
+   "page": ""
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1920",
+   "text": "The Cleveland Indians put themselves one win away from their first World Championship title, after beating the Brooklyn Robins, 1–0, in Game 6 of the World Series at Cleveland League Park. Facing his former team, Duster Mails pitched a sterling three-hit shutout with four strikeouts and two walks.",
+   "links": [
+    "Cleveland Indians",
+    "Brooklyn Robins",
+    "1920 World Series"
+   ],
+   "score": 119.18699512171011,
+   "abouts": [
+    "1920 World Series",
+    "Cleveland Indians",
+    "Brooklyn Robins"
+   ],
+   "about": "1920 World Series",
+   "key": "fe7aea4169175a75",
+   "headline": "Duster Mails Shuts out Brooklyn, Indians One Win From Title",
+   "image": null,
+   "extract": "The 1920 World Series was the championship series for Major League Baseball's 1920 season. The series was a best-of-nine format played between the American League (AL) champion Cleveland Indians and the National League (NL) champion Brooklyn Robins, with the Indians defeating the Robins five games to two to win their…",
+   "page": "https://en.wikipedia.org/wiki/1920_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1913",
+   "text": "The Philadelphia Athletics defeat the New York Giants, 3–1, in Game 5 of the World Series to win the World Championship, four games to one. The Giants thus become the second club, following the Detroit Tigers of 1907–1909, to lose three consecutive World Series; and, to date, the last to do so.",
+   "links": [
+    "Philadelphia Athletics",
+    "New York Giants (baseball)",
+    "1913 World Series"
+   ],
+   "score": 91.2618375722995,
+   "abouts": [
+    "1913 World Series",
+    "Philadelphia Athletics",
+    "New York Giants (baseball)"
+   ],
+   "about": "1913 World Series",
+   "key": "93ed2ae6a2ed29cc",
+   "headline": "Athletics Beat Giants 3-1, Win World Series Four Games to One",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/1913-world-series-polo-grounds.jpg/960px-1913-world-series-polo-grounds.jpg",
+    "credit": "George Grantham Bain",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1913-world-series-polo-grounds.jpg",
+    "alt": "Crowded 1910s stadium, baseball game in progress, 'World Series at New York' banner",
+    "source": "checked",
+    "of": "1913 World Series",
+    "w": 1536,
+    "h": 1062,
+    "tier": "venue"
+   },
+   "extract": "The 1913 World Series was the championship series in Major League Baseball for the 1913 season. The tenth edition of the World Series, it matched the American League (AL) champion Philadelphia Athletics against the National League (NL) New York Giants. The Athletics won the Series four games to one.",
+   "page": "https://en.wikipedia.org/wiki/1913_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1899",
+   "text": "Magnates of the Western League agree to reorganize themselves into the American League.",
+   "links": [
+    "Western League (1885–1900)",
+    "American League"
+   ],
+   "score": 42.75865245443775,
+   "abouts": [
+    "American League",
+    "Western League (1885–1900)"
+   ],
+   "about": "American League",
+   "key": "a69807d95d7affe9",
+   "headline": "Western League Magnates Agree to Reorganize as American League",
+   "image": null,
+   "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
+   "page": "https://en.wikipedia.org/wiki/American_League"
+  }
+ ],
+ "numbers": {
+  "games": 150,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "150",
+    "note": "1873 to 2026"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "22",
+    "note": "White Stockings 13, Athletics 9 (1873)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "15 runs",
+    "note": "Stars 16, Athletics 1 (1890)"
+   },
+   {
+    "label": "Longest game",
+    "value": "13 innings",
+    "note": "Orioles at Yankees (2012)"
+   },
+   {
+    "label": "Walk-off wins",
+    "value": "13",
+    "note": "latest: Astros 8, Mariners 7 (2022)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "66,312",
+    "note": "Cardinals at Yankees (1964)"
+   }
+  ],
+  "records": [
+   {
+    "label": "Most home runs by one team",
+    "value": "6",
+    "note": "Phillies (2023); Phillies 10, Braves 2"
+   },
+   {
+    "label": "Most strikeouts in a game",
+    "value": "33",
+    "note": "Indians 2, Orioles 1 (1997)"
+   },
+   {
+    "label": "Most steals by one team",
+    "value": "4",
+    "note": "Giants (1900)"
+   },
+   {
+    "label": "Most runs in one inning",
+    "value": "9",
+    "note": "Braves 14, Senators 5 (1898)"
+   },
+   {
+    "label": "Shortest and longest games",
+    "value": "90 and 327 min",
+    "note": "1908 and 2008"
+   },
+   {
+    "label": "Home team won",
+    "value": "50%",
+    "note": "of 145 decided games"
+   },
+   {
+    "label": "Postseason games",
+    "value": "98",
+    "note": "League Championship Series 36, Division Series 33, World Series 28"
+   },
+   {
+    "label": "Ballparks that hosted games",
+    "value": "84",
+    "note": "most games: Dodger Stadium (8); Fenway Park (6); Polo Grounds V (5)"
+   }
+  ],
+  "through": 2026,
+  "gotd": {
+   "year": 1977,
+   "visitor": "Dodgers",
+   "home": "Yankees",
+   "inn": 12,
+   "vline": [
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0"
+   ],
+   "hline": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "1"
+   ],
+   "vr": 3,
+   "hr": 4,
+   "vh": 6,
+   "hh": 11,
+   "ve": 0,
+   "he": 0,
+   "crowd": 56668,
+   "park": "Yankee Stadium I",
+   "event": "World Series",
+   "why": "World Series, 12 innings, walk-off"
+  },
+  "eras": [
+   {
+    "decade": 1870,
+    "games": 4,
+    "rpg": 19.75,
+    "crowd": null
+   },
+   {
+    "decade": 1880,
+    "games": 24,
+    "rpg": 9.79,
+    "crowd": null
+   },
+   {
+    "decade": 1890,
+    "games": 18,
+    "rpg": 10.83,
+    "crowd": 1103
+   },
+   {
+    "decade": 1900,
+    "games": 7,
+    "rpg": 8.29,
+    "crowd": 9252
+   },
+   {
+    "decade": 1910,
+    "games": 8,
+    "rpg": 7.12,
+    "crowd": 24577
+   },
+   {
+    "decade": 1920,
+    "games": 5,
+    "rpg": 5.6,
+    "crowd": 34100
+   },
+   {
+    "decade": 1940,
+    "games": 3,
+    "rpg": 6.0,
+    "crowd": 36652
+   },
+   {
+    "decade": 1960,
+    "games": 4,
+    "rpg": 7.75,
+    "crowd": 51932
+   },
+   {
+    "decade": 1970,
+    "games": 9,
+    "rpg": 7.44,
+    "crowd": 45570
+   },
+   {
+    "decade": 1980,
+    "games": 11,
+    "rpg": 7.27,
+    "crowd": 52246
+   },
+   {
+    "decade": 1990,
+    "games": 12,
+    "rpg": 8.42,
+    "crowd": 50885
+   },
+   {
+    "decade": 2000,
+    "games": 15,
+    "rpg": 8.67,
+    "crowd": 47605
+   },
+   {
+    "decade": 2010,
+    "games": 16,
+    "rpg": 6.25,
+    "crowd": 44563
+   },
+   {
+    "decade": 2020,
+    "games": 14,
+    "rpg": 6.5,
+    "crowd": 45438
+   }
+  ],
+  "thenNow": {
+   "first": {
+    "year": 1873,
+    "visitor": "Nationals",
+    "home": "Atlantics",
+    "vs": 17,
+    "hs": 3,
+    "crowd": null,
+    "park": null,
+    "event": ""
+   },
+   "latest": {
+    "year": 2026,
+    "visitor": "Dodgers",
+    "home": "Brewers",
+    "vs": 1,
+    "hs": 2,
+    "crowd": 42617,
+    "park": "American Family Field",
+    "event": "National League Championship Series"
+   }
+  },
+  "teams": {
+   "best": [
+    {
+     "team": "Yankees",
+     "w": 11,
+     "l": 5,
+     "pct": 0.688
+    },
+    {
+     "team": "Red Sox",
+     "w": 8,
+     "l": 4,
+     "pct": 0.667
+    },
+    {
+     "team": "Cubs",
+     "w": 8,
+     "l": 5,
+     "pct": 0.615
+    }
+   ],
+   "worst": [
+    {
+     "team": "Cardinals",
+     "w": 3,
+     "l": 9,
+     "pct": 0.25
+    },
+    {
+     "team": "Dodgers",
+     "w": 9,
+     "l": 10,
+     "pct": 0.474
+    },
+    {
+     "team": "Braves",
+     "w": 10,
+     "l": 9,
+     "pct": 0.526
+    }
+   ]
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+ },
+ "wire": {
+  "count": 213,
+  "items": [
+   {
+    "year": 1994,
+    "text": "Rich Gossage becomes a free agent (Mariners)",
+    "star": true
+   },
+   {
+    "year": 1973,
+    "text": "Indians trade Bill Butler and Dick Colpaert to the Twins for Jim Strickland and Mike Brooks",
+    "star": false
+   },
+   {
+    "year": 1970,
+    "text": "Red Sox trade Tony Conigliaro, Ray Jarvis and Jerry Moses to the Angels for Ken Tatum, Jarvis Tatum and Doug Griffin",
+    "star": false
+   },
+   {
+    "year": 1968,
+    "text": "Cardinals trade Johnny Edwards and Tommy Smith to the Astros for Dave Giusti and Dave Adlesh",
+    "star": false
+   },
+   {
+    "year": 1968,
+    "text": "Reds trade Vada Pinson to the Cardinals for Bobby Tolan and Wayne Granger",
+    "star": false
+   },
+   {
+    "year": 1961,
+    "text": "Athletics trade Jay Ward, Bobby Prescott and Stan Johnson to the Dodgers for Bill Lajoie and Gordie Windhorn",
+    "star": false
+   },
+   {
+    "year": 1946,
+    "text": "Yankees trade Joe Gordon to the Indians for Allie Reynolds",
+    "star": true
+   },
+   {
+    "year": 1934,
+    "text": "Pirates release Burleigh Grimes",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "88",
+    "note": "most in 1994 (8)"
+   },
+   {
+    "label": "Trades made",
+    "value": "61",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "8",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1994",
+    "note": "10 transactions"
+   }
+  ],
+  "years": [
+   1898,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1942,
+    "name": "Sherwood Brewer",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 1931,
+    "name": "Neck Stanley",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1926,
+    "name": "Dick Seay",
+    "star": false,
+    "seasons": 22
+   },
+   {
+    "year": 1926,
+    "name": "Tex Burnett",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1925,
+    "name": "Vic Harris",
+    "star": false,
+    "seasons": 23
+   },
+   {
+    "year": 1925,
+    "name": "Willie Gray",
+    "star": false,
+    "seasons": 13
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2012,
+    "name": "Jim Thome",
+    "star": true,
+    "seasons": 22
+   },
+   {
+    "year": 2012,
+    "name": "Scott Rolen",
+    "star": true,
+    "seasons": 17
+   },
+   {
+    "year": 1981,
+    "name": "Sal Bando",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1972,
+    "name": "Roberto Clemente",
+    "star": true,
+    "seasons": 18
+   },
+   {
+    "year": 1971,
+    "name": "Dick Hall",
+    "star": false,
+    "seasons": 20
+   },
+   {
+    "year": 1936,
+    "name": "Judy Johnson",
+    "star": true,
+    "seasons": 16
+   }
+  ],
+  "debutCount": 25,
+  "farewellCount": 66,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1944,
+    "name": "Red Ruffing",
+    "star": true
+   },
+   {
+    "year": 1926,
+    "name": "Babe Ruth",
+    "star": true
+   },
+   {
+    "year": 1925,
+    "name": "Cum Posey",
+    "star": true
+   }
+  ]
+ },
+ "ejections": {
+  "count": 5,
+  "managers": 1,
+  "items": [
+   {
+    "year": 2016,
+    "text": "Alex Wood (player) ejected by Tom Hallion: check swing",
+    "star": false
+   },
+   {
+    "year": 2008,
+    "text": "John Farrell (coach) ejected by Sam Holbrook: balls and strikes",
+    "star": false
+   },
+   {
+    "year": 1921,
+    "text": "Earl Smith (player) ejected by George Moriarty: bench jockeying",
+    "star": false
+   },
+   {
+    "year": 1910,
+    "text": "Red Dooin (player) ejected by Jim Johnstone: balls and strikes",
+    "star": false
+   },
+   {
+    "year": 1898,
+    "text": "Mike Griffin (manager) ejected by John Hunt: balk non-call",
+    "star": false
+   }
+  ],
+  "years": [
+   1898,
+   2016
+  ]
+ },
+ "feats": {
+  "count": 2,
+  "items": [
+   {
+    "year": 1884,
+    "text": "Forfeit: Boston at Cincinnati",
+    "star": false,
+    "kind": "forfeit"
+   }
+  ],
+  "cycles": 0,
+  "milestones": 0
+ }
+}

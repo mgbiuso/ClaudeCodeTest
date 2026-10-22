@@ -1,0 +1,501 @@
+{
+ "month": 10,
+ "day": 10,
+ "games": 163,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "163",
+   "note": "1873 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "32",
+   "note": "Braves 25, Bisons 7 (1884)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "18 runs",
+   "note": "Braves 25, Bisons 7 (1884)"
+  },
+  {
+   "label": "Longest game",
+   "value": "15 innings",
+   "note": "Tigers at Mariners (2025)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "12",
+   "note": "latest: Mariners 3, Tigers 2 (2025)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "86,288",
+   "note": "Braves at Indians (1948)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "4",
+   "note": "Yankees (1956); Yankees 9, Dodgers 0"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "37",
+   "note": "Mariners 3, Tigers 2 (2025)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "6",
+   "note": "Orioles (1899)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "6",
+   "note": "Tip-Tops 6, Terrapins 3 (1914)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "70 and 314 min",
+   "note": "1904 and 2021"
+  },
+  {
+   "label": "Home team won",
+   "value": "48%",
+   "note": "of 160 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "105",
+   "note": "League Championship Series 38, World Series 34, Division Series 32"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "86",
+   "note": "most games: Yankee Stadium I (12); Dodger Stadium (7); Oakland-Alameda County Coliseum (6)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [],
+ "gotd": {
+  "year": 2025,
+  "visitor": "Tigers",
+  "home": "Mariners",
+  "inn": 15,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 2,
+  "hr": 3,
+  "vh": 8,
+  "hh": 8,
+  "ve": 2,
+  "he": 0,
+  "crowd": 47025,
+  "park": "Safeco Field",
+  "event": "Division Series",
+  "why": "Division Series, 15 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 3,
+   "rpg": 15.0,
+   "crowd": null
+  },
+  {
+   "decade": 1880,
+   "games": 28,
+   "rpg": 9.93,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 16,
+   "rpg": 8.44,
+   "crowd": 1149
+  },
+  {
+   "decade": 1900,
+   "games": 10,
+   "rpg": 7.6,
+   "crowd": 14764
+  },
+  {
+   "decade": 1910,
+   "games": 11,
+   "rpg": 7.36,
+   "crowd": 14496
+  },
+  {
+   "decade": 1920,
+   "games": 6,
+   "rpg": 6.83,
+   "crowd": 37367
+  },
+  {
+   "decade": 1930,
+   "games": 2,
+   "rpg": 6.0,
+   "crowd": null
+  },
+  {
+   "decade": 1940,
+   "games": 4,
+   "rpg": 11.5,
+   "crowd": 49930
+  },
+  {
+   "decade": 1950,
+   "games": 3,
+   "rpg": 7.0,
+   "crowd": 52233
+  },
+  {
+   "decade": 1960,
+   "games": 5,
+   "rpg": 6.4,
+   "crowd": 60726
+  },
+  {
+   "decade": 1970,
+   "games": 9,
+   "rpg": 8.78,
+   "crowd": 47048
+  },
+  {
+   "decade": 1980,
+   "games": 13,
+   "rpg": 7.31,
+   "crowd": 53245
+  },
+  {
+   "decade": 1990,
+   "games": 15,
+   "rpg": 7.73,
+   "crowd": 51051
+  },
+  {
+   "decade": 2000,
+   "games": 13,
+   "rpg": 6.46,
+   "crowd": 47274
+  },
+  {
+   "decade": 2010,
+   "games": 17,
+   "rpg": 8.18,
+   "crowd": 46786
+  },
+  {
+   "decade": 2020,
+   "games": 8,
+   "rpg": 8.25,
+   "crowd": 40905
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1873,
+   "visitor": "Nationals",
+   "home": "Braves",
+   "vs": 2,
+   "hs": 8,
+   "crowd": null,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "White Sox",
+   "home": "Guardians",
+   "vs": 0,
+   "hs": 2,
+   "crowd": 36889,
+   "park": "Progressive Field",
+   "event": "American League Division Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Phillies",
+    "w": 10,
+    "l": 5,
+    "pct": 0.667
+   },
+   {
+    "team": "Dodgers",
+    "w": 11,
+    "l": 7,
+    "pct": 0.611
+   },
+   {
+    "team": "Braves",
+    "w": 11,
+    "l": 8,
+    "pct": 0.579
+   }
+  ],
+  "worst": [
+   {
+    "team": "Red Sox",
+    "w": 5,
+    "l": 7,
+    "pct": 0.417
+   },
+   {
+    "team": "Athletics",
+    "w": 6,
+    "l": 8,
+    "pct": 0.429
+   },
+   {
+    "team": "Yankees",
+    "w": 11,
+    "l": 13,
+    "pct": 0.458
+   }
+  ]
+ },
+ "wire": {
+  "count": 238,
+  "items": [
+   {
+    "year": 1995,
+    "text": "Astros trade Pedro Martinez to the Padres for Ray Holbert",
+    "star": false
+   },
+   {
+    "year": 1971,
+    "text": "Brewers trade Marty Pattin, Lew Krausse, Tommy Harper and Pat Skrable to the Red Sox for Jim Lonborg, Ken Brett, Billy Conigliaro, Joe Lahoud, George Scott and Don Pavletich",
+    "star": false
+   },
+   {
+    "year": 1967,
+    "text": "Braves trade Jim Beauchamp, Mack Jones and Jay Ritchie to the Reds for Deron Johnson",
+    "star": false
+   },
+   {
+    "year": 1952,
+    "text": "Reds trade cash and Dixie Howell to the Dodgers for Clyde King",
+    "star": false
+   },
+   {
+    "year": 1950,
+    "text": "Cubs trade cash and Hank Edwards to the Dodgers for Chuck Connors and Dee Fondy",
+    "star": false
+   },
+   {
+    "year": 1932,
+    "text": "Cardinals trade Gus Mancuso and Ray Starr to the Giants for Ethan Allen, Bob O'Farrell, Bill Walker and Jim Mooney",
+    "star": false
+   },
+   {
+    "year": 1929,
+    "text": "Dodgers release Dave Bancroft",
+    "star": true
+   },
+   {
+    "year": 1929,
+    "text": "Dodgers release Max Carey",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "90",
+    "note": "most in 2012 (11)"
+   },
+   {
+    "label": "Trades made",
+    "value": "42",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "11",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1961",
+    "note": "45 transactions"
+   }
+  ],
+  "years": [
+   1901,
+   2020
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1945,
+    "name": "Al Treichel",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1937,
+    "name": "Calvin Clarke",
+    "star": false,
+    "seasons": 5
+   },
+   {
+    "year": 1933,
+    "name": "Buck Leonard",
+    "star": true,
+    "seasons": 16
+   },
+   {
+    "year": 1933,
+    "name": "Collins",
+    "star": false,
+    "seasons": 10
+   },
+   {
+    "year": 1931,
+    "name": "Paul Carter",
+    "star": false,
+    "seasons": 6
+   },
+   {
+    "year": 1898,
+    "name": "Harry Howell",
+    "star": false,
+    "seasons": 13
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2016,
+    "name": "David Ortiz",
+    "star": true,
+    "seasons": 20
+   },
+   {
+    "year": 2009,
+    "name": "John Smoltz",
+    "star": true,
+    "seasons": 22
+   },
+   {
+    "year": 1972,
+    "name": "Bill Mazeroski",
+    "star": true,
+    "seasons": 17
+   },
+   {
+    "year": 1956,
+    "name": "Jackie Robinson",
+    "star": true,
+    "seasons": 12
+   },
+   {
+    "year": 1951,
+    "name": "Joe DiMaggio",
+    "star": true,
+    "seasons": 16
+   },
+   {
+    "year": 1945,
+    "name": "Jesse Hubbard",
+    "star": false,
+    "seasons": 22
+   }
+  ],
+  "debutCount": 24,
+  "farewellCount": 87,
+  "hofDebuts": 1,
+  "managerDebuts": [
+   {
+    "year": 1937,
+    "name": "Casey Campbell",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 9,
+  "managers": 1,
+  "items": [
+   {
+    "year": 1990,
+    "text": "Marty Barrett (player) ejected by Terry Cooney: balls and strikes (threw equipment)",
+    "star": false
+   },
+   {
+    "year": 1990,
+    "text": "Roger Clemens (player) ejected by Terry Cooney: balls and strikes",
+    "star": false
+   },
+   {
+    "year": 1986,
+    "text": "Gene Mauch (manager) ejected by Nick Bremigan: call at hp (reversed)",
+    "star": false
+   },
+   {
+    "year": 1923,
+    "text": "Bullet Joe Bush (player) ejected by Hank O'Day: call at 1b",
+    "star": false
+   },
+   {
+    "year": 1921,
+    "text": "Casey Stengel (player) ejected by George Moriarty: bench jockeying",
+    "star": true
+   }
+  ],
+  "years": [
+   1899,
+   1990
+  ]
+ },
+ "feats": {
+  "count": 1,
+  "items": [
+   {
+    "year": 1899,
+    "text": "Ed Delahanty reaches 230 hits in a season",
+    "star": true,
+    "kind": "milestone"
+   }
+  ],
+  "cycles": 0,
+  "milestones": 1
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

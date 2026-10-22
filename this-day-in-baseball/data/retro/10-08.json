@@ -1,12 +1,12 @@
 {
  "month": 10,
  "day": 8,
- "games": 214,
+ "games": 215,
  "items": [
   {
    "label": "Games played on this date",
-   "value": "214",
-   "note": "since 1873"
+   "value": "215",
+   "note": "1873 to 2026"
   },
   {
    "label": "Most runs in a game",
@@ -63,19 +63,20 @@
   {
    "label": "Home team won",
    "value": "55%",
-   "note": "of 206 decided games"
+   "note": "of 207 decided games"
   },
   {
    "label": "Postseason games",
-   "value": "114",
+   "value": "115",
    "note": "Division Series 47, World Series 32, League Championship Series 31"
   },
   {
    "label": "Ballparks that hosted games",
-   "value": "86",
+   "value": "87",
    "note": "most games: West Side Grounds (10); Yankee Stadium I (7); Robison Field (6)"
   }
  ],
+ "through": 2026,
  "nohitters": [
   {
    "year": 1956,
@@ -224,9 +225,9 @@
   },
   {
    "decade": 2020,
-   "games": 20,
-   "rpg": 10.0,
-   "crowd": 43448
+   "games": 21,
+   "rpg": 10.19,
+   "crowd": 43240
   }
  ],
  "thenNow": {
@@ -237,18 +238,18 @@
    "vs": 9,
    "hs": 17,
    "crowd": null,
-   "park": "NYC01",
+   "park": null,
    "event": ""
   },
   "latest": {
-   "year": 2025,
-   "visitor": "Mariners",
-   "home": "Tigers",
-   "vs": 3,
-   "hs": 9,
-   "crowd": 37069,
-   "park": "Comerica Park",
-   "event": "Division Series"
+   "year": 2026,
+   "visitor": "Guardians",
+   "home": "White Sox",
+   "vs": 9,
+   "hs": 5,
+   "crowd": 39920,
+   "park": "Rate Field",
+   "event": "American League Division Series"
   }
  },
  "teams": {
@@ -297,6 +298,11 @@
   "count": 205,
   "items": [
    {
+    "year": 1995,
+    "text": "Rangers trade Scott Podsednik to the Marlins",
+    "star": false
+   },
+   {
     "year": 1979,
     "text": "Rangers trade Ray Fontenot and Gene Nelson to the Yankees for Bob Polinsky, Neal Mersch and Mark Softy",
     "star": false
@@ -317,13 +323,8 @@
     "star": false
    },
    {
-    "year": 1953,
-    "text": "Giants trade cash, Frank Hiller, Adrian Zabala and Chuck Diering to the San Francisco for Windy McCall",
-    "star": false
-   },
-   {
-    "year": 1953,
-    "text": "Toronto trade Don Johnson to the White Sox for Hector Rodriguez",
+    "year": 1949,
+    "text": "Athletics trade Buddy Rosar to the Red Sox for Billy Hitchcock",
     "star": false
    },
    {
@@ -358,6 +359,10 @@
     "value": "2001",
     "note": "27 transactions"
    }
+  ],
+  "years": [
+   1886,
+   2021
   ]
  },
  "people": {
@@ -482,6 +487,30 @@
     "text": "Bert Campaneris (player) ejected by Nestor Chylak: fighting (threw bat)",
     "star": false
    }
+  ],
+  "years": [
+   1905,
+   2010
   ]
- }
+ },
+ "feats": {
+  "count": 2,
+  "items": [
+   {
+    "year": 2018,
+    "text": "Brock Holt hits for the cycle for the Red Sox (Yankee Stadium II, AL Division Series)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1886,
+    "text": "Forfeit: Kansas City at Washington",
+    "star": false,
+    "kind": "forfeit"
+   }
+  ],
+  "cycles": 1,
+  "milestones": 0
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
 }

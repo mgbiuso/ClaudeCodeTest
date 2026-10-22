@@ -1179,5 +1179,19 @@
   "farewellCount": 12,
   "hofDebuts": 0,
   "managerDebuts": []
- }
+ },
+ "papers": [
+  {
+   "year": 1958,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 18,
+   "url": "https://www.loc.gov/resource/sn83045462/1958-10-28/ed-1/?sp=18&q=baseball"
+  },
+  {
+   "year": 1954,
+   "paper": "East Cleveland leader (East Cleveland, Ohio)",
+   "page": 2,
+   "url": "https://www.loc.gov/resource/sn83035682/1954-10-28/ed-1/?sp=2&q=baseball"
+  }
+ ]
 }

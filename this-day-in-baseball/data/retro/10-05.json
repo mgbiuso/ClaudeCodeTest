@@ -1,0 +1,516 @@
+{
+ "month": 10,
+ "day": 5,
+ "games": 373,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "373",
+   "note": "1872 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "53",
+   "note": "Lord Baltimores 39, Atlantics 14 (1872)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "25 runs",
+   "note": "Lord Baltimores 39, Atlantics 14 (1872)"
+  },
+  {
+   "label": "Longest game",
+   "value": "15 innings",
+   "note": "Athletics at Senators (1907)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "21",
+   "note": "latest: Mariners 5, Tigers 4 (2022)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "92,650",
+   "note": "White Sox at Dodgers (1959)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "5",
+   "note": "Cardinals (2004); Cardinals 8, Dodgers 3"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "33",
+   "note": "Orioles 4, Indians 3 (1996)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "7",
+   "note": "Giants (1905)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "11",
+   "note": "Lord Baltimores 39, Atlantics 14 (1872)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "75 and 319 min",
+   "note": "1929 and 2008"
+  },
+  {
+   "label": "Home team won",
+   "value": "56%",
+   "note": "of 365 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "122",
+   "note": "Division Series 54, World Series 38, League Championship Series 24"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "110",
+   "note": "most games: Yankee Stadium I (20); Fenway Park (15); Dodger Stadium (12)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [],
+ "gotd": {
+  "year": 1944,
+  "visitor": "Browns",
+  "home": "Cardinals",
+  "inn": 11,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "1",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 2,
+  "hr": 3,
+  "vh": 7,
+  "hh": 7,
+  "ve": 4,
+  "he": 0,
+  "crowd": 35076,
+  "park": "Sportsman's Park III",
+  "event": "World Series",
+  "why": "World Series, 11 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 9,
+   "rpg": 15.44,
+   "crowd": 729
+  },
+  {
+   "decade": 1880,
+   "games": 38,
+   "rpg": 10.76,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 15,
+   "rpg": 8.4,
+   "crowd": 734
+  },
+  {
+   "decade": 1900,
+   "games": 50,
+   "rpg": 7.6,
+   "crowd": 4295
+  },
+  {
+   "decade": 1910,
+   "games": 36,
+   "rpg": 8.97,
+   "crowd": 2946
+  },
+  {
+   "decade": 1920,
+   "games": 23,
+   "rpg": 8.43,
+   "crowd": 17792
+  },
+  {
+   "decade": 1930,
+   "games": 8,
+   "rpg": 5.0,
+   "crowd": 41856
+  },
+  {
+   "decade": 1940,
+   "games": 8,
+   "rpg": 6.62,
+   "crowd": 57062
+  },
+  {
+   "decade": 1950,
+   "games": 8,
+   "rpg": 9.12,
+   "crowd": 59727
+  },
+  {
+   "decade": 1960,
+   "games": 9,
+   "rpg": 6.78,
+   "crowd": 48480
+  },
+  {
+   "decade": 1970,
+   "games": 13,
+   "rpg": 6.69,
+   "crowd": 43777
+  },
+  {
+   "decade": 1980,
+   "games": 49,
+   "rpg": 7.04,
+   "crowd": 26934
+  },
+  {
+   "decade": 1990,
+   "games": 25,
+   "rpg": 8.56,
+   "crowd": 39442
+  },
+  {
+   "decade": 2000,
+   "games": 38,
+   "rpg": 9.11,
+   "crowd": 40402
+  },
+  {
+   "decade": 2010,
+   "games": 17,
+   "rpg": 7.12,
+   "crowd": 44460
+  },
+  {
+   "decade": 2020,
+   "games": 27,
+   "rpg": 9.7,
+   "crowd": 29544
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1872,
+   "visitor": "Lord Baltimores",
+   "home": "Atlantics",
+   "vs": 39,
+   "hs": 14,
+   "crowd": 100,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "White Sox",
+   "home": "Guardians",
+   "vs": 4,
+   "hs": 3,
+   "crowd": 32050,
+   "park": "Progressive Field",
+   "event": "American League Division Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Astros",
+    "w": 10,
+    "l": 2,
+    "pct": 0.833
+   },
+   {
+    "team": "Pirates",
+    "w": 19,
+    "l": 12,
+    "pct": 0.613
+   },
+   {
+    "team": "Red Sox",
+    "w": 17,
+    "l": 12,
+    "pct": 0.586
+   }
+  ],
+  "worst": [
+   {
+    "team": "Tigers",
+    "w": 10,
+    "l": 16,
+    "pct": 0.385
+   },
+   {
+    "team": "Phillies",
+    "w": 12,
+    "l": 18,
+    "pct": 0.4
+   },
+   {
+    "team": "Reds",
+    "w": 10,
+    "l": 14,
+    "pct": 0.417
+   }
+  ]
+ },
+ "wire": {
+  "count": 239,
+  "items": [
+   {
+    "year": 2018,
+    "text": "Indians trade Julian Merryweather to the Blue Jays",
+    "star": false
+   },
+   {
+    "year": 1987,
+    "text": "Mariners trade Stan Clarke to the Tigers for Bruce Fields",
+    "star": false
+   },
+   {
+    "year": 1981,
+    "text": "Braves release Gaylord Perry",
+    "star": true
+   },
+   {
+    "year": 1971,
+    "text": "Indians trade Vada Pinson, Frank Baker and Alan Foster to the Angels for Alex Johnson and Jerry Moses",
+    "star": false
+   },
+   {
+    "year": 1970,
+    "text": "Cardinals trade Dick Allen to the Dodgers for Ted Sizemore and Bob Stinson",
+    "star": true
+   },
+   {
+    "year": 1962,
+    "text": "Cardinals release Red Schoendienst",
+    "star": true
+   },
+   {
+    "year": 1961,
+    "text": "Senators trade Dick Donovan, Gene Green and Jim Mahoney to the Indians for Jim Piersall",
+    "star": false
+   },
+   {
+    "year": 1907,
+    "text": "Senators trade Charlie Jones to the Browns for Ollie Pickering",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "148",
+    "note": "most in 2015 (32)"
+   },
+   {
+    "label": "Trades made",
+    "value": "20",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "6",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2015",
+    "note": "33 transactions"
+   }
+  ],
+  "years": [
+   1888,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1991,
+    "name": "Josias Manzanillo",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1930,
+    "name": "Dave Thomas",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 1930,
+    "name": "Ted Page",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1930,
+    "name": "Jabbo Andrews",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1924,
+    "name": "William Bell",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1901,
+    "name": "Germany Schaefer",
+    "star": false,
+    "seasons": 18
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2012,
+    "name": "Chipper Jones",
+    "star": true,
+    "seasons": 20
+   },
+   {
+    "year": 1986,
+    "name": "Tony Perez",
+    "star": true,
+    "seasons": 23
+   },
+   {
+    "year": 1985,
+    "name": "Rod Carew",
+    "star": true,
+    "seasons": 19
+   },
+   {
+    "year": 1980,
+    "name": "Minnie Minoso",
+    "star": true,
+    "seasons": 35
+   },
+   {
+    "year": 1953,
+    "name": "Johnny Mize",
+    "star": true,
+    "seasons": 18
+   },
+   {
+    "year": 1908,
+    "name": "Joe McGinnity",
+    "star": true,
+    "seasons": 10
+   }
+  ],
+  "debutCount": 47,
+  "farewellCount": 242,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1937,
+    "name": "Bob Feller",
+    "star": true
+   },
+   {
+    "year": 1933,
+    "name": "Jimmy Shevlin",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 9,
+  "managers": 1,
+  "items": [
+   {
+    "year": 1929,
+    "text": "Fresco Thompson (player) ejected by Bill Klem: balls and strikes",
+    "star": false
+   },
+   {
+    "year": 1914,
+    "text": "Johnny Bates (player) ejected by Ollie Anderson: balls and strikes (threw glove)",
+    "star": false
+   },
+   {
+    "year": 1907,
+    "text": "Frank Chance (manager) ejected by Cy Rigler: call at 1b (game forfeited)",
+    "star": true
+   },
+   {
+    "year": 1907,
+    "text": "Johnny Evers (player) ejected by Cy Rigler: call at 3b (game forfeited)",
+    "star": true
+   },
+   {
+    "year": 1907,
+    "text": "Joe Tinker (player) ejected by Cy Rigler: call at 1b (game forfeited)",
+    "star": true
+   }
+  ],
+  "years": [
+   1890,
+   1929
+  ]
+ },
+ "feats": {
+  "count": 5,
+  "items": [
+   {
+    "year": 1980,
+    "text": "Willie Wilson reaches 230 hits in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1929,
+    "text": "Lloyd Waner reaches 230 hits in a season",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1908,
+    "text": "Ed Walsh gets his 40th career win",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1907,
+    "text": "Forfeit: Chicago at St. Louis",
+    "star": false,
+    "kind": "forfeit"
+   }
+  ],
+  "cycles": 0,
+  "milestones": 3
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

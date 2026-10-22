@@ -1,0 +1,557 @@
+{
+ "month": 9,
+ "day": 30,
+ "games": 1022,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "1,022",
+   "note": "1872 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "40",
+   "note": "Cowboys 26, Athletics 14 (1888)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "21 runs",
+   "note": "Athletics 23, Rangers 2 (2000)"
+  },
+  {
+   "label": "Longest game",
+   "value": "17 innings",
+   "note": "Tigers at Athletics (1907)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "65",
+   "note": "latest: Mariners 2, Athletics 1 (2022)"
+  },
+  {
+   "label": "No-hitters (1 perfect)",
+   "value": "1",
+   "note": "latest: Mike Witt (1984)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "6",
+   "note": "Blue Jays (2010); Blue Jays 13, Twins 2"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "37",
+   "note": "Braves 1, Reds 0 (2020)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "9",
+   "note": "Cardinals (1912)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "11",
+   "note": "Spiders 16, Reds 16 (1894)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "75 and 301 min",
+   "note": "1914 and 2001"
+  },
+  {
+   "label": "Home team won",
+   "value": "57%",
+   "note": "of 1,001 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "34",
+   "note": "Wild Card Game 13, Division Series 11, World Series 6"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "137",
+   "note": "most games: Wrigley Field (35); Yankee Stadium I (35); Fenway Park (34)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [
+  {
+   "year": 1984,
+   "by": "Angels",
+   "against": "Rangers",
+   "pitcher": "Mike Witt",
+   "combined": false,
+   "perfect": true,
+   "event": ""
+  }
+ ],
+ "gotd": {
+  "year": 2014,
+  "visitor": "Athletics",
+  "home": "Royals",
+  "inn": 12,
+  "vline": [
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "5",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "hline": [
+   "1",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "3",
+   "1",
+   "0",
+   "0",
+   "2"
+  ],
+  "vr": 8,
+  "hr": 9,
+  "vh": 13,
+  "hh": 15,
+  "ve": 0,
+  "he": 0,
+  "crowd": 40502,
+  "park": "Kauffman Stadium",
+  "event": "Wild Card Game",
+  "why": "Wild Card Game, 12 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 11,
+   "rpg": 12.45,
+   "crowd": 675
+  },
+  {
+   "decade": 1880,
+   "games": 51,
+   "rpg": 10.84,
+   "crowd": 3400
+  },
+  {
+   "decade": 1890,
+   "games": 53,
+   "rpg": 12.66,
+   "crowd": 1858
+  },
+  {
+   "decade": 1900,
+   "games": 58,
+   "rpg": 8.1,
+   "crowd": 4653
+  },
+  {
+   "decade": 1910,
+   "games": 70,
+   "rpg": 9.14,
+   "crowd": 4958
+  },
+  {
+   "decade": 1920,
+   "games": 39,
+   "rpg": 9.49,
+   "crowd": 8721
+  },
+  {
+   "decade": 1930,
+   "games": 50,
+   "rpg": 8.62,
+   "crowd": 8046
+  },
+  {
+   "decade": 1940,
+   "games": 31,
+   "rpg": 7.74,
+   "crowd": 8984
+  },
+  {
+   "decade": 1950,
+   "games": 31,
+   "rpg": 8.48,
+   "crowd": 19065
+  },
+  {
+   "decade": 1960,
+   "games": 73,
+   "rpg": 8.21,
+   "crowd": 11073
+  },
+  {
+   "decade": 1970,
+   "games": 89,
+   "rpg": 7.89,
+   "crowd": 17237
+  },
+  {
+   "decade": 1980,
+   "games": 120,
+   "rpg": 8.74,
+   "crowd": 18711
+  },
+  {
+   "decade": 1990,
+   "games": 83,
+   "rpg": 7.82,
+   "crowd": 27859
+  },
+  {
+   "decade": 2000,
+   "games": 108,
+   "rpg": 9.13,
+   "crowd": 34671
+  },
+  {
+   "decade": 2010,
+   "games": 94,
+   "rpg": 8.98,
+   "crowd": 31704
+  },
+  {
+   "decade": 2020,
+   "games": 61,
+   "rpg": 8.48,
+   "crowd": 34716
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1872,
+   "visitor": "Lord Baltimores",
+   "home": "Athletics",
+   "vs": 6,
+   "hs": 3,
+   "crowd": 1500,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "Cubs",
+   "home": "Padres",
+   "vs": 1,
+   "hs": 4,
+   "crowd": 47513,
+   "park": "Petco Park",
+   "event": "National League Wild Card Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "White Sox",
+    "w": 49,
+    "l": 30,
+    "pct": 0.62
+   },
+   {
+    "team": "Rangers",
+    "w": 30,
+    "l": 19,
+    "pct": 0.612
+   },
+   {
+    "team": "Cardinals",
+    "w": 55,
+    "l": 36,
+    "pct": 0.604
+   }
+  ],
+  "worst": [
+   {
+    "team": "Nationals",
+    "w": 10,
+    "l": 25,
+    "pct": 0.286
+   },
+   {
+    "team": "Diamondbacks",
+    "w": 5,
+    "l": 11,
+    "pct": 0.312
+   },
+   {
+    "team": "Blue Jays",
+    "w": 13,
+    "l": 22,
+    "pct": 0.371
+   }
+  ]
+ },
+ "wire": {
+  "count": 231,
+  "items": [
+   {
+    "year": 2008,
+    "text": "Dodgers trade Eduardo Perez and Mike Watt to the Padres",
+    "star": false
+   },
+   {
+    "year": 1990,
+    "text": "Tigers trade Mike Wilkins to the Dodgers for Mike Munoz",
+    "star": false
+   },
+   {
+    "year": 1948,
+    "text": "Cardinals release Joe Medwick",
+    "star": true
+   },
+   {
+    "year": 1948,
+    "text": "Dodgers release Arky Vaughan",
+    "star": true
+   },
+   {
+    "year": 1947,
+    "text": "White Sox release Red Ruffing",
+    "star": true
+   },
+   {
+    "year": 1946,
+    "text": "Pirates trade Bob Elliott and Hank Camelli to the Braves for Billy Herman, Elmer Singleton, Stan Wentzel and Whitey Wietelmann",
+    "star": true
+   },
+   {
+    "year": 1946,
+    "text": "Cardinals trade Eddie Joost to the Athletics for Vern Benson, Russ Derry and Jake Caulfield",
+    "star": false
+   },
+   {
+    "year": 1943,
+    "text": "Pirates trade cash, Johnny Podgajny and Johnny Wyrostek to the Cardinals for Preacher Roe",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "87",
+    "note": "most in 2019 (32)"
+   },
+   {
+    "label": "Trades made",
+    "value": "40",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "9",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2019",
+    "note": "33 transactions"
+   }
+  ],
+  "years": [
+   1888,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1988,
+    "name": "Sandy Alomar",
+    "star": false,
+    "seasons": 20
+   },
+   {
+    "year": 1986,
+    "name": "Kevin Brown",
+    "star": false,
+    "seasons": 20
+   },
+   {
+    "year": 1939,
+    "name": "Murry Dickson",
+    "star": false,
+    "seasons": 21
+   },
+   {
+    "year": 1912,
+    "name": "Bullet Joe Bush",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 1910,
+    "name": "Dick Rudolph",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1892,
+    "name": "Willie Keeler",
+    "star": true,
+    "seasons": 19
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2018,
+    "name": "Adrian Beltre",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 2007,
+    "name": "Craig Biggio",
+    "star": true,
+    "seasons": 20
+   },
+   {
+    "year": 1984,
+    "name": "Joe Morgan",
+    "star": true,
+    "seasons": 22
+   },
+   {
+    "year": 1956,
+    "name": "Bob Feller",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1945,
+    "name": "Martin Dihigo",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1927,
+    "name": "Walter Johnson",
+    "star": true,
+    "seasons": 21
+   }
+  ],
+  "debutCount": 77,
+  "farewellCount": 662,
+  "hofDebuts": 1,
+  "managerDebuts": [
+   {
+    "year": 1946,
+    "name": "Satchel Paige",
+    "star": true
+   },
+   {
+    "year": 1946,
+    "name": "Johnny Vander Meer",
+    "star": false
+   },
+   {
+    "year": 1933,
+    "name": "Del Baker",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 55,
+  "managers": 15,
+  "items": [
+   {
+    "year": 2001,
+    "text": "Paul Molitor (coach) ejected by Ron Kulpa: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1982,
+    "text": "Earl Weaver (manager) ejected by Rocky Roe: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1972,
+    "text": "Earl Weaver (manager) ejected by Jim Odom: check swing",
+    "star": true
+   },
+   {
+    "year": 1937,
+    "text": "Lefty Gomez (player) ejected by Bill Summers: bench jockeying",
+    "star": true
+   },
+   {
+    "year": 1937,
+    "text": "Johnny Mize (player) ejected by Babe Pinelli: call at 1b",
+    "star": true
+   }
+  ],
+  "years": [
+   1898,
+   2020
+  ]
+ },
+ "feats": {
+  "count": 18,
+  "items": [
+   {
+    "year": 2018,
+    "text": "Charlie Blackmon hits for the cycle for the Rockies (Coors Field)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1992,
+    "text": "George Brett gets his 3,000th career hit",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1989,
+    "text": "Nolan Ryan gets his 300th career strikeout",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1977,
+    "text": "Lou Brock gets his 900th career stolen base",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1972,
+    "text": "Roberto Clemente gets his 3,000th career hit",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1971,
+    "text": "Forfeit: New York at Washington",
+    "star": false,
+    "kind": "forfeit"
+   },
+   {
+    "year": 1933,
+    "text": "Babe Herman hits for the cycle for the Cubs (Sportsman's Park III)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1895,
+    "text": "Ed Cartwright hits for the cycle for the Senators (Boundary Field)",
+    "star": false,
+    "kind": "cycle"
+   }
+  ],
+  "cycles": 3,
+  "milestones": 13
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

@@ -136,13 +136,17 @@ main:focus { outline: none; }
 .body .more a { color: var(--accent); }
 
 figure { margin: 0 0 10px; }
-.video-box { display: block; position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #000; border: 1px solid var(--rule); }
+.video-box { position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #000; border: 1px solid var(--rule); }
+.video-play { display: block; position: absolute; inset: 0; width: 100%; height: 100%; padding: 0; border: 0; background: #000; cursor: pointer; }
 .video-thumb { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; opacity: .92; }
 .play-badge {
   position: absolute; left: 50%; top: 50%; width: 64px; height: 64px; margin: -32px 0 0 -32px; border-radius: 50%;
   display: grid; place-content: center; padding-left: 5px; background: rgba(20,20,20,.82); color: #fff; font-size: 26px; border: 3px solid #fff;
 }
-.video-box:hover .play-badge, .video-box:focus-visible .play-badge { background: var(--red); }
+.video-play:hover .play-badge, .video-play:focus-visible .play-badge { background: var(--red); }
+/* the player: 16:9, fills its column, nothing drawn over it */
+.video-box iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; display: block; }
+@media (min-width: 900px) { .video-box.playing { min-width: 480px; min-height: 270px; } }
 /* Photos keep their own shape: nothing is cropped. Very tall portraits stop at a maximum height and sit on a paper mat. */
 .photo { display: block; width: 100%; height: auto; max-height: 560px; object-fit: contain; background: var(--paper-2); border: 1px solid var(--rule); }
 figcaption { overflow-wrap: anywhere; margin-top: 5px; font-size: 13.5px; line-height: 1.35; color: #323a40; }
@@ -407,3 +411,7 @@ figcaption a { text-decoration-thickness: 1px; }
 .fine { font-size: 13px; color: var(--ink-soft); max-width: 720px; margin: 0 auto; }
 
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* career lines and newspaper links */
+.body .career { margin: 0 0 .6em; font-size: 14.5px; font-style: italic; color: var(--ink-soft); }
+.wire-list a.more { font-family: var(--cond); letter-spacing: .08em; text-transform: uppercase; margin-left: 4px; white-space: nowrap; color: var(--red); }

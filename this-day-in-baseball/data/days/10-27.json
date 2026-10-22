@@ -1314,5 +1314,25 @@
    1985,
    1985
   ]
- }
+ },
+ "papers": [
+  {
+   "year": 1955,
+   "paper": "Le messager (Lewiston, Me.)",
+   "page": 6,
+   "url": "https://www.loc.gov/resource/sn83045313/1955-10-27/ed-1/?sp=6&q=baseball"
+  },
+  {
+   "year": 1950,
+   "paper": "The Key West citizen (Key West, Fla.)",
+   "page": 6,
+   "url": "https://www.loc.gov/resource/sn83016244/1950-10-27/ed-1/?sp=6&q=baseball"
+  },
+  {
+   "year": 1887,
+   "paper": "Democratic Northwest (Napoleon, Ohio)",
+   "page": 3,
+   "url": "https://www.loc.gov/resource/sn84028296/1887-10-27/ed-1/?sp=3&q=baseball"
+  }
+ ]
 }

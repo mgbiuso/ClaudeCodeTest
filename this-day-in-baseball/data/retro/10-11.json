@@ -1,0 +1,493 @@
+{
+ "month": 10,
+ "day": 11,
+ "games": 150,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "150",
+   "note": "1873 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "22",
+   "note": "White Stockings 13, Athletics 9 (1873)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "15 runs",
+   "note": "Stars 16, Athletics 1 (1890)"
+  },
+  {
+   "label": "Longest game",
+   "value": "13 innings",
+   "note": "Orioles at Yankees (2012)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "13",
+   "note": "latest: Astros 8, Mariners 7 (2022)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "66,312",
+   "note": "Cardinals at Yankees (1964)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "6",
+   "note": "Phillies (2023); Phillies 10, Braves 2"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "33",
+   "note": "Indians 2, Orioles 1 (1997)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "4",
+   "note": "Giants (1900)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "9",
+   "note": "Braves 14, Senators 5 (1898)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "90 and 327 min",
+   "note": "1908 and 2008"
+  },
+  {
+   "label": "Home team won",
+   "value": "50%",
+   "note": "of 145 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "98",
+   "note": "League Championship Series 36, Division Series 33, World Series 28"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "84",
+   "note": "most games: Dodger Stadium (8); Fenway Park (6); Polo Grounds V (5)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [],
+ "gotd": {
+  "year": 1977,
+  "visitor": "Dodgers",
+  "home": "Yankees",
+  "inn": 12,
+  "vline": [
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 3,
+  "hr": 4,
+  "vh": 6,
+  "hh": 11,
+  "ve": 0,
+  "he": 0,
+  "crowd": 56668,
+  "park": "Yankee Stadium I",
+  "event": "World Series",
+  "why": "World Series, 12 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 4,
+   "rpg": 19.75,
+   "crowd": null
+  },
+  {
+   "decade": 1880,
+   "games": 24,
+   "rpg": 9.79,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 18,
+   "rpg": 10.83,
+   "crowd": 1103
+  },
+  {
+   "decade": 1900,
+   "games": 7,
+   "rpg": 8.29,
+   "crowd": 9252
+  },
+  {
+   "decade": 1910,
+   "games": 8,
+   "rpg": 7.12,
+   "crowd": 24577
+  },
+  {
+   "decade": 1920,
+   "games": 5,
+   "rpg": 5.6,
+   "crowd": 34100
+  },
+  {
+   "decade": 1940,
+   "games": 3,
+   "rpg": 6.0,
+   "crowd": 36652
+  },
+  {
+   "decade": 1960,
+   "games": 4,
+   "rpg": 7.75,
+   "crowd": 51932
+  },
+  {
+   "decade": 1970,
+   "games": 9,
+   "rpg": 7.44,
+   "crowd": 45570
+  },
+  {
+   "decade": 1980,
+   "games": 11,
+   "rpg": 7.27,
+   "crowd": 52246
+  },
+  {
+   "decade": 1990,
+   "games": 12,
+   "rpg": 8.42,
+   "crowd": 50885
+  },
+  {
+   "decade": 2000,
+   "games": 15,
+   "rpg": 8.67,
+   "crowd": 47605
+  },
+  {
+   "decade": 2010,
+   "games": 16,
+   "rpg": 6.25,
+   "crowd": 44563
+  },
+  {
+   "decade": 2020,
+   "games": 14,
+   "rpg": 6.5,
+   "crowd": 45438
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1873,
+   "visitor": "Nationals",
+   "home": "Atlantics",
+   "vs": 17,
+   "hs": 3,
+   "crowd": null,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "Dodgers",
+   "home": "Brewers",
+   "vs": 1,
+   "hs": 2,
+   "crowd": 42617,
+   "park": "American Family Field",
+   "event": "National League Championship Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Yankees",
+    "w": 11,
+    "l": 5,
+    "pct": 0.688
+   },
+   {
+    "team": "Red Sox",
+    "w": 8,
+    "l": 4,
+    "pct": 0.667
+   },
+   {
+    "team": "Cubs",
+    "w": 8,
+    "l": 5,
+    "pct": 0.615
+   }
+  ],
+  "worst": [
+   {
+    "team": "Cardinals",
+    "w": 3,
+    "l": 9,
+    "pct": 0.25
+   },
+   {
+    "team": "Dodgers",
+    "w": 9,
+    "l": 10,
+    "pct": 0.474
+   },
+   {
+    "team": "Braves",
+    "w": 10,
+    "l": 9,
+    "pct": 0.526
+   }
+  ]
+ },
+ "wire": {
+  "count": 213,
+  "items": [
+   {
+    "year": 1994,
+    "text": "Rich Gossage becomes a free agent (Mariners)",
+    "star": true
+   },
+   {
+    "year": 1973,
+    "text": "Indians trade Bill Butler and Dick Colpaert to the Twins for Jim Strickland and Mike Brooks",
+    "star": false
+   },
+   {
+    "year": 1970,
+    "text": "Red Sox trade Tony Conigliaro, Ray Jarvis and Jerry Moses to the Angels for Ken Tatum, Jarvis Tatum and Doug Griffin",
+    "star": false
+   },
+   {
+    "year": 1968,
+    "text": "Cardinals trade Johnny Edwards and Tommy Smith to the Astros for Dave Giusti and Dave Adlesh",
+    "star": false
+   },
+   {
+    "year": 1968,
+    "text": "Reds trade Vada Pinson to the Cardinals for Bobby Tolan and Wayne Granger",
+    "star": false
+   },
+   {
+    "year": 1961,
+    "text": "Athletics trade Jay Ward, Bobby Prescott and Stan Johnson to the Dodgers for Bill Lajoie and Gordie Windhorn",
+    "star": false
+   },
+   {
+    "year": 1946,
+    "text": "Yankees trade Joe Gordon to the Indians for Allie Reynolds",
+    "star": true
+   },
+   {
+    "year": 1934,
+    "text": "Pirates release Burleigh Grimes",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "88",
+    "note": "most in 1994 (8)"
+   },
+   {
+    "label": "Trades made",
+    "value": "61",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "8",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1994",
+    "note": "10 transactions"
+   }
+  ],
+  "years": [
+   1898,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1942,
+    "name": "Sherwood Brewer",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 1931,
+    "name": "Neck Stanley",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1926,
+    "name": "Dick Seay",
+    "star": false,
+    "seasons": 22
+   },
+   {
+    "year": 1926,
+    "name": "Tex Burnett",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1925,
+    "name": "Vic Harris",
+    "star": false,
+    "seasons": 23
+   },
+   {
+    "year": 1925,
+    "name": "Willie Gray",
+    "star": false,
+    "seasons": 13
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2012,
+    "name": "Jim Thome",
+    "star": true,
+    "seasons": 22
+   },
+   {
+    "year": 2012,
+    "name": "Scott Rolen",
+    "star": true,
+    "seasons": 17
+   },
+   {
+    "year": 1981,
+    "name": "Sal Bando",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1972,
+    "name": "Roberto Clemente",
+    "star": true,
+    "seasons": 18
+   },
+   {
+    "year": 1971,
+    "name": "Dick Hall",
+    "star": false,
+    "seasons": 20
+   },
+   {
+    "year": 1936,
+    "name": "Judy Johnson",
+    "star": true,
+    "seasons": 16
+   }
+  ],
+  "debutCount": 25,
+  "farewellCount": 66,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1944,
+    "name": "Red Ruffing",
+    "star": true
+   },
+   {
+    "year": 1926,
+    "name": "Babe Ruth",
+    "star": true
+   },
+   {
+    "year": 1925,
+    "name": "Cum Posey",
+    "star": true
+   }
+  ]
+ },
+ "ejections": {
+  "count": 5,
+  "managers": 1,
+  "items": [
+   {
+    "year": 2016,
+    "text": "Alex Wood (player) ejected by Tom Hallion: check swing",
+    "star": false
+   },
+   {
+    "year": 2008,
+    "text": "John Farrell (coach) ejected by Sam Holbrook: balls and strikes",
+    "star": false
+   },
+   {
+    "year": 1921,
+    "text": "Earl Smith (player) ejected by George Moriarty: bench jockeying",
+    "star": false
+   },
+   {
+    "year": 1910,
+    "text": "Red Dooin (player) ejected by Jim Johnstone: balls and strikes",
+    "star": false
+   },
+   {
+    "year": 1898,
+    "text": "Mike Griffin (manager) ejected by John Hunt: balk non-call",
+    "star": false
+   }
+  ],
+  "years": [
+   1898,
+   2016
+  ]
+ },
+ "feats": {
+  "count": 2,
+  "items": [
+   {
+    "year": 1884,
+    "text": "Forfeit: Boston at Cincinnati",
+    "star": false,
+    "kind": "forfeit"
+   }
+  ],
+  "cycles": 0,
+  "milestones": 0
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

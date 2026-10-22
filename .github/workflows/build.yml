@@ -13,6 +13,12 @@ on:
 permissions:
   contents: write
 
+# Keys come from the repository's secrets (Settings > Secrets and variables > Actions).
+# A missing key is not an error: the steps that need it are simply skipped.
+env:
+  ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+  YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,13 +32,52 @@ jobs:
           path: this-day-in-baseball/.cache
           key: wikipedia-cache-${{ github.run_id }}
           restore-keys: wikipedia-cache-
+
+      # Data files the builds read. Files already in the cache are skipped. If a download fails, the build carries on without it.
+      - name: Download Retrosheet files
+        continue-on-error: true
+        working-directory: this-day-in-baseball
+        run: python3 -I scripts/fetch_retrosheet.py
+
+      - name: Download Lahman files (career lines)
+        continue-on-error: true
+        working-directory: this-day-in-baseball
+        run: python3 -I scripts/extras.py --fetch-lahman
+
+      - name: Retrosheet facts for today
+        if: ${{ !inputs.all_days }}
+        continue-on-error: true
+        working-directory: this-day-in-baseball
+        run: python3 -I scripts/retro_facts.py "$(date -u +%m/%d)"
+
       - name: Build today
+        if: ${{ !inputs.all_days }}
+        working-directory: this-day-in-baseball
+        run: python3 -I scripts/build_days.py "$(date -u +%m/%d)" --write --papers
+
+      # Headlines, photo checks and videos use the Anthropic and YouTube keys. Without a key they are skipped.
+      - name: Headlines, photos and videos for today
+        if: ${{ !inputs.all_days }}
+        continue-on-error: true
+        working-directory: this-day-in-baseball
+        run: |
+          D="$(date -u +%m/%d)"
+          if [ -n "$ANTHROPIC_API_KEY" ]; then
+            python3 -I scripts/write_headlines.py "$D"
+            python3 -I scripts/pick_photos.py "$D"
+            if [ -n "$YOUTUBE_API_KEY" ]; then python3 -I scripts/find_videos.py "$D"; fi
+          else
+            echo "No ANTHROPIC_API_KEY secret, so headlines, photos and videos were skipped."
+          fi
+
+      # Second build: picks up the headlines, photos and videos just chosen, and writes the RSS file.
+      - name: Final build and RSS for today
         if: ${{ !inputs.all_days }}
         working-directory: this-day-in-baseball
         env:
           SITE_URL: ${{ vars.SITE_URL }}
-        run: |
-          python3 -I scripts/build_days.py "$(date -u +%m/%d)" --write --rss
+        run: python3 -I scripts/build_days.py "$(date -u +%m/%d)" --write --papers --rss
+
       - name: Build every day
         if: ${{ inputs.all_days }}
         working-directory: this-day-in-baseball
@@ -41,6 +86,7 @@ jobs:
         run: |
           python3 -I scripts/build_days.py --all --write
           python3 -I scripts/build_days.py --rss
+
       - name: Commit changes
         run: |
           git config user.name "this-day-in-baseball[bot]"

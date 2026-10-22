@@ -1,0 +1,603 @@
+{
+ "month": 9,
+ "day": 28,
+ "games": 1198,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "1,198",
+   "note": "1872 to 2025"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "30",
+   "note": "Yankees 18, Browns 12 (1911)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "22 runs",
+   "note": "Orioles 23, Blue Jays 1 (2000)"
+  },
+  {
+   "label": "Longest game",
+   "value": "17 innings",
+   "note": "Astros at Braves (1988)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "114",
+   "note": "latest: Guardians 9, Rangers 8 (2025)"
+  },
+  {
+   "label": "No-hitters",
+   "value": "5",
+   "note": "latest: Jordan Zimmermann (2014)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "6",
+   "note": "Pirates (2013); Pirates 8, Reds 3"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "33",
+   "note": "Padres 3, Diamondbacks 2 (2018)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "15",
+   "note": "Yankees (1911)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "11",
+   "note": "Yankees 24, Red Sox 4 (1923)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "51 and 345 min",
+   "note": "1919 and 1986"
+  },
+  {
+   "label": "Home team won",
+   "value": "55%",
+   "note": "of 1,182 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "2",
+   "note": "World Series 2"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "138",
+   "note": "most games: Fenway Park (52); Wrigley Field (35); Shibe Park (34)"
+  }
+ ],
+ "through": 2025,
+ "nohitters": [
+  {
+   "year": 1951,
+   "by": "Yankees",
+   "against": "Red Sox",
+   "pitcher": "Allie Reynolds",
+   "combined": false,
+   "perfect": false,
+   "event": ""
+  },
+  {
+   "year": 1974,
+   "by": "Angels",
+   "against": "Twins",
+   "pitcher": "Nolan Ryan",
+   "combined": false,
+   "perfect": false,
+   "event": ""
+  },
+  {
+   "year": 1975,
+   "by": "Athletics",
+   "against": "Angels",
+   "pitcher": null,
+   "combined": true,
+   "perfect": false,
+   "event": ""
+  },
+  {
+   "year": 2012,
+   "by": "Reds",
+   "against": "Pirates",
+   "pitcher": "Homer Bailey",
+   "combined": false,
+   "perfect": false,
+   "event": ""
+  },
+  {
+   "year": 2014,
+   "by": "Nationals",
+   "against": "Marlins",
+   "pitcher": "Jordan Zimmermann",
+   "combined": false,
+   "perfect": false,
+   "event": ""
+  }
+ ],
+ "gotd": {
+  "year": 1988,
+  "visitor": "Astros",
+  "home": "Braves",
+  "inn": 17,
+  "vline": [
+   "0",
+   "0",
+   "3",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 3,
+  "hr": 4,
+  "vh": 12,
+  "hh": 14,
+  "ve": 0,
+  "he": 0,
+  "crowd": 2822,
+  "park": "Atlanta-Fulton County Stadium",
+  "event": "",
+  "why": "17 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 11,
+   "rpg": 12.36,
+   "crowd": 629
+  },
+  {
+   "decade": 1880,
+   "games": 51,
+   "rpg": 9.22,
+   "crowd": 2976
+  },
+  {
+   "decade": 1890,
+   "games": 47,
+   "rpg": 12.06,
+   "crowd": 1547
+  },
+  {
+   "decade": 1900,
+   "games": 70,
+   "rpg": 8.04,
+   "crowd": 3115
+  },
+  {
+   "decade": 1910,
+   "games": 68,
+   "rpg": 8.25,
+   "crowd": 5072
+  },
+  {
+   "decade": 1920,
+   "games": 47,
+   "rpg": 10.85,
+   "crowd": 6823
+  },
+  {
+   "decade": 1930,
+   "games": 45,
+   "rpg": 10.0,
+   "crowd": 7477
+  },
+  {
+   "decade": 1940,
+   "games": 61,
+   "rpg": 7.64,
+   "crowd": 9628
+  },
+  {
+   "decade": 1950,
+   "games": 44,
+   "rpg": 8.3,
+   "crowd": 12983
+  },
+  {
+   "decade": 1960,
+   "games": 77,
+   "rpg": 7.43,
+   "crowd": 11042
+  },
+  {
+   "decade": 1970,
+   "games": 108,
+   "rpg": 7.78,
+   "crowd": 12829
+  },
+  {
+   "decade": 1980,
+   "games": 117,
+   "rpg": 7.95,
+   "crowd": 17144
+  },
+  {
+   "decade": 1990,
+   "games": 99,
+   "rpg": 9.21,
+   "crowd": 26856
+  },
+  {
+   "decade": 2000,
+   "games": 140,
+   "rpg": 9.55,
+   "crowd": 32580
+  },
+  {
+   "decade": 2010,
+   "games": 141,
+   "rpg": 7.97,
+   "crowd": 31511
+  },
+  {
+   "decade": 2020,
+   "games": 72,
+   "rpg": 7.26,
+   "crowd": 30548
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1872,
+   "visitor": "Mutuals",
+   "home": "Atlantics",
+   "vs": 5,
+   "hs": 9,
+   "crowd": 600,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2025,
+   "visitor": "Rays",
+   "home": "Blue Jays",
+   "vs": 4,
+   "hs": 13,
+   "crowd": 42083,
+   "park": "Rogers Centre",
+   "event": ""
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Yankees",
+    "w": 61,
+    "l": 45,
+    "pct": 0.575
+   },
+   {
+    "team": "Giants",
+    "w": 60,
+    "l": 45,
+    "pct": 0.571
+   },
+   {
+    "team": "Cubs",
+    "w": 61,
+    "l": 46,
+    "pct": 0.57
+   }
+  ],
+  "worst": [
+   {
+    "team": "Royals",
+    "w": 16,
+    "l": 36,
+    "pct": 0.308
+   },
+   {
+    "team": "Rockies",
+    "w": 11,
+    "l": 16,
+    "pct": 0.407
+   },
+   {
+    "team": "Phillies",
+    "w": 46,
+    "l": 66,
+    "pct": 0.411
+   }
+  ]
+ },
+ "wire": {
+  "count": 58,
+  "items": [
+   {
+    "year": 2018,
+    "text": "Parker Markel signs with the Mariners",
+    "star": false
+   },
+   {
+    "year": 2012,
+    "text": "Dodgers trade Stefan Jarrin to the Phillies",
+    "star": false
+   },
+   {
+    "year": 2000,
+    "text": "Mariners trade Terrmel Sledge to the Expos",
+    "star": false
+   },
+   {
+    "year": 1990,
+    "text": "Pirates trade Tony Longmire to the Phillies",
+    "star": false
+   },
+   {
+    "year": 1990,
+    "text": "Pirates trade Mike Pomeranz to the Cubs",
+    "star": false
+   },
+   {
+    "year": 1981,
+    "text": "Indians trade Jim Lentine to the Astros",
+    "star": false
+   },
+   {
+    "year": 1949,
+    "text": "Athletics trade cash and Bill McCahan to the Dodgers for Kermit Wahl",
+    "star": false
+   },
+   {
+    "year": 1932,
+    "text": "White Sox buy Al Simmons from the Athletics",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "10",
+    "note": "most in 2020 (8)"
+   },
+   {
+    "label": "Trades made",
+    "value": "10",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "9",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2020",
+    "note": "10 transactions"
+   }
+  ],
+  "years": [
+   1901,
+   2020
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1947,
+    "name": "Curt Simmons",
+    "star": false,
+    "seasons": 21
+   },
+   {
+    "year": 1943,
+    "name": "George Kell",
+    "star": true,
+    "seasons": 15
+   },
+   {
+    "year": 1930,
+    "name": "Dizzy Dean",
+    "star": true,
+    "seasons": 18
+   },
+   {
+    "year": 1926,
+    "name": "Tom Young",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1912,
+    "name": "Mike Gonzalez",
+    "star": false,
+    "seasons": 21
+   },
+   {
+    "year": 1898,
+    "name": "Tommy Leach",
+    "star": false,
+    "seasons": 21
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2014,
+    "name": "Derek Jeter",
+    "star": true,
+    "seasons": 20
+   },
+   {
+    "year": 2011,
+    "name": "Ivan Rodriguez",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 2008,
+    "name": "Mike Mussina",
+    "star": true,
+    "seasons": 18
+   },
+   {
+    "year": 1960,
+    "name": "Ted Williams",
+    "star": true,
+    "seasons": 22
+   },
+   {
+    "year": 1932,
+    "name": "Joe Williams",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1930,
+    "name": "John Henry Lloyd",
+    "star": true,
+    "seasons": 19
+   }
+  ],
+  "debutCount": 95,
+  "farewellCount": 655,
+  "hofDebuts": 2,
+  "managerDebuts": [
+   {
+    "year": 2012,
+    "name": "Sandy Alomar",
+    "star": false
+   },
+   {
+    "year": 1975,
+    "name": "Harvey Kuenn",
+    "star": false
+   },
+   {
+    "year": 1947,
+    "name": "Bill Burwell",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 81,
+  "managers": 28,
+  "items": [
+   {
+    "year": 2006,
+    "text": "Bobby Cox (manager) ejected by Joe West: automatic ball for going to mouth",
+    "star": true
+   },
+   {
+    "year": 2000,
+    "text": "Tony LaRussa (manager) ejected by John Shulock: balk call",
+    "star": true
+   },
+   {
+    "year": 1968,
+    "text": "Dick Williams (manager) ejected by Jim Honochick: pitcher's foot not on rubber",
+    "star": true
+   },
+   {
+    "year": 1939,
+    "text": "Leo Durocher (manager) ejected by George Magerkurth: called third strike",
+    "star": true
+   },
+   {
+    "year": 1915,
+    "text": "Bill McKechnie (manager) ejected by Bill Brennan: called third strike",
+    "star": true
+   }
+  ],
+  "years": [
+   1889,
+   2023
+  ]
+ },
+ "feats": {
+  "count": 22,
+  "items": [
+   {
+    "year": 2019,
+    "text": "Justin Verlander gets his 3,000th career strikeout",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 2019,
+    "text": "Justin Verlander gets his 300th career strikeout",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 2016,
+    "text": "John Jaso hits for the cycle for the Pirates (PNC Park)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1972,
+    "text": "Steve Carlton gets his 300th career strikeout",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1910,
+    "text": "Walter Johnson gets his 300th career strikeout",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1894,
+    "text": "Tom Parrott hits for the cycle for the Reds (League Park II)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1885,
+    "text": "Mox McQuery hits for the cycle for the Wolverines (Recreation Park)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1874,
+    "text": "Forfeit: Chicago at Philadelphia",
+    "star": false,
+    "kind": "forfeit"
+   }
+  ],
+  "cycles": 3,
+  "milestones": 17
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

@@ -1,0 +1,530 @@
+{
+ "month": 10,
+ "day": 3,
+ "games": 625,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "625",
+   "note": "1874 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "25",
+   "note": "White Sox 13, Twins 12 (1991)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "18 runs",
+   "note": "Braves 18, Bisons 0 (1885)"
+  },
+  {
+   "label": "Longest game",
+   "value": "15 innings",
+   "note": "Orioles at Red Sox (1976)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "45",
+   "note": "latest: Athletics 5, Angels 4 (2022)"
+  },
+  {
+   "label": "No-hitters",
+   "value": "1",
+   "note": "latest: Max Scherzer (2015)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "6",
+   "note": "Phillies (1972); Phillies 11, Cubs 1"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "35",
+   "note": "Nationals 2, Mets 0 (2015)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "9",
+   "note": "Senators (1913)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "11",
+   "note": "White Sox 17, Athletics 1 (1987)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "72 and 301 min",
+   "note": "1925 and 1995"
+  },
+  {
+   "label": "Home team won",
+   "value": "54%",
+   "note": "of 616 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "75",
+   "note": "Division Series 36, World Series 18, League Championship Series 10"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "125",
+   "note": "most games: Yankee Stadium I (21); Dodger Stadium (21); Wrigley Field (20)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [
+  {
+   "year": 2015,
+   "by": "Nationals",
+   "against": "Mets",
+   "pitcher": "Max Scherzer",
+   "combined": false,
+   "perfect": false,
+   "event": ""
+  }
+ ],
+ "gotd": {
+  "year": 1995,
+  "visitor": "Red Sox",
+  "home": "Indians",
+  "inn": 13,
+  "vline": [
+   "0",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "3",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "1"
+  ],
+  "vr": 4,
+  "hr": 5,
+  "vh": 11,
+  "hh": 10,
+  "ve": 2,
+  "he": 2,
+  "crowd": 44218,
+  "park": "Progressive Field",
+  "event": "Division Series",
+  "why": "Division Series, 13 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 4,
+   "rpg": 11.5,
+   "crowd": 1067
+  },
+  {
+   "decade": 1880,
+   "games": 39,
+   "rpg": 12.23,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 35,
+   "rpg": 11.74,
+   "crowd": 1886
+  },
+  {
+   "decade": 1900,
+   "games": 60,
+   "rpg": 7.23,
+   "crowd": 3630
+  },
+  {
+   "decade": 1910,
+   "games": 64,
+   "rpg": 8.58,
+   "crowd": 5455
+  },
+  {
+   "decade": 1920,
+   "games": 21,
+   "rpg": 10.38,
+   "crowd": 7412
+  },
+  {
+   "decade": 1930,
+   "games": 15,
+   "rpg": 6.53,
+   "crowd": 20759
+  },
+  {
+   "decade": 1940,
+   "games": 25,
+   "rpg": 7.8,
+   "crowd": 20081
+  },
+  {
+   "decade": 1950,
+   "games": 6,
+   "rpg": 8.0,
+   "crowd": 50249
+  },
+  {
+   "decade": 1960,
+   "games": 23,
+   "rpg": 8.7,
+   "crowd": 20050
+  },
+  {
+   "decade": 1970,
+   "games": 32,
+   "rpg": 7.03,
+   "crowd": 20591
+  },
+  {
+   "decade": 1980,
+   "games": 74,
+   "rpg": 8.42,
+   "crowd": 21719
+  },
+  {
+   "decade": 1990,
+   "games": 70,
+   "rpg": 8.53,
+   "crowd": 32305
+  },
+  {
+   "decade": 2000,
+   "games": 60,
+   "rpg": 8.42,
+   "crowd": 34994
+  },
+  {
+   "decade": 2010,
+   "games": 59,
+   "rpg": 7.56,
+   "crowd": 34821
+  },
+  {
+   "decade": 2020,
+   "games": 38,
+   "rpg": 7.13,
+   "crowd": 29418
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1874,
+   "visitor": "Lord Baltimores",
+   "home": "Atlantics",
+   "vs": 2,
+   "hs": 5,
+   "crowd": 200,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "Braves",
+   "home": "Dodgers",
+   "vs": 3,
+   "hs": 5,
+   "crowd": 50194,
+   "park": "Dodger Stadium",
+   "event": "National League Division Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "White Sox",
+    "w": 28,
+    "l": 16,
+    "pct": 0.636
+   },
+   {
+    "team": "Tigers",
+    "w": 28,
+    "l": 17,
+    "pct": 0.622
+   },
+   {
+    "team": "Rays",
+    "w": 8,
+    "l": 5,
+    "pct": 0.615
+   }
+  ],
+  "worst": [
+   {
+    "team": "Rockies",
+    "w": 4,
+    "l": 8,
+    "pct": 0.333
+   },
+   {
+    "team": "Mariners",
+    "w": 7,
+    "l": 13,
+    "pct": 0.35
+   },
+   {
+    "team": "Guardians",
+    "w": 15,
+    "l": 27,
+    "pct": 0.357
+   }
+  ]
+ },
+ "wire": {
+  "count": 234,
+  "items": [
+   {
+    "year": 2008,
+    "text": "Brewers trade Michael Brantley to the Indians",
+    "star": false
+   },
+   {
+    "year": 1988,
+    "text": "Phillies trade Lance Parrish to the Angels for David Holdridge",
+    "star": false
+   },
+   {
+    "year": 1988,
+    "text": "Pirates trade Jim Neidlinger to the Dodgers for Bill Krueger",
+    "star": false
+   },
+   {
+    "year": 1980,
+    "text": "Minnie Minoso signs with the White Sox",
+    "star": true
+   },
+   {
+    "year": 1978,
+    "text": "Rangers trade Bobby Bonds and Len Barker to the Indians for Jim Kern and Larvell Blanks",
+    "star": false
+   },
+   {
+    "year": 1978,
+    "text": "Rangers trade Bobby Cuellar and Dave Rivera to the Indians",
+    "star": false
+   },
+   {
+    "year": 1958,
+    "text": "Reds trade Alex Grammas, George Crowe and Alex Kellner to the Cardinals for Bob Mabe, Eddie Kasko and Del Ennis",
+    "star": false
+   },
+   {
+    "year": 1937,
+    "text": "Tigers release Goose Goslin",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "117",
+    "note": "most in 2005 (29)"
+   },
+   {
+    "label": "Trades made",
+    "value": "23",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "3",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2005",
+    "note": "32 transactions"
+   }
+  ],
+  "years": [
+   1889,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1948,
+    "name": "Mike Garcia",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1943,
+    "name": "Gil Hodges",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1937,
+    "name": "Ken Heintzelman",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1921,
+    "name": "George Scales",
+    "star": false,
+    "seasons": 26
+   },
+   {
+    "year": 1911,
+    "name": "George Burns",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 1910,
+    "name": "Max Carey",
+    "star": true,
+    "seasons": 20
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2004,
+    "name": "Barry Larkin",
+    "star": true,
+    "seasons": 19
+   },
+   {
+    "year": 1993,
+    "name": "George Brett",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1993,
+    "name": "Robin Yount",
+    "star": true,
+    "seasons": 20
+   },
+   {
+    "year": 1982,
+    "name": "Willie Stargell",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1976,
+    "name": "Hank Aaron",
+    "star": true,
+    "seasons": 23
+   },
+   {
+    "year": 1897,
+    "name": "Cap Anson",
+    "star": true,
+    "seasons": 27
+   }
+  ],
+  "debutCount": 66,
+  "farewellCount": 610,
+  "hofDebuts": 2,
+  "managerDebuts": [
+   {
+    "year": 1931,
+    "name": "Judy Johnson",
+    "star": true
+   },
+   {
+    "year": 1931,
+    "name": "Lou Schaub",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 25,
+  "managers": 6,
+  "items": [
+   {
+    "year": 1992,
+    "text": "Rich Gossage (player) ejected by Durwood Merrill: bench jockeying",
+    "star": true
+   },
+   {
+    "year": 1987,
+    "text": "Tony LaRussa (manager) ejected by Jim McKean: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1937,
+    "text": "Burleigh Grimes (manager) ejected by Tiny Parker: check swing",
+    "star": true
+   },
+   {
+    "year": 1914,
+    "text": "Roger Bresnahan (player) ejected by Ernie Quigley: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1910,
+    "text": "Miller Huggins (player) ejected by Cy Rigler: call at hp",
+    "star": true
+   }
+  ],
+  "years": [
+   1899,
+   2021
+  ]
+ },
+ "feats": {
+  "count": 6,
+  "items": [
+   {
+    "year": 2010,
+    "text": "Rafael Soriano reaches 45 saves in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1993,
+    "text": "Jeff Montgomery reaches 45 saves in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1990,
+    "text": "Cecil Fielder reaches 50 home runs in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1962,
+    "text": "Tommy Davis reaches 230 hits in a season",
+    "star": false,
+    "kind": "milestone"
+   }
+  ],
+  "cycles": 0,
+  "milestones": 6
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

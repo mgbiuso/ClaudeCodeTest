@@ -914,5 +914,25 @@
    1976,
    2022
   ]
- }
+ },
+ "papers": [
+  {
+   "year": 1959,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 43,
+   "url": "https://www.loc.gov/resource/sn83045462/1959-10-21/ed-1/?sp=43&q=baseball"
+  },
+  {
+   "year": 1936,
+   "paper": "The Washington times (Washington [D.C.])",
+   "page": 33,
+   "url": "https://www.loc.gov/resource/sn84026749/1936-10-21/ed-1/?sp=33&q=baseball"
+  },
+  {
+   "year": 1886,
+   "paper": "Scranton Wochenblatt (Scranton, Pa.)",
+   "page": 4,
+   "url": "https://www.loc.gov/resource/sn86053936/1886-10-21/ed-1/?sp=4&q=baseball"
+  }
+ ]
 }

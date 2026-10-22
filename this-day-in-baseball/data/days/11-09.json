@@ -772,5 +772,13 @@
   "farewellCount": 1,
   "hofDebuts": 0,
   "managerDebuts": []
- }
+ },
+ "papers": [
+  {
+   "year": 1950,
+   "paper": "Brewery Gulch gazette (Bisbee, Ariz.)",
+   "page": 7,
+   "url": "https://www.loc.gov/resource/sn89070012/1950-11-09/ed-1/?sp=7&q=baseball"
+  }
+ ]
 }

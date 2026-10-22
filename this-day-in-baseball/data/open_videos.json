@@ -1,0 +1,41 @@
+{
+ "504d82331c1d8b0d": {
+  "source": "ia",
+  "id": "fc-fc-3604",
+  "url": "https://archive.org/download/fc-fc-3604/fc-fc-3604.ia.mp4",
+  "title": "1934 World Series",
+  "year": 1934,
+  "duration": 232,
+  "license": "Public domain (US government or Prelinger collection)",
+  "credit": "National Archives",
+  "page": "https://archive.org/details/fc-fc-3604",
+  "playedOk": true,
+  "matchReason": "'1934 World Series' Ford footage of a St. Louis vs. Detroit game in 1934 matches the same series and teams."
+ },
+ "520a1598cb4f9934": {
+  "source": "ia",
+  "id": "fc-fc-3604",
+  "url": "https://archive.org/download/fc-fc-3604/fc-fc-3604.ia.mp4",
+  "title": "1934 World Series",
+  "year": 1934,
+  "duration": 232,
+  "license": "Public domain (US government or Prelinger collection)",
+  "credit": "National Archives",
+  "page": "https://archive.org/details/fc-fc-3604",
+  "playedOk": true,
+  "matchReason": "'1934 World Series' film from the Ford Motor Company catalog shows fans at a St. Louis vs. Detroit game in 1934, matching the Cardinals-Tigers 1934 Series."
+ },
+ "567c6a0de6473102": {
+  "source": "ia",
+  "id": "world-series-1924",
+  "url": "https://archive.org/download/world-series-1924/World%20Series%20%281924%29.mp4",
+  "title": "World Series - Game 7 (1924)",
+  "year": 1924,
+  "duration": 226,
+  "license": "Public domain",
+  "credit": "Kinograms",
+  "page": "https://archive.org/details/world-series-1924",
+  "playedOk": true,
+  "matchReason": "Newsreel titled World Series Game 7 (1924) describing the Senators' extra-innings win over the Giants, the same event."
+ }
+}

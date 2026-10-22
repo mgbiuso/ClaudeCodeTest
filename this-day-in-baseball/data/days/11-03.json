@@ -878,5 +878,13 @@
   "farewellCount": 1,
   "hofDebuts": 0,
   "managerDebuts": []
- }
+ },
+ "papers": [
+  {
+   "year": 1960,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 55,
+   "url": "https://www.loc.gov/resource/sn83045462/1960-11-03/ed-1/?sp=55&q=baseball"
+  }
+ ]
 }

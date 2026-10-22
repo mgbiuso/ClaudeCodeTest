@@ -669,5 +669,19 @@
    1884,
    2021
   ]
- }
+ },
+ "papers": [
+  {
+   "year": 1961,
+   "paper": "Amerikanski srbobran (Pittsburg, Pa.;Pittsburgh, Pa.)",
+   "page": 1,
+   "url": "https://www.loc.gov/resource/sn85055101/1961-11-15/ed-1/?sp=1&q=baseball"
+  },
+  {
+   "year": 1951,
+   "paper": "Montana farmer-stockman (Great Falls, Mont.)",
+   "page": 13,
+   "url": "https://www.loc.gov/resource/sn86075096/1951-11-15/ed-1/?sp=13&q=baseball"
+  }
+ ]
 }

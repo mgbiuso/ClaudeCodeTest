@@ -1,0 +1,1910 @@
+{
+ "month": 10,
+ "day": 1,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1903",
+   "text": "In Game 1 of the first modern World Series in Major League Baseball, Pittsburgh Pirates outfielder Jimmy Sebring becomes the first player to hit a home run in the World Series when he connects for a solo shot off of Boston's Cy Young in the seventh inning. The Pirates beat the Americans, 7–3.",
+   "links": [
+    "1903 World Series",
+    "Major League Baseball",
+    "Pittsburgh Pirates"
+   ],
+   "score": 125.41554139597368,
+   "abouts": [
+    "1903 World Series",
+    "Major League Baseball",
+    "Pittsburgh Pirates"
+   ],
+   "about": "1903 World Series",
+   "key": "db45155658c8c121",
+   "headline": "Sebring Hits First World Series Home Run, Pirates Beat Americans 7-3",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/WorldSeries1903-640.jpg",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:WorldSeries1903-640.jpg",
+    "alt": "Huge crowd overflowing onto outfield of old wooden-stand ballpark, 1903-era",
+    "source": "checked",
+    "of": "1903 World Series",
+    "w": 648,
+    "h": 428,
+    "tier": "event"
+   },
+   "extract": "The 1903 World Series was the first modern World Series to be played in Major League Baseball. It matched the American League (AL) champion Boston Americans against the National League (NL) champion Pittsburgh Pirates in a best-of-nine series, with Boston prevailing five games to three, winning the last four. This was…",
+   "page": "https://en.wikipedia.org/wiki/1903_World_Series",
+   "lead": true
+  },
+  {
+   "src": "postseason",
+   "kind": "event",
+   "year": "2026",
+   "text": "In Game 3 of the 2026 National League Wild Card Series at Truist Park, Atlanta beat Philadelphia 6–2. Michael Harris II opened the scoring in the bottom of the first inning with a three-run home run off Aaron Nola, giving the Braves an early 3–0 lead. Nola's outing was cut short as he pitched just innings, surrendering two hits and three runs while walking two and striking out one.",
+   "links": [
+    "2026 National League Wild Card Series"
+   ],
+   "about": "2026 National League Wild Card Series",
+   "score": 62.36933177893346,
+   "abouts": [
+    "2026 National League Wild Card Series"
+   ],
+   "key": "75320f4dc61d043b",
+   "headline": "Braves Beat Philadelphia 6-2 in Wild Card Game 3",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MichaelHarrisII.jpg/960px-MichaelHarrisII.jpg",
+    "credit": "Reunion",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MichaelHarrisII.jpg",
+    "alt": "Smiling Atlanta Braves player in navy jersey and batting helmet, in a game",
+    "source": "checked",
+    "of": "2026 National League Wild Card Series",
+    "w": 1712,
+    "h": 1998,
+    "tier": "person"
+   },
+   "extract": "The 2026 National League Wild Card Series were the two best-of-three playoff series in Major League Baseball’s (MLB) 2026 postseason to determine the participating teams of the 2026 National League Division Series (NLDS). Both Wild Card Series began on September 29, with Game 2s scheduled for September 30. NBC…",
+   "page": "https://en.wikipedia.org/wiki/2026_National_League_Wild_Card_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2024",
+   "text": "American League Wild Card Series And National League Wild Card Series begins",
+   "links": [
+    "American League Wild Card Series",
+    "National League Wild Card Series"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "American League Wild Card Series",
+    "National League Wild Card Series"
+   ],
+   "about": "American League Wild Card Series",
+   "key": "883e2c7c65c7288a",
+   "headline": "AL and NL Wild Card Series Begin",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Joe_Maddon_in_2013_%289553142672%29.jpg/960px-Joe_Maddon_in_2013_%289553142672%29.jpg",
+    "credit": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Maddon_in_2013_(9553142672).jpg",
+    "alt": "Older man in navy cap with star logo, sunglasses, navy hoodie, outdoors",
+    "source": "checked",
+    "of": "American League Wild Card Series",
+    "w": 2436,
+    "h": 3456,
+    "tier": "team"
+   },
+   "extract": "The Wild Card Series is the opening round of postseason play in Major League Baseball (MLB), featuring the American League Wild Card Series (ALWCS) and the National League Wild Card Series (NLWCS). A single wild card game was instituted in 2012. This became a best-of-three playoff wild card series in 2020 as a…",
+   "page": "https://en.wikipedia.org/wiki/Wild_Card_Series"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2021",
+   "text": "On October 1, 2021, and October 2, 2021, regional Mexican giant Los Bukis closed out their reunion tour at the Coliseum, following a 25-year hiatus.",
+   "links": [
+    "Oakland Coliseum"
+   ],
+   "about": "Oakland Coliseum",
+   "score": 10.0,
+   "abouts": [
+    "Oakland Coliseum"
+   ],
+   "key": "62903f62e4d1dd7f",
+   "headline": "Los Bukis Close Reunion Tour at Coliseum After 25 Years",
+   "image": null,
+   "extract": "",
+   "page": ""
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2019",
+   "text": "Juan Soto delivered a bases-loaded single against Josh Hader that scored three runs with two outs in the bottom of the eighth inning, and the Washington Nationals rallied to beat the Milwaukee Brewers 4–3 in the National League Wild Card Game at Nationals Park. As a result, the Nationals advanced to face the NL West champion Los Angeles Dodgers in the best-of-five Division Series.",
+   "links": [
+    "Juan Soto",
+    "bases loaded",
+    "Josh Hader"
+   ],
+   "score": 67.1293007253892,
+   "abouts": [
+    "bases loaded",
+    "Juan Soto",
+    "Josh Hader"
+   ],
+   "about": "bases loaded",
+   "key": "e9b6a96b7db9e89d",
+   "headline": "Soto's Bases-Loaded Single Lifts Nationals Over Brewers 4-3",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Juan_Soto_%2840536136683%29_%28cropped%29.jpg/960px-Juan_Soto_%2840536136683%29_%28cropped%29.jpg",
+    "credit": "David B. King: Flickr, Blogspot",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Juan_Soto_(40536136683)_(cropped).jpg",
+    "alt": "Player in red Nationals cap and white home uniform in outfield, glove raised",
+    "source": "checked",
+    "of": "Juan Soto",
+    "w": 1275,
+    "h": 1692,
+    "tier": "person"
+   },
+   "extract": "This is an alphabetical list of selected unofficial and specialized terms, phrases, and other jargon used in baseball, along with their definitions, including illustrative examples for many entries.",
+   "page": "https://en.wikipedia.org/wiki/Glossary_of_baseball_terms"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2018",
+   "text": "The Milwaukee Brewers beat the Chicago Cubs in the NL Central tiebreaker, 3–1, while the Los Angeles Dodgers defeated the Colorado Rockies. 5–2, in the NL West tiebreaker. Afterwards, Colorado will travel to Wrigley Field to face the Cubs in the NL playoff wild-card game.",
+   "links": [
+    "Wrigley Field"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Wrigley Field"
+   ],
+   "about": "Wrigley Field",
+   "key": "c457ec0ccd90d5af",
+   "headline": "Brewers Beat Cubs 3-1 in NL Central Tiebreaker",
+   "image": null,
+   "extract": "Wrigley Field is a ballpark on the North Side of Chicago, Illinois, United States. It is the home ballpark of Major League Baseball's Chicago Cubs, one of the city's two MLB franchises. It first opened in 1914 as Weeghman Park for Charles Weeghman's Chicago Whales of the Federal League, which folded after the 1915…",
+   "page": "https://en.wikipedia.org/wiki/Wrigley_Field"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2018",
+   "text": "Peter C. Bjarkman, 77, author of more than 40 books on sports history, as well as the leading authority on the history of Cuban baseball throughout the years.",
+   "links": [
+    "Peter C. Bjarkman"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Peter C. Bjarkman"
+   ],
+   "about": "Peter C. Bjarkman",
+   "key": "450673f55de64776",
+   "headline": "Peter C. Bjarkman, 77, Sports History Author and Cuban Baseball Authority",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bjarkman_Facebook_Profile.jpg",
+    "credit": "Rbwilbur",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bjarkman_Facebook_Profile.jpg",
+    "alt": "Smiling older man in tan fedora, round wire glasses, navy jacket",
+    "source": "checked",
+    "of": "Peter C. Bjarkman",
+    "w": 539,
+    "h": 616,
+    "tier": "person"
+   },
+   "extract": "Peter C. Bjarkman was an American historian, freelance author, and commentator on the baseball played in Cuba after the 1959 Communist revolution. He provided regular internet commentary on Cuban League baseball as a contributing writer for LaVidaBaseball.com and as Senior Writer for the U.S.-based internet website…",
+   "page": "https://en.wikipedia.org/wiki/Peter_C._Bjarkman"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2017",
+   "text": "New York Mets manager Terry Collins resigned after seven seasons with the team. Collins announced that he will remain with the Mets in a role in the team's front office.",
+   "links": [
+    "Terry Collins"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Terry Collins"
+   ],
+   "about": "Terry Collins",
+   "key": "341e057d88be7862",
+   "headline": "Terry Collins Resigns as Mets Manager After Seven Seasons",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Terry_Collins_on_August_18%2C_2015_%28cropped%29.jpg/960px-Terry_Collins_on_August_18%2C_2015_%28cropped%29.jpg",
+    "credit": "Keith Allison on Flickr",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Terry_Collins_on_August_18,_2015_(cropped).jpg",
+    "alt": "Older man in blue-orange Mets cap and jersey, profile view, outdoors.",
+    "source": "checked",
+    "of": "Terry Collins",
+    "w": 1292,
+    "h": 1363,
+    "tier": "person"
+   },
+   "extract": "Terry Lee Collins is an American former professional baseball manager. He managed the Houston Astros, the Anaheim Angels and New York Mets in Major League Baseball (MLB) and the Orix Buffaloes of Nippon Professional Baseball (NPB). He currently serves as a baseball analyst for Mets programming on SNY and as a front…",
+   "page": "https://en.wikipedia.org/wiki/Terry_Collins"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2016",
+   "text": "The New York Mets beat the Philadelphia Phillies, 5–3, and secured a berth in the postseason, qualifying for the playoffs in consecutive seasons for just the second time in franchise history. As the No. 1 seed in the National League wild card game, they will host the No. 2 seed on October 5 at Citi Field. The Mets last reached consecutive postseasons in 1999 and 2000, both times as the wild-card entry.",
+   "links": [
+    "Seed (sports)",
+    "Major League Baseball wild-card game",
+    "Citi Field"
+   ],
+   "score": 57.250552407875055,
+   "abouts": [
+    "Citi Field",
+    "Seed (sports)",
+    "Major League Baseball wild-card game"
+   ],
+   "about": "Citi Field",
+   "key": "6eb845d209f57b0b",
+   "headline": "Mets Beat Phillies 5-3, Clinch Playoff Spot as No. 1 Seed",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Citi_Field_%2848613685207%29.jpg/960px-Citi_Field_%2848613685207%29.jpg",
+    "credit": "Ajay Suresh from New York, NY, USA",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Citi_Field_(48613685207).jpg",
+    "alt": "Citi Field exterior at dusk, the Mets' home ballpark in Queens.",
+    "source": "checked",
+    "of": "Citi Field",
+    "w": 4516,
+    "h": 2540,
+    "tier": "venue"
+   },
+   "extract": "Citi Field is a baseball stadium located in Flushing Meadows–Corona Park, in the borough of Queens, New York City, United States. Opened in 2009, Citi Field is the home of Major League Baseball's New York Mets. The ballpark was built as a replacement for the adjacent Shea Stadium, which had been demolished shortly…",
+   "page": "https://en.wikipedia.org/wiki/Citi_Field"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2015",
+   "text": "The New York Yankees clinched an American League playoff berth for the first time since 2012 by defeating the Boston Red Sox, 4–1, at Yankee Stadium. With the Toronto Blue Jays having won the AL East title, the Yankees are locked into the top spot wild card spot and will host the one-game wild card playoff.",
+   "links": [
+    "Yankee Stadium",
+    "Globe Life Park"
+   ],
+   "score": 55.57572175896553,
+   "abouts": [
+    "Globe Life Park",
+    "Yankee Stadium"
+   ],
+   "about": "Globe Life Park",
+   "key": "780bcc3b28c01630",
+   "headline": "Yankees Beat Red Sox 4-1, Clinch AL Playoff Berth",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2014_Yankee_Stadium_prior_to_day_game.jpg/960px-2014_Yankee_Stadium_prior_to_day_game.jpg",
+    "credit": "Beyond My Ken",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2014_Yankee_Stadium_prior_to_day_game.jpg",
+    "alt": "Yankee Stadium infield and outfield from upper deck, pre-game, empty seats",
+    "source": "checked",
+    "of": "Yankee Stadium",
+    "w": 1600,
+    "h": 1129,
+    "tier": "venue"
+   },
+   "extract": "Choctaw Stadium, formerly Globe Life Park, is a multi-purpose stadium in Arlington, Texas, United States. The venue opened in April 1994 as a baseball stadium with the name The Ballpark in Arlington, serving as the home for the Texas Rangers of Major League Baseball from 1994 through 2019. It replaced the nearby…",
+   "page": "https://en.wikipedia.org/wiki/Choctaw_Stadium"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2015",
+   "text": "Cal Neeman, 86, light hitting, good defensive catcher who spent seven seasons from 1957 to 1963 for the Chicago Cubs, Philadelphia Phillies, Pittsburgh Pirates and Washington Senators, while leading all National League catchers in double plays and putouts as a Cubs rookie in 1957.",
+   "links": [
+    "Cal Neeman"
+   ],
+   "score": 20.063,
+   "abouts": [
+    "Cal Neeman"
+   ],
+   "about": "Cal Neeman",
+   "key": "792a0cca7e586c93",
+   "headline": "Cal Neeman, 86, Light-Hitting, Good-Defense Catcher",
+   "image": null,
+   "extract": "Calvin Amandus Neeman was an American professional baseball player who played catcher in the Major Leagues from 1957 to 1963 for the Chicago Cubs, Philadelphia Phillies, Pittsburgh Pirates, Cleveland Indians and Washington Senators. A native of Valmeyer, Illinois, he threw and batted right-handed, stood 6 feet 1 inch…",
+   "page": "https://en.wikipedia.org/wiki/Cal_Neeman"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2014",
+   "text": "Brandon Crawford hits a fourth-inning grand slam to break a scoreless tie in the National League Wild Card Game at PNC Park, as the San Francisco Giants defeat the Pittsburgh Pirates, 8–0, and will face the Washington Nationals in the NL Division series. Further, Crawford becomes the first shortstop in Major League history to hit a grand slam in the postseason.",
+   "links": [
+    "Brandon Crawford",
+    "Grand slam (baseball)",
+    "2014 National League Wild Card Game"
+   ],
+   "score": 40.02847590559256,
+   "abouts": [
+    "Brandon Crawford",
+    "Grand slam (baseball)",
+    "2014 National League Wild Card Game"
+   ],
+   "about": "Brandon Crawford",
+   "key": "22d589725c01e6d2",
+   "headline": "Crawford's Grand Slam Sends Giants Past Pirates 8-0",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Brandon_Crawford_on_July_15%2C_2011.jpg/960px-Brandon_Crawford_on_July_15%2C_2011.jpg",
+    "credit": "SD Dirk on Flickr",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Brandon_Crawford_on_July_15,_2011.jpg",
+    "alt": "Baseball player in gray San Francisco Giants road jersey and black cap",
+    "source": "checked",
+    "of": "Brandon Crawford",
+    "w": 2166,
+    "h": 3249,
+    "tier": "person"
+   },
+   "extract": "Brandon Michael Crawford is an American former professional baseball shortstop. He spent 14 seasons in Major League Baseball (MLB), playing all but his last season for the San Francisco Giants. Crawford played college baseball for the University of California, Los Angeles (UCLA). He was selected in the fourth round of…",
+   "page": "https://en.wikipedia.org/wiki/Brandon_Crawford"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2013",
+   "text": "The Pittsburgh Pirates defeat Johnny Cueto and the Cincinnati Reds at PNC Park, 6–2, advancing to the playoffs for the first time in 21 years. Marlon Byrd, acquired by Pittsburgh in late August from the New York Mets, hits a home run in his first postseason at-bat of his 12-year career to put his team ahead, 1–0, in the second inning.",
+   "links": [
+    "Pittsburgh Pirates",
+    "Johnny Cueto",
+    "Cincinnati Reds"
+   ],
+   "score": 42.0,
+   "abouts": [
+    "Johnny Cueto",
+    "Pittsburgh Pirates",
+    "Cincinnati Reds"
+   ],
+   "about": "Johnny Cueto",
+   "key": "4e216657715906d4",
+   "headline": "Pirates Beat Reds 6-2, Reach Playoffs for First Time in 21 Years",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Johnny_Cueto1.jpg",
+    "credit": "User Chrisjnelson on en.wikipedia",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Johnny_Cueto1.jpg",
+    "alt": "Player in red Reds jersey and cap, sunglasses, glove, MLB setting",
+    "source": "checked",
+    "of": "Johnny Cueto",
+    "w": 678,
+    "h": 860,
+    "tier": "person"
+   },
+   "extract": "Johnny Cueto Ortiz is a Dominican professional baseball pitcher who is a free agent. He previously played in Major League Baseball (MLB) for the Cincinnati Reds, Kansas City Royals, San Francisco Giants, Chicago White Sox, Miami Marlins, and Los Angeles Angels, and most recently played for Leones del Escogido of the…",
+   "page": "https://en.wikipedia.org/wiki/Johnny_Cueto"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2007",
+   "text": "The Colorado Rockies defeat the San Diego Padres 9–8 in 13 innings in the 2007 NL Wild Card tie-breaker to secure the last of the eight MLB playoff spots, completing a run in which they won 14 of their last 15 games, tying the best 15-game finish in major league history.",
+   "links": [
+    "Colorado Rockies",
+    "San Diego Padres",
+    "2007 NL Wild Card tie-breaker"
+   ],
+   "score": 35.40673653902066,
+   "abouts": [
+    "2007 NL Wild Card tie-breaker",
+    "Colorado Rockies",
+    "San Diego Padres"
+   ],
+   "about": "2007 NL Wild Card tie-breaker",
+   "key": "a1ef9f7ddcdf70bf",
+   "headline": "Rockies Beat Padres 9-8 in 13 Innings, Claim Last Playoff Spot",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coors_field_1.JPG/960px-Coors_field_1.JPG",
+    "credit": "Matt Kozlowski",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Coors_field_1.JPG",
+    "alt": "Wide view of a packed Coors Field during a night baseball game",
+    "source": "checked",
+    "of": "2007 NL Wild Card tie-breaker",
+    "w": 2592,
+    "h": 1944,
+    "tier": "venue"
+   },
+   "extract": "The 2007 National League Wild Card tie-breaker game was a one-game extension to Major League Baseball's (MLB) 2007 regular season, played between the San Diego Padres and Colorado Rockies of the National League's (NL) West Division to determine the NL wild card. It was played at Coors Field in Denver, Colorado, on…",
+   "page": "https://en.wikipedia.org/wiki/2007_National_League_Wild_Card_tie-breaker_game"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2005",
+   "text": "The New York Yankees defeat the Boston Red Sox at Fenway Park by a score of 8–4 to clinch their eighth consecutive American League East title. Yankees captain Derek Jeter gets his 200th hit of the season, and teammate Alex Rodriguez breaks a franchise season record for most home runs by a right-handed batter with his 48th blast.",
+   "links": [
+    "New York Yankees",
+    "Boston Red Sox",
+    "Fenway Park"
+   ],
+   "score": 103.26132842769138,
+   "abouts": [
+    "Fenway Park",
+    "New York Yankees",
+    "Boston Red Sox"
+   ],
+   "about": "Fenway Park",
+   "key": "37e4aeea3c0d7caf",
+   "headline": "Yankees Beat Red Sox 8-4, Clinch Eighth Straight AL East Title",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fenway_Grandstands.jpg/960px-Fenway_Grandstands.jpg",
+    "credit": "Aidan Siegel",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fenway_Grandstands.jpg",
+    "alt": "Empty grandstand rows with blue-painted wooden seats and cast-iron ends at a ballpark",
+    "source": "checked",
+    "of": "Fenway Park",
+    "w": 3264,
+    "h": 2448,
+    "tier": "venue"
+   },
+   "extract": "Fenway Park is a ballpark in Boston, Massachusetts, United States, close to Kenmore Square. Since 1912, it has been the home field of Major League Baseball's (MLB) Boston Red Sox. While the stadium was built in 1912, it was substantially rebuilt in 1934, and underwent major renovations and modifications in the 21st…",
+   "page": "https://en.wikipedia.org/wiki/Fenway_Park"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2004",
+   "text": "Ichiro Suzuki surpasses George Sisler's 84-year-old record of 257 hits in a single season. After this game, Ichiro collects 259 hits in the season with two games left; he finishes the season with 262 hits.",
+   "links": [
+    "Ichiro Suzuki",
+    "George Sisler"
+   ],
+   "score": 59.33182073140959,
+   "abouts": [
+    "Ichiro Suzuki",
+    "George Sisler"
+   ],
+   "about": "Ichiro Suzuki",
+   "key": "55b78819389ff708",
+   "headline": "Ichiro Surpasses Sisler's 84-Year Hit Record With 257 Hits",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ichiro_Suzuki_%2851007034081%29_%28cropped%29.jpg/960px-Ichiro_Suzuki_%2851007034081%29_%28cropped%29.jpg",
+    "credit": "Jeffrey Hayes",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ichiro_Suzuki_(51007034081)_(cropped).jpg",
+    "alt": "Baseball player in grey Seattle road jersey, glove, outfield grass, US Bank sign.",
+    "source": "checked",
+    "of": "Ichiro Suzuki",
+    "w": 1399,
+    "h": 1750,
+    "tier": "person"
+   },
+   "extract": "Ichiro Suzuki, also known mononymously as Ichiro , is a Japanese former professional baseball outfielder who played for 28 seasons. He played the first nine years of his career with the Orix BlueWave of Nippon Professional Baseball (NPB) and the next 12 years with the Seattle Mariners of Major League Baseball (MLB).…",
+   "page": "https://en.wikipedia.org/wiki/Ichiro_Suzuki"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2000",
+   "text": "The Pirates played their final game at Three Rivers on October 1, 2000, and the stadium was demolished the following winter.",
+   "links": [
+    "Pittsburgh Pirates"
+   ],
+   "about": "Pittsburgh Pirates",
+   "score": 25.0,
+   "abouts": [
+    "Pittsburgh Pirates"
+   ],
+   "key": "7e9570377f281020",
+   "headline": "Pirates Play Final Game at Three Rivers Stadium",
+   "image": null,
+   "extract": "The Pittsburgh Pirates are an American professional baseball team based in Pittsburgh. The Pirates compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. Founded as part of the American Association in 1881 under the name the Allegheny Base Ball Club of Pittsburgh, the…",
+   "page": "https://en.wikipedia.org/wiki/Pittsburgh_Pirates"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1989",
+   "text": "Kirby Puckett (.339) wins an unlikely, at the time, American League batting title taking advantage of an off year (.330) by Wade Boggs, whose marital issues have been well-publicized all season. Puckett edges Carney Lansford (.336) and clinches the title in Seattle with a double in his final game of the season.",
+   "links": [
+    "Kirby Puckett",
+    "American League",
+    "Wade Boggs"
+   ],
+   "score": 42.75865245443775,
+   "abouts": [
+    "American League",
+    "Kirby Puckett",
+    "Wade Boggs"
+   ],
+   "about": "American League",
+   "key": "e8b74902152ad5d6",
+   "headline": "Puckett Wins AL Batting Title at .339 Over Lansford",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/KirbyPuckettTributeAtTheDome.JPG/960px-KirbyPuckettTributeAtTheDome.JPG",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:KirbyPuckettTributeAtTheDome.JPG",
+    "alt": "Ceremony on a domed stadium field with a jersey-number 34 display and crowd",
+    "source": "checked",
+    "of": "Kirby Puckett",
+    "w": 2048,
+    "h": 1536,
+    "tier": "person"
+   },
+   "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
+   "page": "https://en.wikipedia.org/wiki/American_League"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1985",
+   "text": "Ron Darling and John Tudor duel for nine and ten scoreless innings, respectively, in this crucial series opener between the New York Mets (95–61) and front-running St. Louis Cardinals (98–58) at Busch Memorial Stadium. An 11th inning solo home run by Darryl Strawberry off Ken Dayley is the deciding factor in the Mets' 1–0 victory.",
+   "links": [
+    "Ron Darling",
+    "John Tudor (baseball)",
+    "New York Mets"
+   ],
+   "score": 45.0,
+   "abouts": [
+    "Ron Darling",
+    "John Tudor (baseball)",
+    "New York Mets"
+   ],
+   "about": "Ron Darling",
+   "key": "84207ef716a1d906",
+   "headline": "Darryl Strawberry Homers in 11th, Mets Beat Cardinals 1-0",
+   "image": null,
+   "extract": "Ronald Maurice Darling Jr. is an American former professional baseball pitcher and television sports color commentator. He played in Major League Baseball (MLB) as a right-handed pitcher from 1983 to 1995, including as a member of the New York Mets team that won the 1986 World Series. Since 2006, he has been the…",
+   "page": "https://en.wikipedia.org/wiki/Ron_Darling"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1984",
+   "text": "Seven weeks after the successful conclusion of the 1984 Los Angeles Olympics, Peter Ueberroth takes office as Commissioner of Baseball; he succeeds Bowie Kuhn.",
+   "links": [
+    "1984 Summer Olympics",
+    "Peter Ueberroth",
+    "Commissioner of Baseball"
+   ],
+   "score": 32.46673250183359,
+   "abouts": [
+    "1984 Summer Olympics",
+    "Commissioner of Baseball",
+    "Peter Ueberroth"
+   ],
+   "about": "1984 Summer Olympics",
+   "key": "fc573424691f5e0b",
+   "headline": "Peter Ueberroth Takes Office as Commissioner of Baseball",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peter_Ueberroth_1985.jpg/960px-Peter_Ueberroth_1985.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Peter_Ueberroth_1985.jpg",
+    "alt": "Man in dark suit and tie at a press event, black-and-white portrait",
+    "source": "checked",
+    "of": "Peter Ueberroth",
+    "w": 1086,
+    "h": 1448,
+    "tier": "person"
+   },
+   "extract": "The commissioner of baseball is the chief executive officer of Major League Baseball (MLB) and the associated Minor League Baseball (MiLB) – a constellation of leagues and clubs known as \"affiliated baseball\". Under the direction of the commissioner, the Office of the Commissioner of Baseball hires and maintains the…",
+   "page": "https://en.wikipedia.org/wiki/Commissioner_of_Baseball"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1983",
+   "text": "As he appears in his 3,307th and next-to-last game as a member of the Boston Red Sox, Carl Yastrzemski is feted with \"Yaz Day\" at Fenway Park. During the ceremony, the 44-year-old future Hall of Famer laps the entire field to thank the cheering fans for their support.",
+   "links": [
+    "Boston Red Sox",
+    "Carl Yastrzemski",
+    "Fenway Park"
+   ],
+   "score": 64.64599584104754,
+   "abouts": [
+    "Carl Yastrzemski",
+    "Fenway Park",
+    "Boston Red Sox"
+   ],
+   "about": "Carl Yastrzemski",
+   "key": "4dd097cf56c14bd4",
+   "headline": "Yastrzemski Honored With Yaz Day at Fenway Park",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Olympia_Snowe_with_Red_Sox_great_Carl_%22Yaz%22_Yastrzemski_on_his_retirement.jpg",
+    "credit": "Office of Senator Olympia Snowe",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Olympia_Snowe_with_Red_Sox_great_Carl_%22Yaz%22_Yastrzemski_on_his_retirement.jpg",
+    "alt": "Three men and woman in suits before Red Sox banners, black-and-white photo",
+    "source": "checked",
+    "of": "Carl Yastrzemski",
+    "w": 640,
+    "h": 480,
+    "tier": "person"
+   },
+   "extract": "Carl Michael Yastrzemski Sr., nicknamed \"Yaz\", is an American former professional baseball player who played his entire 23-year career with the Boston Red Sox of Major League Baseball (MLB). He started his career primarily as a left fielder, but also played 33 games as a third baseman. Later in his career, he was…",
+   "page": "https://en.wikipedia.org/wiki/Carl_Yastrzemski"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1982",
+   "text": "Through seven innings, the New York Mets' Terry Leach and the Philadelphia Phillies' John Denny have each only given up one hit. Denny is lifted in the ninth for a pinch hitter, however, Leach remains in the game through the tenth without giving up a second hit. A sacrifice fly by Hubie Brooks in the tenth off Porfi Altamirano is the deciding factor in the Mets' 1–0 victory at Veterans Stadium.",
+   "links": [
+    "New York Mets",
+    "Terry Leach",
+    "Philadelphia Phillies"
+   ],
+   "score": 25.0,
+   "abouts": [
+    "Terry Leach",
+    "New York Mets",
+    "Philadelphia Phillies"
+   ],
+   "about": "Terry Leach",
+   "key": "e79a0655990afd72",
+   "headline": "Hubie Brooks' Sacrifice Fly Lifts Mets Over Phillies 1-0",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/1981_New_York_Mets_4x5_Photos.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1981_New_York_Mets_4x5_Photos.jpg",
+    "alt": "Mets pinstriped uniform player with cap, mustache, blue autograph reading Terry Leach",
+    "source": "checked",
+    "of": "Terry Leach",
+    "w": 709,
+    "h": 901,
+    "tier": "person"
+   },
+   "extract": "Terry Hester Leach is an American former Major League Baseball pitcher, and author of the book, Things Happen for a Reason: The True Story of an Itinerant Life in Baseball.",
+   "page": "https://en.wikipedia.org/wiki/Terry_Leach"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1980",
+   "text": "The Boston Red Sox fire manager Don Zimmer due to pressure from fans, who never forgave Zimmer for the late season collapse in 1978 that led to the one-game playoff in which Bucky Dent hit the game-winning home run for the New York Yankees over the Green Monster. Zimmer departs Boston with a 411–304 (.575) record over 4½ years as skipper.",
+   "links": [
+    "Boston Red Sox",
+    "Don Zimmer",
+    "1978 American League East tie-breaker game"
+   ],
+   "score": 88.2677803361006,
+   "abouts": [
+    "Don Zimmer",
+    "1978 American League East tie-breaker game",
+    "Boston Red Sox"
+   ],
+   "about": "Don Zimmer",
+   "key": "8b9fb66bb6d36aa9",
+   "headline": "Red Sox Fire Don Zimmer After 4½ Years as Skipper",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Don_Zimmer_2009.jpg",
+    "credit": "Aaron Frutman",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Don_Zimmer_2009.jpg",
+    "alt": "Older man in Tampa Bay Rays hoodie and TB cap at ballpark",
+    "source": "checked",
+    "of": "Don Zimmer",
+    "w": 911,
+    "h": 1427,
+    "tier": "person"
+   },
+   "extract": "Donald William Zimmer was an American infielder, manager, and coach in Major League Baseball (MLB). Zimmer was involved in professional baseball from 1949 until his death, a span of 65 years, across 8 decades.",
+   "page": "https://en.wikipedia.org/wiki/Don_Zimmer"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1979",
+   "text": "The San Diego Padres fire second-year manager Roger Craig after a 93-loss season, and replace him with Jerry Coleman, who as an infielder won six World Series rings with the New York Yankees between 1949 and 1957. Coleman, 55, has spent the last 19 years as a baseball broadcaster, and has been the play-by-play \"voice of the Padres\" on radio since 1972.",
+   "links": [
+    "San Diego Padres",
+    "Roger Craig (baseball)",
+    "Jerry Coleman"
+   ],
+   "score": 80.07343171141007,
+   "abouts": [
+    "Jerry Coleman",
+    "Roger Craig (baseball)",
+    "San Diego Padres"
+   ],
+   "about": "Jerry Coleman",
+   "key": "64a6958a0be0c72b",
+   "headline": "Padres Fire Roger Craig, Name Jerry Coleman Manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jerry_Coleman_statue.JPG",
+    "credit": "Bagumba",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jerry_Coleman_statue.JPG",
+    "alt": "Bronze statue of a man in flight jacket and cap, with framed panels reading 'The Marine', 'The Teammate', 'The Voice'.",
+    "source": "checked",
+    "of": "Jerry Coleman",
+    "w": 800,
+    "h": 533,
+    "tier": "person"
+   },
+   "extract": "Gerald Francis Coleman was an American Major League Baseball (MLB) second baseman for the New York Yankees and manager of the San Diego Padres for one year. Coleman was named the rookie of the year in 1949 by Associated Press, and was an All-Star in 1950 and later that year was named the World Series Most Valuable…",
+   "page": "https://en.wikipedia.org/wiki/Jerry_Coleman"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1977",
+   "text": "Despite a 10–7 loss to the Detroit Tigers, the New York Yankees clinch their second straight AL Eastern Division title when the Boston Red Sox are beaten 8–7 by the Baltimore Orioles.",
+   "links": [
+    "Detroit Tigers",
+    "New York Yankees",
+    "Boston Red Sox"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Detroit Tigers",
+    "New York Yankees",
+    "Boston Red Sox"
+   ],
+   "about": "Detroit Tigers",
+   "key": "4c5281f7f7ddc706",
+   "headline": "Yankees Clinch Second Straight AL East Title",
+   "image": null,
+   "extract": "The Detroit Tigers are an American professional baseball team based in Detroit. The Tigers play in Major League Baseball (MLB) as a member club of the American League (AL) Central Division. One of the AL's eight charter franchises, the club was founded in Detroit as a member of the minor league Western League in 1894…",
+   "page": "https://en.wikipedia.org/wiki/Detroit_Tigers"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1976",
+   "text": "The Pittsburgh Pirates' successful leadership team of general manager Joe L. Brown and field manager Danny Murtaugh simultaneously retire. Both men are 58 years old. Brown was GM of the Bucs for 21 consecutive years, and Murtaugh led them from the dugout for all or parts of 15 seasons, over four different terms.",
+   "links": [
+    "Pittsburgh Pirates",
+    "general manager (baseball)",
+    "Joe L. Brown"
+   ],
+   "score": 65.55016349532877,
+   "abouts": [
+    "general manager (baseball)",
+    "Joe L. Brown",
+    "Pittsburgh Pirates"
+   ],
+   "about": "general manager (baseball)",
+   "key": "b6b7bb6395e6c632",
+   "headline": "Pirates' Joe L. Brown, Danny Murtaugh Both Retire",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Forbes_Field_exterior.jpg/960px-Forbes_Field_exterior.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Forbes_Field_exterior.jpg",
+    "alt": "Forbes Field exterior, curved brick facade with flags, early 1900s",
+    "source": "checked",
+    "of": "Pittsburgh Pirates",
+    "w": 6497,
+    "h": 4892,
+    "tier": "venue"
+   },
+   "extract": "In Major League Baseball, the general manager (GM) of a team typically controls player transactions and bears the primary responsibility on behalf of the ballclub during contract discussions with players.",
+   "page": "https://en.wikipedia.org/wiki/General_manager_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1975",
+   "text": "Larry MacPhail, 85, Hall of Fame executive who introduced night games, plane travel and pensions to the major leagues while running the Cincinnati Reds (1933–1936), Brooklyn Dodgers (1938–1942) and New York Yankees (1945–1947); won 1941 National League pennant in Brooklyn and 1947 World Series with Yankees, then left baseball; father of Lee, also a Hall of Fame executive, and grandfather of Andy MacPhail, high-level…",
+   "links": [
+    "Larry MacPhail",
+    "Lee MacPhail",
+    "Andy MacPhail"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Larry MacPhail",
+    "Lee MacPhail",
+    "Andy MacPhail"
+   ],
+   "about": "Larry MacPhail",
+   "key": "cb05e7f6c5ac5a6a",
+   "headline": "Larry MacPhail, 85, Hall of Fame Executive, Pioneer",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Larry_MacPhail_1942.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Larry_MacPhail_1942.jpg",
+    "alt": "Black-and-white portrait of a man in a suit and tie.",
+    "source": "checked",
+    "of": "Larry MacPhail",
+    "w": 601,
+    "h": 658,
+    "tier": "person"
+   },
+   "extract": "Leland Stanford \"Larry\" MacPhail Sr. was an American lawyer and an executive in Major League Baseball. He served as a high-ranking executive, including club president and general manager, with the Cincinnati Reds, Brooklyn Dodgers and New York Yankees, and was a one-third owner of the Yankees from 1945 through 1947.…",
+   "page": "https://en.wikipedia.org/wiki/Larry_MacPhail"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1972",
+   "text": "With only the Detroit Tigers and Boston Red Sox still alive for the American League East title, the Baltimore Orioles' Mike Cuellar spaces eight hits and Bobby Grich homers off Lynn McGlothen in the sixth inning to lead the Orioles to a 2–1 victory over the Red Sox at Memorial Stadium.",
+   "links": [
+    "Detroit Tigers",
+    "Boston Red Sox",
+    "American League East"
+   ],
+   "score": 55.35480457900467,
+   "abouts": [
+    "American League East",
+    "Detroit Tigers",
+    "Boston Red Sox"
+   ],
+   "about": "American League East",
+   "key": "fa8ecc86d5f7c51a",
+   "headline": "Cuellar Spaces Eight Hits, Orioles Beat Red Sox 2-1",
+   "image": null,
+   "extract": "The American League East is one of Major League Baseball's six divisions. MLB consists of an East, Central, and West division for each of its two 15-team leagues, the American League (AL) and National League (NL). This division was created before the start of the 1969 season along with the American League West. Before…",
+   "page": "https://en.wikipedia.org/wiki/American_League_East"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1969",
+   "text": "Ted Williams' debut season as manager of the Washington Senators ends on a triumphant note when Washington defeats Williams' longtime team, the Boston Red Sox, 3–2 behind Joe Coleman Jr., a Massachusetts native, at RFK Stadium. The 86–76 Senators finish fourth in the AL East, one game behind the Red Sox, but it is the most successful season in the nine-year-old expansion team's history.",
+   "links": [
+    "Ted Williams",
+    "Washington Senators (1961–1971)",
+    "Boston Red Sox"
+   ],
+   "score": 37.0,
+   "abouts": [
+    "Ted Williams",
+    "Washington Senators (1961–1971)",
+    "Boston Red Sox"
+   ],
+   "about": "Ted Williams",
+   "key": "2c1ab58b03865e04",
+   "headline": "Senators Beat Ted Williams' Red Sox 3-2 in Finale",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/District_of_Columbia_Stadium_1963.jpeg/960px-District_of_Columbia_Stadium_1963.jpeg",
+    "credit": "Unknoen",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:District_of_Columbia_Stadium_1963.jpeg",
+    "alt": "Wide view of a packed baseball stadium with a diamond and fans",
+    "source": "checked",
+    "of": "Washington Senators (1961–1971)",
+    "w": 1878,
+    "h": 1155,
+    "tier": "venue"
+   },
+   "extract": "Theodore Samuel Williams was an American professional baseball player and manager. He played his entire 19-year Major League Baseball (MLB) career, primarily as a left fielder, for the Boston Red Sox from 1939 to 1960; his career was interrupted by military service during World War II and the Korean War. Nicknamed…",
+   "page": "https://en.wikipedia.org/wiki/Ted_Williams"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1964",
+   "text": "Johnny Pesky is fired as manager of the Boston Red Sox with two games remaining in his second season. Future Hall of Fame second baseman Billy Herman, 55, the Bosox' third-base coach, replaces Pesky.",
+   "links": [
+    "Johnny Pesky",
+    "Boston Red Sox",
+    "National Baseball Hall of Fame and Museum"
+   ],
+   "score": 52.0,
+   "abouts": [
+    "Johnny Pesky",
+    "National Baseball Hall of Fame and Museum",
+    "Boston Red Sox"
+   ],
+   "about": "Johnny Pesky",
+   "key": "76be4e355b3c5a1d",
+   "headline": "Red Sox Fire Johnny Pesky, Billy Herman Takes Over",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Johnny_Pesky.jpg",
+    "credit": "photo taken by flickr user pierrelascott",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Johnny_Pesky.jpg",
+    "alt": "Elderly man in Red Sox home jersey, ballpark stadium lights and signage",
+    "source": "checked",
+    "of": "Johnny Pesky",
+    "w": 521,
+    "h": 678,
+    "tier": "person"
+   },
+   "extract": "John Michael Pesky, nicknamed \"the Needle\" and \"Mr. Red Sox\", was an American professional baseball player, manager and coach in Major League Baseball (MLB). He was a shortstop and third baseman during a ten-year major league playing career, appearing in 1,270 games played in 1942 and from 1946 to 1954 for three…",
+   "page": "https://en.wikipedia.org/wiki/Johnny_Pesky"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1961",
+   "text": "Before a small home crowd at Yankee Stadium, Roger Maris smacks a 2–0 pitch into the right field stands for his 61st home run of the season—a record that will last until Mark McGwire breaks it in 1998. The historic homer, hit off rookie right-hander Tracy Stallard of the Boston Red Sox, is the Yankees' 240th, which sets a major league single-season record.",
+   "links": [
+    "Yankee Stadium (1923)",
+    "Roger Maris",
+    "Mark McGwire"
+   ],
+   "score": 80.0,
+   "abouts": [
+    "Yankee Stadium (1923)",
+    "Roger Maris",
+    "Mark McGwire"
+   ],
+   "about": "Yankee Stadium (1923)",
+   "key": "922329c7559f23aa",
+   "headline": "Roger Maris Hits 61st Home Run off Tracy Stallard",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/RogerMaris9.jpg",
+    "credit": "Greenreaper13",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:RogerMaris9.jpg",
+    "alt": "Navy pinstripe circle with number 9 on white jersey-style background",
+    "source": "checked",
+    "of": "Roger Maris",
+    "w": 705,
+    "h": 705,
+    "tier": "person"
+   },
+   "extract": "The original Yankee Stadium was located in the Bronx in New York City. It was the home of the New York Yankees from 1923 to 2008, except for 1974–1975 when it was renovated. It hosted 6,581 Yankees regular season home games during its 85-year history. It was also the home of the New York Giants of the National…",
+   "page": "https://en.wikipedia.org/wiki/Yankee_Stadium_(1923)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1959",
+   "text": "The Go-Go Chicago White Sox change character at home and hammer the Los Angeles Dodgers 11–0 in the first game of the 1959 World Series, as Ted Kluszewski slugs two home runs and drives home five runs. Chicago's Early Wynn and Gerry Staley combine for the shutout. New York Yankees manager Casey Stengel, sitting out only his second World Series since 1949, covers the game as a reporter.",
+   "links": [
+    "Chicago White Sox",
+    "Los Angeles Dodgers",
+    "1959 World Series"
+   ],
+   "score": 101.5416206963809,
+   "abouts": [
+    "1959 World Series",
+    "Chicago White Sox",
+    "Los Angeles Dodgers"
+   ],
+   "about": "1959 World Series",
+   "key": "7ea5a636668195d2",
+   "headline": "White Sox Hammer Dodgers 11-0 in World Series Opener",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/LA_Coliseum_1959_World_Series.jpg/960px-LA_Coliseum_1959_World_Series.jpg",
+    "credit": "ievenlostmycat from San Diego, CA, USA",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:LA_Coliseum_1959_World_Series.jpg",
+    "alt": "Packed stadium stands and baseball diamond with pitcher's mound and players during a game.",
+    "source": "checked",
+    "of": "1959 World Series",
+    "w": 3333,
+    "h": 2328,
+    "tier": "venue"
+   },
+   "extract": "The 1959 World Series was the championship series of Major League Baseball's (MLB) 1959 season. The 56th edition of the World Series, it was a best-of-seven playoff that matched the National League (NL) champion Los Angeles Dodgers against the American League (AL) champion Chicago White Sox. The Dodgers won in six…",
+   "page": "https://en.wikipedia.org/wiki/1959_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1954",
+   "text": "The Cincinnati Redlegs trade pitcher Harry Perkowski and outfielders Jim Bolger and Ted Tappe to the Chicago Cubs for pitchers Johnny Klippstein and Jim Willis.",
+   "links": [
+    "Cincinnati Reds",
+    "Harry Perkowski",
+    "Jim Bolger (baseball)"
+   ],
+   "score": 25.0,
+   "abouts": [
+    "Harry Perkowski",
+    "Jim Bolger (baseball)",
+    "Cincinnati Reds"
+   ],
+   "about": "Harry Perkowski",
+   "key": "aa86622bf27a617b",
+   "headline": "Redlegs Trade Perkowski, Bolger, Tappe to Cubs",
+   "image": null,
+   "extract": "Harry Walter Perkowski was an American pitcher in Major League Baseball who played between 1947 and 1955 for the Cincinnati Reds / Redlegs and Chicago Cubs (1955). Listed at 6 feet 3 inches (1.91 m), 196 pounds (89 kg), he batted and threw left-handed.",
+   "page": "https://en.wikipedia.org/wiki/Harry_Perkowski"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1952",
+   "text": "In Game 1 of the 1952 World Series, the Brooklyn Dodgers defeat the New York Yankees, 4–2, at Ebbets Field behind relief ace Joe Black, who started only two games during the regular season.",
+   "links": [
+    "1952 World Series",
+    "Brooklyn Dodgers",
+    "New York Yankees"
+   ],
+   "score": 67.39715668598868,
+   "abouts": [
+    "1952 World Series",
+    "Brooklyn Dodgers",
+    "New York Yankees"
+   ],
+   "about": "1952 World Series",
+   "key": "750adfb8499e1a95",
+   "headline": "Dodgers Beat Yankees 4-2 in World Series Game 1",
+   "image": null,
+   "extract": "The 1952 World Series featured the three-time defending champion New York Yankees beating the Brooklyn Dodgers in seven games. The Yankees won their fourth consecutive title, tying the mark they set in 1936–1939 under manager Joe McCarthy, and Casey Stengel became the second manager in Major League history with four…",
+   "page": "https://en.wikipedia.org/wiki/1952_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1951",
+   "text": "The New York Giants and Brooklyn Dodgers split the first two games of the 1951 National League tie-breaker series. With Jim Hearn tossing a five-hitter and Bobby Thomson bashing a difference-making two-run homer off Ralph Branca, New York takes Game 1 at Ebbets Field, 3–1.",
+   "links": [
+    "New York Giants (baseball)",
+    "Brooklyn Dodgers",
+    "1951 National League tie-breaker series"
+   ],
+   "score": 35.179149126264136,
+   "abouts": [
+    "1951 National League tie-breaker series",
+    "New York Giants (baseball)",
+    "Brooklyn Dodgers"
+   ],
+   "about": "1951 National League tie-breaker series",
+   "key": "456f77b7626334fc",
+   "headline": "Giants Take Game 1 of Playoff Over Dodgers, 3-1",
+   "image": null,
+   "extract": "The 1951 National League tie-breaker series was a best-of-three series that extended Major League Baseball's (MLB) 1951 regular season to decide the winner of the National League (NL) pennant. The games were played on October 1, 2, and 3, 1951, between the New York Giants and Brooklyn Dodgers. It was necessary after…",
+   "page": "https://en.wikipedia.org/wiki/1951_National_League_tie-breaker_series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1948",
+   "text": "The final weekend of the American League's intense pennant race sees the second-place Boston Red Sox catch the front-running Cleveland Indians on the season's final day to force the first tie-breaker game in the AL's 48-year history.",
+   "links": [
+    "American League",
+    "pennant (sports)",
+    "Boston Red Sox"
+   ],
+   "score": 67.75865245443775,
+   "abouts": [
+    "American League",
+    "pennant (sports)",
+    "Boston Red Sox"
+   ],
+   "about": "American League",
+   "key": "89cca3be6b159a35",
+   "headline": "Red Sox Catch Indians, Force First AL Tie-Breaker",
+   "image": null,
+   "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
+   "page": "https://en.wikipedia.org/wiki/American_League"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1932",
+   "text": "Lou Gehrig hits two home runs, as does teammate Babe Ruth, as the New York Yankees defeat the Chicago Cubs, 7–5 in Game 3 of the World Series. It is Ruth's second home run that is historic. Batting against Charlie Root in the fifth inning, with two strikes, Ruth is seen to gesture, according to some toward the outfield fence, before hitting the home run.",
+   "links": [
+    "Lou Gehrig",
+    "Babe Ruth",
+    "New York Yankees"
+   ],
+   "score": 110,
+   "abouts": [
+    "Babe Ruth",
+    "Lou Gehrig",
+    "New York Yankees"
+   ],
+   "about": "Babe Ruth",
+   "key": "9aeff40a0b2253da",
+   "headline": "Gehrig, Ruth Homer as Yankees Beat Cubs 7-5",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Babe_Ruth2.jpg/960px-Babe_Ruth2.jpg",
+    "credit": "Irwin, La Broad, & Pudlin.",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Babe_Ruth2.jpg",
+    "alt": "Sepia studio portrait of a man in pinstripes holding a bat, Yankees cap.",
+    "source": "checked",
+    "of": "Babe Ruth",
+    "w": 2623,
+    "h": 3456,
+    "tier": "person"
+   },
+   "extract": "George Herman \"Babe\" Ruth was an American professional baseball player whose career in Major League Baseball (MLB) spanned 22 seasons, from 1914 through 1935. Nicknamed \"the Bambino\" and \"the Sultan of Swat\", he began his MLB career as a star left-handed pitcher for the Boston Red Sox, but achieved his greatest fame…",
+   "page": "https://en.wikipedia.org/wiki/Babe_Ruth"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1931",
+   "text": "The Reigning World Champion Philadelphia A's take game one of the World Series, 6–2 over the team they defeated in the 1930 World Series, the St. Louis Cardinals.",
+   "links": [
+    "World Series",
+    "1930 World Series"
+   ],
+   "score": 91.31699665667001,
+   "abouts": [
+    "1930 World Series",
+    "World Series"
+   ],
+   "about": "1930 World Series",
+   "key": "8a2b1c39e502c9b2",
+   "headline": "A's Take World Series Opener Over Cardinals 6-2",
+   "image": null,
+   "extract": "The 1930 World Series was the championship series of Major League Baseball for the 1930 season. The 27th edition of the World Series, it was a best-of-seven playoff that pitted the American League (AL) champion Philadelphia Athletics against the National League (NL) champion St. Louis Cardinals. The Athletics defeated…",
+   "page": "https://en.wikipedia.org/wiki/1930_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1930",
+   "text": "The Philadelphia Athletics defeat the St. Louis Cardinals 5–2 in game one of the 1930 World Series despite being out hit 9–5. All five hits by the A's are for extra bases (a double, two triples & two home runs).",
+   "links": [
+    "1930 World Series",
+    "double (baseball)",
+    "triple (baseball)"
+   ],
+   "score": 86.31699665667001,
+   "abouts": [
+    "1930 World Series",
+    "double (baseball)",
+    "triple (baseball)"
+   ],
+   "about": "1930 World Series",
+   "key": "58b274e3cb3a0133",
+   "headline": "A's Beat Cardinals 5-2 Despite Being out-Hit 9-5",
+   "image": null,
+   "extract": "The 1930 World Series was the championship series of Major League Baseball for the 1930 season. The 27th edition of the World Series, it was a best-of-seven playoff that pitted the American League (AL) champion Philadelphia Athletics against the National League (NL) champion St. Louis Cardinals. The Athletics defeated…",
+   "page": "https://en.wikipedia.org/wiki/1930_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1924",
+   "text": "Sen Kaney makes history calling the first live radio broadcast of a major league baseball game. Kaney is seated in the grandstand behind home plate, calling the game as the Cubs defeated the White Sox 10–7.",
+   "links": [],
+   "score": 20.0,
+   "abouts": [],
+   "about": null,
+   "key": "0b6423ad43008afc",
+   "headline": "Sen Kaney Calls First Live Radio Broadcast of MLB Game",
+   "image": null,
+   "extract": "",
+   "page": ""
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1922",
+   "text": "St. Louis Cardinals second baseman Rogers Hornsby goes three-for-five to end the season with a .401 batting average, becoming the first National Leaguer to end the season with a .400 average since 1901. Horsnby also sets new National League records with 42 home runs, 152 runs batted in, and a .722 slugging percentage.",
+   "links": [
+    "St. Louis Cardinals",
+    "Rogers Hornsby",
+    "batting average (baseball)"
+   ],
+   "score": 85.88609479666358,
+   "abouts": [
+    "batting average (baseball)",
+    "Rogers Hornsby",
+    "St. Louis Cardinals"
+   ],
+   "about": "batting average (baseball)",
+   "key": "fa80d52904342679",
+   "headline": "Rogers Hornsby Ends Season With .401 Batting Average",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/1920-Rogers-Hornsby-by-Charles-Conlon.jpg/960px-1920-Rogers-Hornsby-by-Charles-Conlon.jpg",
+    "credit": "Charles M. Conlon",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1920-Rogers-Hornsby-by-Charles-Conlon.jpg",
+    "alt": "Vintage black-and-white photo of a batter in flannel uniform swinging a bat outdoors",
+    "source": "checked",
+    "of": "Rogers Hornsby",
+    "w": 985,
+    "h": 1317,
+    "tier": "person"
+   },
+   "extract": "In baseball, batting average (BA) is determined by dividing a player's hits by their total at-bats. It is usually rounded to three decimal places and read without the decimal: A player with a batting average of .300 is said to be \"batting three hundred\". If necessary to break ties, batting averages could be taken…",
+   "page": "https://en.wikipedia.org/wiki/Batting_average_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1920",
+   "text": "The Chicago Cubs' Pete Alexander pitches 17 innings to earn his National League leading 27th victory. Only one of the two runs Alexander surrenders to the St. Louis Cardinals is earned, lowering his ERA to 1.91 for the season, which also leads the league.",
+   "links": [
+    "Chicago Cubs",
+    "Pete Alexander",
+    "National League (baseball)"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Pete Alexander",
+    "National League (baseball)",
+    "Chicago Cubs"
+   ],
+   "about": "Pete Alexander",
+   "key": "28eb09ed5671495d",
+   "headline": "Pete Alexander Pitches 17 Innings for 27th Win",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Grover_Cleveland_Alexander_throwing_BBHOF.jpg/960px-Grover_Cleveland_Alexander_throwing_BBHOF.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Grover_Cleveland_Alexander_throwing_BBHOF.jpg",
+    "alt": "Pitcher in white Cubs uniform with glove, crowd and flag behind",
+    "source": "checked",
+    "of": "Pete Alexander",
+    "w": 7638,
+    "h": 6099,
+    "tier": "person"
+   },
+   "extract": "Grover Cleveland Alexander, nicknamed \"Old Pete\" and \"Alexander the Great\", was an American professional baseball pitcher in Major League Baseball. He played from 1911 through 1930 for the Philadelphia Phillies, Chicago Cubs, and St. Louis Cardinals. In 1938, Alexander was elected into the Baseball Hall of Fame.",
+   "page": "https://en.wikipedia.org/wiki/Grover_Cleveland_Alexander"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1919",
+   "text": "Just before the start of the World Series, the highly favored Chicago White Sox became the betting underdogs. A year later the White Sox will become the Black Sox, and eight of them: pitchers Eddie Cicotte and Lefty Williams, outfielders Shoeless Joe Jackson and Happy Felsch, 1B Chick Gandil, SS Swede Risberg, 3B Buck Weaver, and utility infielder Fred McMullin, will be barred from baseball for taking part in…",
+   "links": [
+    "1919 World Series",
+    "Eddie Cicotte",
+    "Lefty Williams"
+   ],
+   "score": 70.8433711478354,
+   "abouts": [
+    "1919 World Series",
+    "Eddie Cicotte",
+    "Lefty Williams"
+   ],
+   "about": "1919 World Series",
+   "key": "21705f5b0ff0a079",
+   "headline": "White Sox Become World Series Underdogs Before Fixing",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/1919_blacksox.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1919_blacksox.jpg",
+    "alt": "Black-and-white team photo of White Sox players in road uniforms, seated and standing, outdoors.",
+    "source": "checked",
+    "of": "1919 World Series",
+    "w": 629,
+    "h": 480,
+    "tier": "team"
+   },
+   "extract": "The 1919 World Series was the championship series in Major League Baseball (MLB) for the 1919 season. The 16th edition of the World Series, it matched the American League (AL) champion Chicago White Sox against the National League (NL) champion Cincinnati Reds. Although most World Series have been of the best-of-seven…",
+   "page": "https://en.wikipedia.org/wiki/1919_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1899",
+   "text": "The Cleveland Spiders play their last home game, a 19–3 loss to Cincinnati. In that game, the Spiders recruited local semi-pro Eddie Kolb to pitch. It would be the 18 year old rookie's only MLB appearance.",
+   "links": [
+    "Eddie Kolb"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Eddie Kolb"
+   ],
+   "about": "Eddie Kolb",
+   "key": "9f448cf619467d79",
+   "headline": "Spiders Play Last Home Game, Lose 19-3 to Cincinnati",
+   "image": null,
+   "extract": "Edward William \"Eddie\" Kolb was an American Major League Baseball pitcher from Cincinnati, Ohio, who pitched one game for the 1899 Cleveland Spiders. The Spiders that season were a horrible team, compiling a historically low win–loss record of 20–134. To finish off the season, the team ended with a 35 game road trip,…",
+   "page": "https://en.wikipedia.org/wiki/Eddie_Kolb"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1888",
+   "text": "With darkness looming, the Indianapolis Hoosiers score three runs in the top of the ninth inning to take a 4–2 lead over the Washington Nationals when Washington catcher Connie Mack suddenly develops an \"injury\" to his finger. The delay causes the game to be called because of darkness with the score reverting to the last completed inning, resulting in a 2–1 Washington victory.",
+   "links": [
+    "St. Louis Maroons/Indianapolis Hoosiers",
+    "Washington Nationals (1886–1889)",
+    "Connie Mack"
+   ],
+   "score": 31.443034451954844,
+   "abouts": [
+    "Connie Mack",
+    "St. Louis Maroons/Indianapolis Hoosiers",
+    "Washington Nationals (1886–1889)"
+   ],
+   "about": "Connie Mack",
+   "key": "3a5771a7bf948af7",
+   "headline": "Darkness, Catcher's Finger Injury Give Washington 2-1 Win",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1888_Washington_Nationals.jpg/960px-1888_Washington_Nationals.jpg",
+    "credit": "Hastings, George H., fl. 1885-1896, photographer.",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1888_Washington_Nationals.jpg",
+    "alt": "Team photo of players in white uniforms with 'WASHINGTON' lettering, outdoors before a grandstand.",
+    "source": "checked",
+    "of": "Washington Nationals (1886–1889)",
+    "w": 1464,
+    "h": 1030,
+    "tier": "team"
+   },
+   "extract": "Cornelius McGillicuddy, better known as Connie Mack, was an American professional baseball catcher, manager, and team owner. Mack holds records for the most wins (3,731), losses (3,948), ties (76), and games managed (7,755) in Major League Baseball (MLB) history. His victory total is 847 more than the second-highest:…",
+   "page": "https://en.wikipedia.org/wiki/Connie_Mack"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1885",
+   "text": "The first all-black professional team is formed by Frank P. Thompson. Originally known as the Athletics, they will soon change their name to the Cuban Giants.",
+   "links": [
+    "Cuban Giants"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Cuban Giants"
+   ],
+   "about": "Cuban Giants",
+   "key": "535e35e67ff49bd1",
+   "headline": "Frank P. Thompson Forms First All-Black Pro Team",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/1887-1888_Cuban_Giants.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1887-1888_Cuban_Giants.jpg",
+    "alt": "Black baseball team in period uniforms with a banner reading 'Colored Champions 1887 and 1888' against a fence.",
+    "source": "checked",
+    "of": "Cuban Giants",
+    "w": 600,
+    "h": 433,
+    "tier": "team"
+   },
+   "extract": "The Cuban Giants were the first fully salaried African-American professional baseball club. The team was originally formed in 1885 at the Argyle Hotel, a summer resort in Babylon, New York. Initially an independent barnstorming team, they played games against opponents of all types: major and minor league clubs,…",
+   "page": "https://en.wikipedia.org/wiki/Cuban_Giants"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1879",
+   "text": "The Cincinnati Reds release all of their players and are unable to pay them their final month's salary.",
+   "links": [
+    "Cincinnati Reds (1876–1879)"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Cincinnati Reds (1876–1879)"
+   ],
+   "about": "Cincinnati Reds (1876–1879)",
+   "key": "b69dc03692db69a8",
+   "headline": "Cincinnati Reds Release All Players, Can't Pay Salary",
+   "image": null,
+   "extract": "The Cincinnati Reds, also known as the Cincinnati Red Stockings, were a professional baseball team based in Cincinnati, Ohio that played from 1876–1879. The club predated the National League of which it became a charter member.",
+   "page": "https://en.wikipedia.org/wiki/Cincinnati_Reds_(1876%E2%80%931879)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1877",
+   "text": "The Syracuse Stars clinch the New York State Association pennant.",
+   "links": [],
+   "score": 35.0,
+   "abouts": [],
+   "about": null,
+   "key": "125e6316a337af50",
+   "headline": "Syracuse Stars Clinch New York State Association Pennant",
+   "image": null,
+   "extract": "",
+   "page": ""
+  }
+ ],
+ "numbers": {
+  "games": 862,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "862",
+    "note": "1872 to 2026"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "29",
+    "note": "Braves 29, Atlantics 0 (1874)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "29 runs",
+    "note": "Braves 29, Atlantics 0 (1874)"
+   },
+   {
+    "label": "Longest game",
+    "value": "17 innings",
+    "note": "Cardinals at Cubs (1920)"
+   },
+   {
+    "label": "Walk-off wins",
+    "value": "70",
+    "note": "latest: Rockies 3, Twins 2 (2023)"
+   },
+   {
+    "label": "Biggest crowd",
+    "value": "72,454",
+    "note": "White Sox at Indians (1993)"
+   }
+  ],
+  "records": [
+   {
+    "label": "Most home runs by one team",
+    "value": "6",
+    "note": "Orioles (1977); Orioles 8, Red Sox 7"
+   },
+   {
+    "label": "Most strikeouts in a game",
+    "value": "32",
+    "note": "Rockies 3, Twins 2 (2023)"
+   },
+   {
+    "label": "Most steals by one team",
+    "value": "8",
+    "note": "Dodgers (1910)"
+   },
+   {
+    "label": "Most runs in one inning",
+    "value": "13",
+    "note": "Braves 29, Atlantics 0 (1874)"
+   },
+   {
+    "label": "Shortest and longest games",
+    "value": "70 and 294 min",
+    "note": "1944 and 1960"
+   },
+   {
+    "label": "Home team won",
+    "value": "56%",
+    "note": "of 856 decided games"
+   },
+   {
+    "label": "Postseason games",
+    "value": "50",
+    "note": "Division Series 20, Wild Card Game 15, World Series 14"
+   },
+   {
+    "label": "Ballparks that hosted games",
+    "value": "129",
+    "note": "most games: Yankee Stadium I (29); Comiskey Park I (28); Wrigley Field (26)"
+   }
+  ],
+  "through": 2026,
+  "gotd": {
+   "year": 1958,
+   "visitor": "Yankees",
+   "home": "Braves",
+   "inn": 10,
+   "vline": [
+    "0",
+    "0",
+    "0",
+    "1",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "hline": [
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1"
+   ],
+   "vr": 3,
+   "hr": 4,
+   "vh": 8,
+   "hh": 10,
+   "ve": 1,
+   "he": 0,
+   "crowd": 46367,
+   "park": "County Stadium",
+   "event": "World Series",
+   "why": "World Series, 10 innings, walk-off"
+  },
+  "eras": [
+   {
+    "decade": 1870,
+    "games": 9,
+    "rpg": 16.67,
+    "crowd": 338
+   },
+   {
+    "decade": 1880,
+    "games": 45,
+    "rpg": 8.84,
+    "crowd": null
+   },
+   {
+    "decade": 1890,
+    "games": 34,
+    "rpg": 11.29,
+    "crowd": 1663
+   },
+   {
+    "decade": 1900,
+    "games": 55,
+    "rpg": 6.76,
+    "crowd": 3621
+   },
+   {
+    "decade": 1910,
+    "games": 39,
+    "rpg": 7.97,
+    "crowd": 5353
+   },
+   {
+    "decade": 1920,
+    "games": 44,
+    "rpg": 9.66,
+    "crowd": 6967
+   },
+   {
+    "decade": 1930,
+    "games": 33,
+    "rpg": 8.45,
+    "crowd": 9530
+   },
+   {
+    "decade": 1940,
+    "games": 33,
+    "rpg": 7.39,
+    "crowd": 18919
+   },
+   {
+    "decade": 1950,
+    "games": 17,
+    "rpg": 7.82,
+    "crowd": 32067
+   },
+   {
+    "decade": 1960,
+    "games": 64,
+    "rpg": 7.73,
+    "crowd": 11600
+   },
+   {
+    "decade": 1970,
+    "games": 74,
+    "rpg": 7.68,
+    "crowd": 14757
+   },
+   {
+    "decade": 1980,
+    "games": 107,
+    "rpg": 8.44,
+    "crowd": 19798
+   },
+   {
+    "decade": 1990,
+    "games": 85,
+    "rpg": 8.95,
+    "crowd": 28835
+   },
+   {
+    "decade": 2000,
+    "games": 84,
+    "rpg": 8.81,
+    "crowd": 36151
+   },
+   {
+    "decade": 2010,
+    "games": 80,
+    "rpg": 7.92,
+    "crowd": 31210
+   },
+   {
+    "decade": 2020,
+    "games": 59,
+    "rpg": 8.34,
+    "crowd": 34985
+   }
+  ],
+  "thenNow": {
+   "first": {
+    "year": 1872,
+    "visitor": "Lord Baltimores",
+    "home": "Mutuals",
+    "vs": 6,
+    "hs": 6,
+    "crowd": 450,
+    "park": null,
+    "event": ""
+   },
+   "latest": {
+    "year": 2026,
+    "visitor": "Phillies",
+    "home": "Braves",
+    "vs": 2,
+    "hs": 6,
+    "crowd": 41731,
+    "park": "Truist Park",
+    "event": "National League Wild Card Series"
+   }
+  },
+  "teams": {
+   "best": [
+    {
+     "team": "Mets",
+     "w": 22,
+     "l": 15,
+     "pct": 0.595
+    },
+    {
+     "team": "Dodgers",
+     "w": 48,
+     "l": 34,
+     "pct": 0.585
+    },
+    {
+     "team": "Pirates",
+     "w": 44,
+     "l": 32,
+     "pct": 0.579
+    }
+   ],
+   "worst": [
+    {
+     "team": "Diamondbacks",
+     "w": 6,
+     "l": 10,
+     "pct": 0.375
+    },
+    {
+     "team": "Rockies",
+     "w": 7,
+     "l": 11,
+     "pct": 0.389
+    },
+    {
+     "team": "Rangers",
+     "w": 15,
+     "l": 23,
+     "pct": 0.395
+    }
+   ]
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+ },
+ "wire": {
+  "count": 266,
+  "items": [
+   {
+    "year": 2016,
+    "text": "Mariners trade Tim Lopes to the Blue Jays",
+    "star": false
+   },
+   {
+    "year": 1998,
+    "text": "Astros trade John Halama to the Mariners",
+    "star": false
+   },
+   {
+    "year": 1963,
+    "text": "Giants trade Jimmie Coker to the Cardinals for Ken MacKenzie",
+    "star": false
+   },
+   {
+    "year": 1954,
+    "text": "Reds trade Ted Tappe, Harry Perkowski and Jim Bolger to the Cubs for Johnny Klippstein and Jim Willis",
+    "star": false
+   },
+   {
+    "year": 1953,
+    "text": "Indians trade cash and Bill Abernathie to the Dodgers for Rocky Nelson",
+    "star": false
+   },
+   {
+    "year": 1949,
+    "text": "Tigers trade Lum Harris, Anse Moore and George Byam to the Indians",
+    "star": false
+   },
+   {
+    "year": 1949,
+    "text": "Pirates trade cash to the Dodgers for Danny O'Connell",
+    "star": false
+   },
+   {
+    "year": 1942,
+    "text": "Senators trade cash and Frank Croucher to the Browns for Ewald Pyle",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "133",
+    "note": "most in 2013 (43)"
+   },
+   {
+    "label": "Trades made",
+    "value": "30",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "10",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2013",
+    "note": "44 transactions"
+   }
+  ],
+  "years": [
+   1890,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1993,
+    "name": "Carlos Delgado",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 1974,
+    "name": "Bob Jones",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1969,
+    "name": "Reggie Cleveland",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1920,
+    "name": "Bubber Jonnard",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1920,
+    "name": "Fred Heimach",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1914,
+    "name": "Irish Meusel",
+    "star": false,
+    "seasons": 14
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1995,
+    "name": "Dave Winfield",
+    "star": true,
+    "seasons": 23
+   },
+   {
+    "year": 1969,
+    "name": "Bobby Cox",
+    "star": true,
+    "seasons": 2
+   },
+   {
+    "year": 1965,
+    "name": "Warren Spahn",
+    "star": true,
+    "seasons": 24
+   },
+   {
+    "year": 1964,
+    "name": "Dick Williams",
+    "star": true,
+    "seasons": 14
+   },
+   {
+    "year": 1950,
+    "name": "Luke Appling",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1933,
+    "name": "Nick Altrock",
+    "star": false,
+    "seasons": 36
+   }
+  ],
+  "debutCount": 72,
+  "farewellCount": 599,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1993,
+    "name": "Dave Duncan",
+    "star": false
+   },
+   {
+    "year": 1961,
+    "name": "Mel Harder",
+    "star": false
+   },
+   {
+    "year": 1944,
+    "name": "Alex Pompez",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 45,
+  "managers": 13,
+  "items": [
+   {
+    "year": 2009,
+    "text": "Jim Leyland (manager) ejected by Angel Hernandez: warning to both teams",
+    "star": true
+   },
+   {
+    "year": 1990,
+    "text": "Joe Torre (manager) ejected by Bob Davidson: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1986,
+    "text": "Tony LaRussa (manager) ejected by Durwood Merrill: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1980,
+    "text": "Joe Torre (manager) ejected by Bruce Froemming: call at 2b",
+    "star": true
+   },
+   {
+    "year": 1978,
+    "text": "Larry Doby (manager) ejected by Ron Luciano: balls and strikes",
+    "star": true
+   }
+  ],
+  "years": [
+   1904,
+   2023
+  ]
+ },
+ "feats": {
+  "count": 7,
+  "items": [
+   {
+    "year": 2000,
+    "text": "Antonio Alfonseca reaches 45 saves in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1980,
+    "text": "Charlie Moore hits for the cycle for the Brewers (Angel Stadium of Anaheim)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1978,
+    "text": "Gaylord Perry gets his 3,000th career strikeout",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1938,
+    "text": "Jimmie Foxx reaches 50 home runs in a season",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1927,
+    "text": "Earle Combs reaches 230 hits in a season",
+    "star": true,
+    "kind": "milestone"
+   }
+  ],
+  "cycles": 1,
+  "milestones": 6
+ }
+}

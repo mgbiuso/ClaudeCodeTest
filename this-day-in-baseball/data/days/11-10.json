@@ -1135,5 +1135,19 @@
   "farewellCount": 1,
   "hofDebuts": 0,
   "managerDebuts": []
- }
+ },
+ "papers": [
+  {
+   "year": 1953,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 82,
+   "url": "https://www.loc.gov/resource/sn83045462/1953-11-10/ed-1/?sp=82&q=baseball"
+  },
+  {
+   "year": 1951,
+   "paper": "The Miami times (Miami, Fla.)",
+   "page": 8,
+   "url": "https://www.loc.gov/resource/sn83004231/1951-11-10/ed-1/?sp=8&q=baseball"
+  }
+ ]
 }

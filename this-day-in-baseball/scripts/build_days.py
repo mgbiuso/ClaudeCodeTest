@@ -27,6 +27,7 @@ PAUSE = 0.5
 import sys as _sys
 _sys.path.insert(0, str(Path(__file__).resolve().parent))
 import wiki_postseason as wp  # noqa: E402  (current-year postseason games from Wikipedia)
+import extras as ex  # noqa: E402  (optional career lines and newspaper pages; never breaks a build)
 import datetime as _dt
 TODAY = _dt.date.today()
 FIRST_YEAR, LAST_YEAR = 1871, TODAY.year  # the current year is included, up to today (see not_in_future)
@@ -572,7 +573,7 @@ def add_photos(stories):
     return stories
 
 
-def day_record(month, day, stories):
+def day_record(month, day, stories, fetch_papers=False):
     """One day file: the stories plus everything Retrosheet adds for this date (data/retro/MM-DD.json, made by retro_facts.py):
     "numbers" (stat strip, record book, game of the day, charts, team records), "wire" (transactions), "people" (debuts and
     farewells), "ejections" and "feats" (milestones, cycles and oddities)."""
@@ -585,7 +586,7 @@ def day_record(month, day, stories):
     for k in ("wire", "people", "ejections", "feats"):
         if facts.get(k) and (facts[k].get("count") or facts[k].get("debuts") or facts[k].get("farewells")):
             rec[k] = facts[k]
-    return rec
+    return ex.enrich(rec, fetch_papers)
 
 
 def load_json_file(name):
@@ -671,6 +672,7 @@ def main():
     ap.add_argument("--write", action="store_true", help="write data/days/MM-DD.json")
     ap.add_argument("--all", action="store_true", help="every day of the year (366 dates, slow; the cache makes reruns fast)")
     ap.add_argument("--rss", action="store_true", help="write this-day-in-baseball.xml for today from data/days")
+    ap.add_argument("--papers", action="store_true", help="also fetch 'What the papers said' from the Library of Congress (slow, about 30 seconds a day)")
     a = ap.parse_args()
     if a.all:
         a.dates = [f"{m:02d}/{d:02d}" for m in range(1, 13) for d in range(1, calendar.monthrange(2024, m)[1] + 1)]
@@ -694,7 +696,7 @@ def main():
         if a.write:
             (ROOT / "data" / "days").mkdir(parents=True, exist_ok=True)
             (ROOT / "data" / "days" / f"{month:02d}-{day:02d}.json").write_text(
-                json.dumps(day_record(month, day, s), ensure_ascii=False, indent=1))
+                json.dumps(day_record(month, day, s, a.papers), ensure_ascii=False, indent=1))
     if a.rss:
         write_rss()
     print("\nrequests:", {"net": STATS["net"], "cached": STATS["cached"], "failed": len(STATS["failed"])})

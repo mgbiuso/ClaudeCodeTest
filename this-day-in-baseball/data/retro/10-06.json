@@ -1,0 +1,519 @@
+{
+ "month": 10,
+ "day": 6,
+ "games": 317,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "317",
+   "note": "1873 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "27",
+   "note": "Braves 20, Phillies 7 (1910)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "13 runs",
+   "note": "Braves 20, Phillies 7 (1910)"
+  },
+  {
+   "label": "Longest game",
+   "value": "14 innings",
+   "note": "Phillies at Braves (1923)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "23",
+   "note": "latest: Phillies 7, Mets 6 (2024)"
+  },
+  {
+   "label": "No-hitters",
+   "value": "1",
+   "note": "latest: Roy Halladay (2010)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "6",
+   "note": "Padres (2024); Padres 10, Dodgers 2"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "26",
+   "note": "Mets 7, Phillies 0 (1991)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "9",
+   "note": "Terrapins (1914)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "9",
+   "note": "Tigers 12, Browns 3 (1923)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "67 and 308 min",
+   "note": "1915 and 2017"
+  },
+  {
+   "label": "Home team won",
+   "value": "58%",
+   "note": "of 312 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "118",
+   "note": "Division Series 54, World Series 38, League Championship Series 22"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "105",
+   "note": "most games: Yankee Stadium I (15); Sportsman's Park III (11); Polo Grounds V (11)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [
+  {
+   "year": 2010,
+   "by": "Phillies",
+   "against": "Reds",
+   "pitcher": "Roy Halladay",
+   "combined": false,
+   "perfect": false,
+   "event": "Division Series"
+  }
+ ],
+ "gotd": {
+  "year": 2017,
+  "visitor": "Yankees",
+  "home": "Indians",
+  "inn": 13,
+  "vline": [
+   "2",
+   "0",
+   "4",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "2",
+   "1",
+   "0",
+   "0",
+   "0",
+   "4",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 8,
+  "hr": 9,
+  "vh": 11,
+  "hh": 9,
+  "ve": 3,
+  "he": 2,
+  "crowd": 37681,
+  "park": "Progressive Field",
+  "event": "Division Series",
+  "why": "Division Series, 13 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 6,
+   "rpg": 10.67,
+   "crowd": null
+  },
+  {
+   "decade": 1880,
+   "games": 33,
+   "rpg": 10.55,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 19,
+   "rpg": 10.63,
+   "crowd": 977
+  },
+  {
+   "decade": 1900,
+   "games": 41,
+   "rpg": 8.59,
+   "crowd": 4948
+  },
+  {
+   "decade": 1910,
+   "games": 41,
+   "rpg": 8.51,
+   "crowd": 4525
+  },
+  {
+   "decade": 1920,
+   "games": 23,
+   "rpg": 7.91,
+   "crowd": 16243
+  },
+  {
+   "decade": 1930,
+   "games": 8,
+   "rpg": 7.75,
+   "crowd": 40717
+  },
+  {
+   "decade": 1940,
+   "games": 9,
+   "rpg": 5.11,
+   "crowd": 50384
+  },
+  {
+   "decade": 1950,
+   "games": 7,
+   "rpg": 6.57,
+   "crowd": 60620
+  },
+  {
+   "decade": 1960,
+   "games": 7,
+   "rpg": 10.43,
+   "crowd": 48218
+  },
+  {
+   "decade": 1970,
+   "games": 9,
+   "rpg": 8.33,
+   "crowd": 48019
+  },
+  {
+   "decade": 1980,
+   "games": 22,
+   "rpg": 8.55,
+   "crowd": 34787
+  },
+  {
+   "decade": 1990,
+   "games": 26,
+   "rpg": 7.5,
+   "crowd": 40020
+  },
+  {
+   "decade": 2000,
+   "games": 34,
+   "rpg": 8.18,
+   "crowd": 38782
+  },
+  {
+   "decade": 2010,
+   "games": 21,
+   "rpg": 8.05,
+   "crowd": 44563
+  },
+  {
+   "decade": 2020,
+   "games": 11,
+   "rpg": 8.73,
+   "crowd": 47366
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1873,
+   "visitor": "Athletics",
+   "home": "Braves",
+   "vs": 12,
+   "hs": 11,
+   "crowd": null,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "Dodgers",
+   "home": "Braves",
+   "vs": 3,
+   "hs": 1,
+   "crowd": 42420,
+   "park": "Truist Park",
+   "event": "National League Division Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Astros",
+    "w": 9,
+    "l": 3,
+    "pct": 0.75
+   },
+   {
+    "team": "Orioles",
+    "w": 15,
+    "l": 7,
+    "pct": 0.682
+   },
+   {
+    "team": "Pirates",
+    "w": 16,
+    "l": 10,
+    "pct": 0.615
+   }
+  ],
+  "worst": [
+   {
+    "team": "Cardinals",
+    "w": 12,
+    "l": 20,
+    "pct": 0.375
+   },
+   {
+    "team": "Twins",
+    "w": 8,
+    "l": 13,
+    "pct": 0.381
+   },
+   {
+    "team": "Tigers",
+    "w": 11,
+    "l": 15,
+    "pct": 0.423
+   }
+  ]
+ },
+ "wire": {
+  "count": 191,
+  "items": [
+   {
+    "year": 1995,
+    "text": "Phillies trade Jeff Juden and Tommy Eason to the Giants for Mike Benjamin",
+    "star": false
+   },
+   {
+    "year": 1992,
+    "text": "Angels trade Julian Vasquez to the Mets",
+    "star": false
+   },
+   {
+    "year": 1980,
+    "text": "White Sox release Minnie Minoso",
+    "star": true
+   },
+   {
+    "year": 1976,
+    "text": "White Sox release Minnie Minoso",
+    "star": true
+   },
+   {
+    "year": 1970,
+    "text": "Cardinals trade Billy McCool to the Red Sox for Bill Landis",
+    "star": false
+   },
+   {
+    "year": 1964,
+    "text": "Giants release Duke Snider",
+    "star": true
+   },
+   {
+    "year": 1925,
+    "text": "Dodgers trade Zack Taylor, Jimmy Johnston and Eddie Brown to the Braves for Jesse Barnes, Mickey O'Neil and Gus Felix",
+    "star": false
+   },
+   {
+    "year": 1903,
+    "text": "Browns trade John Anderson to the Yankees for Jack O'Connor",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "125",
+    "note": "most in 2010 (17)"
+   },
+   {
+    "label": "Trades made",
+    "value": "19",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "5",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2010",
+    "note": "19 transactions"
+   }
+  ],
+  "years": [
+   1889,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1985,
+    "name": "Randy Myers",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1932,
+    "name": "Shirley Petway",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1929,
+    "name": "Sam Leslie",
+    "star": false,
+    "seasons": 10
+   },
+   {
+    "year": 1915,
+    "name": "Elmer Myers",
+    "star": false,
+    "seasons": 8
+   },
+   {
+    "year": 1914,
+    "name": "Walter Holke",
+    "star": false,
+    "seasons": 12
+   },
+   {
+    "year": 1914,
+    "name": "Eric Erickson",
+    "star": false,
+    "seasons": 9
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2001,
+    "name": "Cal Ripken",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1968,
+    "name": "Eddie Mathews",
+    "star": true,
+    "seasons": 17
+   },
+   {
+    "year": 1936,
+    "name": "Travis Jackson",
+    "star": true,
+    "seasons": 15
+   },
+   {
+    "year": 1929,
+    "name": "Johnny Evers",
+    "star": true,
+    "seasons": 28
+   },
+   {
+    "year": 1922,
+    "name": "Home Run Baker",
+    "star": true,
+    "seasons": 15
+   },
+   {
+    "year": 1911,
+    "name": "Cy Young",
+    "star": true,
+    "seasons": 22
+   }
+  ],
+  "debutCount": 40,
+  "farewellCount": 222,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1928,
+    "name": "Otto Briggs",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 11,
+  "managers": 4,
+  "items": [
+   {
+    "year": 2020,
+    "text": "Jayce Tingler (manager) ejected by Lance Barrett: balls and strikes",
+    "star": false
+   },
+   {
+    "year": 1985,
+    "text": "Tom Lasorda (manager) ejected by Harry Wendelstedt: arguing about intended pinch-hitter",
+    "star": true
+   },
+   {
+    "year": 1933,
+    "text": "Heinie Manush (player) ejected by Charlie Moran: call at 1b (bumped umpire)",
+    "star": true
+   },
+   {
+    "year": 1919,
+    "text": "Ray Schalk (player) ejected by Cy Rigler: call at hp (bumped umpire)",
+    "star": true
+   },
+   {
+    "year": 1914,
+    "text": "Johnny Evers (player) ejected by Bill Hart: call at 2b",
+    "star": true
+   }
+  ],
+  "years": [
+   1908,
+   2020
+  ]
+ },
+ "feats": {
+  "count": 3,
+  "items": [
+   {
+    "year": 2001,
+    "text": "Kaz Sasaki reaches 45 saves in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1985,
+    "text": "Phil Niekro gets his 300th career win",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1910,
+    "text": "Bill Collins hits for the cycle for the Braves (South End Grounds III)",
+    "star": false,
+    "kind": "cycle"
+   }
+  ],
+  "cycles": 1,
+  "milestones": 2
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

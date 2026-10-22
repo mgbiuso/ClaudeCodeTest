@@ -1,0 +1,1703 @@
+{
+ "month": 10,
+ "day": 3,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2015",
+   "text": "Washington Nationals right-hander Max Scherzer pitched his second no-hitter of the season in a 2–0 victory over the New York Mets at Citi Field. Scherzer had a perfect game until the sixth inning, when third baseman Yunel Escobar committed an error on a ground ball hit by Kevin Plawecki.",
+   "links": [
+    "Max Scherzer",
+    "no-hitter",
+    "Citi Field"
+   ],
+   "score": 110,
+   "abouts": [
+    "Max Scherzer",
+    "Citi Field",
+    "no-hitter"
+   ],
+   "about": "Max Scherzer",
+   "key": "df1b7c66d582c27c",
+   "headline": "Scherzer Throws Second No-Hitter of Season, Nationals Beat Mets 2-0",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Max_Scherzer_%2851204221778%29_%28cropped%29.jpg",
+    "credit": "All-Pro Reels",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Max_Scherzer_(51204221778)_(cropped).jpg",
+    "alt": "Baseball player in white Nationals cap with W logo, red-trimmed jersey.",
+    "source": "checked",
+    "of": "Max Scherzer",
+    "w": 476,
+    "h": 555,
+    "tier": "person"
+   },
+   "extract": "Maxwell Martin Scherzer, nicknamed \"Mad Max\", is an American professional baseball pitcher for the Toronto Blue Jays of Major League Baseball (MLB). He has previously played in MLB for the Arizona Diamondbacks, Detroit Tigers, Washington Nationals, Los Angeles Dodgers, New York Mets, and Texas Rangers. A right-handed…",
+   "page": "https://en.wikipedia.org/wiki/Max_Scherzer",
+   "lead": true
+  },
+  {
+   "src": "postseason",
+   "kind": "event",
+   "year": "2026",
+   "text": "In Game 1 of the 2026 American League Division Series at Tropicana Field, Tampa Bay beat New York 1–0. In the bottom of the third inning, Jonathan Aranda hit a solo home run off Gerrit Cole to get the Rays on the board 1–0. Cole, otherwise, pitched five innings, surrendering four other hits while striking out five.",
+   "links": [
+    "2026 American League Division Series"
+   ],
+   "about": "2026 American League Division Series",
+   "score": 63.07938218091702,
+   "abouts": [
+    "2026 American League Division Series"
+   ],
+   "key": "d99a7feb4c5d2178",
+   "headline": "Aranda Homers off Cole, Rays Beat New York 1-0 in ALDS Opener",
+   "image": null,
+   "extract": "The 2026 American League Division Series (ALDS) were the two best-of-five playoff series in Major League Baseball’s (MLB) 2026 postseason to determine the participating teams of the 2026 American League Championship Series (ALCS). These matchups were:(1) Tampa Bay Rays vs. (4) New York Yankees : Rays won the series,…",
+   "page": "https://en.wikipedia.org/wiki/2026_American_League_Division_Series"
+  },
+  {
+   "src": "postseason",
+   "kind": "event",
+   "year": "2026",
+   "text": "In Game 1 of the 2026 National League Division Series at American Family Field, Milwaukee beat San Diego 3–2. In the top of the second inning, Luis Campusano hit an RBI single off Jacob Misiorowski to drive in Xander Bogaerts, putting the Padres on the board 1–0. Then, Jake Cronenworth drove in Ethan Salas on a fielder's choice to extend the Padres' lead to 2–0.",
+   "links": [
+    "2026 National League Division Series"
+   ],
+   "about": "2026 National League Division Series",
+   "score": 42.733083423190976,
+   "abouts": [
+    "2026 National League Division Series"
+   ],
+   "key": "c53c72db74f8d24f",
+   "headline": "Brewers Beat Padres 3-2 in NLDS Game 1",
+   "image": null,
+   "extract": "The 2026 National League Division Series (NLDS) were the two best-of-five playoff series in Major League Baseball's (MLB) 2026 postseason to determine the participating teams of the 2026 National League Championship Series (NLCS). These matchups were:(1) Milwaukee Brewers vs. (4) San Diego Padres : Brewers won the…",
+   "page": "https://en.wikipedia.org/wiki/2026_National_League_Division_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2023",
+   "text": "American League Wild Card Series And National League Wild Card Series begins",
+   "links": [
+    "American League Wild Card Series",
+    "National League Wild Card Series"
+   ],
+   "score": 42.72764887248912,
+   "abouts": [
+    "National League Wild Card Series",
+    "American League Wild Card Series"
+   ],
+   "about": "National League Wild Card Series",
+   "key": "e5206a0a6f3face2",
+   "headline": "Wild Card Series Begins in Both American and National Leagues",
+   "image": null,
+   "extract": "The Wild Card Series is the opening round of postseason play in Major League Baseball (MLB), featuring the American League Wild Card Series (ALWCS) and the National League Wild Card Series (NLWCS). A single wild card game was instituted in 2012. This became a best-of-three playoff wild card series in 2020 as a…",
+   "page": "https://en.wikipedia.org/wiki/Wild_Card_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2017",
+   "text": "The New York Yankees beat the Minnesota Twins, 8–4, in the American League Wild Card Game. Four relievers gave up only one run, while combining for 26 outs to allow New York to advance to the American League Division Series to face the Cleveland Indians.",
+   "links": [],
+   "score": 20.0,
+   "abouts": [],
+   "about": null,
+   "key": "7d2792ad07b0e5a6",
+   "headline": "Yankees Beat Twins 8-4, Advance to ALDS Against Indians",
+   "image": null,
+   "extract": "",
+   "page": ""
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2014",
+   "text": "October 3, 2014: The Orioles rallied with four runs in the 8th inning to top the Tigers 7–6 in Game 2 of the American League Division Series.",
+   "links": [
+    "Oriole Park at Camden Yards"
+   ],
+   "about": "Oriole Park at Camden Yards",
+   "score": 41.67999588804065,
+   "abouts": [
+    "Oriole Park at Camden Yards"
+   ],
+   "key": "ff468306ca9ea35d",
+   "headline": "Orioles Rally Four Runs in Eighth, Beat Tigers 7-6 in ALDS Game 2",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EutawSt.JPG/960px-EutawSt.JPG",
+    "credit": "Mr.schultz",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:EutawSt.JPG",
+    "alt": "Camden Yards warehouse, crowd on Eutaw Street, Orioles ballpark at dusk",
+    "source": "checked",
+    "of": "Oriole Park at Camden Yards",
+    "w": 1649,
+    "h": 1099,
+    "tier": "venue"
+   },
+   "extract": "Oriole Park at Camden Yards, commonly known as Camden Yards, is a ballpark in Baltimore, Maryland, United States. It is the home of Major League Baseball's (MLB) Baltimore Orioles, and the first of the \"retro\" major league ballparks constructed during the 1990s and early 2000s. It was completed in 1992 to replace…",
+   "page": "https://en.wikipedia.org/wiki/Oriole_Park_at_Camden_Yards"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2013",
+   "text": "Bob Chance, 73, first baseman who played from 1963 to 1969 with the Cleveland Indians, Washington Senators and California Angels.",
+   "links": [
+    "Bob Chance"
+   ],
+   "score": 20.112,
+   "abouts": [
+    "Bob Chance"
+   ],
+   "about": "Bob Chance",
+   "key": "57a4cf87a43f37a0",
+   "headline": "Bob Chance, 73, First Baseman With Indians, Senators, Angels",
+   "image": null,
+   "extract": "Robert Chance was an American first baseman and right fielder in Major League Baseball who played for the Cleveland Indians, Washington Senators and California Angels in part of six seasons spanning 1963 through 1969. Listed at 6 feet 2 inches (1.88 m) tall and 215 pounds (98 kg), Chance batted left handed and threw…",
+   "page": "https://en.wikipedia.org/wiki/Bob_Chance"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2010",
+   "text": "On the final day of the regular season, the San Francisco Giants and Atlanta Braves clinch playoff berths. The Giants defeat the San Diego Padres 3–0 to win the NL West, simultaneously clinching the wild-card berth for the Braves, who had beaten the Philadelphia Phillies earlier in the day.",
+   "links": [
+    "2010 Major League Baseball season",
+    "San Francisco Giants",
+    "Atlanta Braves"
+   ],
+   "score": 28.50222050513876,
+   "abouts": [
+    "2010 Major League Baseball season",
+    "San Francisco Giants",
+    "Atlanta Braves"
+   ],
+   "about": "2010 Major League Baseball season",
+   "key": "5dc65a771f544bfc",
+   "headline": "Giants Beat Padres 3-0, Win NL West as Braves Clinch Wild Card",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG/960px-2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG",
+    "credit": "BrokenSphere",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2010_NLDS_Game_2_-_Atlanta_at_SF_17.JPG",
+    "alt": "Night baseball game at AT&T Park, Giants stadium, crowd filling stands.",
+    "source": "checked",
+    "of": "San Francisco Giants",
+    "w": 4000,
+    "h": 2248,
+    "tier": "team"
+   },
+   "extract": "The 2010 Major League Baseball season began April 4, with the regular season ending on October 3. The 2010 All-Star Game was played on July 13 at Angel Stadium of Anaheim in Anaheim, California. The National League ended a 13-game winless streak with a 3–1 victory. Due to this result, the World Series began October 27…",
+   "page": "https://en.wikipedia.org/wiki/2010_Major_League_Baseball_season"
+  },
+  {
+   "src": "onthisday",
+   "kind": "death",
+   "year": "2010",
+   "text": "Ben Mondor, Canadian-American businessman (born 1925)",
+   "links": [
+    "Ben Mondor"
+   ],
+   "score": 20.124,
+   "abouts": [
+    "Ben Mondor"
+   ],
+   "about": "Ben Mondor",
+   "key": "939e7dc7123fe903",
+   "headline": "Ben Mondor, Canadian-American Businessman",
+   "image": null,
+   "extract": "Bernard Georges \"Ben\" Mondor was an American business executive and baseball executive, best known as the owner of the Pawtucket Red Sox from 1977 until his death.",
+   "page": "https://en.wikipedia.org/wiki/Ben_Mondor"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2007",
+   "text": "The construction began with a ceremonial groundbreaking inside Kauffman Stadium on October 3, 2007, with its completion in time for Opening Day in 2009, and full renovation of the complex (including nearby Arrowhead Stadium) by 2010, depending upon cost overruns.",
+   "links": [
+    "Kauffman Stadium"
+   ],
+   "about": "Kauffman Stadium",
+   "score": 45.669769222589785,
+   "abouts": [
+    "Kauffman Stadium"
+   ],
+   "key": "2fc3c0c714d6c502",
+   "headline": "Kauffman Stadium Renovation Groundbreaking Held Inside Ballpark",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kauffman2017.jpg/960px-Kauffman2017.jpg",
+    "credit": "Chibears85",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kauffman2017.jpg",
+    "alt": "Baseball stadium with blue seats, green field, large scoreboard, fans",
+    "source": "checked",
+    "of": "Kauffman Stadium",
+    "w": 1249,
+    "h": 937,
+    "tier": "venue"
+   },
+   "extract": "Kauffman Stadium is a ballpark located in Kansas City, Missouri, and the home of Major League Baseball's Kansas City Royals. It is next door to Arrowhead Stadium, home of the National Football League's Kansas City Chiefs. Both make up the Truman Sports Complex. The stadium is named for Ewing Kauffman, the founder and…",
+   "page": "https://en.wikipedia.org/wiki/Kauffman_Stadium"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1998",
+   "text": "The Atlanta Braves defeated the Chicago Cubs in the National League Division Series.",
+   "links": [
+    "Atlanta Braves",
+    "Chicago Cubs"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Atlanta Braves",
+    "Chicago Cubs"
+   ],
+   "about": "Atlanta Braves",
+   "key": "63e1f04b891d4f3e",
+   "headline": "Braves Beat Cubs in National League Division Series",
+   "image": null,
+   "extract": "The Atlanta Braves are an American professional baseball team based in the Atlanta metropolitan area. The Braves compete in Major League Baseball (MLB) as a member club of the National League (NL) East Division. The club was founded in Boston, Massachusetts, in 1871 as the Boston Red Stockings. The Braves are one of…",
+   "page": "https://en.wikipedia.org/wiki/Atlanta_Braves"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1993",
+   "text": "The last game was played in Arlington Stadium on October 3, 1993, resulting in a 4–1 win by the visiting Kansas City Royals, witnessed by 41,039 fans (it was also the final game in the career of Hall-of-Famer George Brett, who recorded the last hit in the stadium with a ninth-inning single).",
+   "links": [
+    "Arlington Stadium"
+   ],
+   "about": "Arlington Stadium",
+   "score": 68.35956506220793,
+   "abouts": [
+    "Arlington Stadium"
+   ],
+   "key": "dea720123f1cd86e",
+   "headline": "Royals Beat Arlington 4-1 in Final Game at Stadium",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Arlington_Stadium_site_2012.JPG/960px-Arlington_Stadium_site_2012.JPG",
+    "credit": "Delaywaves",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arlington_Stadium_site_2012.JPG",
+    "alt": "Grassy open field with modern ballpark and domed stadium in background",
+    "source": "checked",
+    "of": "Arlington Stadium",
+    "w": 3519,
+    "h": 2736,
+    "tier": "venue"
+   },
+   "extract": "Arlington Stadium was a baseball stadium located in Arlington, Texas, United States, located between Dallas and Fort Worth, Texas. It served as the home of the Texas Rangers of Major League Baseball (MLB) from 1972 until 1993, after which the team moved into The Ballpark in Arlington.",
+   "page": "https://en.wikipedia.org/wiki/Arlington_Stadium"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1992",
+   "text": "The Toronto Blue Jays clinch their second straight American League East title with a narrow 3–2 win over the Detroit Tigers.",
+   "links": [
+    "Toronto Blue Jays",
+    "American League East",
+    "Detroit Tigers"
+   ],
+   "score": 40.35480457900467,
+   "abouts": [
+    "American League East",
+    "Toronto Blue Jays",
+    "Detroit Tigers"
+   ],
+   "about": "American League East",
+   "key": "52ee897397b12d1a",
+   "headline": "Blue Jays Beat Tigers 3-2, Clinch Second Straight AL East Title",
+   "image": null,
+   "extract": "The American League East is one of Major League Baseball's six divisions. MLB consists of an East, Central, and West division for each of its two 15-team leagues, the American League (AL) and National League (NL). This division was created before the start of the 1969 season along with the American League West. Before…",
+   "page": "https://en.wikipedia.org/wiki/American_League_East"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1992",
+   "text": "On October 3, 1992, New Haven, Connecticut, along with Portland, Maine, were granted an expansion Double-A franchise.",
+   "links": [
+    "New Hampshire Fisher Cats"
+   ],
+   "about": "New Hampshire Fisher Cats",
+   "score": 25.0,
+   "abouts": [
+    "New Hampshire Fisher Cats"
+   ],
+   "key": "da71d80a3e7d0d23",
+   "headline": "New Haven Granted Expansion Double-A Franchise",
+   "image": null,
+   "extract": "The New Hampshire Fisher Cats are a Minor League Baseball team based in Manchester, New Hampshire. The team, which plays in the Eastern League, is the Double-A affiliate of the Toronto Blue Jays of Major League Baseball (MLB).",
+   "page": "https://en.wikipedia.org/wiki/New_Hampshire_Fisher_Cats"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1991",
+   "text": "Chicago White Sox catcher Carlton Fisk hits two home runs, including a grand slam, to lead the White Sox to a 13–12 victory over the Minnesota Twins. In doing so, just nine months shy of his 44th birthday, Fisk becomes the oldest 20th-century player to collect a two-HR game. His 7th-inning grand slam off Steve Bedrosian also makes him the oldest major leaguer ever to hit a bases-loaded homer.",
+   "links": [
+    "Chicago White Sox",
+    "Carlton Fisk",
+    "grand slam (baseball)"
+   ],
+   "score": 61.58257746909218,
+   "abouts": [
+    "Carlton Fisk",
+    "grand slam (baseball)",
+    "Chicago White Sox"
+   ],
+   "about": "Carlton Fisk",
+   "key": "51b13c6a52562cf3",
+   "headline": "Carlton Fisk Hits Two Homers, White Sox Beat Twins 13-12",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Carlton_Fisk_-_Baseball_HOF_Induction_2013.jpg",
+    "credit": "Chris Evans from same, United States",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlton_Fisk_-_Baseball_HOF_Induction_2013.jpg",
+    "alt": "Older man in gray cap, sunglasses, dark jacket, red shirt, outdoors",
+    "source": "checked",
+    "of": "Carlton Fisk (Commons search)",
+    "w": 813,
+    "h": 1024,
+    "tier": "person"
+   },
+   "extract": "Carlton Ernest Fisk, nicknamed \"Pudge\" and \"the Commander\", is an American former professional baseball catcher who played 24 seasons in Major League Baseball (MLB) for the Boston Red Sox and the Chicago White Sox. In 1972, he was the first player to be unanimously voted American League (AL) Rookie of the Year. Fisk…",
+   "page": "https://en.wikipedia.org/wiki/Carlton_Fisk"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1987",
+   "text": "Alan Trammell's 12th-inning RBI single is decisive as his Tigers (now 97–64) jump into the undisputed AL East lead with their 3–2 triumph over the Blue Jays (96–65). Veteran southpaw Mike Flanagan pitches heroically in defeat for Toronto, allowing only one unearned run in 11 innings of work.",
+   "links": [
+    "Alan Trammell",
+    "Detroit Tigers",
+    "AL East"
+   ],
+   "score": 30.35480457900467,
+   "abouts": [
+    "AL East",
+    "Alan Trammell",
+    "Detroit Tigers"
+   ],
+   "about": "AL East",
+   "key": "99ed5bff57f5d20a",
+   "headline": "Trammell's 12th-Inning Single Lifts Tigers Over Blue Jays 3-2",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alan_Trammell.jpg/960px-Alan_Trammell.jpg",
+    "credit": "James Phelps (mandj98) from USA",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Alan_Trammell.jpg",
+    "alt": "Batter in white uniform with 'FARNSWORTH'-style nameplate and #3 at plate, MLB stadium",
+    "source": "checked",
+    "of": "Alan Trammell",
+    "w": 1000,
+    "h": 667,
+    "tier": "person"
+   },
+   "extract": "The American League East is one of Major League Baseball's six divisions. MLB consists of an East, Central, and West division for each of its two 15-team leagues, the American League (AL) and National League (NL). This division was created before the start of the 1969 season along with the American League West. Before…",
+   "page": "https://en.wikipedia.org/wiki/American_League_East"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1984",
+   "text": "Johnny Grubb delivers a two-run double in the eleventh inning to lift the Detroit Tigers to a 5–3 victory over the Kansas City Royals in Game 2 of the 1984 American League Championship Series.",
+   "links": [
+    "Johnny Grubb",
+    "double (baseball)",
+    "Detroit Tigers"
+   ],
+   "score": 60.773641037200775,
+   "abouts": [
+    "double (baseball)",
+    "Johnny Grubb",
+    "Detroit Tigers"
+   ],
+   "about": "double (baseball)",
+   "key": "5fbe9d63931f638f",
+   "headline": "Johnny Grubb Delivers a Two-Run Double in the Eleventh Inning to Lift",
+   "image": null,
+   "extract": "In baseball, a double is the act of a batter striking the pitched ball and safely reaching second base without being called out by the umpire, without the benefit of a fielder's misplay or another runner being put out on a fielder's choice. A double is a type of hit and is sometimes called a \"two-bagger\" or \"two-base…",
+   "page": "https://en.wikipedia.org/wiki/Double_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1983",
+   "text": "The Milwaukee Brewers fire manager Harvey Kuenn only a year after he led \"Harvey's Wallbangers\" to the World Series. The 1983 Brewers held first place in the AL East as late as August 25, but a disastrous 6–18 stretch through September 19 plunged them all the way to fifth place, 14 games behind the Baltimore Orioles. Kuenn will be replaced by Rene Lachemann, fired as skipper of the Seattle Mariners on June 25.",
+   "links": [
+    "Milwaukee Brewers",
+    "Harvey Kuenn",
+    "1982 World Series"
+   ],
+   "score": 85.65467811982201,
+   "abouts": [
+    "1982 World Series",
+    "Harvey Kuenn",
+    "Milwaukee Brewers"
+   ],
+   "about": "1982 World Series",
+   "key": "68e9bc0976d70e9b",
+   "headline": "Brewers Fire Manager Harvey Kuenn, Year After Wallbangers' World Series",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/HarveyKuennMIL.png",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:HarveyKuennMIL.png",
+    "alt": "Older man in navy and gold Brewers cap, close-up portrait",
+    "source": "checked",
+    "of": "Harvey Kuenn",
+    "w": 440,
+    "h": 555,
+    "tier": "person"
+   },
+   "extract": "The 1982 World Series was the championship series of Major League Baseball's (MLB) 1982 season. The 79th edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion St. Louis Cardinals and the American League (AL) champion Milwaukee Brewers. The Cardinals defeated the…",
+   "page": "https://en.wikipedia.org/wiki/1982_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1979",
+   "text": "The San Diego Padres release pitcher Mickey Lolich, ending the southpaw's 16-season MLB career. The 1968 World Series MVP, who won 217 career regular-season games, is notable for his durability during an era that saw increased reliance on relief pitchers.",
+   "links": [
+    "San Diego Padres",
+    "Mickey Lolich",
+    "1968 World Series"
+   ],
+   "score": 94.04847179358462,
+   "abouts": [
+    "Mickey Lolich",
+    "1968 World Series",
+    "San Diego Padres"
+   ],
+   "about": "Mickey Lolich",
+   "key": "c0b1b3bf08f1fa75",
+   "headline": "Padres Release Pitcher Mickey Lolich, 1968 World Series MVP",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2009_Jan_24_-27_Mickey_Lolich.jpg/960px-2009_Jan_24_-27_Mickey_Lolich.jpg",
+    "credit": "lakelandlocal",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2009_Jan_24_-27_Mickey_Lolich.jpg",
+    "alt": "Older man in Tigers road-style jersey with 'D' logo in dugout",
+    "source": "checked",
+    "of": "Mickey Lolich",
+    "w": 1024,
+    "h": 683,
+    "tier": "person"
+   },
+   "extract": "Michael Stephen Lolich was an American left-handed pitcher in Major League Baseball who played from 1963 until 1979, almost entirely for the Detroit Tigers. A three-time All-Star, he won at least 14 games every year from 1964 through 1974, striking out at least 200 batters seven times. Lolich was named the Most…",
+   "page": "https://en.wikipedia.org/wiki/Mickey_Lolich"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1978",
+   "text": "Three-time former All-Star outfielder Bobby Bonds changes addresses again when the Texas Rangers trade him, along with pitcher Len Barker, to the Cleveland Indians for pitcher Jim Kern and infielder Larvell Blanks. After spending his first seven seasons with the San Francisco Giants, Bonds has now been traded five times in less than four calendar years.",
+   "links": [
+    "Major League Baseball All-Star Game",
+    "Bobby Bonds",
+    "Texas Rangers (baseball)"
+   ],
+   "score": 46.153266235896105,
+   "abouts": [
+    "Major League Baseball All-Star Game",
+    "Bobby Bonds",
+    "Texas Rangers (baseball)"
+   ],
+   "about": "Major League Baseball All-Star Game",
+   "key": "a85344ede828f8e4",
+   "headline": "Rangers Trade Bobby Bonds to Indians, His Fifth Trade in Four Years",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bobby_Bonds_in_1975.jpg",
+    "credit": "MLB Photos",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Bobby_Bonds_in_1975.jpg",
+    "alt": "Man in pinstriped New York Yankees uniform and cap on a baseball field",
+    "source": "checked",
+    "of": "Bobby Bonds",
+    "w": 431,
+    "h": 720,
+    "tier": "person"
+   },
+   "extract": "The Major League Baseball All-Star Game, also known as the \"Midsummer Classic\", is an annual professional baseball game sanctioned by Major League Baseball (MLB) and contested between the all-stars from the American League (AL) and National League (NL). Starting position players and designated hitters are selected by…",
+   "page": "https://en.wikipedia.org/wiki/Major_League_Baseball_All-Star_Game"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1974",
+   "text": "Frank Robinson becomes the first black manager in major league history, as the Cleveland Indians name him to replace Ken Aspromonte for the 1975 season. Robinson, with 574 career homers to his credit, will be Cleveland's DH as well as manager.",
+   "links": [
+    "Frank Robinson",
+    "Cleveland Guardians",
+    "Ken Aspromonte"
+   ],
+   "score": 46.631712233128276,
+   "abouts": [
+    "Ken Aspromonte",
+    "Frank Robinson",
+    "Cleveland Guardians"
+   ],
+   "about": "Ken Aspromonte",
+   "key": "31a8946b64cc2120",
+   "headline": "Frank Robinson Named First Black Manager, Indians Hire Him",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Frank_Robinson_1961.jpg/960px-Frank_Robinson_1961.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Frank_Robinson_1961.jpg",
+    "alt": "Black-and-white photo of a batter in a Reds cap with bat on shoulder",
+    "source": "checked",
+    "of": "Frank Robinson",
+    "w": 2000,
+    "h": 2465,
+    "tier": "person"
+   },
+   "extract": "Kenneth Joseph Aspromonte is an American former professional baseball player and manager. During his active career, Aspromonte spent all or parts of seven seasons (1957–63) in the Major Leagues, mostly as a second baseman, for the Boston Red Sox, Washington Senators, Cleveland Indians and Los Angeles Angels of the…",
+   "page": "https://en.wikipedia.org/wiki/Ken_Aspromonte"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1962",
+   "text": "Eleven years to the day since the New York Giants beat the Brooklyn Dodgers for the National League pennant on Bobby Thomson's \"Shot Heard Round the World\" home run, the visiting San Francisco Giants score four runs in the top of the ninth to defeat the Los Angeles Dodgers, 6–4, in the decisive third game of the 1962 National League tie-breaker series.",
+   "links": [
+    "New York Giants (baseball)",
+    "Brooklyn Dodgers",
+    "1951 National League tie-breaker series"
+   ],
+   "score": 80.17914912626414,
+   "abouts": [
+    "1951 National League tie-breaker series",
+    "New York Giants (baseball)",
+    "Brooklyn Dodgers"
+   ],
+   "about": "1951 National League tie-breaker series",
+   "key": "70050cbf6d701845",
+   "headline": "Giants Beat Dodgers 6-4 in Decisive Tie-Breaker, Win Pennant",
+   "image": null,
+   "extract": "The 1951 National League tie-breaker series was a best-of-three series that extended Major League Baseball's (MLB) 1951 regular season to decide the winner of the National League (NL) pennant. The games were played on October 1, 2, and 3, 1951, between the New York Giants and Brooklyn Dodgers. It was necessary after…",
+   "page": "https://en.wikipedia.org/wiki/1951_National_League_tie-breaker_series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1960",
+   "text": "The annual off-season game of managerial musical chairs begins when the Kansas City Athletics fire first-year skipper Bob Elliott and Joe Gordon quits the Detroit Tigers only two months after taking the Bengal helm. Gordon has been at odds with Detroit's president, Bill DeWitt.",
+   "links": [
+    "Kansas City Athletics",
+    "Bob Elliott (baseball)",
+    "Joe Gordon"
+   ],
+   "score": 35.820880661951655,
+   "abouts": [
+    "Bob Elliott (baseball)",
+    "Joe Gordon",
+    "Kansas City Athletics"
+   ],
+   "about": "Bob Elliott (baseball)",
+   "key": "44570498af425b3d",
+   "headline": "Athletics Fire Bob Elliott, Joe Gordon Quits Tigers After Two Months",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bob_Elliott_1954.jpg/960px-Bob_Elliott_1954.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Bob_Elliott_1954.jpg",
+    "alt": "Two men in suits and caps, one wearing a CP-logo cap, black-and-white press photo",
+    "source": "checked",
+    "of": "Bob Elliott (baseball) (Commons search)",
+    "w": 1914,
+    "h": 1830,
+    "tier": "person"
+   },
+   "extract": "Robert Irving Elliott was an American third baseman and right fielder in Major League Baseball who played most of his career with the Pittsburgh Pirates and Boston Braves. He also briefly managed and coached in the Majors. Born in San Francisco, California, the right-handed batting and throwing Elliott stood 6 feet…",
+   "page": "https://en.wikipedia.org/wiki/Bob_Elliott_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1958",
+   "text": "The Cincinnati Redlegs and St. Louis Cardinals pull off a six-player trade in which Cincinnati sends pitcher Alex Kellner, first baseman George Crowe and shortstop Alex Grammas to St. Louis for pitcher Bob Mabe, infielder Eddie Kasko and outfielder Del Ennis.",
+   "links": [
+    "Cincinnati Reds",
+    "St. Louis Cardinals",
+    "Alex Kellner"
+   ],
+   "score": 36.6110964736696,
+   "abouts": [
+    "Alex Kellner",
+    "Cincinnati Reds",
+    "St. Louis Cardinals"
+   ],
+   "about": "Alex Kellner",
+   "key": "a16aa0bd9454a4b4",
+   "headline": "Redlegs and Cardinals Complete Six-Player Trade",
+   "image": null,
+   "extract": "Alexander Raymond Kellner was an American starting pitcher in Major League Baseball who played for the Philadelphia / Kansas City Athletics (1948–1958), Cincinnati Reds (1958) and St. Louis Cardinals (1959). Kellner batted right-handed and threw left-handed. He was born in Tucson, Arizona. His younger brother, Walt,…",
+   "page": "https://en.wikipedia.org/wiki/Alex_Kellner"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1951",
+   "text": "The Polo Grounds was the site of one of the most iconic moments in baseball history – the historic \"Shot Heard 'Round the World\" walk-off home run on October 3, 1951 that decided the hard-fought National League pennant playoff series between the Giants and their cross-town rivals, the Brooklyn Dodgers.",
+   "links": [
+    "Polo Grounds"
+   ],
+   "about": "Polo Grounds",
+   "score": 65.0,
+   "abouts": [
+    "Polo Grounds"
+   ],
+   "key": "d27f47312ab63de9",
+   "headline": "Shot Heard Round the World Ends Polo Grounds Playoff",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/No_Known_Restrictions_Polo_Grounds_during_World_Series_Game%2C_1913_from_the_Bain_Collection_%28LOC%29_%28434431507%29.jpg/960px-No_Known_Restrictions_Polo_Grounds_during_World_Series_Game%2C_1913_from_the_Bain_Collection_%28LOC%29_%28434431507%29.jpg",
+    "credit": "David Shapinsky from Washington, D.C., United States",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_Polo_Grounds_during_World_Series_Game,_1913_from_the_Bain_Collection_(LOC)_(434431507).jpg",
+    "alt": "Early 1900s baseball game in a large stadium with crowds and water tower",
+    "source": "checked",
+    "of": "Polo Grounds",
+    "w": 1496,
+    "h": 1032,
+    "tier": "venue"
+   },
+   "extract": "The Polo Grounds was the name of four stadiums in Upper Manhattan, New York City, used mainly for professional baseball and American football from 1880 to 1963. The original Polo Grounds, opened in 1879 and demolished in 1889, was built for the sport of polo. Bound on the south and north by 110th and 112th streets and…",
+   "page": "https://en.wikipedia.org/wiki/Polo_Grounds"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1951",
+   "text": "The Giants had been 13<small>1/2</small> games behind the National League leading Dodgers in mid-August, but under Leo Durocher's guidance and with the aid of a 16-game winning streak, they complete their improbable comeback. In Game 3 of the NL playoffs at the Polo Grounds, Brooklyn leads 4–2 with one out in the bottom of the ninth inning.",
+   "links": [
+    "New York Giants (baseball)",
+    "National League (baseball)",
+    "Brooklyn Dodgers"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "National League (baseball)",
+    "New York Giants (baseball)",
+    "Brooklyn Dodgers"
+   ],
+   "about": "National League (baseball)",
+   "key": "2da5773ab3eba833",
+   "headline": "Giants Trail Dodgers 4-2 in Ninth, One out From Elimination",
+   "image": null,
+   "extract": "The National League of Professional Baseball Clubs, known simply as the National League (NL), is the older of two leagues constituting Major League Baseball (MLB) in the United States and Canada, and the world's oldest extant professional team sports league. Founded on February 2, 1876, to replace the National…",
+   "page": "https://en.wikipedia.org/wiki/National_League_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1948",
+   "text": "The AL's cellar-dwellers, the Chicago White Sox, dismiss former pitching great Ted Lyons as their manager and appoint longtime baseball man Jack Onslow, 59, their new pilot for 1949. Lyons, who won 260 games over 21 years in a White Sox uniform, had compiled a 185–245–4 (.430) record since taking the club's helm May 26, 1946.",
+   "links": [
+    "Chicago White Sox",
+    "Ted Lyons",
+    "Jack Onslow"
+   ],
+   "score": 47.0,
+   "abouts": [
+    "Ted Lyons",
+    "Jack Onslow",
+    "Chicago White Sox"
+   ],
+   "about": "Ted Lyons",
+   "key": "3ae7ddcb3a36b778",
+   "headline": "White Sox Name Jack Onslow, 59, New Manager, Replacing Ted Lyons",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ted_Lyons_plaque_HOF.jpg/960px-Ted_Lyons_plaque_HOF.jpg",
+    "credit": "Penale52",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ted_Lyons_plaque_HOF.jpg",
+    "alt": "Bronze Hall of Fame plaque of Ted Lyons, Chicago White Sox pitcher.",
+    "source": "checked",
+    "of": "Ted Lyons",
+    "w": 2422,
+    "h": 2943,
+    "tier": "person"
+   },
+   "extract": "Theodore Amar Lyons was an American professional baseball starting pitcher, manager and coach in Major League Baseball (MLB). He played in 21 MLB seasons, all with the Chicago White Sox. He is the franchise leader in wins. Lyons won 20 or more games three times and became a fan favorite in Chicago.",
+   "page": "https://en.wikipedia.org/wiki/Ted_Lyons"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1946",
+   "text": "After a travel day, the 1946 NL tiebreaker resumes at Ebbets Field for \"Game 2\". The Cardinals' Murry Dickson spots the Dodgers a run in the bottom of the first, then shuts them out for the next seven innings, while the Redbirds score eight unanswered tallies before Brooklyn's bats awaken, too late, in the final frame. The Cardinals' 8–4 triumph delivers St. Louis's ninth National League flag in 21 years.",
+   "links": [
+    "1946 National League tie-breaker series",
+    "Ebbets Field",
+    "St. Louis Cardinals"
+   ],
+   "score": 33.19743244634293,
+   "abouts": [
+    "1946 National League tie-breaker series",
+    "Ebbets Field",
+    "St. Louis Cardinals"
+   ],
+   "about": "1946 National League tie-breaker series",
+   "key": "249ca82523861a6b",
+   "headline": "Cardinals Beat Dodgers 8-4, Win Ninth NL Pennant in 21 Years",
+   "image": null,
+   "extract": "The 1946 National League tie-breaker series was a best-of-three playoff series that extended the 1946 regular season to decide the winner of the National League pennant. The games were played on October 1 and October 3, 1946, between the St. Louis Cardinals and Brooklyn Dodgers. It was necessary after both teams…",
+   "page": "https://en.wikipedia.org/wiki/1946_National_League_tie-breaker_series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1945",
+   "text": "The 1945 World Series opens at Briggs Stadium, Detroit. With wartime travel restrictions still in place, the Fall Classic will not follow its usual 2–3–2 home/away format; instead, Games 1–3 will take place in Detroit, and Games 4 and 5–7 (if necessary) will be played in Chicago. In Game 1, former American Leaguer Hank Borowy tames the Tigers on six hits and the Cubs take the Series lead with a 9–0 shutout.",
+   "links": [
+    "1945 World Series",
+    "Briggs Stadium",
+    "Detroit"
+   ],
+   "score": 92.55272505103306,
+   "abouts": [
+    "1945 World Series",
+    "Briggs Stadium",
+    "Detroit"
+   ],
+   "about": "1945 World Series",
+   "key": "85af63ce8f5225de",
+   "headline": "Borowy Shuts out Tigers on Six Hits, Cubs Take World Series Lead 9-0",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Briggs_Stadium%2C_Detroit%2C_Mich_postcard.jpg/960px-Briggs_Stadium%2C_Detroit%2C_Mich_postcard.jpg",
+    "credit": "Boston Public Library",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Briggs_Stadium,_Detroit,_Mich_postcard.jpg",
+    "alt": "Painted postcard of Briggs Stadium baseball field and stands, Detroit, Michigan.",
+    "source": "checked",
+    "of": "Briggs Stadium",
+    "w": 1500,
+    "h": 955,
+    "tier": "venue"
+   },
+   "extract": "The 1945 World Series was the championship series in Major League Baseball for the 1945 season. The 42nd edition of the World Series, it matched the American League (AL) champion Detroit Tigers against the National League (NL) champion Chicago Cubs. The Tigers won the Series in seven games, giving them their second…",
+   "page": "https://en.wikipedia.org/wiki/1945_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1937",
+   "text": "On the final day of the season, the Cincinnati Reds are swept in a double header by the Pittsburgh Pirates to end the season with a fourteen-game losing streak.",
+   "links": [],
+   "score": 10.0,
+   "abouts": [],
+   "about": null,
+   "key": "388f99bce05744fd",
+   "headline": "Pirates Sweep Reds in Doubleheader, End Season on Losing Streak",
+   "image": null,
+   "extract": "",
+   "page": ""
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1936",
+   "text": "Frankie Crosetti's eighth inning RBI single carries the Yankees to a 2–1 victory over the Giants in game three of the World Series.",
+   "links": [
+    "Frankie Crosetti"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "Frankie Crosetti"
+   ],
+   "about": "Frankie Crosetti",
+   "key": "30859bb20f647ec5",
+   "headline": "Crosetti's Eighth-Inning Single Lifts Yankees Over Giants 2-1",
+   "image": null,
+   "extract": "Frank Peter Joseph Crosetti, nicknamed \"The Crow\", was an American baseball player. From 1932 to 1948, he spent his entire seventeen-year Major League Baseball playing career with the New York Yankees at shortstop. After his retirement as a player, he became third base coach with the franchise for an additional twenty…",
+   "page": "https://en.wikipedia.org/wiki/Frankie_Crosetti"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1935",
+   "text": "Hank Greenberg's two-run home run caps off a four-run first inning for the Tigers as Detroit takes game two of the World Series, 8–3. In the bottom of the seventh, Greenberg is hit by a pitch that ends his season.",
+   "links": [
+    "Hank Greenberg",
+    "World Series"
+   ],
+   "score": 70.0,
+   "abouts": [
+    "Hank Greenberg",
+    "World Series"
+   ],
+   "about": "Hank Greenberg",
+   "key": "de3a931c3f432ae0",
+   "headline": "Greenberg's Two-Run Homer Caps Four-Run First, Tigers Win 8-3",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hank_Greenberg_1946.jpg",
+    "credit": "Frank Lyerla",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Hank_Greenberg_1946.jpg",
+    "alt": "Man in Detroit Tigers road jersey holding bats on shoulder",
+    "source": "checked",
+    "of": "Hank Greenberg",
+    "w": 693,
+    "h": 656,
+    "tier": "person"
+   },
+   "extract": "Henry Benjamin Greenberg, nicknamed \"Hammerin' Hank\", \"Hankus Pankus\", and \"the Hebrew Hammer\", was an American professional baseball player and team executive. He played in Major League Baseball (MLB), primarily for the Detroit Tigers as a first baseman in the 1930s and 1940s. A member of the Baseball Hall of Fame…",
+   "page": "https://en.wikipedia.org/wiki/Hank_Greenberg"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1934",
+   "text": "Sloppy play by the Detroit Tigers (five errors) helps the Cardinals cruise to an 8–3 victory in game one of the 1934 World Series.",
+   "links": [
+    "1934 World Series"
+   ],
+   "score": 66.28358872988744,
+   "abouts": [
+    "1934 World Series"
+   ],
+   "about": "1934 World Series",
+   "key": "5c1382142cfb337a",
+   "headline": "Cardinals Cruise Past Tigers 8-3, Detroit Commits Five Errors",
+   "image": null,
+   "extract": "The 1934 World Series was the championship series in Major League Baseball for the 1934 season. The 31st edition of the World Series, it matched the St. Louis Cardinals against the Detroit Tigers. The Cardinals' \"Gashouse Gang\" won in seven games for their third championship in nine years.",
+   "page": "https://en.wikipedia.org/wiki/1934_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1933",
+   "text": "Mel Ott's two-run home run in the first gives the New York Giants the early lead in game one of the 1933 World Series at the Polo Grounds. They go on to win 4–2.",
+   "links": [
+    "Mel Ott",
+    "1933 World Series",
+    "Polo Grounds"
+   ],
+   "score": 86.45573380865943,
+   "abouts": [
+    "1933 World Series",
+    "Mel Ott",
+    "Polo Grounds"
+   ],
+   "about": "1933 World Series",
+   "key": "b1e1c0a7c3ece853",
+   "headline": "Mel Ott's Two-Run Homer Sparks Giants to 4-2 Series Opener Win",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MelOttGoudeycard.jpg/960px-MelOttGoudeycard.jpg",
+    "credit": "Goudey",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:MelOttGoudeycard.jpg",
+    "alt": "Painted baseball card portrait of 'MELVIN OTT' with 1933 date.",
+    "source": "checked",
+    "of": "Mel Ott",
+    "w": 1318,
+    "h": 1598,
+    "tier": "person"
+   },
+   "extract": "The 1933 World Series was the championship series of the 1933 Major League Baseball season. The 30th edition of the World Series, it matched the National League (NL) pennant winner New York Giants and the American League (AL) pennant winner Washington Senators. The Giants defeated the Senators in five games for their…",
+   "page": "https://en.wikipedia.org/wiki/1933_World_Series"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1926",
+   "text": "Grover Cleveland Alexander gives up two runs to the Yankees in the second inning, but sets down the last 21 batters, striking out 10, in Game Two of the World Series. A three-run home run by Billy Southworth breaks a 2–2 tie, while Tommy Thevenow collect three hits for a 6–2 Cardinals win.",
+   "links": [
+    "Grover Cleveland Alexander",
+    "Billy Southworth",
+    "Tommy Thevenow"
+   ],
+   "score": 85.93195607847747,
+   "abouts": [
+    "Billy Southworth",
+    "Grover Cleveland Alexander",
+    "Tommy Thevenow"
+   ],
+   "about": "Billy Southworth",
+   "key": "23a9c4be754952d7",
+   "headline": "Alexander Retires Last 21 Batters as Cardinals Beat Yankees 6-2",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Grover_Cleveland_Alexander_throwing_BBHOF.jpg/960px-Grover_Cleveland_Alexander_throwing_BBHOF.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Grover_Cleveland_Alexander_throwing_BBHOF.jpg",
+    "alt": "Pitcher in Cubs uniform with glove, crowd and flag behind, ballpark setting",
+    "source": "checked",
+    "of": "Grover Cleveland Alexander",
+    "w": 7638,
+    "h": 6099,
+    "tier": "person"
+   },
+   "extract": "William Harold Southworth was an American professional baseball right fielder and manager. He played 13 seasons in Major League Baseball (MLB) for the Cleveland Indians, Pittsburgh Pirates, Boston Braves, New York Giants, and St. Louis Cardinals from 1913 to 1929, and managed for the Cardinals and Braves from 1929 to…",
+   "page": "https://en.wikipedia.org/wiki/Billy_Southworth"
+  },
+  {
+   "src": "onthisday",
+   "kind": "event",
+   "year": "1919",
+   "text": "Cincinnati Reds pitcher Adolfo Luque becomes the first Latin American player to appear in a World Series.",
+   "links": [
+    "Cincinnati Reds"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "Cincinnati Reds"
+   ],
+   "about": "Cincinnati Reds",
+   "key": "2db81ea898f66c07",
+   "headline": "Adolfo Luque Becomes First Latin American to Play in World Series",
+   "image": null,
+   "extract": "The Cincinnati Reds are an American professional baseball team based in Cincinnati. The Reds compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. They were a charter member of the American Association in 1882 before joining the NL in 1890.",
+   "page": "https://en.wikipedia.org/wiki/Cincinnati_Reds"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1904",
+   "text": "Christy Mathewson of the New York Giants strikes out 16 in a 3–1 victory over the St. Louis Cardinals at Polo Grounds. His 16 strikeouts set a new record in the major leagues as he finishes the game in one hour and 15 minutes.",
+   "links": [
+    "Christy Mathewson",
+    "New York Giants (baseball)",
+    "strikeout"
+   ],
+   "score": 60.0,
+   "abouts": [
+    "Christy Mathewson",
+    "strikeout",
+    "New York Giants (baseball)"
+   ],
+   "about": "Christy Mathewson",
+   "key": "d0a177bff498f882",
+   "headline": "Mathewson Fans 16 in 3-1 Giants Win Over Cardinals, Sets Record",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Christy_Mathewson%2C_New_York_NL_%28baseball%29_%28LOC%29.jpg",
+    "credit": "The Library of Congress",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Christy_Mathewson,_New_York_NL_(baseball)_(LOC).jpg",
+    "alt": "Pitcher in old-style Giants uniform on field beside dugout with spectators",
+    "source": "checked",
+    "of": "Christy Mathewson",
+    "w": 847,
+    "h": 603,
+    "tier": "person"
+   },
+   "extract": "Christopher Mathewson, nicknamed \"Big Six,\" \"the Christian Gentleman,\" \"Matty,\" and \"the Gentleman's Hurler,\" was an American professional baseball pitcher who played 17 seasons in Major League Baseball (MLB) for the New York Giants. He stood 6 ft 1 in (1.85 m) tall and weighed 195 pounds (88 kg). He was among the…",
+   "page": "https://en.wikipedia.org/wiki/Christy_Mathewson"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1895",
+   "text": "Harry Wright, 60, Hall of Fame player/manager and organizer of baseball's first professional team, the 1869 Cincinnati Red Stockings, who is recognized as the first major league manager to collect 1000 career victories.",
+   "links": [
+    "Harry Wright",
+    "Cincinnati Red Stockings"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Harry Wright",
+    "Cincinnati Red Stockings"
+   ],
+   "about": "Harry Wright",
+   "key": "0358e0b89bb36e3a",
+   "headline": "Harry Wright, 60, Hall of Fame Player and Manager, Pioneer of Baseball",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Harry_Wright_Baseball_Card.jpg/960px-Harry_Wright_Baseball_Card.jpg",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Harry_Wright_Baseball_Card.jpg",
+    "alt": "Sepia cigarette card portrait of bearded man with spectacles, labeled Harry Wright.",
+    "source": "checked",
+    "of": "Harry Wright",
+    "w": 1607,
+    "h": 2995,
+    "tier": "person"
+   },
+   "extract": "William Henry \"Harry\" Wright was an American professional baseball center fielder, pitcher, manager, and developer. He assembled, managed, and played for baseball's first fully professional team, the 1869 Cincinnati Red Stockings. He is credited with introducing innovations such as backing up infield plays from the…",
+   "page": "https://en.wikipedia.org/wiki/Harry_Wright"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1890",
+   "text": "In a game called because of darkness after seven innings, Chicago's Pat Luby beats the Giants, 3–2, for his 17th consecutive win. Amos Rusie is the losing pitcher.",
+   "links": [
+    "Pat Luby",
+    "Amos Rusie"
+   ],
+   "score": 24.783242896026017,
+   "abouts": [
+    "Amos Rusie",
+    "Pat Luby"
+   ],
+   "about": "Amos Rusie",
+   "key": "ca6e00df566c97f8",
+   "headline": "Pat Luby Beats Giants 3-2 in Darkness-Shortened Game, 17th Straight Win",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/AmosRusiecrop.jpg",
+    "credit": "National Tobacco Works",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:AmosRusiecrop.jpg",
+    "alt": "Black-and-white portrait of a man in a New York baseball uniform and cap",
+    "source": "checked",
+    "of": "Amos Rusie",
+    "w": 640,
+    "h": 967,
+    "tier": "person"
+   },
+   "extract": "Amos Wilson Rusie, nicknamed \"the Hoosier Thunderbolt\", was an American right-handed pitcher in Major League Baseball during the late 19th century. He had a 10-season career in the National League (NL), which consisted of one season with the Indianapolis Hoosiers in 1889, eight with the New York Giants from 1890 to…",
+   "page": "https://en.wikipedia.org/wiki/Amos_Rusie"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1888",
+   "text": "The New York Giants and the St. Louis Browns each clinch their respective league pennants.",
+   "links": [
+    "New York Giants (baseball)",
+    "St. Louis Cardinals"
+   ],
+   "score": 45.0,
+   "abouts": [
+    "New York Giants (baseball)",
+    "St. Louis Cardinals"
+   ],
+   "about": "New York Giants (baseball)",
+   "key": "a44a943d9d82a682",
+   "headline": "Giants and Browns Clinch Their Respective League Pennants",
+   "image": null,
+   "extract": "The New York Giants were a Major League Baseball team in the National League that began play in the 1883 season as the New York Gothams and became known as the Giants in 1885. They continued as the New York Giants until the team moved to San Francisco after the 1957 season, where the team continues its history as the…",
+   "page": "https://en.wikipedia.org/wiki/New_York_Giants_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1885",
+   "text": "Playing in an exhibition game against Newark of the Eastern League, the American Association Baltimore Orioles are no-hit by the former (and future) big-leaguer, John \"Phenomenal\" Smith.",
+   "links": [
+    "Newark, New Jersey",
+    "American Association (1882–1891)",
+    "Baltimore Orioles (1882–1899)"
+   ],
+   "score": 37.45330326678068,
+   "abouts": [
+    "American Association (1882–1891)",
+    "Newark, New Jersey",
+    "Baltimore Orioles (1882–1899)"
+   ],
+   "about": "American Association (1882–1891)",
+   "key": "964dd7e4fb3a44cc",
+   "headline": "John Smith No-Hits Orioles in Exhibition Game Against Newark",
+   "image": null,
+   "extract": "The American Association of Base Ball Clubs, known simply as the American Association (AA), was a professional baseball major league that operated from 1882 to 1891. Together with its main competitor, the National League (NL), the AA participated in an early version of the World Series. When the AA folded after the…",
+   "page": "https://en.wikipedia.org/wiki/American_Association_(1882%E2%80%931891)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1884",
+   "text": "Henry Porter playing for the Milwaukee Brewers of the Union Association strikes out 18 batters in one game against the Boston Reds and still loses, a record that stood until broken by Steve Carlton in 1969.",
+   "links": [
+    "Henry Porter (baseball)",
+    "Milwaukee Brewers (UA)",
+    "Boston Reds (Union Association)"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "Henry Porter (baseball)",
+    "Milwaukee Brewers (UA)",
+    "Boston Reds (Union Association)"
+   ],
+   "about": "Henry Porter (baseball)",
+   "key": "93264a1a0a6e6408",
+   "headline": "Henry Porter Fans 18 in Losing Effort for Milwaukee Brewers",
+   "image": null,
+   "extract": "Walter Henry Porter was an American Major League Baseball player born in Vergennes, Vermont who pitched for three teams during his six-year career.",
+   "page": "https://en.wikipedia.org/wiki/Henry_Porter_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1878",
+   "text": "The Syracuse Stars defeat Lowell 12–1 and claim the International Association championship. The Stars will join the National League in 1879.",
+   "links": [
+    "Syracuse Stars (National League)",
+    "National League (baseball)"
+   ],
+   "score": 45.0,
+   "abouts": [
+    "National League (baseball)",
+    "Syracuse Stars (National League)"
+   ],
+   "about": "National League (baseball)",
+   "key": "93f915bc52bef8e0",
+   "headline": "Syracuse Stars Beat Lowell 12-1, Claim International Association Title",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Syracuse_Stars_1877.JPG",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Syracuse_Stars_1877.JPG",
+    "alt": "Team photo of ten men in striped caps and 'STAR' jerseys, 19th-century style.",
+    "source": "checked",
+    "of": "Syracuse Stars (National League)",
+    "w": 931,
+    "h": 621,
+    "tier": "team"
+   },
+   "extract": "The National League of Professional Baseball Clubs, known simply as the National League (NL), is the older of two leagues constituting Major League Baseball (MLB) in the United States and Canada, and the world's oldest extant professional team sports league. Founded on February 2, 1876, to replace the National…",
+   "page": "https://en.wikipedia.org/wiki/National_League_(baseball)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1877",
+   "text": "The Indianapolis Hoosiers clinch the League Alliance Western division title.",
+   "links": [],
+   "score": 20.0,
+   "abouts": [],
+   "about": null,
+   "key": "3b55a2bdd5ea720d",
+   "headline": "Indianapolis Hoosiers Clinch League Alliance Western Division Title",
+   "image": null,
+   "extract": "",
+   "page": ""
+  }
+ ],
+ "numbers": {
+  "games": 625,
+  "items": [
+   {
+    "label": "Games played on this date",
+    "value": "625",
+    "note": "1874 to 2026"
+   },
+   {
+    "label": "Most runs in a game",
+    "value": "25",
+    "note": "White Sox 13, Twins 12 (1991)"
+   },
+   {
+    "label": "Biggest blowout",
+    "value": "18 runs",
+    "note": "Braves 18, Bisons 0 (1885)"
+   },
+   {
+    "label": "Longest game",
+    "value": "15 innings",
+    "note": "Orioles at Red Sox (1976)"
+   },
+   {
+    "label": "Walk-off wins",
+    "value": "45",
+    "note": "latest: Athletics 5, Angels 4 (2022)"
+   },
+   {
+    "label": "No-hitters",
+    "value": "1",
+    "note": "latest: Max Scherzer (2015)"
+   }
+  ],
+  "records": [
+   {
+    "label": "Most home runs by one team",
+    "value": "6",
+    "note": "Phillies (1972); Phillies 11, Cubs 1"
+   },
+   {
+    "label": "Most strikeouts in a game",
+    "value": "35",
+    "note": "Nationals 2, Mets 0 (2015)"
+   },
+   {
+    "label": "Most steals by one team",
+    "value": "9",
+    "note": "Senators (1913)"
+   },
+   {
+    "label": "Most runs in one inning",
+    "value": "11",
+    "note": "White Sox 17, Athletics 1 (1987)"
+   },
+   {
+    "label": "Shortest and longest games",
+    "value": "72 and 301 min",
+    "note": "1925 and 1995"
+   },
+   {
+    "label": "Home team won",
+    "value": "54%",
+    "note": "of 616 decided games"
+   },
+   {
+    "label": "Postseason games",
+    "value": "75",
+    "note": "Division Series 36, World Series 18, League Championship Series 10"
+   },
+   {
+    "label": "Ballparks that hosted games",
+    "value": "125",
+    "note": "most games: Yankee Stadium I (21); Dodger Stadium (21); Wrigley Field (20)"
+   }
+  ],
+  "through": 2026,
+  "nohitters": [
+   {
+    "year": 2015,
+    "by": "Nationals",
+    "against": "Mets",
+    "pitcher": "Max Scherzer",
+    "combined": false,
+    "perfect": false,
+    "event": ""
+   }
+  ],
+  "gotd": {
+   "year": 1995,
+   "visitor": "Red Sox",
+   "home": "Indians",
+   "inn": 13,
+   "vline": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0"
+   ],
+   "hline": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "3",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1"
+   ],
+   "vr": 4,
+   "hr": 5,
+   "vh": 11,
+   "hh": 10,
+   "ve": 2,
+   "he": 2,
+   "crowd": 44218,
+   "park": "Progressive Field",
+   "event": "Division Series",
+   "why": "Division Series, 13 innings, walk-off"
+  },
+  "eras": [
+   {
+    "decade": 1870,
+    "games": 4,
+    "rpg": 11.5,
+    "crowd": 1067
+   },
+   {
+    "decade": 1880,
+    "games": 39,
+    "rpg": 12.23,
+    "crowd": null
+   },
+   {
+    "decade": 1890,
+    "games": 35,
+    "rpg": 11.74,
+    "crowd": 1886
+   },
+   {
+    "decade": 1900,
+    "games": 60,
+    "rpg": 7.23,
+    "crowd": 3630
+   },
+   {
+    "decade": 1910,
+    "games": 64,
+    "rpg": 8.58,
+    "crowd": 5455
+   },
+   {
+    "decade": 1920,
+    "games": 21,
+    "rpg": 10.38,
+    "crowd": 7412
+   },
+   {
+    "decade": 1930,
+    "games": 15,
+    "rpg": 6.53,
+    "crowd": 20759
+   },
+   {
+    "decade": 1940,
+    "games": 25,
+    "rpg": 7.8,
+    "crowd": 20081
+   },
+   {
+    "decade": 1950,
+    "games": 6,
+    "rpg": 8.0,
+    "crowd": 50249
+   },
+   {
+    "decade": 1960,
+    "games": 23,
+    "rpg": 8.7,
+    "crowd": 20050
+   },
+   {
+    "decade": 1970,
+    "games": 32,
+    "rpg": 7.03,
+    "crowd": 20591
+   },
+   {
+    "decade": 1980,
+    "games": 74,
+    "rpg": 8.42,
+    "crowd": 21719
+   },
+   {
+    "decade": 1990,
+    "games": 70,
+    "rpg": 8.53,
+    "crowd": 32305
+   },
+   {
+    "decade": 2000,
+    "games": 60,
+    "rpg": 8.42,
+    "crowd": 34994
+   },
+   {
+    "decade": 2010,
+    "games": 59,
+    "rpg": 7.56,
+    "crowd": 34821
+   },
+   {
+    "decade": 2020,
+    "games": 38,
+    "rpg": 7.13,
+    "crowd": 29418
+   }
+  ],
+  "thenNow": {
+   "first": {
+    "year": 1874,
+    "visitor": "Lord Baltimores",
+    "home": "Atlantics",
+    "vs": 2,
+    "hs": 5,
+    "crowd": 200,
+    "park": null,
+    "event": ""
+   },
+   "latest": {
+    "year": 2026,
+    "visitor": "Braves",
+    "home": "Dodgers",
+    "vs": 3,
+    "hs": 5,
+    "crowd": 50194,
+    "park": "Dodger Stadium",
+    "event": "National League Division Series"
+   }
+  },
+  "teams": {
+   "best": [
+    {
+     "team": "White Sox",
+     "w": 28,
+     "l": 16,
+     "pct": 0.636
+    },
+    {
+     "team": "Tigers",
+     "w": 28,
+     "l": 17,
+     "pct": 0.622
+    },
+    {
+     "team": "Rays",
+     "w": 8,
+     "l": 5,
+     "pct": 0.615
+    }
+   ],
+   "worst": [
+    {
+     "team": "Rockies",
+     "w": 4,
+     "l": 8,
+     "pct": 0.333
+    },
+    {
+     "team": "Mariners",
+     "w": 7,
+     "l": 13,
+     "pct": 0.35
+    },
+    {
+     "team": "Guardians",
+     "w": 15,
+     "l": 27,
+     "pct": 0.357
+    }
+   ]
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+ },
+ "wire": {
+  "count": 234,
+  "items": [
+   {
+    "year": 2008,
+    "text": "Brewers trade Michael Brantley to the Indians",
+    "star": false
+   },
+   {
+    "year": 1988,
+    "text": "Phillies trade Lance Parrish to the Angels for David Holdridge",
+    "star": false
+   },
+   {
+    "year": 1988,
+    "text": "Pirates trade Jim Neidlinger to the Dodgers for Bill Krueger",
+    "star": false
+   },
+   {
+    "year": 1980,
+    "text": "Minnie Minoso signs with the White Sox",
+    "star": true
+   },
+   {
+    "year": 1978,
+    "text": "Rangers trade Bobby Bonds and Len Barker to the Indians for Jim Kern and Larvell Blanks",
+    "star": false
+   },
+   {
+    "year": 1978,
+    "text": "Rangers trade Bobby Cuellar and Dave Rivera to the Indians",
+    "star": false
+   },
+   {
+    "year": 1958,
+    "text": "Reds trade Alex Grammas, George Crowe and Alex Kellner to the Cardinals for Bob Mabe, Eddie Kasko and Del Ennis",
+    "star": false
+   },
+   {
+    "year": 1937,
+    "text": "Tigers release Goose Goslin",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "117",
+    "note": "most in 2005 (29)"
+   },
+   {
+    "label": "Trades made",
+    "value": "23",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "3",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2005",
+    "note": "32 transactions"
+   }
+  ],
+  "years": [
+   1889,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1948,
+    "name": "Mike Garcia",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1943,
+    "name": "Gil Hodges",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1937,
+    "name": "Ken Heintzelman",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1921,
+    "name": "George Scales",
+    "star": false,
+    "seasons": 26
+   },
+   {
+    "year": 1911,
+    "name": "George Burns",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 1910,
+    "name": "Max Carey",
+    "star": true,
+    "seasons": 20
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2004,
+    "name": "Barry Larkin",
+    "star": true,
+    "seasons": 19
+   },
+   {
+    "year": 1993,
+    "name": "George Brett",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1993,
+    "name": "Robin Yount",
+    "star": true,
+    "seasons": 20
+   },
+   {
+    "year": 1982,
+    "name": "Willie Stargell",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1976,
+    "name": "Hank Aaron",
+    "star": true,
+    "seasons": 23
+   },
+   {
+    "year": 1897,
+    "name": "Cap Anson",
+    "star": true,
+    "seasons": 27
+   }
+  ],
+  "debutCount": 66,
+  "farewellCount": 610,
+  "hofDebuts": 2,
+  "managerDebuts": [
+   {
+    "year": 1931,
+    "name": "Judy Johnson",
+    "star": true
+   },
+   {
+    "year": 1931,
+    "name": "Lou Schaub",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 25,
+  "managers": 6,
+  "items": [
+   {
+    "year": 1992,
+    "text": "Rich Gossage (player) ejected by Durwood Merrill: bench jockeying",
+    "star": true
+   },
+   {
+    "year": 1987,
+    "text": "Tony LaRussa (manager) ejected by Jim McKean: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1937,
+    "text": "Burleigh Grimes (manager) ejected by Tiny Parker: check swing",
+    "star": true
+   },
+   {
+    "year": 1914,
+    "text": "Roger Bresnahan (player) ejected by Ernie Quigley: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1910,
+    "text": "Miller Huggins (player) ejected by Cy Rigler: call at hp",
+    "star": true
+   }
+  ],
+  "years": [
+   1899,
+   2021
+  ]
+ },
+ "feats": {
+  "count": 6,
+  "items": [
+   {
+    "year": 2010,
+    "text": "Rafael Soriano reaches 45 saves in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1993,
+    "text": "Jeff Montgomery reaches 45 saves in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1990,
+    "text": "Cecil Fielder reaches 50 home runs in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1962,
+    "text": "Tommy Davis reaches 230 hits in a season",
+    "star": false,
+    "kind": "milestone"
+   }
+  ],
+  "cycles": 0,
+  "milestones": 6
+ }
+}

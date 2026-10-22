@@ -1,0 +1,520 @@
+{
+ "month": 10,
+ "day": 7,
+ "games": 271,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "271",
+   "note": "1871 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "23",
+   "note": "Giants 15, Braves 8 (1915)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "13 runs",
+   "note": "Pirates 16, Spiders 3 (1899)"
+  },
+  {
+   "label": "Longest game",
+   "value": "13 innings",
+   "note": "Giants at Mets (2000)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "19",
+   "note": "latest: Cardinals 5, Braves 4 (2019)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "71,434",
+   "note": "Giants at Yankees (1962)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "5",
+   "note": "Rockies (2001); Rockies 14, Padres 5"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "27",
+   "note": "Mets 3, Giants 2 (2000)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "8",
+   "note": "Braves (1871)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "10",
+   "note": "Brewers 15, Diamondbacks 5 (2001)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "62 and 322 min",
+   "note": "1915 and 2000"
+  },
+  {
+   "label": "Home team won",
+   "value": "51%",
+   "note": "of 258 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "138",
+   "note": "Division Series 65, World Series 36, League Championship Series 28"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "104",
+   "note": "most games: Yankee Stadium I (13); Sportsman's Park III (9); Dodger Stadium (7)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [],
+ "gotd": {
+  "year": 2000,
+  "visitor": "Giants",
+  "home": "Mets",
+  "inn": 13,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 2,
+  "hr": 3,
+  "vh": 11,
+  "hh": 9,
+  "ve": 0,
+  "he": 0,
+  "crowd": 56270,
+  "park": "Shea Stadium",
+  "event": "Division Series",
+  "why": "Division Series, 13 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 7,
+   "rpg": 13.0,
+   "crowd": 1367
+  },
+  {
+   "decade": 1880,
+   "games": 32,
+   "rpg": 9.25,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 19,
+   "rpg": 8.63,
+   "crowd": 1288
+  },
+  {
+   "decade": 1900,
+   "games": 38,
+   "rpg": 8.45,
+   "crowd": 3866
+  },
+  {
+   "decade": 1910,
+   "games": 20,
+   "rpg": 8.2,
+   "crowd": 9162
+  },
+  {
+   "decade": 1920,
+   "games": 16,
+   "rpg": 10.0,
+   "crowd": 29435
+  },
+  {
+   "decade": 1930,
+   "games": 6,
+   "rpg": 7.17,
+   "crowd": 39684
+  },
+  {
+   "decade": 1940,
+   "games": 7,
+   "rpg": 6.43,
+   "crowd": 41089
+  },
+  {
+   "decade": 1950,
+   "games": 4,
+   "rpg": 5.5,
+   "crowd": 54202
+  },
+  {
+   "decade": 1960,
+   "games": 6,
+   "rpg": 7.5,
+   "crowd": 48623
+  },
+  {
+   "decade": 1970,
+   "games": 10,
+   "rpg": 7.0,
+   "crowd": 49470
+  },
+  {
+   "decade": 1980,
+   "games": 14,
+   "rpg": 7.43,
+   "crowd": 48755
+  },
+  {
+   "decade": 1990,
+   "games": 11,
+   "rpg": 10.36,
+   "crowd": 50808
+  },
+  {
+   "decade": 2000,
+   "games": 31,
+   "rpg": 9.26,
+   "crowd": 40619
+  },
+  {
+   "decade": 2010,
+   "games": 28,
+   "rpg": 6.79,
+   "crowd": 43214
+  },
+  {
+   "decade": 2020,
+   "games": 22,
+   "rpg": 7.82,
+   "crowd": 42631
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1871,
+   "visitor": "Haymakers",
+   "home": "Braves",
+   "vs": 3,
+   "hs": 12,
+   "crowd": 1000,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "Dodgers",
+   "home": "Braves",
+   "vs": 4,
+   "hs": 1,
+   "crowd": 41173,
+   "park": "Truist Park",
+   "event": "National League Division Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Athletics",
+    "w": 15,
+    "l": 6,
+    "pct": 0.714
+   },
+   {
+    "team": "Guardians",
+    "w": 12,
+    "l": 5,
+    "pct": 0.706
+   },
+   {
+    "team": "Twins",
+    "w": 11,
+    "l": 7,
+    "pct": 0.611
+   }
+  ],
+  "worst": [
+   {
+    "team": "Red Sox",
+    "w": 8,
+    "l": 14,
+    "pct": 0.364
+   },
+   {
+    "team": "Cubs",
+    "w": 8,
+    "l": 12,
+    "pct": 0.4
+   },
+   {
+    "team": "Braves",
+    "w": 13,
+    "l": 19,
+    "pct": 0.406
+   }
+  ]
+ },
+ "wire": {
+  "count": 181,
+  "items": [
+   {
+    "year": 2009,
+    "text": "Red Sox trade Chris Carter and Eddie Lora to the Mets",
+    "star": false
+   },
+   {
+    "year": 1985,
+    "text": "Tigers trade Juan Berenguer and Bob Melvin to the Giants for Dave LaPoint, Eric King and Matt Nokes",
+    "star": false
+   },
+   {
+    "year": 1983,
+    "text": "Braves release Phil Niekro",
+    "star": true
+   },
+   {
+    "year": 1974,
+    "text": "Angels trade Doug Howard to the Cardinals",
+    "star": false
+   },
+   {
+    "year": 1969,
+    "text": "Phillies trade Jerry Johnson, Dick Allen and Cookie Rojas to the Cardinals for Tim McCarver, Byron Browne, Joe Hoerner and Curt Flood",
+    "star": true
+   },
+   {
+    "year": 1969,
+    "text": "Expos trade Floyd Wicker to the Brewers",
+    "star": false
+   },
+   {
+    "year": 1958,
+    "text": "Giants trade Marv Grissom and Ernie Broglio to the Cardinals for Billy Muffett, Hobie Landrith and Benny Valenzuela",
+    "star": false
+   },
+   {
+    "year": 1937,
+    "text": "Cardinals release Jesse Haines",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "84",
+    "note": "most in 2003 (9)"
+   },
+   {
+    "label": "Trades made",
+    "value": "21",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "6",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1929",
+    "note": "20 transactions"
+   }
+  ],
+  "years": [
+   1887,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1927,
+    "name": "Lefty Williams",
+    "star": false,
+    "seasons": 9
+   },
+   {
+    "year": 1923,
+    "name": "Phil Collins",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1915,
+    "name": "Red Shannon",
+    "star": false,
+    "seasons": 12
+   },
+   {
+    "year": 1910,
+    "name": "Alex McCarthy",
+    "star": false,
+    "seasons": 8
+   },
+   {
+    "year": 1908,
+    "name": "Doc Martin",
+    "star": false,
+    "seasons": 5
+   },
+   {
+    "year": 1886,
+    "name": "Farmer Vaughn",
+    "star": false,
+    "seasons": 14
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2007,
+    "name": "Roger Clemens",
+    "star": false,
+    "seasons": 24
+   },
+   {
+    "year": 2001,
+    "name": "Tony Gwynn",
+    "star": true,
+    "seasons": 20
+   },
+   {
+    "year": 2001,
+    "name": "Tony Fernandez",
+    "star": false,
+    "seasons": 19
+   },
+   {
+    "year": 2000,
+    "name": "Doug Jones",
+    "star": false,
+    "seasons": 19
+   },
+   {
+    "year": 1914,
+    "name": "Clark Griffith",
+    "star": true,
+    "seasons": 24
+   },
+   {
+    "year": 1905,
+    "name": "Jesse Burkett",
+    "star": true,
+    "seasons": 16
+   }
+  ],
+  "debutCount": 19,
+  "farewellCount": 152,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1945,
+    "name": "Vince DiMaggio",
+    "star": false
+   },
+   {
+    "year": 1928,
+    "name": "Fritz Maisel",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 6,
+  "managers": 3,
+  "items": [
+   {
+    "year": 2015,
+    "text": "Sean Rodriguez (player) ejected by Jeff Nelson: fighting",
+    "star": false
+   },
+   {
+    "year": 2010,
+    "text": "Ron Gardenhire (manager) ejected by Hunter Wendelstedt: balls and strikes",
+    "star": false
+   },
+   {
+    "year": 2010,
+    "text": "Joe Maddon (manager) ejected by Jim Wolf: check swing",
+    "star": false
+   },
+   {
+    "year": 1972,
+    "text": "Sparky Anderson (manager) ejected by Ken Burkhart: fair/foul call",
+    "star": true
+   },
+   {
+    "year": 1952,
+    "text": "Ralph Branca (player) ejected by Larry Goetz: bench jockeying",
+    "star": false
+   }
+  ],
+  "years": [
+   1923,
+   2015
+  ]
+ },
+ "feats": {
+  "count": 4,
+  "items": [
+   {
+    "year": 2001,
+    "text": "Rickey Henderson gets his 3,000th career hit",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 2001,
+    "text": "Mariano Rivera reaches 50 saves in a season",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 2001,
+    "text": "Robb Nen reaches 45 saves in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1886,
+    "text": "Forfeit: Kansas City at Washington",
+    "star": false,
+    "kind": "forfeit"
+   }
+  ],
+  "cycles": 0,
+  "milestones": 3
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

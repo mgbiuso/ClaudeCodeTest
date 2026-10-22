@@ -1,0 +1,518 @@
+{
+ "month": 10,
+ "day": 9,
+ "games": 204,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "204",
+   "note": "1871 to 2025"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "33",
+   "note": "Lord Baltimores 29, Atlantics 4 (1873)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "25 runs",
+   "note": "Lord Baltimores 29, Atlantics 4 (1873)"
+  },
+  {
+   "label": "Longest game",
+   "value": "18 innings",
+   "note": "Braves at Astros (2005)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "18",
+   "note": "latest: Dodgers 2, Phillies 1 (2025)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "81,897",
+   "note": "Braves at Indians (1948)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "5",
+   "note": "Yankees (1928); Yankees 7, Cardinals 3"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "30",
+   "note": "Astros 7, Braves 6 (2005)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "5",
+   "note": "Cubs (1907)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "10",
+   "note": "Tigers 13, Cardinals 1 (1968)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "75 and 350 min",
+   "note": "1904 and 2005"
+  },
+  {
+   "label": "Home team won",
+   "value": "53%",
+   "note": "of 197 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "118",
+   "note": "Division Series 47, World Series 36, League Championship Series 34"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "91",
+   "note": "most games: Dodger Stadium (9); Yankee Stadium I (8); West Side Grounds (7)"
+  }
+ ],
+ "through": 2025,
+ "nohitters": [],
+ "gotd": {
+  "year": 2005,
+  "visitor": "Braves",
+  "home": "Astros",
+  "inn": 18,
+  "vline": [
+   "0",
+   "0",
+   "4",
+   "0",
+   "1",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "4",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 6,
+  "hr": 7,
+  "vh": 13,
+  "hh": 10,
+  "ve": 0,
+  "he": 1,
+  "crowd": 43413,
+  "park": "Minute Maid Park",
+  "event": "Division Series",
+  "why": "Division Series, 18 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 8,
+   "rpg": 22.0,
+   "crowd": 1775
+  },
+  {
+   "decade": 1880,
+   "games": 42,
+   "rpg": 11.76,
+   "crowd": 2362
+  },
+  {
+   "decade": 1890,
+   "games": 16,
+   "rpg": 9.88,
+   "crowd": 5112
+  },
+  {
+   "decade": 1900,
+   "games": 10,
+   "rpg": 4.7,
+   "crowd": 14063
+  },
+  {
+   "decade": 1910,
+   "games": 20,
+   "rpg": 8.7,
+   "crowd": 14308
+  },
+  {
+   "decade": 1920,
+   "games": 6,
+   "rpg": 8.17,
+   "crowd": 38716
+  },
+  {
+   "decade": 1930,
+   "games": 4,
+   "rpg": 10.25,
+   "crowd": 46111
+  },
+  {
+   "decade": 1940,
+   "games": 4,
+   "rpg": 6.75,
+   "crowd": 45434
+  },
+  {
+   "decade": 1950,
+   "games": 4,
+   "rpg": 7.0,
+   "crowd": 47132
+  },
+  {
+   "decade": 1960,
+   "games": 6,
+   "rpg": 7.67,
+   "crowd": 53343
+  },
+  {
+   "decade": 1970,
+   "games": 9,
+   "rpg": 6.33,
+   "crowd": 46468
+  },
+  {
+   "decade": 1980,
+   "games": 15,
+   "rpg": 7.4,
+   "crowd": 49475
+  },
+  {
+   "decade": 1990,
+   "games": 15,
+   "rpg": 8.0,
+   "crowd": 50662
+  },
+  {
+   "decade": 2000,
+   "games": 14,
+   "rpg": 8.0,
+   "crowd": 48789
+  },
+  {
+   "decade": 2010,
+   "games": 19,
+   "rpg": 7.74,
+   "crowd": 46474
+  },
+  {
+   "decade": 2020,
+   "games": 12,
+   "rpg": 5.67,
+   "crowd": 44553
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1871,
+   "visitor": "Haymakers",
+   "home": "Athletics",
+   "vs": 13,
+   "hs": 15,
+   "crowd": 2000,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2025,
+   "visitor": "Phillies",
+   "home": "Dodgers",
+   "vs": 1,
+   "hs": 2,
+   "crowd": 50563,
+   "park": "Dodger Stadium",
+   "event": "Division Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Yankees",
+    "w": 18,
+    "l": 10,
+    "pct": 0.643
+   },
+   {
+    "team": "Giants",
+    "w": 10,
+    "l": 6,
+    "pct": 0.625
+   },
+   {
+    "team": "Reds",
+    "w": 9,
+    "l": 6,
+    "pct": 0.6
+   }
+  ],
+  "worst": [
+   {
+    "team": "Phillies",
+    "w": 6,
+    "l": 10,
+    "pct": 0.375
+   },
+   {
+    "team": "Cardinals",
+    "w": 11,
+    "l": 17,
+    "pct": 0.393
+   },
+   {
+    "team": "Braves",
+    "w": 9,
+    "l": 13,
+    "pct": 0.409
+   }
+  ]
+ },
+ "wire": {
+  "count": 178,
+  "items": [
+   {
+    "year": 2017,
+    "text": "Cubs trade Felix Pena to the Angels for cash",
+    "star": false
+   },
+   {
+    "year": 1997,
+    "text": "Mariners trade Joe Mays and Jeromy Palki to the Twins",
+    "star": false
+   },
+   {
+    "year": 1970,
+    "text": "Senators trade Ed Brinkman, Aurelio Rodriguez, Joe Coleman and Jim Hannan to the Tigers for Denny McLain, Don Wert, Norm McRae and Elliott Maddox",
+    "star": false
+   },
+   {
+    "year": 1970,
+    "text": "Angels trade John Purdin to the White Sox for Fred Rath",
+    "star": false
+   },
+   {
+    "year": 1966,
+    "text": "Angels trade Howie Reed to the Astros for Tony Curry",
+    "star": false
+   },
+   {
+    "year": 1964,
+    "text": "Colts release Nellie Fox",
+    "star": true
+   },
+   {
+    "year": 1950,
+    "text": "Red Sox trade cash and Mike Palm to the White Sox for Bill Evans",
+    "star": false
+   },
+   {
+    "year": 1946,
+    "text": "Dodgers release Joe Medwick",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "89",
+    "note": "most in 2014 (10)"
+   },
+   {
+    "label": "Trades made",
+    "value": "26",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "9",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2014",
+    "note": "12 transactions"
+   }
+  ],
+  "years": [
+   1891,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1935,
+    "name": "Bobby Rowland",
+    "star": false,
+    "seasons": 12
+   },
+   {
+    "year": 1927,
+    "name": "Alex Schaufele",
+    "star": false,
+    "seasons": 3
+   },
+   {
+    "year": 1921,
+    "name": "Deacon Meyers",
+    "star": false,
+    "seasons": 6
+   },
+   {
+    "year": 1889,
+    "name": "Charlie Reilly",
+    "star": false,
+    "seasons": 9
+   },
+   {
+    "year": 1888,
+    "name": "Charlie Hoover",
+    "star": false,
+    "seasons": 2
+   },
+   {
+    "year": 1884,
+    "name": "Jim Gray",
+    "star": false,
+    "seasons": 10
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2016,
+    "name": "Colby Lewis",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 2005,
+    "name": "Al Leiter",
+    "star": false,
+    "seasons": 19
+   },
+   {
+    "year": 2005,
+    "name": "Tino Martinez",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1977,
+    "name": "Cookie Rojas",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1974,
+    "name": "Juan Pizarro",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1910,
+    "name": "Jack O'Connor",
+    "star": false,
+    "seasons": 24
+   }
+  ],
+  "debutCount": 23,
+  "farewellCount": 68,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1935,
+    "name": "Johnny Shroyer",
+    "star": false
+   },
+   {
+    "year": 1927,
+    "name": "Merwin Jacobson",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 7,
+  "managers": 3,
+  "items": [
+   {
+    "year": 2017,
+    "text": "John Farrell (manager) ejected by Mark Wegner: called third strike",
+    "star": false
+   },
+   {
+    "year": 1999,
+    "text": "Cookie Rojas (coach) ejected by Charlie Williams: fair/foul call (bumped umpire)",
+    "star": false
+   },
+   {
+    "year": 1996,
+    "text": "Davey Johnson (manager) ejected by Rich Garcia: fan interference non-call",
+    "star": false
+   },
+   {
+    "year": 1934,
+    "text": "Joe Medwick (player) ejected by : disruption after fight at 3b",
+    "star": true
+   },
+   {
+    "year": 1907,
+    "text": "Hughie Jennings (manager) ejected by Hank O'Day: call at 2b",
+    "star": true
+   }
+  ],
+  "years": [
+   1899,
+   2017
+  ]
+ },
+ "feats": {
+  "count": 2,
+  "items": [
+   {
+    "year": 1907,
+    "text": "Germ. Schaefer to Bill Coughlin pulls off the hidden-ball trick on Jimmy Slagle",
+    "star": false,
+    "kind": "hidden"
+   },
+   {
+    "year": 1886,
+    "text": "Forfeit: Kansas City at Washington",
+    "star": false,
+    "kind": "forfeit"
+   }
+  ],
+  "cycles": 0,
+  "milestones": 0
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

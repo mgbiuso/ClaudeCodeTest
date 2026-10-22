@@ -58,3 +58,25 @@ FLICKR_API_KEY=
 ```
 
 `.env` is listed in `.gitignore`, so it never reaches GitHub. For the daily GitHub build, also add the same three names as repository secrets: **Settings**, then **Secrets and variables**, then **Actions**.
+
+## 6. New data (career lines and old newspapers): no keys needed
+
+Career lines use the free Lahman Baseball Database. Old newspaper pages use the free Library of Congress collection. Neither needs a key.
+
+On your own computer (Terminal), from the `this-day-in-baseball` folder:
+
+1. Download the Lahman files once: `python3 scripts/extras.py --fetch-lahman`
+   (If that fails, download the CSV version from sabr.org/lahman-database, unzip it, and run `python3 scripts/extras.py --fetch-lahman --source ~/Downloads/the-folder-name`.)
+2. Check that everything works: `python3 scripts/extras.py --check`
+3. Add career lines to the days you already built: `python3 scripts/enrich_days.py`
+4. Add old newspaper pages (slow, about 30 seconds a day, and saved so it only happens once): `python3 scripts/enrich_days.py --papers`
+
+## 7. Turning on the daily build on GitHub
+
+1. Open your repo on github.com and click the **Settings** tab (top row of the page, far right).
+2. In the left sidebar click **Secrets and variables**, then **Actions**.
+3. On the **Secrets** tab click **New repository secret**. Add one called `ANTHROPIC_API_KEY` and one called `YOUTUBE_API_KEY` (paste each key as the value). Without them the daily build still runs, but skips headlines, photo checks and videos.
+4. Click the **Variables** tab, then **New repository variable**. Name it `SITE_URL` and set the value to your site address (for example `https://yourname.github.io/ClaudeCodeTest/this-day-in-baseball/`). This fixes the links in the RSS file, which say `localhost` until you do.
+5. GitHub only shows and runs this daily build from your default branch (usually `main`), so nothing happens until this work is merged into `main`. After that, you can test it by hand: click the **Actions** tab, click **Build This Day in Baseball** in the left list, then click **Run workflow**.
+
+Note: the Flickr key in step 2 above and the Openverse photos in step 5 are not used by any script right now, so you can skip them.

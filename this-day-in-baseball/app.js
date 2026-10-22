@@ -90,26 +90,65 @@ function figureFor(story, accent) {
   return fig;
 }
 
-// A video takes the photo's place: YouTube's still frame with a play badge that opens the video on YouTube.
-// (MLB and the clubs do not let other sites play their videos inside a page, so there is no inline player.)
+// A video takes the photo's place: YouTube's still frame with a play badge. If the video passed the playback test
+// (data/video_playable.json, made by testing each one in a real player), a click swaps the still for the player; otherwise,
+// and always as a fallback, the "Watch on YouTube" link under the video opens it on YouTube.
+let playable = null;
+async function loadPlayable() {
+  if (playable) return playable;
+  try {
+    const res = await fetch("data/video_playable.json", { cache: "no-cache" });
+    const data = res.ok ? await res.json() : {};
+    playable = new Set(Object.keys(data).filter((id) => data[id] === true));
+  } catch (err) {
+    playable = new Set();
+  }
+  return playable;
+}
+
 function videoFor(story) {
   const v = story.video;
   const fig = el("figure", "media video");
   const label = v.title || story.headline || "video";
-  const link = el("a", "video-box");
-  link.href = `https://www.youtube.com/watch?v=${v.id}`;
-  link.target = "_blank";
-  link.rel = "noopener noreferrer";
-  link.setAttribute("aria-label", `Watch on YouTube: ${label}`);
+  const watch = `https://www.youtube.com/watch?v=${v.id}`;
+  const box = el("div", "video-box");
   const thumb = el("img", "video-thumb");
   thumb.src = `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`;
   thumb.alt = "";
   thumb.loading = "lazy";
   thumb.width = 480;
   thumb.height = 360;
-  link.append(thumb, el("span", "play-badge", "\u25B6"));
-  fig.append(link);
-  fig.append(el("figcaption", "", `Video: ${v.channel || "YouTube"}. ${label}`));
+  let start;
+  if (playable && playable.has(v.id)) {
+    start = el("button", "video-play");
+    start.type = "button";
+    start.setAttribute("aria-label", `Play video: ${label}`);
+    start.addEventListener("click", () => {
+      const frame = document.createElement("iframe");
+      frame.src = `https://www.youtube-nocookie.com/embed/${v.id}?autoplay=1&rel=0`;
+      frame.title = label;
+      frame.setAttribute("allow", "autoplay; encrypted-media; picture-in-picture");
+      frame.setAttribute("allowfullscreen", "");
+      box.classList.add("playing");
+      box.replaceChildren(frame);
+    });
+  } else {
+    start = el("a", "video-play");
+    start.href = watch;
+    start.target = "_blank";
+    start.rel = "noopener noreferrer";
+    start.setAttribute("aria-label", `Watch on YouTube: ${label}`);
+  }
+  start.append(thumb, el("span", "play-badge", "\u25B6"));
+  box.append(start);
+  fig.append(box);
+  const cap = el("figcaption", "", `Video: ${v.channel || "YouTube"}. ${label}. `);
+  const link = el("a", "", "Watch on YouTube");
+  link.href = watch;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  cap.append(link);
+  fig.append(cap);
   return fig;
 }
 
@@ -127,6 +166,7 @@ function kickerFor(story, tag) {
 function bodyFor(story) {
   const body = el("div", "body");
   body.append(el("p", "", story.text));
+  if (story.career) body.append(el("p", "career", story.career));
   if (story.page) {
     const more = el("p", "more");
     const a = el("a", "", "Read more");
@@ -440,7 +480,7 @@ function agateBlocks(data) {
       const ul = el("ul", "wire-list");
       for (const it of list.slice(0, 4)) {
         const li = el("li");
-        li.append(el("span", "yr", String(it.year)), `${it.name}${it.seasons > 1 ? `, ${it.seasons} seasons` : ""}`);
+        li.append(el("span", "yr", String(it.year)), `${it.name}${it.seasons > 1 ? `, ${it.seasons} seasons` : ""}${it.career ? `. ${it.career}` : ""}`);
         const s = star(it);
         if (s) li.append(" ", s);
         ul.append(li);
@@ -477,6 +517,23 @@ function agateBlocks(data) {
     }
     c.append(ul);
     cols.push(c);
+  }
+  if (Array.isArray(data.papers) && data.papers.length) {
+    const c = el("div", "agate");
+    c.append(el("h3", "mini-head", "What the papers said"));
+    c.append(el("p", "wire-sum", "Baseball in American newspapers on this date, from the Library of Congress. Each link opens the printed page."));
+    const ul = el("ul", "wire-list");
+    for (const it of data.papers.slice(0, 5)) {
+      if (!/^https:\/\/www\.loc\.gov\//.test(it.url || "")) continue;   // only links that stay on the Library's own site
+      const li = el("li");
+      li.append(el("span", "yr", String(it.year)), `${it.paper}, page ${it.page} `);
+      const a = el("a", "more", "Read the page");
+      a.href = it.url;
+      a.rel = "noopener noreferrer";
+      li.append(a);
+      ul.append(li);
+    }
+    if (ul.children.length) { c.append(ul); cols.push(c); }
   }
   return cols;
 }
@@ -670,6 +727,29 @@ function render(data, when) {
 let current = null;
 let lastWidth = window.innerWidth;
 
+// Days already fetched this visit (or fetched ahead of time) stay in memory, so Previous and Next feel instant.
+// "no-cache" keeps every download fresh: the browser still checks with the server but only re-downloads a changed file.
+const dayCache = new Map();
+function getDay({ month, day }) {
+  const url = `data/days/${pad(month)}-${pad(day)}.json`;
+  if (!dayCache.has(url)) {
+    const p = fetch(url, { cache: "no-cache" }).then((res) => {
+      if (!res.ok) throw new Error(String(res.status));
+      return res.json();
+    });
+    p.catch(() => dayCache.delete(url));   // a failed day is asked for again next time
+    dayCache.set(url, p);
+  }
+  return dayCache.get(url);
+}
+// Fetch a neighbouring day quietly, unless the calendar says it has not been published yet.
+function warm(d) {
+  const built = calendarData && calendarData.built;
+  if (built && !built.includes(`${pad(d.month)}${pad(d.day)}`)) return;
+  getDay(d).catch(() => {});
+}
+let loadId = 0;   // lets a slow, older load notice that a newer one has started
+
 async function load() {
   const when = parseHash();
   monthSel.value = when.month;
@@ -684,17 +764,24 @@ async function load() {
   $("status").textContent = "Setting the type…";
   $("stories").replaceChildren();
   $("colophon").hidden = true;
+  const myLoad = ++loadId;
   try {
-    const res = await fetch(`data/days/${pad(when.month)}-${pad(when.day)}.json`, { cache: "no-cache" });
-    if (!res.ok) throw new Error(String(res.status));
-    const data = await res.json();
+    const data = await getDay(when);
     await loadCalendar();
+    await loadPlayable();
+    // Wait (up to 1.5 seconds) for the web fonts, so the columns are measured once with the final type instead of drawn twice.
+    let fontsDone = !(document.fonts && document.fonts.ready);
+    if (!fontsDone) await Promise.race([document.fonts.ready.then(() => { fontsDone = true; }), new Promise((r) => setTimeout(r, 1500))]);
+    if (myLoad !== loadId) return;   // the reader already moved on to another day
     current = { data, when };
     $("status").hidden = true;
     render(data, when);
-    if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { if (current && current.data === data) render(data, when); });
+    if (!fontsDone) document.fonts.ready.then(() => { if (current && current.data === data) render(data, when); });
     $("colophon").hidden = false;
+    warm(shift(when, -1));
+    warm(shift(when, 1));
   } catch (err) {
+    if (myLoad !== loadId) return;
     $("status").textContent = `The ${label} edition has not gone to press yet. Try the previous or next day.`;
     $("colophon").hidden = false;
   }

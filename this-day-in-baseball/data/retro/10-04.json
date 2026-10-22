@@ -1,0 +1,547 @@
+{
+ "month": 10,
+ "day": 4,
+ "games": 464,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "464",
+   "note": "1871 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "29",
+   "note": "Athletics 19, White Stockings 10 (1875)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "18 runs",
+   "note": "Dark Blues 18, New Havens 0 (1875)"
+  },
+  {
+   "label": "Longest game",
+   "value": "18 innings",
+   "note": "Giants at Nationals (2014)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "31",
+   "note": "latest: Brewers 4, Padres 3 (2026)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "92,394",
+   "note": "White Sox at Dodgers (1959)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "5",
+   "note": "Red Sox (2009); Red Sox 12, Indians 7"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "34",
+   "note": "Giants 2, Nationals 1 (2014)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "8",
+   "note": "Senators (1913)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "10",
+   "note": "Yankees 10, Rays 2 (2009)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "63 and 383 min",
+   "note": "1915 and 2014"
+  },
+  {
+   "label": "Home team won",
+   "value": "55%",
+   "note": "of 456 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "99",
+   "note": "Division Series 48, World Series 26, League Championship Series 17"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "123",
+   "note": "most games: Fenway Park (17); Yankee Stadium I (17); Dodger Stadium (16)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [],
+ "gotd": {
+  "year": 2014,
+  "visitor": "Giants",
+  "home": "Nationals",
+  "inn": 18,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "1",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "vr": 2,
+  "hr": 1,
+  "vh": 8,
+  "hh": 9,
+  "ve": 0,
+  "he": 0,
+  "crowd": 44035,
+  "park": "Nationals Park",
+  "event": "Division Series",
+  "why": "Division Series, 18 innings"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 9,
+   "rpg": 16.56,
+   "crowd": 1700
+  },
+  {
+   "decade": 1880,
+   "games": 42,
+   "rpg": 9.81,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 31,
+   "rpg": 9.06,
+   "crowd": 1449
+  },
+  {
+   "decade": 1900,
+   "games": 40,
+   "rpg": 6.33,
+   "crowd": 4042
+  },
+  {
+   "decade": 1910,
+   "games": 53,
+   "rpg": 8.81,
+   "crowd": 4247
+  },
+  {
+   "decade": 1920,
+   "games": 16,
+   "rpg": 11.31,
+   "crowd": 14577
+  },
+  {
+   "decade": 1930,
+   "games": 6,
+   "rpg": 6.33,
+   "crowd": 47766
+  },
+  {
+   "decade": 1940,
+   "games": 7,
+   "rpg": 7.29,
+   "crowd": 44442
+  },
+  {
+   "decade": 1950,
+   "games": 7,
+   "rpg": 5.29,
+   "crowd": 61634
+  },
+  {
+   "decade": 1960,
+   "games": 14,
+   "rpg": 8.79,
+   "crowd": 26739
+  },
+  {
+   "decade": 1970,
+   "games": 20,
+   "rpg": 8.2,
+   "crowd": 24533
+  },
+  {
+   "decade": 1980,
+   "games": 75,
+   "rpg": 8.16,
+   "crowd": 24857
+  },
+  {
+   "decade": 1990,
+   "games": 36,
+   "rpg": 7.19,
+   "crowd": 35977
+  },
+  {
+   "decade": 2000,
+   "games": 47,
+   "rpg": 9.34,
+   "crowd": 37673
+  },
+  {
+   "decade": 2010,
+   "games": 34,
+   "rpg": 7.53,
+   "crowd": 38789
+  },
+  {
+   "decade": 2020,
+   "games": 27,
+   "rpg": 7.7,
+   "crowd": 31685
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1871,
+   "visitor": "Mutuals",
+   "home": "Braves",
+   "vs": 10,
+   "hs": 13,
+   "crowd": 3000,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "Braves",
+   "home": "Dodgers",
+   "vs": 3,
+   "hs": 2,
+   "crowd": 50729,
+   "park": "Dodger Stadium",
+   "event": "National League Division Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Mets",
+    "w": 15,
+    "l": 4,
+    "pct": 0.789
+   },
+   {
+    "team": "Mariners",
+    "w": 11,
+    "l": 5,
+    "pct": 0.688
+   },
+   {
+    "team": "Giants",
+    "w": 29,
+    "l": 18,
+    "pct": 0.617
+   }
+  ],
+  "worst": [
+   {
+    "team": "Nationals",
+    "w": 3,
+    "l": 12,
+    "pct": 0.2
+   },
+   {
+    "team": "Astros",
+    "w": 5,
+    "l": 10,
+    "pct": 0.333
+   },
+   {
+    "team": "Pirates",
+    "w": 13,
+    "l": 25,
+    "pct": 0.342
+   }
+  ]
+ },
+ "wire": {
+  "count": 286,
+  "items": [
+   {
+    "year": 2012,
+    "text": "Dodgers trade Rubby de la Rosa and Jerry Sands to the Red Sox",
+    "star": false
+   },
+   {
+    "year": 1966,
+    "text": "Cubs release Robin Roberts",
+    "star": true
+   },
+   {
+    "year": 1965,
+    "text": "Tigers trade George Smith and George Thomas to the Red Sox for Bill Monbouquette",
+    "star": false
+   },
+   {
+    "year": 1951,
+    "text": "Cubs trade Smoky Burgess and Bob Borkowski to the Reds for Johnny Pramesa and Bob Usher",
+    "star": false
+   },
+   {
+    "year": 1949,
+    "text": "Dodgers trade Sam Jethroe and Bob Addis to the Braves for Don Thompson, Dee Phillips and Al Epperly",
+    "star": false
+   },
+   {
+    "year": 1948,
+    "text": "Senators trade cash, Tom Ferrick and John Sullivan to the Browns for Sam Dente",
+    "star": false
+   },
+   {
+    "year": 1937,
+    "text": "Cardinals trade Leo Durocher to the Dodgers for Johnny Cooney, Jim Bucher, Joe Stripp and Roy Henshaw",
+    "star": true
+   },
+   {
+    "year": 1937,
+    "text": "Reds release Kiki Cuyler",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "166",
+    "note": "most in 2004 (33)"
+   },
+   {
+    "label": "Trades made",
+    "value": "27",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "4",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2004",
+    "note": "34 transactions"
+   }
+  ],
+  "years": [
+   1904,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1980,
+    "name": "Mike Boddicker",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1940,
+    "name": "Gready McKinnis",
+    "star": false,
+    "seasons": 10
+   },
+   {
+    "year": 1931,
+    "name": "Bill Perkins",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1921,
+    "name": "Connie Rector",
+    "star": false,
+    "seasons": 24
+   },
+   {
+    "year": 1921,
+    "name": "Willis Flournoy",
+    "star": false,
+    "seasons": 11
+   },
+   {
+    "year": 1920,
+    "name": "Biz Mackey",
+    "star": true,
+    "seasons": 28
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2009,
+    "name": "Randy Johnson",
+    "star": true,
+    "seasons": 22
+   },
+   {
+    "year": 1992,
+    "name": "Bert Blyleven",
+    "star": true,
+    "seasons": 23
+   },
+   {
+    "year": 1987,
+    "name": "Reggie Jackson",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1925,
+    "name": "Harry Hooper",
+    "star": true,
+    "seasons": 17
+   },
+   {
+    "year": 1904,
+    "name": "Dan Brouthers",
+    "star": true,
+    "seasons": 26
+   },
+   {
+    "year": 1890,
+    "name": "Deacon White",
+    "star": true,
+    "seasons": 20
+   }
+  ],
+  "debutCount": 45,
+  "farewellCount": 331,
+  "hofDebuts": 1,
+  "managerDebuts": [
+   {
+    "year": 1930,
+    "name": "Max Carey",
+    "star": true
+   },
+   {
+    "year": 1931,
+    "name": "Steve O'Neill",
+    "star": false
+   },
+   {
+    "year": 1920,
+    "name": "Milt Stock",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 33,
+  "managers": 5,
+  "items": [
+   {
+    "year": 2014,
+    "text": "Matt Williams (manager) ejected by Vic Carapazza: called third strike",
+    "star": false
+   },
+   {
+    "year": 1980,
+    "text": "Jim Fregosi (manager) ejected by George Maloney: balls and strikes",
+    "star": false
+   },
+   {
+    "year": 1935,
+    "text": "Charlie Grimm (manager) ejected by George Moriarty: call at 2b",
+    "star": false
+   },
+   {
+    "year": 1914,
+    "text": "Buck Herzog (manager) ejected by Steamboat Johnson: balls and strikes",
+    "star": false
+   },
+   {
+    "year": 1899,
+    "text": "Ed Delahanty (player) ejected by Al Mannassau: arguing infield fly",
+    "star": true
+   }
+  ],
+  "years": [
+   1890,
+   2014
+  ]
+ },
+ "feats": {
+  "count": 9,
+  "items": [
+   {
+    "year": 2015,
+    "text": "Clayton Kershaw gets his 300th career strikeout",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1986,
+    "text": "Dave Righetti reaches 45 saves in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1980,
+    "text": "Rickey Henderson reaches 100 steals in a season",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1909,
+    "text": "Forfeit: Philadelphia at New York",
+    "star": false,
+    "kind": "forfeit"
+   },
+   {
+    "year": 1904,
+    "text": "Jack Chesbro gets his 40th career win",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1904,
+    "text": "Sam Mertes hits for the cycle for the Giants (Polo Grounds IV)",
+    "star": false,
+    "kind": "cycle"
+   }
+  ],
+  "cycles": 1,
+  "milestones": 6
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

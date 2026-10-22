@@ -1,0 +1,573 @@
+{
+ "month": 9,
+ "day": 29,
+ "games": 1108,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "1,108",
+   "note": "1871 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "29",
+   "note": "Bisons 19, Cubs 10 (1880)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "17 runs",
+   "note": "Reds 19, Cardinals 2 (2023)"
+  },
+  {
+   "label": "Longest game",
+   "value": "17 innings",
+   "note": "Cardinals at Mets (1993)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "106",
+   "note": "latest: Brewers 4, Cubs 3 (2023)"
+  },
+  {
+   "label": "No-hitters",
+   "value": "3",
+   "note": "latest: Henderson Alvarez (2013)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "6",
+   "note": "Blue Jays (2009); Blue Jays 8, Red Sox 7"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "35",
+   "note": "Yankees 5, Astros 1 (2013)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "8",
+   "note": "Senators (1898)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "10",
+   "note": "Orioles 13, Dodgers 1 (1898)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "63 and 292 min",
+   "note": "1923 and 2012"
+  },
+  {
+   "label": "Home team won",
+   "value": "58%",
+   "note": "of 1,094 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "14",
+   "note": "Wild Card Game 4, World Series 3, Division Series 3"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "140",
+   "note": "most games: Fenway Park (44); Yankee Stadium I (34); Wrigley Field (31)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [
+  {
+   "year": 1976,
+   "by": "Giants",
+   "against": "Braves",
+   "pitcher": "John Montefusco",
+   "combined": false,
+   "perfect": false,
+   "event": ""
+  },
+  {
+   "year": 1983,
+   "by": "Athletics",
+   "against": "White Sox",
+   "pitcher": "Mike Warren",
+   "combined": false,
+   "perfect": false,
+   "event": ""
+  },
+  {
+   "year": 2013,
+   "by": "Marlins",
+   "against": "Tigers",
+   "pitcher": "Henderson Alvarez",
+   "combined": false,
+   "perfect": false,
+   "event": ""
+  }
+ ],
+ "gotd": {
+  "year": 1993,
+  "visitor": "Cardinals",
+  "home": "Mets",
+  "inn": 17,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 0,
+  "hr": 1,
+  "vh": 6,
+  "hh": 6,
+  "ve": 3,
+  "he": 1,
+  "crowd": 17037,
+  "park": "Shea Stadium",
+  "event": "",
+  "why": "17 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 12,
+   "rpg": 12.5,
+   "crowd": null
+  },
+  {
+   "decade": 1880,
+   "games": 57,
+   "rpg": 10.33,
+   "crowd": 5502
+  },
+  {
+   "decade": 1890,
+   "games": 45,
+   "rpg": 11.64,
+   "crowd": 1504
+  },
+  {
+   "decade": 1900,
+   "games": 72,
+   "rpg": 7.03,
+   "crowd": 3951
+  },
+  {
+   "decade": 1910,
+   "games": 55,
+   "rpg": 8.95,
+   "crowd": 3403
+  },
+  {
+   "decade": 1920,
+   "games": 50,
+   "rpg": 8.22,
+   "crowd": 6440
+  },
+  {
+   "decade": 1930,
+   "games": 50,
+   "rpg": 8.7,
+   "crowd": 7162
+  },
+  {
+   "decade": 1940,
+   "games": 59,
+   "rpg": 7.15,
+   "crowd": 8050
+  },
+  {
+   "decade": 1950,
+   "games": 34,
+   "rpg": 8.06,
+   "crowd": 16261
+  },
+  {
+   "decade": 1960,
+   "games": 63,
+   "rpg": 7.1,
+   "crowd": 12477
+  },
+  {
+   "decade": 1970,
+   "games": 103,
+   "rpg": 8.13,
+   "crowd": 14334
+  },
+  {
+   "decade": 1980,
+   "games": 111,
+   "rpg": 8.18,
+   "crowd": 18055
+  },
+  {
+   "decade": 1990,
+   "games": 100,
+   "rpg": 8.51,
+   "crowd": 27591
+  },
+  {
+   "decade": 2000,
+   "games": 121,
+   "rpg": 9.05,
+   "crowd": 33401
+  },
+  {
+   "decade": 2010,
+   "games": 115,
+   "rpg": 7.82,
+   "crowd": 32309
+  },
+  {
+   "decade": 2020,
+   "games": 61,
+   "rpg": 8.46,
+   "crowd": 30203
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1871,
+   "visitor": "Braves",
+   "home": "White Stockings",
+   "vs": 8,
+   "hs": 10,
+   "crowd": 7000,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "Cubs",
+   "home": "Padres",
+   "vs": 0,
+   "hs": 8,
+   "crowd": 47048,
+   "park": "Petco Park",
+   "event": "National League Wild Card Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Yankees",
+    "w": 64,
+    "l": 35,
+    "pct": 0.646
+   },
+   {
+    "team": "Royals",
+    "w": 29,
+    "l": 16,
+    "pct": 0.644
+   },
+   {
+    "team": "Nationals",
+    "w": 24,
+    "l": 18,
+    "pct": 0.571
+   }
+  ],
+  "worst": [
+   {
+    "team": "Athletics",
+    "w": 35,
+    "l": 56,
+    "pct": 0.385
+   },
+   {
+    "team": "Pirates",
+    "w": 37,
+    "l": 58,
+    "pct": 0.389
+   },
+   {
+    "team": "Twins",
+    "w": 37,
+    "l": 52,
+    "pct": 0.416
+   }
+  ]
+ },
+ "wire": {
+  "count": 179,
+  "items": [
+   {
+    "year": 2011,
+    "text": "White Sox trade Ozzie Guillen and Ricardo Andres to the Marlins for Jhan Marinez and Osvaldo Martinez",
+    "star": false
+   },
+   {
+    "year": 2005,
+    "text": "Nationals trade Mike Stanton to the Red Sox for Rhys Taylor and Yader Peralta",
+    "star": false
+   },
+   {
+    "year": 1991,
+    "text": "Braves trade Turk Wendell and Yorkis Perez to the Cubs for Mike Bielecki and Damon Berryhill",
+    "star": false
+   },
+   {
+    "year": 1988,
+    "text": "Braves trade Kevin Coffman and Kevin Blankenship to the Cubs for Jody Davis",
+    "star": false
+   },
+   {
+    "year": 1977,
+    "text": "Cardinals release Tony La Russa",
+    "star": true
+   },
+   {
+    "year": 1958,
+    "text": "Phillies trade Solly Hemus to the Cardinals for Gene Freese",
+    "star": false
+   },
+   {
+    "year": 1947,
+    "text": "Pirates release Hank Greenberg",
+    "star": true
+   },
+   {
+    "year": 1889,
+    "text": "Braves buy Kid Nichols",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "98",
+    "note": "most in 2008 (25)"
+   },
+   {
+    "label": "Trades made",
+    "value": "27",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "10",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2008",
+    "note": "27 transactions"
+   }
+  ],
+  "years": [
+   1884,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1986,
+    "name": "Jay Bell",
+    "star": false,
+    "seasons": 18
+   },
+   {
+    "year": 1979,
+    "name": "Brian Harper",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 1976,
+    "name": "Rick Sutcliffe",
+    "star": false,
+    "seasons": 19
+   },
+   {
+    "year": 1939,
+    "name": "Hal Newhouser",
+    "star": true,
+    "seasons": 17
+   },
+   {
+    "year": 1923,
+    "name": "Hack Wilson",
+    "star": true,
+    "seasons": 12
+   },
+   {
+    "year": 1921,
+    "name": "Kiki Cuyler",
+    "star": true,
+    "seasons": 18
+   }
+  ],
+  "farewells": [
+   {
+    "year": 2002,
+    "name": "Tim Raines",
+    "star": true,
+    "seasons": 24
+   },
+   {
+    "year": 1996,
+    "name": "Andre Dawson",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1963,
+    "name": "Stan Musial",
+    "star": true,
+    "seasons": 23
+   },
+   {
+    "year": 1959,
+    "name": "Enos Slaughter",
+    "star": true,
+    "seasons": 22
+   },
+   {
+    "year": 1957,
+    "name": "Roy Campanella",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1935,
+    "name": "Rabbit Maranville",
+    "star": true,
+    "seasons": 24
+   }
+  ],
+  "debutCount": 92,
+  "farewellCount": 606,
+  "hofDebuts": 3,
+  "managerDebuts": [
+   {
+    "year": 1976,
+    "name": "Tom Lasorda",
+    "star": true
+   },
+   {
+    "year": 2023,
+    "name": "Kai Correa",
+    "star": false
+   },
+   {
+    "year": 1991,
+    "name": "Mike Cubbage",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 55,
+  "managers": 20,
+  "items": [
+   {
+    "year": 2007,
+    "text": "Jim Leyland (manager) ejected by Doug Eddings: call at 2b",
+    "star": true
+   },
+   {
+    "year": 1991,
+    "text": "Tom Lasorda (manager) ejected by Eric Gregg: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1987,
+    "text": "Tom Lasorda (manager) ejected by Charlie Williams: called third strike",
+    "star": true
+   },
+   {
+    "year": 1985,
+    "text": "Earl Weaver (manager) ejected by Nick Bremigan: constant arguing",
+    "star": true
+   },
+   {
+    "year": 1985,
+    "text": "Earl Weaver (manager) ejected by Jim Evans: call in previous game; pregame meeting",
+    "star": true
+   }
+  ],
+  "years": [
+   1898,
+   2024
+  ]
+ },
+ "feats": {
+  "count": 12,
+  "items": [
+   {
+    "year": 2001,
+    "text": "Miguel Tejada hits for the cycle for the Athletics (Safeco Field)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1987,
+    "text": "Rickey Henderson gets his 700th career stolen base",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1985,
+    "text": "Wade Boggs reaches 230 hits in a season",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1966,
+    "text": "Sandy Koufax gets his 300th career strikeout",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1928,
+    "text": "Freddie Lindstrom reaches 230 hits in a season",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1886,
+    "text": "Forfeit: St. Louis at Washington",
+    "star": false,
+    "kind": "forfeit"
+   }
+  ],
+  "cycles": 1,
+  "milestones": 10
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

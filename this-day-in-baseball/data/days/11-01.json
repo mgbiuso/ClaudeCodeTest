@@ -1191,5 +1191,25 @@
     "star": false
    }
   ]
- }
+ },
+ "papers": [
+  {
+   "year": 1957,
+   "paper": "Diario las Américas (Miami, Fla.;Miami Springs, Fla.)",
+   "page": 6,
+   "url": "https://www.loc.gov/resource/sn82001257/1957-11-01/ed-1/?sp=6&q=baseball"
+  },
+  {
+   "year": 1951,
+   "paper": "The prison mirror (Stillwater, Minn.)",
+   "page": 8,
+   "url": "https://www.loc.gov/resource/sn90060766/1951-11-01/ed-1/?sp=8&q=baseball"
+  },
+  {
+   "year": 1946,
+   "paper": "The Poplar standard (Poplar, Mont.)",
+   "page": 8,
+   "url": "https://www.loc.gov/resource/sn86075284/1946-11-01/ed-1/?sp=8&q=baseball"
+  }
+ ]
 }

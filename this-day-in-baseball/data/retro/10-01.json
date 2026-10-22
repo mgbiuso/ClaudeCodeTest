@@ -1,0 +1,525 @@
+{
+ "month": 10,
+ "day": 1,
+ "games": 862,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "862",
+   "note": "1872 to 2026"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "29",
+   "note": "Braves 29, Atlantics 0 (1874)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "29 runs",
+   "note": "Braves 29, Atlantics 0 (1874)"
+  },
+  {
+   "label": "Longest game",
+   "value": "17 innings",
+   "note": "Cardinals at Cubs (1920)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "70",
+   "note": "latest: Rockies 3, Twins 2 (2023)"
+  },
+  {
+   "label": "Biggest crowd",
+   "value": "72,454",
+   "note": "White Sox at Indians (1993)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "6",
+   "note": "Orioles (1977); Orioles 8, Red Sox 7"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "32",
+   "note": "Rockies 3, Twins 2 (2023)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "8",
+   "note": "Dodgers (1910)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "13",
+   "note": "Braves 29, Atlantics 0 (1874)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "70 and 294 min",
+   "note": "1944 and 1960"
+  },
+  {
+   "label": "Home team won",
+   "value": "56%",
+   "note": "of 856 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "50",
+   "note": "Division Series 20, Wild Card Game 15, World Series 14"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "129",
+   "note": "most games: Yankee Stadium I (29); Comiskey Park I (28); Wrigley Field (26)"
+  }
+ ],
+ "through": 2026,
+ "nohitters": [],
+ "gotd": {
+  "year": 1958,
+  "visitor": "Yankees",
+  "home": "Braves",
+  "inn": 10,
+  "vline": [
+   "0",
+   "0",
+   "0",
+   "1",
+   "2",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "0",
+   "0",
+   "2",
+   "0",
+   "0",
+   "0",
+   "1",
+   "0",
+   "1"
+  ],
+  "vr": 3,
+  "hr": 4,
+  "vh": 8,
+  "hh": 10,
+  "ve": 1,
+  "he": 0,
+  "crowd": 46367,
+  "park": "County Stadium",
+  "event": "World Series",
+  "why": "World Series, 10 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 9,
+   "rpg": 16.67,
+   "crowd": 338
+  },
+  {
+   "decade": 1880,
+   "games": 45,
+   "rpg": 8.84,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 34,
+   "rpg": 11.29,
+   "crowd": 1663
+  },
+  {
+   "decade": 1900,
+   "games": 55,
+   "rpg": 6.76,
+   "crowd": 3621
+  },
+  {
+   "decade": 1910,
+   "games": 39,
+   "rpg": 7.97,
+   "crowd": 5353
+  },
+  {
+   "decade": 1920,
+   "games": 44,
+   "rpg": 9.66,
+   "crowd": 6967
+  },
+  {
+   "decade": 1930,
+   "games": 33,
+   "rpg": 8.45,
+   "crowd": 9530
+  },
+  {
+   "decade": 1940,
+   "games": 33,
+   "rpg": 7.39,
+   "crowd": 18919
+  },
+  {
+   "decade": 1950,
+   "games": 17,
+   "rpg": 7.82,
+   "crowd": 32067
+  },
+  {
+   "decade": 1960,
+   "games": 64,
+   "rpg": 7.73,
+   "crowd": 11600
+  },
+  {
+   "decade": 1970,
+   "games": 74,
+   "rpg": 7.68,
+   "crowd": 14757
+  },
+  {
+   "decade": 1980,
+   "games": 107,
+   "rpg": 8.44,
+   "crowd": 19798
+  },
+  {
+   "decade": 1990,
+   "games": 85,
+   "rpg": 8.95,
+   "crowd": 28835
+  },
+  {
+   "decade": 2000,
+   "games": 84,
+   "rpg": 8.81,
+   "crowd": 36151
+  },
+  {
+   "decade": 2010,
+   "games": 80,
+   "rpg": 7.92,
+   "crowd": 31210
+  },
+  {
+   "decade": 2020,
+   "games": 59,
+   "rpg": 8.34,
+   "crowd": 34985
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1872,
+   "visitor": "Lord Baltimores",
+   "home": "Mutuals",
+   "vs": 6,
+   "hs": 6,
+   "crowd": 450,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2026,
+   "visitor": "Phillies",
+   "home": "Braves",
+   "vs": 2,
+   "hs": 6,
+   "crowd": 41731,
+   "park": "Truist Park",
+   "event": "National League Wild Card Series"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Mets",
+    "w": 22,
+    "l": 15,
+    "pct": 0.595
+   },
+   {
+    "team": "Dodgers",
+    "w": 48,
+    "l": 34,
+    "pct": 0.585
+   },
+   {
+    "team": "Pirates",
+    "w": 44,
+    "l": 32,
+    "pct": 0.579
+   }
+  ],
+  "worst": [
+   {
+    "team": "Diamondbacks",
+    "w": 6,
+    "l": 10,
+    "pct": 0.375
+   },
+   {
+    "team": "Rockies",
+    "w": 7,
+    "l": 11,
+    "pct": 0.389
+   },
+   {
+    "team": "Rangers",
+    "w": 15,
+    "l": 23,
+    "pct": 0.395
+   }
+  ]
+ },
+ "wire": {
+  "count": 266,
+  "items": [
+   {
+    "year": 2016,
+    "text": "Mariners trade Tim Lopes to the Blue Jays",
+    "star": false
+   },
+   {
+    "year": 1998,
+    "text": "Astros trade John Halama to the Mariners",
+    "star": false
+   },
+   {
+    "year": 1963,
+    "text": "Giants trade Jimmie Coker to the Cardinals for Ken MacKenzie",
+    "star": false
+   },
+   {
+    "year": 1954,
+    "text": "Reds trade Ted Tappe, Harry Perkowski and Jim Bolger to the Cubs for Johnny Klippstein and Jim Willis",
+    "star": false
+   },
+   {
+    "year": 1953,
+    "text": "Indians trade cash and Bill Abernathie to the Dodgers for Rocky Nelson",
+    "star": false
+   },
+   {
+    "year": 1949,
+    "text": "Tigers trade Lum Harris, Anse Moore and George Byam to the Indians",
+    "star": false
+   },
+   {
+    "year": 1949,
+    "text": "Pirates trade cash to the Dodgers for Danny O'Connell",
+    "star": false
+   },
+   {
+    "year": 1942,
+    "text": "Senators trade cash and Frank Croucher to the Browns for Ewald Pyle",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "133",
+    "note": "most in 2013 (43)"
+   },
+   {
+    "label": "Trades made",
+    "value": "30",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "10",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2013",
+    "note": "44 transactions"
+   }
+  ],
+  "years": [
+   1890,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1993,
+    "name": "Carlos Delgado",
+    "star": false,
+    "seasons": 17
+   },
+   {
+    "year": 1974,
+    "name": "Bob Jones",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1969,
+    "name": "Reggie Cleveland",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1920,
+    "name": "Bubber Jonnard",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1920,
+    "name": "Fred Heimach",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1914,
+    "name": "Irish Meusel",
+    "star": false,
+    "seasons": 14
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1995,
+    "name": "Dave Winfield",
+    "star": true,
+    "seasons": 23
+   },
+   {
+    "year": 1969,
+    "name": "Bobby Cox",
+    "star": true,
+    "seasons": 2
+   },
+   {
+    "year": 1965,
+    "name": "Warren Spahn",
+    "star": true,
+    "seasons": 24
+   },
+   {
+    "year": 1964,
+    "name": "Dick Williams",
+    "star": true,
+    "seasons": 14
+   },
+   {
+    "year": 1950,
+    "name": "Luke Appling",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1933,
+    "name": "Nick Altrock",
+    "star": false,
+    "seasons": 36
+   }
+  ],
+  "debutCount": 72,
+  "farewellCount": 599,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1993,
+    "name": "Dave Duncan",
+    "star": false
+   },
+   {
+    "year": 1961,
+    "name": "Mel Harder",
+    "star": false
+   },
+   {
+    "year": 1944,
+    "name": "Alex Pompez",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 45,
+  "managers": 13,
+  "items": [
+   {
+    "year": 2009,
+    "text": "Jim Leyland (manager) ejected by Angel Hernandez: warning to both teams",
+    "star": true
+   },
+   {
+    "year": 1990,
+    "text": "Joe Torre (manager) ejected by Bob Davidson: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1986,
+    "text": "Tony LaRussa (manager) ejected by Durwood Merrill: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1980,
+    "text": "Joe Torre (manager) ejected by Bruce Froemming: call at 2b",
+    "star": true
+   },
+   {
+    "year": 1978,
+    "text": "Larry Doby (manager) ejected by Ron Luciano: balls and strikes",
+    "star": true
+   }
+  ],
+  "years": [
+   1904,
+   2023
+  ]
+ },
+ "feats": {
+  "count": 7,
+  "items": [
+   {
+    "year": 2000,
+    "text": "Antonio Alfonseca reaches 45 saves in a season",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1980,
+    "text": "Charlie Moore hits for the cycle for the Brewers (Angel Stadium of Anaheim)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1978,
+    "text": "Gaylord Perry gets his 3,000th career strikeout",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1938,
+    "text": "Jimmie Foxx reaches 50 home runs in a season",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1927,
+    "text": "Earle Combs reaches 230 hits in a season",
+    "star": true,
+    "kind": "milestone"
+   }
+  ],
+  "cycles": 1,
+  "milestones": 6
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

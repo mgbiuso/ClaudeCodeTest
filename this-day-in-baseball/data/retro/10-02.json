@@ -1,0 +1,550 @@
+{
+ "month": 10,
+ "day": 2,
+ "games": 720,
+ "items": [
+  {
+   "label": "Games played on this date",
+   "value": "720",
+   "note": "1872 to 2025"
+  },
+  {
+   "label": "Most runs in a game",
+   "value": "33",
+   "note": "Reds 17, Cubs 16 (1891)"
+  },
+  {
+   "label": "Biggest blowout",
+   "value": "16 runs",
+   "note": "Astros 21, Diamondbacks 5 (2015)"
+  },
+  {
+   "label": "Longest game",
+   "value": "18 innings",
+   "note": "Phillies at Mets (1965)"
+  },
+  {
+   "label": "Walk-off wins",
+   "value": "52",
+   "note": "latest: Giants 4, Diamondbacks 3 (2022)"
+  },
+  {
+   "label": "No-hitters (1 perfect)",
+   "value": "2",
+   "note": "latest: Bill Stoneman (1972)"
+  }
+ ],
+ "records": [
+  {
+   "label": "Most home runs by one team",
+   "value": "6",
+   "note": "Astros (2004); Astros 9, Rockies 3"
+  },
+  {
+   "label": "Most strikeouts in a game",
+   "value": "32",
+   "note": "Yankees 6, Red Sox 5 (2010)"
+  },
+  {
+   "label": "Most steals by one team",
+   "value": "10",
+   "note": "Cubs (1907)"
+  },
+  {
+   "label": "Most runs in one inning",
+   "value": "9",
+   "note": "Indians 13, Royals 3 (1990)"
+  },
+  {
+   "label": "Shortest and longest games",
+   "value": "75 and 295 min",
+   "note": "1909 and 2018"
+  },
+  {
+   "label": "Home team won",
+   "value": "54%",
+   "note": "of 711 decided games"
+  },
+  {
+   "label": "Postseason games",
+   "value": "56",
+   "note": "World Series 20, Division Series 20, Wild Card Game 12"
+  },
+  {
+   "label": "Ballparks that hosted games",
+   "value": "127",
+   "note": "most games: Yankee Stadium I (26); Fenway Park (25); Wrigley Field (23)"
+  }
+ ],
+ "through": 2025,
+ "nohitters": [
+  {
+   "year": 1908,
+   "by": "Indians",
+   "against": "White Sox",
+   "pitcher": "Addie Joss",
+   "combined": false,
+   "perfect": true,
+   "event": ""
+  },
+  {
+   "year": 1972,
+   "by": "Expos",
+   "against": "Mets",
+   "pitcher": "Bill Stoneman",
+   "combined": false,
+   "perfect": false,
+   "event": ""
+  }
+ ],
+ "gotd": {
+  "year": 1996,
+  "visitor": "Rangers",
+  "home": "Yankees",
+  "inn": 12,
+  "vline": [
+   "0",
+   "1",
+   "3",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  "hline": [
+   "0",
+   "1",
+   "0",
+   "1",
+   "0",
+   "0",
+   "1",
+   "1",
+   "0",
+   "0",
+   "0",
+   "1"
+  ],
+  "vr": 4,
+  "hr": 5,
+  "vh": 8,
+  "hh": 8,
+  "ve": 1,
+  "he": 0,
+  "crowd": 57156,
+  "park": "Yankee Stadium I",
+  "event": "Division Series",
+  "why": "Division Series, 12 innings, walk-off"
+ },
+ "eras": [
+  {
+   "decade": 1870,
+   "games": 10,
+   "rpg": 10.9,
+   "crowd": 683
+  },
+  {
+   "decade": 1880,
+   "games": 31,
+   "rpg": 9.97,
+   "crowd": null
+  },
+  {
+   "decade": 1890,
+   "games": 33,
+   "rpg": 10.73,
+   "crowd": 1753
+  },
+  {
+   "decade": 1900,
+   "games": 52,
+   "rpg": 7.77,
+   "crowd": 4764
+  },
+  {
+   "decade": 1910,
+   "games": 46,
+   "rpg": 7.39,
+   "crowd": 4966
+  },
+  {
+   "decade": 1920,
+   "games": 36,
+   "rpg": 10.08,
+   "crowd": 8994
+  },
+  {
+   "decade": 1930,
+   "games": 26,
+   "rpg": 9.62,
+   "crowd": 15209
+  },
+  {
+   "decade": 1940,
+   "games": 28,
+   "rpg": 8.79,
+   "crowd": 22753
+  },
+  {
+   "decade": 1950,
+   "games": 8,
+   "rpg": 8.88,
+   "crowd": 48222
+  },
+  {
+   "decade": 1960,
+   "games": 55,
+   "rpg": 7.22,
+   "crowd": 15118
+  },
+  {
+   "decade": 1970,
+   "games": 47,
+   "rpg": 7.7,
+   "crowd": 16480
+  },
+  {
+   "decade": 1980,
+   "games": 98,
+   "rpg": 8.09,
+   "crowd": 21229
+  },
+  {
+   "decade": 1990,
+   "games": 76,
+   "rpg": 8.93,
+   "crowd": 29112
+  },
+  {
+   "decade": 2000,
+   "games": 69,
+   "rpg": 9.74,
+   "crowd": 33261
+  },
+  {
+   "decade": 2010,
+   "games": 66,
+   "rpg": 7.45,
+   "crowd": 33393
+  },
+  {
+   "decade": 2020,
+   "games": 39,
+   "rpg": 8.15,
+   "crowd": 35729
+  }
+ ],
+ "thenNow": {
+  "first": {
+   "year": 1872,
+   "visitor": "Lord Baltimores",
+   "home": "Braves",
+   "vs": 3,
+   "hs": 8,
+   "crowd": 1000,
+   "park": null,
+   "event": ""
+  },
+  "latest": {
+   "year": 2025,
+   "visitor": "Red Sox",
+   "home": "Yankees",
+   "vs": 0,
+   "hs": 4,
+   "crowd": 48833,
+   "park": "Yankee Stadium II",
+   "event": "Wild Card Game"
+  }
+ },
+ "teams": {
+  "best": [
+   {
+    "team": "Marlins",
+    "w": 10,
+    "l": 2,
+    "pct": 0.833
+   },
+   {
+    "team": "Astros",
+    "w": 20,
+    "l": 12,
+    "pct": 0.625
+   },
+   {
+    "team": "Dodgers",
+    "w": 41,
+    "l": 25,
+    "pct": 0.621
+   }
+  ],
+  "worst": [
+   {
+    "team": "Rangers",
+    "w": 10,
+    "l": 21,
+    "pct": 0.323
+   },
+   {
+    "team": "Reds",
+    "w": 23,
+    "l": 38,
+    "pct": 0.377
+   },
+   {
+    "team": "Rockies",
+    "w": 5,
+    "l": 8,
+    "pct": 0.385
+   }
+  ]
+ },
+ "wire": {
+  "count": 187,
+  "items": [
+   {
+    "year": 2003,
+    "text": "Padres trade Cory Stewart to the Pirates",
+    "star": false
+   },
+   {
+    "year": 1984,
+    "text": "Cardinals trade Jim Adduci and Paul Householder to the Brewers for Rich Buonantony, Jim Koontz and Ron Koenigsfeld",
+    "star": false
+   },
+   {
+    "year": 1984,
+    "text": "Twins trade Jay Pettibone to the Cardinals",
+    "star": false
+   },
+   {
+    "year": 1978,
+    "text": "Mets trade Paul Siebert to the Cardinals for Bob Coluccio",
+    "star": false
+   },
+   {
+    "year": 1973,
+    "text": "White Sox trade Steve Kealey to the Reds",
+    "star": false
+   },
+   {
+    "year": 1958,
+    "text": "Athletics trade Chico Carrasquel to the Orioles for Dick Williams",
+    "star": true
+   },
+   {
+    "year": 1944,
+    "text": "Cardinals trade Joe Mack to the Braves for Warren Huston",
+    "star": false
+   },
+   {
+    "year": 1924,
+    "text": "Athletics buy Lefty Grove",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "95",
+    "note": "most in 2017 (32)"
+   },
+   {
+    "label": "Trades made",
+    "value": "17",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "7",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2017",
+    "note": "32 transactions"
+   }
+  ],
+  "years": [
+   1889,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1937,
+    "name": "Ken Keltner",
+    "star": false,
+    "seasons": 14
+   },
+   {
+    "year": 1927,
+    "name": "Dick Bartell",
+    "star": false,
+    "seasons": 20
+   },
+   {
+    "year": 1926,
+    "name": "Alonzo Mitchell",
+    "star": false,
+    "seasons": 16
+   },
+   {
+    "year": 1925,
+    "name": "Leo Durocher",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1915,
+    "name": "Johnny Miljus",
+    "star": false,
+    "seasons": 15
+   },
+   {
+    "year": 1909,
+    "name": "Del Gainer",
+    "star": false,
+    "seasons": 14
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1998,
+    "name": "Dennis Eckersley",
+    "star": true,
+    "seasons": 24
+   },
+   {
+    "year": 1991,
+    "name": "Dave Parker",
+    "star": true,
+    "seasons": 19
+   },
+   {
+    "year": 1988,
+    "name": "Ted Simmons",
+    "star": true,
+    "seasons": 21
+   },
+   {
+    "year": 1983,
+    "name": "Carl Yastrzemski",
+    "star": true,
+    "seasons": 23
+   },
+   {
+    "year": 1976,
+    "name": "Billy Williams",
+    "star": true,
+    "seasons": 18
+   },
+   {
+    "year": 1974,
+    "name": "Al Kaline",
+    "star": true,
+    "seasons": 22
+   }
+  ],
+  "debutCount": 62,
+  "farewellCount": 544,
+  "hofDebuts": 1,
+  "managerDebuts": [
+   {
+    "year": 1933,
+    "name": "Dizzy Dean",
+    "star": true
+   }
+  ]
+ },
+ "ejections": {
+  "count": 34,
+  "managers": 11,
+  "items": [
+   {
+    "year": 1982,
+    "text": "Sparky Anderson (manager) ejected by Drew Coble: balls and strikes",
+    "star": true
+   },
+   {
+    "year": 1981,
+    "text": "Bobby Cox (manager) ejected by Joe West: check swing",
+    "star": true
+   },
+   {
+    "year": 1980,
+    "text": "Sparky Anderson (manager) ejected by Bill Haller: ball struck runner",
+    "star": true
+   },
+   {
+    "year": 1911,
+    "text": "Hughie Jennings (manager) ejected by Bull Perrine: call at 2b",
+    "star": true
+   },
+   {
+    "year": 1909,
+    "text": "Roger Bresnahan (manager) ejected by Bill Brennan: arguing against new ball in game",
+    "star": true
+   }
+  ],
+  "years": [
+   1900,
+   2021
+  ]
+ },
+ "feats": {
+  "count": 12,
+  "items": [
+   {
+    "year": 2009,
+    "text": "B.J.Upton hits for the cycle for the Rays (Tropicana Field)",
+    "star": false,
+    "kind": "cycle"
+   },
+   {
+    "year": 1999,
+    "text": "Mariano Rivera reaches 45 saves in a season",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1988,
+    "text": "George Brett pulls off the hidden-ball trick on Mike Diaz",
+    "star": false,
+    "kind": "hidden"
+   },
+   {
+    "year": 1986,
+    "text": "Mike Scott gets his 300th career strikeout",
+    "star": false,
+    "kind": "milestone"
+   },
+   {
+    "year": 1948,
+    "text": "Stan Musial reaches 230 hits in a season",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1917,
+    "text": "Pete Alexander gets his 30th career win",
+    "star": true,
+    "kind": "milestone"
+   },
+   {
+    "year": 1908,
+    "text": "Otis Clymer hits for the cycle for the Senators (Hilltop Park)",
+    "star": false,
+    "kind": "cycle"
+   }
+  ],
+  "cycles": 2,
+  "milestones": 9
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}
