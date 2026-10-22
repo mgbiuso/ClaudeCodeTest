@@ -3,7 +3,8 @@
 const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August",
                 "September", "October", "November", "December"];
 const DAYS_IN = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
-const ACCENTS = ["var(--red)", "var(--navy)", "var(--green)", "var(--gold)", "var(--plum)"];
+// One accent: red carries the tags and links; everything else is ink on paper.
+const ACCENTS = ["var(--red)"];
 
 const $ = (id) => document.getElementById(id);
 const monthSel = $("month");

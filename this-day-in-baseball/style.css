@@ -1,11 +1,11 @@
 :root {
   color-scheme: light;
   /* Paper and ink. --paper is the one knob for the newsprint gray. */
-  --paper: #e6e5e0;
-  --paper-2: #d9d8d2;
-  --ink: #141414;
-  --ink-soft: #444340;
-  --rule: #1a1a1a;
+  --paper: #e2dfd2;
+  --paper-2: #d3cfbf;
+  --ink: #0f1519;
+  --ink-soft: #3b444a;
+  --rule: #0f1519;
   --red: #b3202a;
   --navy: #1f4e8c;
   --green: #2e7d4f;
@@ -29,8 +29,8 @@ body {
     var(--paper);
   color: var(--ink);
   font-family: var(--sans);
-  font-size: 17px;
-  line-height: 1.45;
+  font-size: 16px;
+  line-height: 1.5;
   -webkit-text-size-adjust: 100%;
 }
 
@@ -54,7 +54,7 @@ a:focus-visible, button:focus-visible, select:focus-visible { outline: 3px solid
 .nameplate a {
   display: block; text-decoration: none; color: var(--ink);
   font-family: var(--cond); font-weight: 400; text-transform: uppercase;
-  font-size: clamp(46px, 11.5vw, 132px); letter-spacing: .005em;
+  font-size: clamp(46px, 11.5vw, 132px); letter-spacing: .035em;
 }
 @media (min-width: 900px) {
   .masthead { padding-top: 10px; }
@@ -64,14 +64,14 @@ a:focus-visible, button:focus-visible, select:focus-visible { outline: 3px solid
   .tagline { margin: 4px 0 8px; padding: 3px 0; font-size: 14px; }
   .datebar { padding: 5px 0; }
   .btn, select { min-height: 38px; }
-  .date-head { margin: 12px 0 4px; }
+  .date-head { margin: 12px 0 4px; border-width: 5px; }
   .date-head .when { font-size: 44px; padding: 5px 16px 1px; }
   .date-head .count { font-size: 22px; padding: 2px 14px; }
 }
 
 .tagline {
   margin: 6px 0 12px; padding: 4px 0;
-  border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink);
+  border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink);
   font-family: var(--sans); font-style: italic; font-weight: 400; font-size: 15px; color: var(--ink);
 }
 
@@ -119,16 +119,16 @@ main:focus { outline: none; }
 .story:first-child { border-top: 0; }
 
 .kicker { display: flex; align-items: baseline; gap: 10px; margin: 0 0 6px; }
-.kicker .yr { font-family: var(--cond); font-size: 44px; line-height: .9; color: var(--accent); }
+.kicker .yr { font-family: var(--cond); font-size: 44px; line-height: .9; letter-spacing: .01em; color: var(--ink); }
 .kicker .tag {
   font-family: var(--cond); font-size: 16px; letter-spacing: .14em; text-transform: uppercase;
-  padding: 2px 8px 0; background: var(--ink); color: var(--paper);
+  padding: 2px 8px 0; background: var(--accent); color: #fff;
 }
 .story.death .kicker .yr { color: var(--ink); }
 
 .headline {
   margin: 4px 0 10px; font-family: var(--sans); font-weight: 900; font-style: italic;
-  font-size: 30px; line-height: 1.03; letter-spacing: -.012em;
+  font-size: 30px; line-height: 1.04; letter-spacing: -.018em;
 }
 
 .body p { margin: 0 0 .7em; }
@@ -145,7 +145,7 @@ figure { margin: 0 0 10px; }
 .video-box:hover .play-badge, .video-box:focus-visible .play-badge { background: var(--red); }
 /* Photos keep their own shape: nothing is cropped. Very tall portraits stop at a maximum height and sit on a paper mat. */
 .photo { display: block; width: 100%; height: auto; max-height: 560px; object-fit: contain; background: var(--paper-2); border: 1px solid var(--rule); }
-figcaption { overflow-wrap: anywhere; margin-top: 5px; font-size: 12.5px; line-height: 1.35; color: var(--ink-soft); }
+figcaption { overflow-wrap: anywhere; margin-top: 5px; font-size: 13.5px; line-height: 1.35; color: #323a40; }
 figcaption a { text-decoration-thickness: 1px; }
 
 .plate {
@@ -157,7 +157,7 @@ figcaption a { text-decoration-thickness: 1px; }
 .plate-name { font-family: var(--cond); font-size: 18px; letter-spacing: .14em; text-transform: uppercase; }
 
 /* lead */
-.lead .headline { font-size: clamp(38px, 9vw, 68px); line-height: .98; letter-spacing: -.02em; }
+.lead .headline { font-size: clamp(38px, 9vw, 68px); line-height: .96; letter-spacing: -.028em; }
 .lead .kicker .yr { font-size: 64px; }
 .lead .body p:first-child { font-size: 19px; }
 
@@ -171,11 +171,12 @@ figcaption a { text-decoration-thickness: 1px; }
 
 /* by the numbers */
 .numbers { margin-top: 18px; border-top: 4px solid var(--ink); }
+@media (min-width: 900px) { .numbers { border-top-width: 9px; } }
 .numbers-row { display: grid; grid-template-columns: repeat(2, 1fr); border-bottom: 1px solid var(--rule); }
 .num { padding: 10px 12px 12px 0; border-top: 1px solid var(--rule); }
 .num-value { font-family: var(--cond); font-size: 40px; line-height: 1; color: var(--ink); }
 .num-label { margin-top: 2px; font-family: var(--cond); font-size: 16px; letter-spacing: .1em; text-transform: uppercase; color: var(--accent, var(--red)); }
-.num-note { margin-top: 2px; font-size: 13.5px; line-height: 1.3; color: var(--ink-soft); }
+.num-note { margin-top: 2px; font-size: 14px; line-height: 1.3; color: var(--ink-soft); }
 @media (min-width: 900px) {
   .numbers-row { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); }
   .num { padding: 12px 16px 12px 16px; border-top: 0; border-left: 1px solid var(--rule); }
@@ -184,9 +185,10 @@ figcaption a { text-decoration-thickness: 1px; }
 
 /* in memoriam box */
 .memoriam { margin-top: 18px; border-top: 4px solid var(--ink); }
+@media (min-width: 900px) { .memoriam, .briefs { border-top-width: 9px; } }
 .reverse-head {
   display: inline-block; margin: 0 0 4px; padding: 6px 16px 2px; background: var(--ink); color: var(--paper);
-  font-family: var(--cond); font-weight: 400; font-size: 34px; letter-spacing: .08em; text-transform: uppercase; line-height: 1.1;
+  font-family: var(--cond); font-weight: 400; font-size: 34px; letter-spacing: .1em; text-transform: uppercase; line-height: 1.1;
 }
 .memoriam .story .headline { font-size: 21px; font-style: italic; }
 .memoriam figure { max-width: 180px; }
@@ -201,14 +203,15 @@ figcaption a { text-decoration-thickness: 1px; }
 
 /* ---------- desktop front page ---------- */
 @media (min-width: 900px) {
-  body { font-size: 15.5px; }
+  body { font-size: 16px; }
+  .lead .body p:first-child { font-size: 19.5px; }
 
   .top { display: grid; grid-template-columns: 8fr 4fr; column-gap: var(--col-gap); margin-top: 6px; }
   .top.no-side { grid-template-columns: 1fr; }
   .top .lead { padding-right: 0; }
   .top .lead.has-photo { display: grid; grid-template-columns: 1.25fr 1fr; column-gap: var(--col-gap); align-items: start; align-content: start; align-self: start; }
   .top .lead.has-photo .head { grid-column: 1 / -1; }
-  .side { border-left: 1px solid var(--rule); padding-left: var(--col-gap); }
+  .side { border-left: 2px solid var(--rule); padding-left: var(--col-gap); }
 
   /* Cap photo heights on the front page so a tall portrait cannot stretch a column and leave a blank hole beside it. */
   .photo { max-height: 420px; }
@@ -216,12 +219,12 @@ figcaption a { text-decoration-thickness: 1px; }
   .side .photo { max-height: 320px; }
 
   /* Columns are built by app.js (shortest-first), so their bottoms line up. */
-  .std-grid { border-top: 4px solid var(--ink); margin-top: 8px; }
+  .std-grid { border-top: 9px solid var(--ink); margin-top: 8px; }
   .cols { display: grid; grid-template-columns: repeat(var(--n, 3), 1fr); align-items: start; }
-  .col { padding: 0 22px; border-left: 1px solid var(--rule); min-width: 0; }
+  .col { padding: 0 22px; border-left: 2px solid var(--rule); min-width: 0; }
   .col:first-child { padding-left: 0; border-left: 0; }
   .col:last-child { padding-right: 0; }
-  .col > .story { padding: 16px 0 20px; border-top: 1px solid var(--rule); }
+  .col > .story { padding: 16px 0 20px; border-top: 2px solid var(--rule); }
   .col > .story:first-child { border-top: 0; }
   .std-grid .photo { max-height: 340px; }
   .brief-label { margin: 6px 0 0; padding: 14px 0 0; border-top: 4px solid var(--ink); font: 400 22px/1 var(--cond); letter-spacing: .1em; text-transform: uppercase; }
