@@ -577,7 +577,12 @@
     "tier": "person"
    },
    "extract": "Lawrence Peter \"Yogi\" Berra was an American professional baseball catcher who later took on the roles of manager and coach. He played 19 seasons in Major League Baseball (MLB), all but the last for the New York Yankees. He was an 18-time All-Star and won 10 World Series championships as a player—more than any other…",
-   "page": "https://en.wikipedia.org/wiki/Yogi_Berra"
+   "page": "https://en.wikipedia.org/wiki/Yogi_Berra",
+   "video": {
+    "id": "x1Kgot-q0Z0",
+    "title": "A Championship Legacy: 1951",
+    "channel": "New York Yankees"
+   }
   },
   {
    "src": "yearpage",

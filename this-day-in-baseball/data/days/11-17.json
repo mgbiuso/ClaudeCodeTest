@@ -143,7 +143,12 @@
     "tier": "person"
    },
    "extract": "Corbin Brian Burnes is an American professional baseball pitcher for the Arizona Diamondbacks of Major League Baseball (MLB). He has previously played in MLB for the Milwaukee Brewers and Baltimore Orioles.",
-   "page": "https://en.wikipedia.org/wiki/Corbin_Burnes"
+   "page": "https://en.wikipedia.org/wiki/Corbin_Burnes",
+   "video": {
+    "id": "I9ojnAUyLIM",
+    "title": "Corbin Burnes takes home NL Cy Young! (2021 Season Highlights)",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",

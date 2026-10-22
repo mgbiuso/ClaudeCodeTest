@@ -552,7 +552,12 @@
     "tier": "person"
    },
    "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
-   "page": "https://en.wikipedia.org/wiki/American_League"
+   "page": "https://en.wikipedia.org/wiki/American_League",
+   "video": {
+    "id": "J2hQwsWa1WA",
+    "title": "Elston Howard: A Man of Firsts",
+    "channel": "New York Yankees"
+   }
   },
   {
    "src": "yearpage",

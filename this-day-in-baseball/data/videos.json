@@ -11,6 +11,10 @@
   "reason": "Official MLB video of the final out of the 2024 World Series, published 2024-10-31, showing the Dodgers beating the Yankees, matching the story's year and event",
   "query": "Dodgers defeat Yankees 2024 World Series Game 5 highlights"
  },
+ "031dc217b68f89c5": {
+  "none": "The only candidate is a Hall of Fame biography of Brooks Robinson, not footage or a recap of Jim Palmer's 1976 Cy Young Award win, so it does not match the stor",
+  "query": "Jim Palmer 1976 Cy Young Award Orioles highlights"
+ },
  "03c48997bc9a653d": {
   "id": "N4nwMDZYXTI",
   "title": "Kirk Gibson's legendary 1988 World Series walk-off home run, called by Vin Scully!",
@@ -18,6 +22,10 @@
   "published": "2016-09-21",
   "reason": "Official MLB upload of Vin Scully's call of Kirk Gibson's full at-bat and walk-off homer in Game 1 of the 1988 World Series, which fits the 1988 story's Dodgers",
   "query": "1988 World Series Dodgers Athletics Game 1 highlights"
+ },
+ "0584352a74112155": {
+  "none": "no official embeddable video",
+  "query": "Luis Tiant no-hitter Venezuelan Winter League 1971"
  },
  "05f7b8dbc8421bc9": {
   "id": "4OOSTGB3WYY",
@@ -35,9 +43,17 @@
   "reason": "Candidate 1 is official MLB footage of the specific 1985 Game 6 play where Denkinger calls Orta safe at first in the bottom of the 9th, matching the story's eve",
   "query": "Cardinals Royals 1985 World Series Game 6 Don Denkinger call"
  },
+ "0b9e5450514a1684": {
+  "none": "no official embeddable video",
+  "query": "Kirby Higbe Brooklyn Dodgers 1941 22 wins highlights"
+ },
  "0eadf7fbfdc9a93a": {
   "none": "no official embeddable video",
   "query": "New Orleans Pelicans Southern Association 1960 final season"
+ },
+ "0f1e36d7adb86c55": {
+  "none": "no official embeddable video",
+  "query": "Women in Baseball Hall of Fame AAGPBL display 1988"
  },
  "1042771be37b8937": {
   "id": "vjiBb9yK_VI",
@@ -59,6 +75,18 @@
   "none": "no official embeddable video",
   "query": "Red Schoendienst Cardinals return 1961 highlights"
  },
+ "123b764e2e661055": {
+  "id": "tRAI5dJENcY",
+  "title": "Cal Ripken, Jr. 1991 MVP Season Highlights | Orioles' 2131 25th Anniversary Celebration",
+  "channel": "Baltimore Orioles",
+  "published": "2020-09-04",
+  "reason": "Candidate 2 is an official Orioles retrospective specifically covering Cal Ripken Jr.'s 1991 MVP season, including his All-Star Game appearance from that year. ",
+  "query": "Cal Ripken Jr. 1991 AL MVP Home Run Derby All-Star Game highlights"
+ },
+ "126d093ce421c75c": {
+  "none": "no official embeddable video",
+  "query": "Cricket All-Stars Series 2015 Citi Field Tendulkar Warne highlights"
+ },
  "12e840b2ddaac294": {
   "none": "no official embeddable video",
   "query": "Willie McGee traded Yankees Cardinals 1981 Bob Sykes"
@@ -71,6 +99,14 @@
   "reason": "Candidate 2 is footage of the final out completing the 1989 World Series sweep by the Athletics over the Giants, matching the specific event described. Other ca",
   "query": "Athletics Giants 1989 World Series Game 4 highlights Dave Stewart"
  },
+ "1501d4375e2f5adb": {
+  "none": "The only candidate is an MLB video published in 2014 about the Yankees' 27th title, which is a retrospective rather than footage of the 2009 Game 6 clincher its",
+  "query": "Yankee Stadium 2009 World Series clinching Game 6 highlights"
+ },
+ "1528b4b9648ffa66": {
+  "none": "Neither candidate covers the 1996 NL Manager of the Year award or the 1996 Padres' playoff season; both are unrelated post-game press comments from 2014 and 201",
+  "query": "Bruce Bochy Padres 1996 National League Manager of the Year"
+ },
  "179503116317a6d2": {
   "id": "F2G3ZSvMvpw",
   "title": "BRAVES WIN THE PENNANT! Atlanta completes the upset, beats the Dodgers to advance to World Series!",
@@ -78,6 +114,10 @@
   "published": "2021-10-24",
   "reason": "Candidate 3 is MLB's official video of the Braves clinching the 2021 NLCS pennant over the Dodgers in Game 6 (Oct 2021), matching the event. Candidate 1 is a fu",
   "query": "Atlanta Braves clinch 2021 NLCS Game 6 Dodgers"
+ },
+ "186468b1dbbe9967": {
+  "none": "The only candidate is a 2020 interview with Pat Hentgen, unrelated to the 1996 Cy Young voting event itself and not footage or an official retrospective of that",
+  "query": "Pat Hentgen Cy Young Award 1996 Blue Jays highlights"
  },
  "18889fdb2547b707": {
   "id": "qKfH3pNwuVs",
@@ -87,6 +127,14 @@
   "reason": "Full official MLB highlights of the 2023 World Series Game 5 (11/1/23), a clear recap of this specific event published in 2023. Candidate 2 is equally suitable ",
   "query": "Rangers defeat Diamondbacks Game 5 2023 World Series highlights"
  },
+ "19ea315417e247ae": {
+  "id": "XWzISdklYOg",
+  "title": "Phillies vs. Astros World Series Game 6 Highlights (11/5/22) | MLB Highlights",
+  "channel": "MLB",
+  "published": "2022-11-06",
+  "reason": "Official MLB full Game 6 highlights of the 2022 Phillies vs. Astros World Series, published 2022-11-06, matching the event and year. Candidate 2 is equally matc",
+  "query": "Houston Astros Phillies 2022 World Series Game 6 highlights"
+ },
  "1a9fe7bbb56fe4be": {
   "id": "gMh6PMwxf-k",
   "title": "WS2017 Gm7: Springer, 'pen lead team to Game 7 win",
@@ -94,6 +142,10 @@
   "published": "2017-11-02",
   "reason": "Official MLB daily recap from 2017 covering Game 7 of the World Series with Springer's homer and the Astros' first title; it matches the specific event and year",
   "query": "Astros defeat Dodgers Game 7 2017 World Series highlights"
+ },
+ "1d415b1aca67a3a0": {
+  "none": "no official embeddable video",
+  "query": "1976 MLB expansion draft Seattle Mariners Toronto Blue Jays"
  },
  "1e9abb2c4ba1e8bd": {
   "id": "ZEE_IxEArPs",
@@ -103,6 +155,14 @@
   "reason": "Candidate 2 is footage of Chase Utley's second homer of Game 5 of the 2009 World Series, his fifth of the Series, tying Reggie Jackson's record, matching the st",
   "query": "Chase Utley two home runs 2009 World Series Game 5 Phillies"
  },
+ "1ed3d20ccdef57fc": {
+  "none": "no official embeddable video",
+  "query": "Arizona Fall League 2014 Salt River Rafters Peoria Javelinas highlights"
+ },
+ "1f3a07c9cdc0f04f": {
+  "none": "no official embeddable video",
+  "query": "George Weiss Bing Devine New York Mets 1966 history"
+ },
  "20c60b9dcf6cdfe9": {
   "id": "M6TYwUHf3yw",
   "title": "WS 2009 Gm 3: A-Rod is awarded a home run on review",
@@ -110,6 +170,14 @@
   "published": "2014-11-13",
   "reason": "Candidate 4 is an official MLB clip of the 2009 World Series Game 3 video-review home run for A-Rod, matching the story's specific event and year.",
   "query": "Alex Rodriguez 2009 World Series Game 2 home run Yankees Phillies"
+ },
+ "21b8223511d6793f": {
+  "none": "no official embeddable video",
+  "query": "Branch Rickey Pirates general manager 1950"
+ },
+ "21e1d9eed898d3ba": {
+  "none": "no official embeddable video",
+  "query": "Larry Dierker Houston Astros 1998 102 wins highlights"
  },
  "229ee5f886d82a5c": {
   "none": "Neither candidate covers the March 15, 1978 trade of Ken Henderson to the Mets; both are about Reggie Jackson's home runs in other years.",
@@ -126,6 +194,18 @@
   "published": "2014-12-05",
   "reason": "Official MLB footage of Andy Pettitte in Game 5 of the 1996 World Series (10/24/96), a clip from this specific game and year. Candidate 3 is also about this gam",
   "query": "Andy Pettitte Yankees 1-0 Braves 1996 World Series Game 5"
+ },
+ "2cef5a1bf01aa15b": {
+  "none": "no official embeddable video",
+  "query": "Lowell Ladies' Men vs Boston 1877 Inter-League playoff"
+ },
+ "3019cec0d00cfd59": {
+  "none": "The only candidate is a 2019 video about Dale Murphy surprising fans on the Beltline, not footage or an official recap of his 1982 MVP win.",
+  "query": "Dale Murphy 1982 National League MVP highlights Braves"
+ },
+ "306465f4d9e092da": {
+  "none": "The only candidate is a 2014 pitch-grip instructional video from the Hall of Fame, unrelated to the 1998 Cy Young vote or any event from that year.",
+  "query": "Tom Glavine 1998 National League Cy Young Award Braves"
  },
  "30a7c38b23992645": {
   "none": "no official embeddable video",
@@ -155,9 +235,25 @@
   "reason": "Candidate 2 covers the 2013 World Series clincher at Fenway, where Koji Uehara's perfect ninth secured the Red Sox's eighth title, matching the story's final ga",
   "query": "Red Sox beat Cardinals 2013 World Series Game 6 Fenway highlights"
  },
+ "3484fb5340f97e82": {
+  "none": "The only candidate is about Canseco's home run in the 1988 ALCS, not the 1988 AL MVP announcement, and it does not show or recap the MVP vote or award.",
+  "query": "José Canseco 1988 AL MVP Athletics highlights"
+ },
+ "348b9362a9c27344": {
+  "none": "The only candidate is a general career retrospective of Frank Robinson's Black History Month tribute, not footage or a recap specific to his 1966 AL MVP win or ",
+  "query": "Frank Robinson Orioles 1966 American League MVP award"
+ },
+ "36db1341145640d8": {
+  "none": "The only candidate is footage of a 1975 All-Star Game appearance by Randy Jones, not the 1982 Mets release, so it does not show the story's event.",
+  "query": "Randy Jones New York Mets pitcher 1982 highlights"
+ },
  "37ca42e154cb3ced": {
   "none": "no official embeddable video",
   "query": "Joe Gordon 1950 Indians release Sacramento Solons player-manager"
+ },
+ "387ab114681d9871": {
+  "none": "no official embeddable video",
+  "query": "Willie Mays 1965 NL MVP Giants highlights"
  },
  "3b18a53c9b69cb4b": {
   "id": "K1qxW5DmPP4",
@@ -167,9 +263,21 @@
   "reason": "Official MLB recap of 2015 World Series Game 3 (10/30/15) covering both Granderson and Wright two-run homers and the Mets rallying from early deficits.",
   "query": "Mets beat Royals Citi Field 2015 World Series Game 3 highlights"
  },
+ "3f976c26e183a834": {
+  "none": "no official embeddable video",
+  "query": "Hank Greenberg 1940 American League MVP Detroit Tigers"
+ },
+ "3fd92ddacbbebf34": {
+  "none": "None of the candidates clearly shows footage or an official recap of Nomo winning 1995 Rookie of the Year. Candidate 1 is his first strikeout (May 1995, not the",
+  "query": "Hideo Nomo 1995 Dodgers rookie season highlights"
+ },
  "40ff0b21e12aa5a2": {
   "none": "no official embeddable video",
   "query": "Roy Campanella 1951 NL MVP Brooklyn Dodgers highlights"
+ },
+ "4212027b9aea4d30": {
+  "none": "no official embeddable video",
+  "query": "Bing Devine trade Dick Groat Don Cardwell Pirates Cardinals 1962"
  },
  "436ed0b02b404673": {
   "id": "w2WJ8YFcJH0",
@@ -179,6 +287,10 @@
   "reason": "Candidate 1 is an official MLB video from 2016-10-19 (ALCS Game 5) showing Santana and Crisp homers giving Cleveland a 3-0 lead, matching the story. Candidate 2",
   "query": "Cleveland Indians Carlos Santana Coco Crisp 2016 ALCS Game 5 highlights"
  },
+ "4404dce7c364c5d0": {
+  "none": "None of the candidates show the 2004 Cy Young win or a 2004 season recap. Candidate 1 is from April 2004 (a debut game, not the award-winning season), candidate",
+  "query": "Roger Clemens 2004 Houston Astros Cy Young strikeouts highlights"
+ },
  "447a00278ebdb3ad": {
   "id": "QCc4-1OrMAE",
   "title": "2005 WS Gm4: Dye's single puts White Sox ahead late",
@@ -187,9 +299,29 @@
   "reason": "Official MLB upload of the 2005 World Series Game 4 moment: Dye's eighth-inning RBI single off Brad Lidge for the 1-0 White Sox lead, matching the story's year ",
   "query": "White Sox Astros 2005 World Series Game 4 Jermaine Dye RBI single"
  },
+ "453178dc4d07d6ef": {
+  "none": "no official embeddable video",
+  "query": "1979 American Final speedway Anaheim Stadium highlights"
+ },
+ "4600e90b2263888a": {
+  "id": "ZmlsT5hEeeM",
+  "title": "BOS@NYY: Broadcast on DiMaggio's 56-game hit streak",
+  "channel": "MLB",
+  "published": "2016-07-16",
+  "reason": "Candidate 2 is an official MLB broadcast tied to DiMaggio's 56-game hit streak, which is part of the 1941 story, and it is an official retrospective. Candidate ",
+  "query": "Joe DiMaggio 56-game hitting streak 1941 Yankees highlights"
+ },
  "46dba343c1d95304": {
   "none": "Neither candidate covers the 2017 World Series Game 2 (Astros 7–6, 11 innings at Dodger Stadium). Candidate 1 is a general season/postseason recap of the champi",
   "query": "Astros Dodgers Game 2 11 innings 2017 World Series"
+ },
+ "47d113f44057db2a": {
+  "id": "cCw2FYPINE8",
+  "title": "A walk-off to WIN the WORLD SERIES! Luis Gonzalez singles to give Dbacks 1st title",
+  "channel": "MLB Vault",
+  "published": "2022-09-03",
+  "reason": "MLB Vault official archival footage of Luis Gonzalez's walk-off single off Mariano Rivera winning the 2001 World Series for Arizona, matching this specific even",
+  "query": "Diamondbacks Luis Gonzalez walk-off single Rivera 2001 World Series Game 7"
  },
  "48ed9f20161aa614": {
   "none": "no official embeddable video",
@@ -207,9 +339,21 @@
   "none": "Candidate 1 shows the 1969 perfect game bid broken up by Jimmy Qualls against the Cubs, not the 1972 Padres game with Leron Lee's single. No candidate covers th",
   "query": "Tom Seaver 1972 no-hitter broken up Leron Lee ninth inning"
  },
+ "4f3588d2a4dcc42a": {
+  "none": "no official embeddable video",
+  "query": "Vern Law Pirates 1960 Cy Young Award"
+ },
  "4fc482af2a7178e3": {
   "none": "no official embeddable video",
   "query": "Tony La Russa Cardinals 2011 World Series Game 7 Rangers"
+ },
+ "519b9387c73cd9cd": {
+  "id": "nfG46CBSRng",
+  "title": "Nov. 18, 1965, Versalles named AL MVP",
+  "channel": "Minnesota Twins",
+  "published": "2016-11-21",
+  "reason": "Official Minnesota Twins video titled for the November 18, 1965 announcement of Zoilo Versalles as AL MVP, matching the specific event and year.",
+  "query": "Zoilo Versalles 1965 AL MVP Minnesota Twins highlights"
  },
  "51afd7ba69e450e5": {
   "id": "6DAkDwNNqzo",
@@ -218,6 +362,26 @@
   "published": "2018-10-24",
   "reason": "Official MLB video of Nunez's pinch-hit three-run homer in Game 1 of the 2018 World Series, matching the specific event and year.",
   "query": "Eduardo Nunez three-run homer Red Sox 2018 World Series Game 1"
+ },
+ "51f4af519749ea6b": {
+  "none": "no official embeddable video",
+  "query": "Lou Boudreau Kansas City Athletics manager hired 1954"
+ },
+ "53f09592ab20dead": {
+  "id": "XOlKCi37gm0",
+  "title": "Frank Thomas dominated the 1993 season. 💪 #MVP #FromTheArchives #shorts",
+  "channel": "Chicago White Sox",
+  "published": "2023-11-08",
+  "reason": "Candidate 1 is an official White Sox 'From the Archives' short about Frank Thomas's 1993 MVP season, matching the story's year and player. Candidate 2 is a gene",
+  "query": "Frank Thomas 1993 AL MVP White Sox highlights"
+ },
+ "54030f92b85b112d": {
+  "id": "HOp8w2PgHlM",
+  "title": "Cubs win World Series with Game 7 win",
+  "channel": "MLB",
+  "published": "2016-11-03",
+  "reason": "Official MLB upload from November 2016 showing the Cubs' Game 7 World Series clinching win over Cleveland, the event in the story. Candidate 2 is also an offici",
+  "query": "Chicago Cubs 2016 World Series Game 7 win highlights"
  },
  "54059ee3ed2ec97d": {
   "id": "GKe3Nysygsk",
@@ -231,6 +395,14 @@
   "none": "no official embeddable video",
   "query": "Philadelphia Athletics win 1910 World Series Game 5 Cubs"
  },
+ "5de0a03f71d08653": {
+  "none": "The only candidate is a 2024 video about Dave Parker's Hall of Fame election, not footage or an official recap of his 1978 NL MVP win.",
+  "query": "Dave Parker 1978 NL MVP Pirates highlights"
+ },
+ "5f36bffee03577e6": {
+  "none": "None of the candidates show or recap the Rookie of the Year award event itself. The videos depict individual 1987 home run moments (48th, first, 12th homer) and",
+  "query": "Mark McGwire 1987 Rookie of the Year highlights"
+ },
  "5fa341072577a27a": {
   "id": "NjGcCI9ByWw",
   "title": "President Bush throws the first pitch of Game 3 of the 2001 World Series",
@@ -239,6 +411,22 @@
   "reason": "Official MLB channel video of President Bush's ceremonial first pitch at the 2001 World Series Game 3 at Yankee Stadium, matching the story's year and event. Ca",
   "query": "George W. Bush first pitch 2001 World Series Yankee Stadium"
  },
+ "629a02599fab4100": {
+  "none": "None of the candidates show the 2002 Manager of the Year award announcements or any footage/recap of that event; all are unrelated Scioscia postgame or in-seaso",
+  "query": "Mike Scioscia Tony La Russa manager of the year 2002"
+ },
+ "630b285095bb3ff9": {
+  "none": "The only candidate is a 2011 Hall of Fame biography of Gehringer's career, not footage or an official recap of the 1937 MVP announcement, so it does not clearly",
+  "query": "Charlie Gehringer Detroit Tigers 1937 MVP highlights"
+ },
+ "637515fa9513b8d2": {
+  "id": "I9ojnAUyLIM",
+  "title": "Corbin Burnes takes home NL Cy Young! (2021 Season Highlights)",
+  "channel": "MLB",
+  "published": "2021-11-17",
+  "reason": "Candidate 1 is an official MLB video published in November 2021 announcing Corbin Burnes winning the 2021 NL Cy Young, matching the story's event and year. Cand",
+  "query": "Corbin Burnes 2021 National League Cy Young Award highlights"
+ },
  "643d433bbd9f7904": {
   "id": "Nhlsu7vY6dw",
   "title": "1988 WS Gm5: Hershiser goes the distance in clincher",
@@ -246,6 +434,18 @@
   "published": "2018-10-23",
   "reason": "Candidate 1 is an MLB video of Hershiser's complete-game clincher in Game 5 of the 1988 World Series, matching the story's specific event and year.",
   "query": "Orel Hershiser 1988 World Series Game 5 Dodgers Athletics"
+ },
+ "648372eaf5a71598": {
+  "none": "no official embeddable video",
+  "query": "Bret Saberhagen 1989 Cy Young Royals highlights"
+ },
+ "6709553798add8c7": {
+  "none": "no official embeddable video",
+  "query": "Bob Elliott Kansas City Athletics manager 1959"
+ },
+ "6735bd3831963b10": {
+  "none": "The only candidate is a generic Yankees 1958 season/championship retrospective that mentions Turley only in passing; it does not clearly show footage or an offi",
+  "query": "Bob Turley Cy Young Award 1958 Yankees highlights"
  },
  "69c32f1bbd2f5f91": {
   "id": "ExCmJY1XDPk",
@@ -263,9 +463,21 @@
   "reason": "Candidate 2 is an official MLB daily recap of the 2015 World Series Game 4 eighth-inning rally on Murphy's error, matching the story's year and event. Candidate",
   "query": "Royals 2015 World Series Game 4 eighth inning Daniel Murphy error Mets"
  },
+ "71bd756daf1588ec": {
+  "none": "Neither candidate covers the 1977 AL MVP award; one is Carew's 3,000th hit in 1985 and the other is his 1967 Rookie of the Year win, so no video fits this story",
+  "query": "Rod Carew 1977 AL MVP Twins highlights"
+ },
+ "73d05d5565dfae0a": {
+  "none": "No candidate clearly shows or recaps the 2000 AL MVP announcement or a specific 2000 MVP-defining event as the story describes; the 2000 clips are individual ho",
+  "query": "Jason Giambi 2000 American League MVP Athletics highlights"
+ },
  "75369d54dbd031e1": {
   "none": "Neither candidate covers the 1962 sale of Bob Turley to the Angels; both are about the 1958 World Series, not the story's event.",
   "query": "Bob Turley Yankees 1962 sold to Angels highlights"
+ },
+ "75c06810e3ce2636": {
+  "none": "no official embeddable video",
+  "query": "Cal Ripken Jr. 1983 AL MVP Orioles highlights"
  },
  "78a2a7aed3c2a422": {
   "id": "3OtkmFylKaM",
@@ -291,6 +503,50 @@
   "none": "no official embeddable video",
   "query": "Bruce Bochy Rangers manager hired 2022 announcement"
  },
+ "7cc6332521ee80b0": {
+  "none": "The only candidate is a Hall of Fame biography of Cepeda's career, not footage or an official recap of the 1967 NL MVP announcement or the unanimous vote, so it",
+  "query": "Orlando Cepeda 1967 NL MVP Cardinals highlights"
+ },
+ "7cd5ed15cefb9d84": {
+  "none": "no official embeddable video",
+  "query": "Cito Gaston Padres trade Danny Frisella 1974"
+ },
+ "7db97a3f1ce42e8d": {
+  "none": "The only candidate is a 1971 World Series clip of Roberto Clemente, not the 1979 NL MVP co-award involving Stargell and Hernandez; it does not match the event o",
+  "query": "Willie Stargell Keith Hernandez 1979 co-MVP Pirates highlights"
+ },
+ "7dd404e51a835921": {
+  "none": "Neither candidate shows footage or an official recap of Boog Powell's 1970 AL MVP award. Candidate 1 is a 2014 interview about 'The Oriole Way', and candidate 2",
+  "query": "Boog Powell 1970 AL MVP Baltimore Orioles highlights"
+ },
+ "7f147caf2c74ecce": {
+  "none": "no official embeddable video",
+  "query": "Alex Cora Astros 2017 World Series sign stealing highlights"
+ },
+ "8082f04cac1f44f3": {
+  "none": "The only candidate is footage of a 1987 All-Star Game play involving Bedrosian and Winfield, not the Cy Young Award vote story. It does not depict or recap the ",
+  "query": "Steve Bedrosian 1987 Cy Young Award Phillies highlights"
+ },
+ "80b239805d25e025": {
+  "id": "VsjNM2O61Ys",
+  "title": "MLB.com FastCast: Melvin, Snitker are MOY - 11/13/18",
+  "channel": "MLB",
+  "published": "2018-11-14",
+  "reason": "Official MLB video from November 13-14, 2018 announcing Snitker and Melvin as Managers of the Year, matching the specific award event and year.",
+  "query": "Brian Snitker 2018 NL Manager of the Year Braves highlights"
+ },
+ "80c9fcc718c4dab7": {
+  "none": "no official embeddable video",
+  "query": "1997 expansion draft Tony Saunders Tampa Bay Devil Rays"
+ },
+ "80ecf9de15da6e9e": {
+  "none": "None of the candidates shows the 1981 Cy Young Award announcement or an official recap of Valenzuela winning it. Candidate 1 is a general 1981 highlights retros",
+  "query": "Fernando Valenzuela 1981 Dodgers rookie season highlights"
+ },
+ "81096cdcb8f1338b": {
+  "none": "no official embeddable video",
+  "query": "Cricket All-Stars Series 2015 Dodger Stadium Tendulkar Warne"
+ },
  "83f058f509fda213": {
   "id": "Hgac2yzbSFM",
   "title": "FINAL OUTS: The Los Angeles Dodgers win the 2025 World Series after an EPIC GAME 7! 🏆",
@@ -299,13 +555,45 @@
   "reason": "Candidate 1 is from MLB's official channel, published 2025-11-02, and is titled as the 2025 World Series win after Game 7, matching the story's event and year. ",
   "query": "Dodgers defeat Blue Jays Game 7 2025 World Series highlights"
  },
+ "85e78ffff0155c81": {
+  "id": "WnW-fl0mNwo",
+  "title": "Yankees win their 27th title",
+  "channel": "MLB",
+  "published": "2014-02-26",
+  "reason": "Candidate 1 is an official MLB video of the 2009 Yankees clinching their 27th World Series title, matching the specific event and year; candidate 2 shows only o",
+  "query": "Yankees beat Phillies Game 6 2009 World Series highlights"
+ },
  "8b2605cdd39956ca": {
   "none": "The only candidate is a 2009 ALCS Game 6 video, but its description focuses on Mariano Rivera's 37th postseason save rather than the Yankees' 5-2 clinching win,",
   "query": "Andy Pettitte Game 6 Yankees Angels 2009 ALCS clinch"
  },
+ "8b3758a0f80cd733": {
+  "none": "no official embeddable video",
+  "query": "Daisuke Matsuzaka Red Sox signing gyroball 2006 highlights"
+ },
  "8b3b534e536a2808": {
   "none": "Candidate 1 covers the 2012 World Series clincher (Game 4, Giants sweep of Tigers), but the story is about the NL champion earning home field advantage with the",
   "query": "Giants Tigers 2012 World Series Game 4 highlights sweep"
+ },
+ "8c55bd88e38f3c09": {
+  "none": "no official embeddable video",
+  "query": "Bobby Shantz MVP 1952 Athletics highlights"
+ },
+ "8cce21bf987bb2eb": {
+  "id": "f1Z0F61t2fQ",
+  "title": "Dawson launches his 47th homer of the season",
+  "channel": "MLB",
+  "published": "2014-11-17",
+  "reason": "Candidate 1 shows footage of Andre Dawson's 1987 season (a 47th homer on 9/27/87 for the Cubs), which matches the 1987 story's subject and year, though it is a ",
+  "query": "Andre Dawson 1987 NL MVP Chicago Cubs highlights"
+ },
+ "8d67f77248e2644a": {
+  "none": "None of the candidates show the 2005 AL MVP announcement or a retrospective of it; all are game highlights from other dates (2005 April and August, 2010).",
+  "query": "Alex Rodriguez 2005 MVP award Yankees highlights"
+ },
+ "8f53a5d1672f7189": {
+  "none": "The only candidate covers Mauer's final game on 9/30/18, not his official retirement announcement via open letter on November 9, 2018. It does not clearly show ",
+  "query": "Joe Mauer 2018 retirement Twins farewell tribute"
  },
  "8ff98a67f14ec8fc": {
   "none": "no official embeddable video",
@@ -319,9 +607,29 @@
   "reason": "Candidate 1 is official MLB footage of Yadier Molina's ninth-inning home run in Game 7 of the 2006 NLCS, the event that clinched the pennant. Candidate 2 shows ",
   "query": "Yadier Molina home run Cardinals Mets 2006 NLCS Game 7"
  },
+ "919df155d809daf7": {
+  "none": "no official embeddable video",
+  "query": "Charles Hurth New York Mets general manager 1961"
+ },
  "91e7a7662b2907bc": {
   "none": "no official embeddable video",
   "query": "1958 NL pennant race Braves Cardinals Giants midseason"
+ },
+ "929b2b09d3538929": {
+  "none": "Candidate 1 is footage of a 1974 World Series game pick-off of Herb Washington, not the 1974 Cy Young/record-setting season event described. No candidate covers",
+  "query": "Mike Marshall 1974 Cy Young relief pitcher Dodgers"
+ },
+ "92c0eb80f787eac5": {
+  "none": "Neither candidate is footage or an official recap of the 1984 NL MVP announcement or the 1984 season event; both are general career highlight reels for Ryne San",
+  "query": "Ryne Sandberg 1984 Cubs MVP season highlights"
+ },
+ "9310eec8129d3dbe": {
+  "id": "4X-Fu3Yyuww",
+  "title": "All-American Girls Professional League Reunion - Baseball Hall of Fame",
+  "channel": "National Baseball Hall of Fame and Museum",
+  "published": "2012-09-26",
+  "reason": "The video is an official Hall of Fame recap of an AAGPBL reunion tied to the league's Cooperstown display, but it is from 2012 and covers a reunion rather than ",
+  "query": "AAGPBL All-American Girls Professional Baseball League Hall of Fame exhibit"
  },
  "93ac31490d72aa7f": {
   "none": "no official embeddable video",
@@ -343,6 +651,10 @@
   "none": "no official embeddable video",
   "query": "Dizzy Dean 1944 Cardinals Browns broadcast highlights"
  },
+ "992257f4f292e466": {
+  "none": "no official embeddable video",
+  "query": "Roger Craig trade Mets Cardinals 1963 baseball highlights"
+ },
  "993f536ffd856140": {
   "id": "etf9rcbhfTM",
   "title": "1995 WS Gm6: Braves clinch the 1995 World Series",
@@ -351,9 +663,17 @@
   "reason": "Candidate 1 is an official MLB video of the 1995 World Series Game 6 clincher, the event in question. Candidate 2 is also official Game 6 footage, but the descr",
   "query": "Braves Tom Glavine Mark Wohlers 1995 World Series Game 6 highlights"
  },
+ "9b9e10f66dbd0147": {
+  "none": "None of the candidates show the 1985 release of Rollie Fingers; they cover unrelated 1978, 1981, and 1982 events.",
+  "query": "Rollie Fingers Milwaukee Brewers highlights 1985 career"
+ },
  "9c9b4979a8c27482": {
   "none": "no official embeddable video",
   "query": "New York Giants 1889 World Series Brooklyn Bridegrooms Game 6"
+ },
+ "9d4a8fa9683df4b4": {
+  "none": "no official embeddable video",
+  "query": "Thad Levine Twins general manager 2016"
  },
  "9d73befcfad06945": {
   "id": "nNLKPaThYkE",
@@ -379,9 +699,45 @@
   "none": "no official embeddable video",
   "query": "John Denny 1983 Cy Young Award Phillies highlights"
  },
+ "a59ceb7405b1c25c": {
+  "none": "The only candidate is about Koufax's 1965 perfect game, not his 1965 Cy Young Award win; no candidate shows footage or a recap of the award event.",
+  "query": "Sandy Koufax 1965 Cy Young Award highlights"
+ },
+ "a7a189950c859e89": {
+  "id": "jN34oftjHJE",
+  "title": "deGrom Is Your 2019 NL Cy Young",
+  "channel": "New York Mets",
+  "published": "2019-11-13",
+  "reason": "Official Mets video announcing deGrom winning the 2019 NL Cy Young Award as his second consecutive win, published in November 2019, directly covering this event",
+  "query": "Jacob DeGrom Cy Young back-to-back 2019 Mets highlights"
+ },
+ "a8364d2535f196d9": {
+  "id": "1jAMwRVQxgQ",
+  "title": "11/13/13 MLB.com FastCast: Kershaw, Scherzer win Cy",
+  "channel": "MLB",
+  "published": "2013-11-15",
+  "reason": "Official MLB.com recap from 2013 announcing both Kershaw and Scherzer winning the Cy Young Awards, matching the story's event and year.",
+  "query": "Max Scherzer Clayton Kershaw 2013 Cy Young winners highlights"
+ },
+ "a8bae95d83912877": {
+  "none": "The only candidate is a Hall of Fame biography of Mel Ott's career, not footage or an official recap of the 1958 car accident or his death. It does not clearly ",
+  "query": "Mel Ott New York Giants career highlights home runs"
+ },
+ "a9d1dbd2ef3341d5": {
+  "none": "The only candidate is about a 1956 All-Star Game home run sequence involving Williams and Mantle, not the 1956 MVP voting announcements (Mantle's unanimous AL M",
+  "query": "Mickey Mantle MVP 1956 Yankees highlights"
+ },
  "aabcb723ee988f7a": {
   "none": "The story describes an 1888 World Series game (Giants 6–4 in the eighth inning, 4–1 series lead). Neither candidate is footage or a recap of that event; both co",
   "query": "1888 World Series Giants Game 5 eighth inning"
+ },
+ "ad1bc347ffa065f9": {
+  "id": "J2hQwsWa1WA",
+  "title": "Elston Howard: A Man of Firsts",
+  "channel": "New York Yankees",
+  "published": "2015-12-21",
+  "reason": "The video is an official Yankees retrospective on Elston Howard, covering his status as the first Black AL MVP, which is the specific event in the story. Althou",
+  "query": "Elston Howard 1963 AL MVP Yankees highlights"
  },
  "ad6377589d126cb8": {
   "none": "no official embeddable video",
@@ -419,6 +775,10 @@
   "reason": "Candidate 1 is an official MLB video from 2015-10-20 covering the Blue Jays' 11-8 Game 3 ALCS win over the Royals, specifically the offensive outburst described",
   "query": "Toronto Blue Jays Royals 2015 ALCS Game 3 highlights 11-8"
  },
+ "b65840ca945afdab": {
+  "none": "no official embeddable video",
+  "query": "Chicago White Sox release Luke Appling 1950 shortstop highlights"
+ },
  "b6edd77ab91299d7": {
   "id": "U9pCrFxwjeo",
   "title": "92 WS, GM 6, TOR@ATL: Blue Jays win the World Series",
@@ -434,6 +794,14 @@
   "published": "2018-11-29",
   "reason": "Official MLB video of the 2010 World Series Game 5, the game that clinched the Giants' title; it covers the clinching game itself rather than a generic season r",
   "query": "Giants defeat Rangers 2010 World Series Game 5 highlights"
+ },
+ "b852be343cb130a1": {
+  "none": "no official embeddable video",
+  "query": "Paul Molitor Twins manager hired 2014"
+ },
+ "b951f093188dc771": {
+  "none": "The only candidate is a clip of George Bell's three homers on Opening Day in 1988, a different season and event from the 1987 MVP story. No candidate shows foot",
+  "query": "George Bell 1987 American League MVP Blue Jays highlights"
  },
  "baa85207a74d6537": {
   "id": "oLHidTxSbVw",
@@ -451,9 +819,17 @@
   "reason": "Candidate 1 is an official MLB upload titled specifically for Sandoval's three-homer game in 2012 World Series Game 1, matching the event and year. Candidate 2 ",
   "query": "Pablo Sandoval three home runs 2012 World Series Game 1"
  },
+ "bba6fe91d9be84b4": {
+  "none": "No candidate shows footage or an official recap of Pujols winning the 2005 NL MVP. The candidates cover other games, other seasons, or career retrospectives unr",
+  "query": "Albert Pujols 2005 MVP Cardinals highlights"
+ },
  "bc0194af66dd72b7": {
   "none": "Candidate 1 is an MLB World Series 2024 video about authenticating a final out, which is unrelated to the 1994 Yomiuri Giants Japan Series Game 6 and the team's",
   "query": "Yomiuri Giants 1994 Japan Series Game 6 champions"
+ },
+ "bf38661c7aeeedc2": {
+  "none": "no official embeddable video",
+  "query": "Mark McGwire retirement 2001 583 home runs tribute"
  },
  "c12d84a29923e198": {
   "none": "no official embeddable video",
@@ -474,6 +850,10 @@
  "c5c2cd0a33f26f25": {
   "none": "Neither candidate shows the story's event: both focus on Cabrera's home run/at-bat against Clemens in the 1st inning, not Clemens's seven-inning start or his st",
   "query": "Roger Clemens final start 2003 World Series Game 4"
+ },
+ "c5e13f60733c5c1b": {
+  "none": "no official embeddable video",
+  "query": "Detroit Tigers Red Rolfe manager 1948 highlights"
  },
  "c8c9446c7e5d9ccc": {
   "id": "F_l57S-QHGE",
@@ -507,6 +887,14 @@
   "reason": "Official MLB highlights video of the 2020 World Series Game 6 (10/27/20) that covers the Dodgers' championship clinching game, matching the event and year. Othe",
   "query": "Dodgers Rays 2020 World Series Game 6 Corey Seager highlights"
  },
+ "cbc0535adf1dd08a": {
+  "none": "None of the candidates clearly shows footage or an official recap of Yount's 1982 MVP award or his 1982 season stats. Candidate 3 is from the 1982 World Series,",
+  "query": "Robin Yount 1982 AL MVP Milwaukee Brewers highlights"
+ },
+ "cc35fc3872bb7469": {
+  "none": "no official embeddable video",
+  "query": "Lou Boudreau Al Lopez Cleveland Indians managers 1950"
+ },
  "cd38a091b4e0cb25": {
   "id": "h-dJtmTbvNY",
   "title": "WS2008 Gm5: Lidge closes out WS, Kalas makes the call",
@@ -519,6 +907,10 @@
   "none": "no official embeddable video",
   "query": "1919 Black Sox scandal White Sox indicted 1920"
  },
+ "d218715cf38379bf": {
+  "none": "no official embeddable video",
+  "query": "Buster Posey retirement announcement 2021 Giants highlights"
+ },
  "d2a9e5e92df65dd8": {
   "id": "N1OnV8eE9do",
   "title": "1987 WS Gm7: Viola pitches Twins to Series title",
@@ -527,6 +919,14 @@
   "reason": "Official MLB footage of the 1987 World Series Game 7 clinching win (Twins 4-2 over Cardinals) featuring Viola, matching the event and year.",
   "query": "Frank Viola Game 7 Twins Cardinals 1987 World Series highlights"
  },
+ "d4121f833d6517e7": {
+  "none": "The only candidate is an unrelated clip of Billy Martin being ejected in 1988, not footage or a recap of the 1996 AL Manager of the Year co-honors for Joe Torre",
+  "query": "Joe Torre Johnny Oates 1996 Manager of the Year highlights"
+ },
+ "d53c18dce7c3923f": {
+  "none": "no official embeddable video",
+  "query": "Sadaharu Oh 868 home runs career highlights 1980"
+ },
  "d5a6ae444c89fede": {
   "id": "9XdA1bnl5Ds",
   "title": "Raw video of Final Out of World Series as Braves win Title!",
@@ -534,6 +934,10 @@
   "published": "2021-11-03",
   "reason": "Raw footage of the final out of the 2021 World Series when the Braves won the title, from the official MLB channel, matches the specific event and year.",
   "query": "Braves win 2021 World Series Game 6 highlights Astros"
+ },
+ "d6404ed53bb004b2": {
+  "none": "The only candidate is a compilation of World Series final outs from the 1970s, which does not match the 1940 story about Jimmie Wilson being hired as Cubs manag",
+  "query": "Jimmie Wilson Chicago Cubs manager 1940 World Series"
  },
  "d93920818e3d9a29": {
   "none": "no official embeddable video",
@@ -547,6 +951,10 @@
   "reason": "Official Reds upload of the 1976 World Series clincher (Oct 21, 1976, Reds 7-2 over Yankees, sweep) matching the story's event and year; it is a recap of this s",
   "query": "Reds sweep Yankees 1976 World Series Johnny Bench highlights"
  },
+ "dcbc6b1eb3b1f082": {
+  "none": "The only candidate is a Hall of Fame biography of Al López's career as a catcher and manager broadly; it does not show footage or a recap of his 1965 retirement",
+  "query": "Al Lopez Chicago White Sox 1959 American League pennant highlights"
+ },
  "e10295ac48a93ef2": {
   "id": "o1j17MFZYfc",
   "title": "WS Gm6: Beckett shuts out Yanks as Marlins win series",
@@ -555,9 +963,41 @@
   "reason": "Candidate 1 is an MLB recap of 2003 World Series Game 6, showing Beckett's five-hit shutout over the Yankees clinching the Marlins' second title; candidate 2 is",
   "query": "Josh Beckett Game 6 shutout Marlins Yankees 2003 World Series"
  },
+ "e19aaf646a6d56e4": {
+  "id": "envZKM3svH8",
+  "title": "11/12/14 MLB.com FastCast: Kershaw, Kluber win Cy",
+  "channel": "MLB",
+  "published": "2014-11-13",
+  "reason": "MLB's official FastCast from November 2014 covers the announcement that Kershaw and Kluber won the 2014 Cy Young Awards, matching the story's year and event.",
+  "query": "Corey Kluber Clayton Kershaw Cy Young 2014 highlights"
+ },
+ "e464cf79025728b4": {
+  "none": "no official embeddable video",
+  "query": "Bucky Harris Yankees manager 1947 Larry MacPhail"
+ },
+ "e4e8709d6554d594": {
+  "none": "no official embeddable video",
+  "query": "Chiba Lotte Marines 2010 Japan Series Game 6 highlights"
+ },
+ "e58f9774cf07e77b": {
+  "none": "Candidate 1 is a general highlight/tribute about Jim Rice's power and MVP status, not clearly footage or an official recap of the 1978 MVP event. Candidate 2 sh",
+  "query": "Jim Rice 1978 Red Sox American League MVP highlights"
+ },
+ "e96e2f9fe830307f": {
+  "none": "no official embeddable video",
+  "query": "Bill Campbell Red Sox 1976 free agent signing"
+ },
+ "e99391a5e5572154": {
+  "none": "None of the candidates show the 1988 NL MVP announcement or the Gibson MVP story; all depict his World Series walk-off homer or unrelated 2024 content.",
+  "query": "Kirk Gibson 1988 Dodgers World Series highlights home run"
+ },
  "e9e1b043a5265ec0": {
   "none": "no official embeddable video",
   "query": "Astros Dodgers 2017 World Series Game 5 13-12 10 innings"
+ },
+ "eac09133c955c1b1": {
+  "none": "The only candidate is a 2023 retrospective tribute to Vida Blue's career in general, not footage or an official recap of the 1971 MVP/Cy Young season event.",
+  "query": "Vida Blue 1971 MVP Cy Young Athletics highlights"
  },
  "eb870a372f87180e": {
   "none": "no official embeddable video",
@@ -579,6 +1019,10 @@
   "reason": "Candidate 2 is an official MLB Vault recap of the full Game 7 event, dated 10/19/08, showing Tampa Bay's 3-1 win over Boston clinching the first World Series be",
   "query": "Tampa Bay Rays Red Sox 2008 ALCS Game 7 highlights"
  },
+ "ed57558b8d630db5": {
+  "none": "None of the candidates show the 1976 release of Billy Williams by the Athletics. Candidates 1 and 3 are 1972 Cubs game footage, candidate 2 is a 1976 World Seri",
+  "query": "Billy Williams 1976 Oakland Athletics final season highlights"
+ },
  "ef0ec0b28f58b141": {
   "id": "-F5HwiGm7lg",
   "title": "1993 WS Game 6: Joe Carter wins Series with homer",
@@ -590,6 +1034,26 @@
  "ef242a609c067342": {
   "none": "no official embeddable video",
   "query": "Hooks Wiltse 1908 no-hitter Giants Phillies McQuillan"
+ },
+ "ef5ff506b012ac1a": {
+  "id": "tNzXSz0Blcw",
+  "title": "24 Stories: The MVP",
+  "channel": "Seattle Mariners",
+  "published": "2016-07-22",
+  "reason": "Candidate 1 is an official Mariners/MLB video explicitly about Griffey's unanimous 1997 MVP season, which matches the story. Candidate 2 covers a different even",
+  "query": "Ken Griffey Jr. MVP 1997 Mariners highlights"
+ },
+ "f1454734795cdf09": {
+  "none": "no official embeddable video",
+  "query": "Mike Scott Astros 1986 Cy Young Award season highlights"
+ },
+ "f7bf891a6841f160": {
+  "id": "x1Kgot-q0Z0",
+  "title": "A Championship Legacy: 1951",
+  "channel": "New York Yankees",
+  "published": "2015-12-21",
+  "reason": "Official Yankees retrospective covering the 1951 season, which includes Yogi Berra winning the AL MVP, so it is an official recap tied to this event and year, t",
+  "query": "Yogi Berra Yankees 1951 American League MVP highlights"
  },
  "f80b4db6943e95ab": {
   "none": "no official embeddable video",
@@ -618,5 +1082,13 @@
   "published": "2017-10-25",
   "reason": "Candidate 3 is an official MLB video of Jeter's walk-off homer in Game 4 of the 2001 World Series (Mr. November), matching the story. Candidate 1 is also a Jete",
   "query": "Derek Jeter walk-off home run Game 4 2001 World Series Mr. November"
+ },
+ "fe2744b78f1c3c68": {
+  "none": "no official embeddable video",
+  "query": "1984 free agency Eckersley Fingers Sutter Pérez"
+ },
+ "ff10e415f0a58589": {
+  "none": "None of the candidates show footage or an official recap of Jeff Kent being named the 2000 NL MVP. Candidate 1 is from his 2000 MVP season but shows a home run,",
+  "query": "Jeff Kent 2000 NL MVP Giants highlights"
  }
 }

@@ -191,7 +191,12 @@
     "tier": "person"
    },
    "extract": "Clayton Edward Kershaw is an American former professional baseball pitcher who played 18 seasons for the Los Angeles Dodgers of Major League Baseball (MLB). A left-handed starting pitcher, Kershaw was an 11-time National League (NL) All-Star, three-time Cy Young Award winner, and 2014 NL Most Valuable Player. He is…",
-   "page": "https://en.wikipedia.org/wiki/Clayton_Kershaw"
+   "page": "https://en.wikipedia.org/wiki/Clayton_Kershaw",
+   "video": {
+    "id": "envZKM3svH8",
+    "title": "11/12/14 MLB.com FastCast: Kershaw, Kluber win Cy",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",
@@ -387,7 +392,12 @@
     "tier": "person"
    },
    "extract": "George Kenneth Griffey Jr., nicknamed \"Junior\" and \"the Kid\", is an American former professional baseball outfielder who played 22 years in Major League Baseball (MLB). He spent most of his career with the Seattle Mariners and Cincinnati Reds, along with a short stint with the Chicago White Sox. The first overall pick…",
-   "page": "https://en.wikipedia.org/wiki/Ken_Griffey_Jr."
+   "page": "https://en.wikipedia.org/wiki/Ken_Griffey_Jr.",
+   "video": {
+    "id": "tNzXSz0Blcw",
+    "title": "24 Stories: The MVP",
+    "channel": "Seattle Mariners"
+   }
   },
   {
    "src": "yearpage",

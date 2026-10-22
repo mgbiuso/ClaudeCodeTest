@@ -31,6 +31,11 @@
    },
    "extract": "Jacob Anthony deGrom is an American professional baseball pitcher for the Texas Rangers of Major League Baseball (MLB). He has previously played in MLB for the New York Mets.",
    "page": "https://en.wikipedia.org/wiki/Jacob_deGrom",
+   "video": {
+    "id": "jN34oftjHJE",
+    "title": "deGrom Is Your 2019 NL Cy Young",
+    "channel": "New York Mets"
+   },
    "lead": true
   },
   {
@@ -151,7 +156,12 @@
     "tier": "person"
    },
    "extract": "Brian Gerald Snitker is an American professional baseball coach and manager. He was the manager for the Atlanta Braves of Major League Baseball (MLB) for 10 seasons from 2016 to 2025. Snitker has spent 49 years in the Braves organization, starting as a catcher and first baseman in the Braves' minor league system from…",
-   "page": "https://en.wikipedia.org/wiki/Brian_Snitker"
+   "page": "https://en.wikipedia.org/wiki/Brian_Snitker",
+   "video": {
+    "id": "VsjNM2O61Ys",
+    "title": "MLB.com FastCast: Melvin, Snitker are MOY - 11/13/18",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -313,7 +323,12 @@
     "tier": "person"
    },
    "extract": "Clayton Edward Kershaw is an American former professional baseball pitcher who played 18 seasons for the Los Angeles Dodgers of Major League Baseball (MLB). A left-handed starting pitcher, Kershaw was an 11-time National League (NL) All-Star, three-time Cy Young Award winner, and 2014 NL Most Valuable Player. He is…",
-   "page": "https://en.wikipedia.org/wiki/Clayton_Kershaw"
+   "page": "https://en.wikipedia.org/wiki/Clayton_Kershaw",
+   "video": {
+    "id": "1jAMwRVQxgQ",
+    "title": "11/13/13 MLB.com FastCast: Kershaw, Scherzer win Cy",
+    "channel": "MLB"
+   }
   },
   {
    "src": "article",

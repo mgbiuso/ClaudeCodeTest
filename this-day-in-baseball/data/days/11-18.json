@@ -398,7 +398,12 @@
     "tier": "person"
    },
    "extract": "Andre Nolan Dawson, nicknamed \"the Hawk\" and \"Awesome Dawson\", is an American former professional baseball outfielder who played 21 seasons in Major League Baseball (MLB). He played for four different teams as a center and right fielder, spending most of his career with the Montreal Expos and Chicago Cubs.",
-   "page": "https://en.wikipedia.org/wiki/Andre_Dawson"
+   "page": "https://en.wikipedia.org/wiki/Andre_Dawson",
+   "video": {
+    "id": "f1Z0F61t2fQ",
+    "title": "Dawson launches his 47th homer of the season",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -584,7 +589,12 @@
    "headline": "Zoilo Versalles, 25, Wins AL MVP for Twins",
    "image": null,
    "extract": "Shortstop, abbreviated SS, is the baseball or softball fielding position between second and third base, which is considered to be among the most demanding defensive positions. Historically, the position was assigned to defensive specialists who were typically poor at batting and were often placed at the bottom of the…",
-   "page": "https://en.wikipedia.org/wiki/Shortstop"
+   "page": "https://en.wikipedia.org/wiki/Shortstop",
+   "video": {
+    "id": "nfG46CBSRng",
+    "title": "Nov. 18, 1965, Versalles named AL MVP",
+    "channel": "Minnesota Twins"
+   }
   },
   {
    "src": "yearpage",
