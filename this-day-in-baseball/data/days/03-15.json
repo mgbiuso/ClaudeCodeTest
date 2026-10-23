@@ -152,7 +152,8 @@
     "tier": "person"
    },
    "extract": "Edwin Douglas Charles was an American professional baseball third baseman in Major League Baseball. A right-handed hitter, Charles played for the Kansas City Athletics (1962–67) and New York Mets (1967–69). He was listed as 5 feet 10 inches (1.78 m) tall and 170 pounds (77 kg).",
-   "page": "https://en.wikipedia.org/wiki/Ed_Charles"
+   "page": "https://en.wikipedia.org/wiki/Ed_Charles",
+   "career": "Career: .263 average, 86 home runs"
   },
   {
    "src": "yearpage",
@@ -247,7 +248,8 @@
     "tier": "person"
    },
    "extract": "David Earl Philley was an American professional baseball outfielder who played in Major League Baseball. A switch hitter who threw right-handed, he debuted on September 6, 1941 and played his final game on August 6, 1962. He was born in Paris, Texas and attended East Texas State University prior to his MLB career.",
-   "page": "https://en.wikipedia.org/wiki/Dave_Philley"
+   "page": "https://en.wikipedia.org/wiki/Dave_Philley",
+   "career": "Career: .270 average, 84 home runs, 1,700 hits"
   },
   {
    "src": "yearpage",
@@ -514,7 +516,8 @@
    "headline": "Bill Cissell, 45, Middle Infielder Across 10 Seasons",
    "image": null,
    "extract": "Chalmer William Cissell born in Perryville, Missouri, was an American professional baseball infielder in Major League Baseball for the Chicago White Sox (1928–32), Cleveland Indians (1932–33), Boston Red Sox (1934), Philadelphia Athletics (1937) and New York Giants (1938).",
-   "page": "https://en.wikipedia.org/wiki/Bill_Cissell"
+   "page": "https://en.wikipedia.org/wiki/Bill_Cissell",
+   "career": "Career: .267 average, 29 home runs"
   },
   {
    "src": "article",
@@ -683,13 +686,5 @@
    1886,
    2021
   ]
- },
- "papers": [
-  {
-   "year": 1960,
-   "paper": "The Key West citizen (Key West, Fla.)",
-   "page": 8,
-   "url": "https://www.loc.gov/resource/sn83016244/1960-03-15/ed-1/?sp=8&q=baseball"
-  }
- ]
+ }
 }

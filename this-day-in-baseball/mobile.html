@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Phone view</title>
+<style>
+  body { margin: 0; padding: 24px; background: #3a3a3a; font-family: system-ui, sans-serif; color: #eee; text-align: center; }
+  p { margin: 0 0 16px; color: #bbb; font-size: 14px; }
+  .phone { display: inline-block; width: 390px; height: 820px; border: 10px solid #111; border-radius: 38px; overflow: hidden; background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,.5); }
+  iframe { width: 390px; height: 820px; border: 0; display: block; }
+</style>
+</head>
+<body>
+<p>One phone (390 px wide). Change the date at the end of the address, for example mobile.html#10-31.</p>
+<div class="phone"><iframe id="f" title="This Day in Baseball on a phone"></iframe></div>
+<script>
+  const f = document.getElementById("f");
+  const load = () => { f.src = "index.html?r=" + Date.now() + (location.hash || "#10-20"); };
+  load();
+  addEventListener("hashchange", load);
+</script>
+</body>
+</html>

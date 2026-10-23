@@ -143,7 +143,7 @@ function videoFor(story) {
   box.append(start);
   fig.append(box);
   const cap = el("figcaption", "", `Video: ${v.channel || "YouTube"}. ${label}. `);
-  const link = el("a", "", "Watch on YouTube");
+  const link = el("a", "watch-link", "Watch on YouTube");
   link.href = watch;
   link.target = "_blank";
   link.rel = "noopener noreferrer";
@@ -184,7 +184,7 @@ function card(story, { tag, accent, cls }) {
   if (index != null) node.id = `story-${index}`;
   node.style.setProperty("--accent", accent);
   const head = el("div", "head");
-  head.append(kickerFor(story, tag), el("h3", "headline", story.headline || story.text));
+  head.append(kickerFor(story, tag), el("h2", "headline", story.headline || story.text));
   node.append(head);
   if (hasVideo(story)) node.append(videoFor(story));
   else if (story.image) node.append(figureFor(story, accent));
@@ -432,6 +432,7 @@ function agateBlocks(data) {
     if (!s.star) return null;
     const m = el("span", "hof", "\u2605");
     m.title = "Hall of Famer";
+    m.setAttribute("role", "img");
     m.setAttribute("aria-label", "Hall of Famer");
     return m;
   };
@@ -476,7 +477,7 @@ function agateBlocks(data) {
     c.append(el("h3", "mini-head", "Debuts and farewells"));
     const people = (label, list, total) => {
       if (!list.length) return;
-      c.append(el("h4", "mini-sub", `${label} (${total.toLocaleString("en-US")} on this date)`));
+      c.append(el("h3", "mini-sub", `${label} (${total.toLocaleString("en-US")} on this date)`));
       const ul = el("ul", "wire-list");
       for (const it of list.slice(0, 4)) {
         const li = el("li");
@@ -490,7 +491,7 @@ function agateBlocks(data) {
     people("Major league debuts", p.debuts, p.debutCount);
     people("Final games", p.farewells, p.farewellCount);
     if (p.managerDebuts && p.managerDebuts.length) {
-      c.append(el("h4", "mini-sub", "First game as manager"));
+      c.append(el("h3", "mini-sub", "First game as manager"));
       const ul = el("ul", "wire-list");
       for (const it of p.managerDebuts) {
         const li = el("li");
@@ -600,6 +601,16 @@ function ribbon(stories) {
 
 // Year at a glance: one square per calendar day, shaded by how much Retrosheet knows about it.
 let calendarData = null;
+let moreGlobal = null;   // charts that are the same every day (data/more/global.json), optional
+async function loadMoreGlobal() {
+  if (moreGlobal !== null) return;
+  moreGlobal = {};
+  try {
+    const res = await fetch("data/more/global.json", { cache: "no-cache" });
+    if (res.ok) moreGlobal = await res.json();
+  } catch (e) { /* the charts just do not appear */ }
+}
+
 async function loadCalendar() {
   if (calendarData) return calendarData;
   try {
@@ -654,6 +665,8 @@ function render(data, when) {
   wrap.append(head);
   const rib = ribbon(stories);
   if (rib) wrap.append(rib);
+  const tb = teamBand(data, when, moreGlobal);
+  if (tb) wrap.append(tb);
   if (!stories.length) return;
 
   // Tiers: the lead, then photo stories (beside the lead first, then in columns), obituaries, then text-only briefs.
@@ -699,7 +712,7 @@ function render(data, when) {
   // Below the numbers: photo stories with the "In brief" items and the "Around the league" boxes mixed in among them.
   const cards = pool.map((s) => card(s, { tag: "On this date", accent: nextAccent(), cls: "" }));
   const briefs = briefBlocks(text, nextAccent);
-  const agate = agateBlocks(data) || [];
+  const agate = (agateBlocks(data) || []).concat(moreBlocks(data, moreGlobal, when));
   const blocks = [];
   for (let i = 0; i < Math.max(briefs.length, agate.length); i++) {
     if (i < briefs.length) blocks.push(briefs[i]);
@@ -710,6 +723,9 @@ function render(data, when) {
     grid.append(columnBox("", interleave(cards, blocks)));
     wrap.append(grid);
   }
+
+  const negro = negroBand(data);
+  if (negro) wrap.append(negro);
 
   if (deaths.length) {
     const box = el("section", "memoriam");
@@ -722,6 +738,12 @@ function render(data, when) {
   if (cal) wrap.append(cal);
 
   columnJobs.forEach(fillColumns);
+
+  // The box titles sit under the page's h1 with no h2 above them, so promote them to h2 (same look, tidier outline for screen readers).
+  // Done after the columns are filled, because that is when the boxes are placed on the page.
+  wrap.querySelectorAll(".std-grid h3.mini-head, .negro h3.mini-head").forEach((h) => {
+    h.replaceWith(el("h2", h.className, h.textContent));
+  });
 }
 
 let current = null;
@@ -736,6 +758,13 @@ function getDay({ month, day }) {
     const p = fetch(url, { cache: "no-cache" }).then((res) => {
       if (!res.ok) throw new Error(String(res.status));
       return res.json();
+    }).then(async (rec) => {
+      // The extra boxes (data/more/MM-DD.json) are optional: a day without that file simply shows fewer boxes.
+      try {
+        const r = await fetch(`data/more/${pad(month)}-${pad(day)}.json`, { cache: "no-cache" });
+        if (r.ok) rec.more = await r.json();
+      } catch (e) { /* no extras for this day */ }
+      return rec;
     });
     p.catch(() => dayCache.delete(url));   // a failed day is asked for again next time
     dayCache.set(url, p);
@@ -769,6 +798,7 @@ async function load() {
     const data = await getDay(when);
     await loadCalendar();
     await loadPlayable();
+    await loadMoreGlobal();
     // Wait (up to 1.5 seconds) for the web fonts, so the columns are measured once with the final type instead of drawn twice.
     let fontsDone = !(document.fonts && document.fonts.ready);
     if (!fontsDone) await Promise.race([document.fonts.ready.then(() => { fontsDone = true; }), new Promise((r) => setTimeout(r, 1500))]);

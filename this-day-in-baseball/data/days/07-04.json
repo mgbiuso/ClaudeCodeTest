@@ -84,7 +84,8 @@
     "tier": "person"
    },
    "extract": "Robert Scott Jenks was an American professional baseball pitcher. He played in Major League Baseball (MLB) for the Chicago White Sox and Boston Red Sox from 2005 through 2011, and was a two-time All-Star. A relief pitcher, Jenks served as a closer for most of his career, and he ranks second in career saves among White…",
-   "page": "https://en.wikipedia.org/wiki/Bobby_Jenks"
+   "page": "https://en.wikipedia.org/wiki/Bobby_Jenks",
+   "career": "Career: 16-20, 3.53 ERA, 351 strikeouts, 173 saves"
   },
   {
    "src": "yearpage",
@@ -1567,31 +1568,36 @@
     "year": 2005,
     "name": "Justin Verlander",
     "star": false,
-    "seasons": 21
+    "seasons": 21,
+    "career": "Career: 266-158, 3.32 ERA, 3,553 strikeouts (through 2025)"
    },
    {
     "year": 2000,
     "name": "Jon Garland",
     "star": false,
-    "seasons": 14
+    "seasons": 14,
+    "career": "Career: 136-125, 4.37 ERA, 1,156 strikeouts"
    },
    {
     "year": 1999,
     "name": "John McDonald",
     "star": false,
-    "seasons": 16
+    "seasons": 16,
+    "career": "Career: .233 average, 28 home runs"
    },
    {
     "year": 1971,
     "name": "Bruce Kison",
     "star": false,
-    "seasons": 15
+    "seasons": 15,
+    "career": "Career: 115-88, 3.66 ERA, 1,073 strikeouts"
    },
    {
     "year": 1967,
     "name": "Sparky Lyle",
     "star": false,
-    "seasons": 16
+    "seasons": 16,
+    "career": "Career: 99-76, 2.88 ERA, 873 strikeouts, 238 saves"
    },
    {
     "year": 1948,
@@ -1605,37 +1611,43 @@
     "year": 1990,
     "name": "Mike Norris",
     "star": false,
-    "seasons": 16
+    "seasons": 16,
+    "career": "Career: 58-59, 3.89 ERA, 636 strikeouts"
    },
    {
     "year": 1960,
     "name": "Jim Hegan",
     "star": false,
-    "seasons": 20
+    "seasons": 20,
+    "career": "Career: .228 average, 92 home runs, 1,087 hits"
    },
    {
     "year": 1938,
     "name": "Clint Thomas",
     "star": false,
-    "seasons": 18
+    "seasons": 18,
+    "career": "Career: .303 average, 65 home runs"
    },
    {
     "year": 1923,
     "name": "Fred Carisch",
     "star": false,
-    "seasons": 21
+    "seasons": 21,
+    "career": "Career: .227 average"
    },
    {
     "year": 1910,
     "name": "Elmer Flick",
     "star": true,
-    "seasons": 13
+    "seasons": 13,
+    "career": "Career: .313 average, 48 home runs, 1,752 hits, 330 stolen bases"
    },
    {
     "year": 1891,
     "name": "Pop Snyder",
     "star": false,
-    "seasons": 19
+    "seasons": 19,
+    "career": "Career: .235 average"
    }
   ],
   "debutCount": 129,

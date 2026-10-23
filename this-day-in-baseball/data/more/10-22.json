@@ -1,0 +1,583 @@
+{
+ "month": 10,
+ "day": 22,
+ "records": {
+  "longest": {
+   "year": 1991,
+   "visitor": "Twins",
+   "home": "Braves",
+   "vs": 4,
+   "hs": 5,
+   "park": "Atlanta-Fulton County Stadium",
+   "city": "Atlanta",
+   "event": "World Series",
+   "minutes": 244,
+   "innings": 12
+  },
+  "crowd": {
+   "year": 2003,
+   "visitor": "Yankees",
+   "home": "Marlins",
+   "vs": 3,
+   "hs": 4,
+   "park": "Sun Life Stadium",
+   "city": "Miami",
+   "event": "World Series",
+   "crowd": 65934,
+   "seasonAvg": 28048
+  },
+  "runs": {
+   "year": 2011,
+   "visitor": "Cardinals",
+   "home": "Rangers",
+   "vs": 16,
+   "hs": 7,
+   "park": "Rangers Ballpark in Arlington",
+   "city": "Arlington",
+   "event": "World Series",
+   "total": 23
+  },
+  "blowout": {
+   "year": 2011,
+   "visitor": "Cardinals",
+   "home": "Rangers",
+   "vs": 16,
+   "hs": 7,
+   "park": "Rangers Ballpark in Arlington",
+   "city": "Arlington",
+   "event": "World Series",
+   "margin": 9
+  },
+  "marathon": {
+   "year": 1991,
+   "visitor": "Twins",
+   "home": "Braves",
+   "vs": 4,
+   "hs": 5,
+   "park": "Atlanta-Fulton County Stadium",
+   "city": "Atlanta",
+   "event": "World Series",
+   "innings": 12
+  },
+  "ties": {
+   "count": 1,
+   "latest": {
+    "year": 1873,
+    "visitor": "Athletics",
+    "home": "Atlantics",
+    "vs": 4,
+    "hs": 4,
+    "park": null,
+    "city": null,
+    "event": ""
+   }
+  }
+ },
+ "duel": null,
+ "firsts": {},
+ "ages": {
+  "youngest": {
+   "name": "Tommy Bond",
+   "age": 18,
+   "year": 1874,
+   "team": "Atlantics"
+  },
+  "oldest": {
+   "name": "Roger Clemens",
+   "age": 43,
+   "year": 2005,
+   "team": "Astros"
+  }
+ },
+ "teams": {
+  "OAK": {
+   "name": "Athletics",
+   "w": 1,
+   "l": 1,
+   "t": 0,
+   "first": 1910,
+   "best": {
+    "score": "3-2 over the Reds",
+    "year": 1972
+   },
+   "worst": {
+    "score": "3-4 to the Cubs",
+    "year": 1910
+   }
+  },
+  "CHN": {
+   "name": "Cubs",
+   "w": 2,
+   "l": 0,
+   "t": 0,
+   "first": 1910,
+   "best": {
+    "score": "5-0 over the Dodgers",
+    "year": 2016
+   },
+   "worst": null
+  },
+  "CIN": {
+   "name": "Reds",
+   "w": 1,
+   "l": 1,
+   "t": 0,
+   "first": 1972,
+   "best": {
+    "score": "4-3 over the Red Sox",
+    "year": 1975
+   },
+   "worst": {
+    "score": "2-3 to the Athletics",
+    "year": 1972
+   }
+  },
+  "BOS": {
+   "name": "Red Sox",
+   "w": 0,
+   "l": 3,
+   "t": 0,
+   "first": 1975,
+   "best": null,
+   "worst": {
+    "score": "0-5 to the Astros",
+    "year": 2021
+   }
+  },
+  "KCA": {
+   "name": "Royals",
+   "w": 2,
+   "l": 0,
+   "t": 0,
+   "first": 1985,
+   "best": {
+    "score": "6-1 over the Cardinals",
+    "year": 1985
+   },
+   "worst": null
+  },
+  "SLN": {
+   "name": "Cardinals",
+   "w": 2,
+   "l": 3,
+   "t": 0,
+   "first": 1985,
+   "best": {
+    "score": "16-7 over the Rangers",
+    "year": 2011
+   },
+   "worst": {
+    "score": "0-9 to the Giants",
+    "year": 2012
+   }
+  },
+  "NYN": {
+   "name": "Mets",
+   "w": 1,
+   "l": 1,
+   "t": 0,
+   "first": 1986,
+   "best": {
+    "score": "6-2 over the Red Sox",
+    "year": 1986
+   },
+   "worst": {
+    "score": "5-6 to the Yankees",
+    "year": 2000
+   }
+  },
+  "MIN": {
+   "name": "Twins",
+   "w": 0,
+   "l": 2,
+   "t": 0,
+   "first": 1987,
+   "best": null,
+   "worst": {
+    "score": "2-4 to the Cardinals",
+    "year": 1987
+   }
+  },
+  "ATL": {
+   "name": "Braves",
+   "w": 3,
+   "l": 1,
+   "t": 0,
+   "first": 1991,
+   "best": {
+    "score": "7-2 over the Blue Jays",
+    "year": 1992
+   },
+   "worst": {
+    "score": "2-5 to the Yankees",
+    "year": 1996
+   }
+  },
+  "TOR": {
+   "name": "Blue Jays",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "first": 1992,
+   "best": null,
+   "worst": {
+    "score": "2-7 to the Braves",
+    "year": 1992
+   }
+  },
+  "CLE": {
+   "name": "Guardians",
+   "w": 1,
+   "l": 1,
+   "t": 0,
+   "first": 1995,
+   "best": {
+    "score": "10-3 over the Marlins",
+    "year": 1997
+   },
+   "worst": {
+    "score": "3-4 to the Braves",
+    "year": 1995
+   }
+  },
+  "NYA": {
+   "name": "Yankees",
+   "w": 3,
+   "l": 4,
+   "t": 0,
+   "first": 1996,
+   "best": {
+    "score": "12-3 over the Mariners",
+    "year": 2001
+   },
+   "worst": {
+    "score": "1-6 to the Rangers",
+    "year": 2010
+   }
+  },
+  "MIA": {
+   "name": "Marlins",
+   "w": 1,
+   "l": 1,
+   "t": 0,
+   "first": 1997,
+   "best": {
+    "score": "4-3 over the Yankees",
+    "year": 2003
+   },
+   "worst": {
+    "score": "3-10 to the Indians",
+    "year": 1997
+   }
+  },
+  "ANA": {
+   "name": "Angels",
+   "w": 2,
+   "l": 0,
+   "t": 0,
+   "first": 2002,
+   "best": {
+    "score": "10-4 over the Giants",
+    "year": 2002
+   },
+   "worst": null
+  },
+  "SFN": {
+   "name": "Giants",
+   "w": 1,
+   "l": 2,
+   "t": 0,
+   "first": 2002,
+   "best": {
+    "score": "9-0 over the Cardinals",
+    "year": 2012
+   },
+   "worst": {
+    "score": "4-10 to the Angels",
+    "year": 2002
+   }
+  },
+  "HOU": {
+   "name": "Astros",
+   "w": 2,
+   "l": 3,
+   "t": 0,
+   "first": 2005,
+   "best": {
+    "score": "5-0 over the Red Sox",
+    "year": 2021
+   },
+   "worst": {
+    "score": "2-9 to the Rangers",
+    "year": 2023
+   }
+  },
+  "CHA": {
+   "name": "White Sox",
+   "w": 1,
+   "l": 0,
+   "t": 0,
+   "first": 2005,
+   "best": {
+    "score": "5-3 over the Astros",
+    "year": 2005
+   },
+   "worst": null
+  },
+  "DET": {
+   "name": "Tigers",
+   "w": 1,
+   "l": 0,
+   "t": 0,
+   "first": 2006,
+   "best": {
+    "score": "3-1 over the Cardinals",
+    "year": 2006
+   },
+   "worst": null
+  },
+  "PHI": {
+   "name": "Phillies",
+   "w": 2,
+   "l": 0,
+   "t": 0,
+   "first": 2008,
+   "best": {
+    "score": "10-6 over the Padres",
+    "year": 2022
+   },
+   "worst": null
+  },
+  "TBA": {
+   "name": "Rays",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "first": 2008,
+   "best": null,
+   "worst": {
+    "score": "2-3 to the Phillies",
+    "year": 2008
+   }
+  },
+  "TEX": {
+   "name": "Rangers",
+   "w": 2,
+   "l": 1,
+   "t": 0,
+   "first": 2010,
+   "best": {
+    "score": "9-2 over the Astros",
+    "year": 2023
+   },
+   "worst": {
+    "score": "7-16 to the Cardinals",
+    "year": 2011
+   }
+  },
+  "WAS": {
+   "name": "Nationals",
+   "w": 1,
+   "l": 0,
+   "t": 0,
+   "first": 2019,
+   "best": {
+    "score": "5-4 over the Astros",
+    "year": 2019
+   },
+   "worst": null
+  },
+  "SEA": {
+   "name": "Mariners",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "first": 2001,
+   "best": null,
+   "worst": {
+    "score": "3-12 to the Yankees",
+    "year": 2001
+   }
+  },
+  "LAN": {
+   "name": "Dodgers",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "first": 2016,
+   "best": null,
+   "worst": {
+    "score": "0-5 to the Cubs",
+    "year": 2016
+   }
+  },
+  "SDN": {
+   "name": "Padres",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "first": 2022,
+   "best": null,
+   "worst": {
+    "score": "6-10 to the Phillies",
+    "year": 2022
+   }
+  }
+ },
+ "people": {
+  "born": [
+   {
+    "name": "Jimmie Foxx",
+    "year": 1907,
+    "place": "Sudlersville, MD",
+    "career": "Career: .325 average, 534 home runs, 2,646 hits",
+    "hof": true
+   },
+   {
+    "name": "Ichiro Suzuki",
+    "year": 1973,
+    "place": "Kasugai, Japan",
+    "career": "Career: .311 average, 117 home runs, 3,089 hits, 509 stolen bases",
+    "hof": true
+   },
+   {
+    "name": "Corbin Burnes",
+    "year": 1994,
+    "place": "Bakersfield, CA",
+    "career": "Career: 63-38, 3.15 ERA, 1,114 strikeouts (through 2025)",
+    "hof": false
+   },
+   {
+    "name": "Wilbur Wood",
+    "year": 1941,
+    "place": "Cambridge, MA",
+    "career": "Career: 164-156, 3.24 ERA, 1,411 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Harry Buckner",
+    "year": 1872,
+    "place": "Hopkinsville, KY",
+    "career": "Career: 28-15, 2.84 ERA, 159 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Darren O'Day",
+    "year": 1982,
+    "place": "Jacksonville, FL",
+    "career": "Career: 42-21, 2.59 ERA, 637 strikeouts",
+    "hof": false
+   }
+  ],
+  "hof": [
+   {
+    "name": "Jimmie Foxx",
+    "kind": "Born",
+    "year": 1907,
+    "inducted": "1951"
+   },
+   {
+    "name": "Ichiro Suzuki",
+    "kind": "Born",
+    "year": 1973,
+    "inducted": "2025"
+   },
+   {
+    "name": "Ross Youngs",
+    "kind": "Died",
+    "year": 1927,
+    "inducted": "1972"
+   }
+  ],
+  "awardWinners": [
+   {
+    "name": "Jimmie Foxx",
+    "year": 1907,
+    "awards": [
+     {
+      "award": "MVP",
+      "year": 1932
+     },
+     {
+      "award": "MVP",
+      "year": 1933
+     },
+     {
+      "award": "MVP",
+      "year": 1938
+     }
+    ]
+   },
+   {
+    "name": "Ichiro Suzuki",
+    "year": 1973,
+    "awards": [
+     {
+      "award": "Rookie of the Year",
+      "year": 2001
+     },
+     {
+      "award": "MVP",
+      "year": 2001
+     }
+    ]
+   },
+   {
+    "name": "Corbin Burnes",
+    "year": 1994,
+    "awards": [
+     {
+      "award": "Cy Young",
+      "year": 2021
+     }
+    ]
+   }
+  ],
+  "coincidences": {
+   "bornCount": 66
+  },
+  "oneGame": [],
+  "families": []
+ },
+ "negro": {
+  "count": 2,
+  "years": [
+   1944,
+   1944
+  ],
+  "withBox": 0,
+  "game": {
+   "year": 1944,
+   "kind": "Exhibition game",
+   "visitor": "Major League All Stars",
+   "home": "Kansas City Royals",
+   "vs": 1,
+   "hs": 3,
+   "park": "White Sox Park",
+   "city": "Los Angeles, CA",
+   "crowd": 1500,
+   "stars": [
+    {
+     "player": "Hilton Smith",
+     "team": "Kansas City Royals",
+     "line": "9 IP, 1 R",
+     "approx": false
+    },
+    {
+     "player": "Jack Paepke",
+     "team": "Major League All Stars",
+     "line": "8 IP, 3 R",
+     "approx": false
+    }
+   ],
+   "hasBox": false
+  },
+  "others": [
+   {
+    "year": 1944,
+    "text": "Kansas City Royals 2, Major League All Stars 0",
+    "kind": "Exhibition game"
+   }
+  ]
+ }
+}

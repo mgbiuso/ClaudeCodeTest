@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Phone preview</title>
+<style>
+  body { margin: 0; padding: 24px; background: #3a3a3a; font-family: system-ui, sans-serif; color: #eee; }
+  h1 { font-size: 18px; font-weight: 600; margin: 0 0 4px; }
+  p.note { margin: 0 0 20px; color: #bbb; font-size: 14px; }
+  .row { display: flex; gap: 28px; justify-content: center; align-items: flex-start; flex-wrap: wrap; }
+  figure { margin: 0; text-align: center; }
+  figcaption { margin-top: 10px; font-size: 14px; color: #ccc; }
+  .phone { width: 390px; height: 800px; border: 10px solid #111; border-radius: 38px; overflow: hidden; background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,.5); }
+  iframe { width: 390px; height: 800px; border: 0; display: block; }
+</style>
+</head>
+<body>
+<h1>This Day in Baseball: phone preview (390 px wide)</h1>
+<p class="note">Three views of October 20 at phone width. Scroll inside each phone to read.</p>
+<div class="row">
+  <figure><div class="phone"><iframe id="f1" src="index.html#10-20" title="Top of the page"></iframe></div><figcaption>1. Top of the page</figcaption></figure>
+  <figure><div class="phone"><iframe id="f2" src="index.html#10-20" title="A photo story"></iframe></div><figcaption>2. A photo story</figcaption></figure>
+  <figure><div class="phone"><iframe id="f3" src="index.html#10-20" title="Memoriam and briefs"></iframe></div><figcaption>3. In memoriam and In brief</figcaption></figure>
+</div>
+<script>
+  // Scroll each frame to a different part of the page once its stories have rendered.
+  function whenReady(frame, sel, done, tries = 40) {
+    const doc = frame.contentDocument;
+    const target = doc && doc.querySelector(sel);
+    if (target) return done(frame.contentWindow, target);
+    if (tries > 0) setTimeout(() => whenReady(frame, sel, done, tries - 1), 250);
+  }
+  const jumps = [["f1", ".lead", () => 0], ["f2", ".std-grid .story, .side .story", (w, t) => t.getBoundingClientRect().top + w.scrollY - 70], ["f3", ".memoriam", (w, t) => t.getBoundingClientRect().top + w.scrollY - 70]];
+  for (const [id, sel, y] of jumps) {
+    const f = document.getElementById(id);
+    f.addEventListener("load", () => whenReady(f, sel, (w, t) => setTimeout(() => w.scrollTo(0, y(w, t)), 600)));
+  }
+</script>
+</body>
+</html>

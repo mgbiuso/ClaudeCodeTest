@@ -1,0 +1,757 @@
+{
+ "month": 10,
+ "day": 4,
+ "records": {
+  "longest": {
+   "year": 2014,
+   "visitor": "Giants",
+   "home": "Nationals",
+   "vs": 2,
+   "hs": 1,
+   "park": "Nationals Park",
+   "city": "Washington",
+   "event": "Division Series",
+   "minutes": 383,
+   "innings": 18
+  },
+  "crowd": {
+   "year": 1959,
+   "visitor": "White Sox",
+   "home": "Dodgers",
+   "vs": 1,
+   "hs": 3,
+   "park": "Los Angeles Memorial Coliseum",
+   "city": "Los Angeles",
+   "event": "World Series",
+   "crowd": 92394,
+   "seasonAvg": 17355
+  },
+  "runs": {
+   "year": 1875,
+   "visitor": "Athletics",
+   "home": "White Stockings",
+   "vs": 19,
+   "hs": 10,
+   "park": null,
+   "city": null,
+   "event": "",
+   "total": 29
+  },
+  "blowout": {
+   "year": 1875,
+   "visitor": "Dark Blues",
+   "home": "New Havens",
+   "vs": 18,
+   "hs": 0,
+   "park": null,
+   "city": null,
+   "event": "",
+   "margin": 18
+  },
+  "marathon": {
+   "year": 2014,
+   "visitor": "Giants",
+   "home": "Nationals",
+   "vs": 2,
+   "hs": 1,
+   "park": "Nationals Park",
+   "city": "Washington",
+   "event": "Division Series",
+   "innings": 18
+  },
+  "ties": {
+   "count": 8,
+   "latest": {
+    "year": 1913,
+    "visitor": "Browns",
+    "home": "Indians",
+    "vs": 0,
+    "hs": 0,
+    "park": "League Park IV",
+    "city": "Cleveland",
+    "event": ""
+   }
+  },
+  "forfeits": {
+   "count": 2,
+   "latest": {
+    "year": 1909,
+    "visitor": "Phillies",
+    "home": "Giants",
+    "vs": 1,
+    "hs": 1,
+    "park": "Polo Grounds IV",
+    "city": "New York",
+    "event": ""
+   }
+  }
+ },
+ "duel": {
+  "year": 1987,
+  "visitor": "Blue Jays",
+  "home": "Tigers",
+  "vs": 0,
+  "hs": 1,
+  "park": "Tiger Stadium",
+  "city": "Detroit",
+  "event": "",
+  "vpitcher": "Jimmy Key",
+  "hpitcher": "Frank Tanana",
+  "count": 11
+ },
+ "firsts": {
+  "doubleheaders": 40,
+  "lastGames": [
+   {
+    "year": 1891,
+    "visitor": "Colts",
+    "home": "Brewers",
+    "vs": 4,
+    "hs": 8,
+    "park": "Athletic Park",
+    "city": "Milwaukee",
+    "event": "",
+    "crowd": 300
+   },
+   {
+    "year": 1972,
+    "visitor": "Rangers",
+    "home": "Royals",
+    "vs": 0,
+    "hs": 4,
+    "park": "Municipal Stadium",
+    "city": "Kansas City",
+    "event": "",
+    "crowd": 7329
+   }
+  ]
+ },
+ "ages": {
+  "youngest": {
+   "name": "Hudson",
+   "age": 17,
+   "year": 1886,
+   "team": "Cardinals"
+  },
+  "oldest": {
+   "name": "Jamie Moyer",
+   "age": 45,
+   "year": 2008,
+   "team": "Phillies"
+  }
+ },
+ "teams": {
+  "ATL": {
+   "name": "Braves",
+   "w": 25,
+   "l": 24,
+   "t": 0,
+   "first": 1876,
+   "best": {
+    "score": "14-2 over the Phillies",
+    "year": 1912
+   },
+   "worst": {
+    "score": "9-17 to the Giants",
+    "year": 1910
+   }
+  },
+  "SFN": {
+   "name": "Giants",
+   "w": 29,
+   "l": 18,
+   "t": 2,
+   "first": 1884,
+   "best": {
+    "score": "17-9 over the Braves",
+    "year": 1910
+   },
+   "worst": {
+    "score": "2-9 to the Cubs",
+    "year": 1964
+   }
+  },
+  "CHN": {
+   "name": "Cubs",
+   "w": 24,
+   "l": 18,
+   "t": 1,
+   "first": 1884,
+   "best": {
+    "score": "12-1 over the Cardinals",
+    "year": 1907
+   },
+   "worst": {
+    "score": "3-11 to the Giants",
+    "year": 1989
+   }
+  },
+  "PHI": {
+   "name": "Phillies",
+   "w": 23,
+   "l": 21,
+   "t": 2,
+   "first": 1884,
+   "best": {
+    "score": "17-7 over the Hoosiers",
+    "year": 1888
+   },
+   "worst": {
+    "score": "2-14 to the Braves",
+    "year": 1912
+   }
+  },
+  "PIT": {
+   "name": "Pirates",
+   "w": 13,
+   "l": 25,
+   "t": 0,
+   "first": 1887,
+   "best": {
+    "score": "11-2 over the Reds",
+    "year": 1902
+   },
+   "worst": {
+    "score": "2-8 to the Cubs",
+    "year": 1909
+   }
+  },
+  "LAN": {
+   "name": "Dodgers",
+   "w": 22,
+   "l": 22,
+   "t": 1,
+   "first": 1892,
+   "best": {
+    "score": "11-1 over the Colts",
+    "year": 1964
+   },
+   "worst": {
+    "score": "3-7 to the Giants",
+    "year": 1916
+   }
+  },
+  "SLN": {
+   "name": "Cardinals",
+   "w": 18,
+   "l": 18,
+   "t": 2,
+   "first": 1898,
+   "best": {
+    "score": "11-2 over the Reds",
+    "year": 1913
+   },
+   "worst": {
+    "score": "1-12 to the Cubs",
+    "year": 1907
+   }
+  },
+  "CIN": {
+   "name": "Reds",
+   "w": 16,
+   "l": 19,
+   "t": 0,
+   "first": 1900,
+   "best": {
+    "score": "6-0 over the Pirates",
+    "year": 2009
+   },
+   "worst": {
+    "score": "0-10 to the Phillies",
+    "year": 1964
+   }
+  },
+  "BOS": {
+   "name": "Red Sox",
+   "w": 15,
+   "l": 18,
+   "t": 0,
+   "first": 1904,
+   "best": {
+    "score": "12-2 over the Rays",
+    "year": 2013
+   },
+   "worst": {
+    "score": "2-14 to the White Sox",
+    "year": 2005
+   }
+  },
+  "CHA": {
+   "name": "White Sox",
+   "w": 17,
+   "l": 12,
+   "t": 0,
+   "first": 1904,
+   "best": {
+    "score": "14-2 over the Red Sox",
+    "year": 2005
+   },
+   "worst": {
+    "score": "2-14 to the Twins",
+    "year": 1972
+   }
+  },
+  "OAK": {
+   "name": "Athletics",
+   "w": 15,
+   "l": 17,
+   "t": 0,
+   "first": 1904,
+   "best": {
+    "score": "8-0 over the Senators",
+    "year": 1907
+   },
+   "worst": {
+    "score": "0-6 to the White Sox",
+    "year": 1964
+   }
+  },
+  "CLE": {
+   "name": "Guardians",
+   "w": 15,
+   "l": 12,
+   "t": 2,
+   "first": 1904,
+   "best": {
+    "score": "12-3 over the Yankees",
+    "year": 2007
+   },
+   "worst": {
+    "score": "1-9 to the Red Sox",
+    "year": 1905
+   }
+  },
+  "NYA": {
+   "name": "Yankees",
+   "w": 33,
+   "l": 21,
+   "t": 0,
+   "first": 1904,
+   "best": {
+    "score": "10-1 over the Tigers",
+    "year": 2011
+   },
+   "worst": {
+    "score": "3-12 to the Indians",
+    "year": 2007
+   }
+  },
+  "BAL": {
+   "name": "Orioles",
+   "w": 13,
+   "l": 15,
+   "t": 2,
+   "first": 1904,
+   "best": {
+    "score": "11-3 over the Twins",
+    "year": 1970
+   },
+   "worst": {
+    "score": "6-14 to the White Sox",
+    "year": 1911
+   }
+  },
+  "MIN": {
+   "name": "Twins",
+   "w": 12,
+   "l": 22,
+   "t": 0,
+   "first": 1905,
+   "best": {
+    "score": "14-2 over the White Sox",
+    "year": 1972
+   },
+   "worst": {
+    "score": "1-17 to the Royals",
+    "year": 1980
+   }
+  },
+  "DET": {
+   "name": "Tigers",
+   "w": 18,
+   "l": 14,
+   "t": 0,
+   "first": 1908,
+   "best": {
+    "score": "11-4 over the Orioles",
+    "year": 1986
+   },
+   "worst": {
+    "score": "1-10 to the Yankees",
+    "year": 2011
+   }
+  },
+  "TEX": {
+   "name": "Rangers",
+   "w": 8,
+   "l": 9,
+   "t": 0,
+   "first": 1964,
+   "best": {
+    "score": "9-2 over the Angels",
+    "year": 2015
+   },
+   "worst": {
+    "score": "1-16 to the Mariners",
+    "year": 2001
+   }
+  },
+  "ANA": {
+   "name": "Angels",
+   "w": 6,
+   "l": 10,
+   "t": 0,
+   "first": 1964,
+   "best": {
+    "score": "9-2 over the Rangers",
+    "year": 1981
+   },
+   "worst": {
+    "score": "2-9 to the Rangers",
+    "year": 2015
+   }
+  },
+  "HOU": {
+   "name": "Astros",
+   "w": 5,
+   "l": 10,
+   "t": 0,
+   "first": 1964,
+   "best": {
+    "score": "10-0 over the Phillies",
+    "year": 2022
+   },
+   "worst": {
+    "score": "1-11 to the Dodgers",
+    "year": 1964
+   }
+  },
+  "NYN": {
+   "name": "Mets",
+   "w": 15,
+   "l": 4,
+   "t": 0,
+   "first": 1964,
+   "best": {
+    "score": "8-0 over the Nationals",
+    "year": 2022
+   },
+   "worst": {
+    "score": "5-11 to the Cardinals",
+    "year": 1964
+   }
+  },
+  "KCA": {
+   "name": "Royals",
+   "w": 8,
+   "l": 5,
+   "t": 0,
+   "first": 1972,
+   "best": {
+    "score": "17-1 over the Twins",
+    "year": 1980
+   },
+   "worst": {
+    "score": "4-13 to the Twins",
+    "year": 2009
+   }
+  },
+  "MIL": {
+   "name": "Brewers",
+   "w": 8,
+   "l": 8,
+   "t": 0,
+   "first": 1972,
+   "best": {
+    "score": "9-3 over the Cubs",
+    "year": 2025
+   },
+   "worst": {
+    "score": "3-10 to the Cardinals",
+    "year": 2001
+   }
+  },
+  "WAS": {
+   "name": "Nationals",
+   "w": 3,
+   "l": 12,
+   "t": 0,
+   "first": 1972,
+   "best": {
+    "score": "3-1 over the Pirates",
+    "year": 1991
+   },
+   "worst": {
+    "score": "0-8 to the Mets",
+    "year": 2022
+   }
+  },
+  "SDN": {
+   "name": "Padres",
+   "w": 7,
+   "l": 8,
+   "t": 0,
+   "first": 1972,
+   "best": {
+    "score": "7-1 over the Cubs",
+    "year": 1984
+   },
+   "worst": {
+    "score": "7-10 to the Reds",
+    "year": 1986
+   }
+  },
+  "TOR": {
+   "name": "Blue Jays",
+   "w": 6,
+   "l": 7,
+   "t": 0,
+   "first": 1980,
+   "best": {
+    "score": "10-1 over the Yankees",
+    "year": 2025
+   },
+   "worst": {
+    "score": "3-12 to the Rays",
+    "year": 2015
+   }
+  },
+  "SEA": {
+   "name": "Mariners",
+   "w": 11,
+   "l": 5,
+   "t": 0,
+   "first": 1980,
+   "best": {
+    "score": "16-1 over the Rangers",
+    "year": 2001
+   },
+   "worst": {
+    "score": "6-11 to the Rangers",
+    "year": 1980
+   }
+  },
+  "TBA": {
+   "name": "Rays",
+   "w": 2,
+   "l": 6,
+   "t": 0,
+   "first": 2001,
+   "best": {
+    "score": "12-3 over the Blue Jays",
+    "year": 2015
+   },
+   "worst": {
+    "score": "2-12 to the Red Sox",
+    "year": 2013
+   }
+  },
+  "COL": {
+   "name": "Rockies",
+   "w": 3,
+   "l": 5,
+   "t": 0,
+   "first": 1995,
+   "best": {
+    "score": "10-5 over the Phillies",
+    "year": 2007
+   },
+   "worst": {
+    "score": "4-7 to the Braves",
+    "year": 1995
+   }
+  },
+  "ARI": {
+   "name": "Diamondbacks",
+   "w": 7,
+   "l": 1,
+   "t": 0,
+   "first": 2001,
+   "best": {
+    "score": "8-1 over the Brewers",
+    "year": 2011
+   },
+   "worst": {
+    "score": "0-3 to the Brewers",
+    "year": 2022
+   }
+  },
+  "MIA": {
+   "name": "Marlins",
+   "w": 2,
+   "l": 4,
+   "t": 0,
+   "first": 2001,
+   "best": {
+    "score": "6-2 over the Expos",
+    "year": 2001
+   },
+   "worst": {
+    "score": "1-7 to the Phillies",
+    "year": 2023
+   }
+  }
+ },
+ "people": {
+  "born": [
+   {
+    "name": "Dennis Cook",
+    "year": 1962,
+    "place": "LaMarque, TX",
+    "career": "Career: 64-46, 3.91 ERA, 739 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Kyle Lohse",
+    "year": 1978,
+    "place": "Chico, CA",
+    "career": "Career: 147-143, 4.40 ERA, 1,615 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Joe Boever",
+    "year": 1960,
+    "place": "Kirkwood, MO",
+    "career": "Career: 34-45, 3.93 ERA, 541 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Charlie Leibrandt",
+    "year": 1956,
+    "place": "Chicago, IL",
+    "career": "Career: 140-119, 3.71 ERA, 1,121 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Bruce Ruffin",
+    "year": 1963,
+    "place": "Lubbock, TX",
+    "career": "Career: 60-82, 4.19 ERA, 843 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Jered Weaver",
+    "year": 1982,
+    "place": "Northridge, CA",
+    "career": "Career: 150-98, 3.63 ERA, 1,621 strikeouts",
+    "hof": false
+   }
+  ],
+  "hof": [
+   {
+    "name": "Freddie Lindstrom",
+    "kind": "Died",
+    "year": 1981,
+    "inducted": "1976"
+   }
+  ],
+  "awardWinners": [],
+  "coincidences": {
+   "bornCount": 78,
+   "fullCircle": {
+    "year": 1981,
+    "debut": "Tom Wieghaus",
+    "died": "Freddie Lindstrom"
+   }
+  },
+  "oneGame": [
+   {
+    "name": "Nate Mondou",
+    "year": 2022,
+    "line": "went 0 for 2",
+    "place": "Lake Tapps, WA"
+   },
+   {
+    "name": "Elvio Jimenez",
+    "year": 1964,
+    "line": "went 2 for 6",
+    "place": "San Pedro de Macoris, D.R."
+   },
+   {
+    "name": "Artie Dede",
+    "year": 1916,
+    "line": "went 0 for 1",
+    "place": "Brooklyn, NY"
+   }
+  ],
+  "families": []
+ },
+ "negro": {
+  "count": 29,
+  "years": [
+   1920,
+   1948
+  ],
+  "withBox": 19,
+  "game": {
+   "year": 1921,
+   "kind": "Negro League World Series",
+   "visitor": "Chicago American Giants",
+   "home": "Hilldale Club",
+   "vs": 5,
+   "hs": 2,
+   "park": "Baker Bowl",
+   "city": "Philadelphia, PA",
+   "crowd": null,
+   "stars": [
+    {
+     "player": "Bill Holland",
+     "team": "Chicago American Giants",
+     "line": "9 IP, 10 K, 2 R",
+     "approx": false
+    },
+    {
+     "player": "Willis Flournoy",
+     "team": "Hilldale Club",
+     "line": "8 IP, 11 K, 5 R",
+     "approx": false
+    },
+    {
+     "player": "Cristobal Torriente",
+     "team": "Chicago American Giants",
+     "line": "2 for 4, 1 HR, 2 RBI",
+     "approx": false
+    },
+    {
+     "player": "Bobby Williams",
+     "team": "Chicago American Giants",
+     "line": "3 for 4",
+     "approx": false
+    }
+   ],
+   "hasBox": true
+  },
+  "others": [
+   {
+    "year": 1927,
+    "text": "Atlantic City Bacharach Giants 1, Chicago American Giants 9",
+    "kind": "Negro League World Series"
+   },
+   {
+    "year": 1926,
+    "text": "Chicago American Giants 4, Atlantic City Bacharach Giants 4",
+    "kind": "Negro League World Series"
+   },
+   {
+    "year": 1925,
+    "text": "Hilldale Club 7, Kansas City Monarchs 3",
+    "kind": "Negro League World Series"
+   },
+   {
+    "year": 1924,
+    "text": "Kansas City Monarchs 0, Hilldale Club 11",
+    "kind": "Negro League World Series"
+   },
+   {
+    "year": 1940,
+    "text": "North All Stars 8, Taylor All Stars 0",
+    "kind": "East-West All-Star Game"
+   },
+   {
+    "year": 1940,
+    "text": "North All Stars 2, South All Stars 4",
+    "kind": "East-West All-Star Game"
+   }
+  ]
+ }
+}

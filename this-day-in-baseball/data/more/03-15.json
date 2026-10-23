@@ -1,0 +1,81 @@
+{
+ "month": 3,
+ "day": 15,
+ "records": {},
+ "duel": null,
+ "firsts": {},
+ "ages": null,
+ "teams": {},
+ "people": {
+  "born": [
+   {
+    "name": "Harold Baines",
+    "year": 1959,
+    "place": "Easton, MD",
+    "career": "Career: .289 average, 384 home runs, 2,866 hits",
+    "hof": true
+   },
+   {
+    "name": "Michael Fulmer",
+    "year": 1993,
+    "place": "Oklahoma City, OK",
+    "career": "Career: 37-50, 3.95 ERA, 578 strikeouts (through 2025)",
+    "hof": false
+   },
+   {
+    "name": "Jim Kern",
+    "year": 1949,
+    "place": "Gladwin, MI",
+    "career": "Career: 53-57, 3.32 ERA, 651 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Bob Locker",
+    "year": 1938,
+    "place": "George, IA",
+    "career": "Career: 57-39, 2.75 ERA, 577 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Wayne Granger",
+    "year": 1944,
+    "place": "Springfield, MA",
+    "career": "Career: 35-35, 3.14 ERA, 303 strikeouts, 108 saves",
+    "hof": false
+   },
+   {
+    "name": "Vladimir Nunez",
+    "year": 1975,
+    "place": "Havana, Cuba",
+    "career": "Career: 21-34, 4.83 ERA, 327 strikeouts",
+    "hof": false
+   }
+  ],
+  "hof": [
+   {
+    "name": "Harold Baines",
+    "kind": "Born",
+    "year": 1959,
+    "inducted": "2019"
+   }
+  ],
+  "awardWinners": [
+   {
+    "name": "Michael Fulmer",
+    "year": 1993,
+    "awards": [
+     {
+      "award": "Rookie of the Year",
+      "year": 2016
+     }
+    ]
+   }
+  ],
+  "coincidences": {
+   "bornCount": 60
+  },
+  "oneGame": [],
+  "families": []
+ },
+ "negro": null
+}

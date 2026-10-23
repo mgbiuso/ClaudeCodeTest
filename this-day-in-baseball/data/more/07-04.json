@@ -1,0 +1,733 @@
+{
+ "month": 7,
+ "day": 4,
+ "records": {
+  "longest": {
+   "year": 1985,
+   "visitor": "Mets",
+   "home": "Braves",
+   "vs": 16,
+   "hs": 13,
+   "park": "Atlanta-Fulton County Stadium",
+   "city": "Atlanta",
+   "event": "",
+   "minutes": 370,
+   "innings": 19
+  },
+  "crowd": {
+   "year": 1933,
+   "visitor": "Senators",
+   "home": "Yankees",
+   "vs": 3,
+   "hs": 2,
+   "park": "Yankee Stadium I",
+   "city": "New York",
+   "event": "",
+   "crowd": 75000,
+   "seasonAvg": 8433
+  },
+  "runs": {
+   "year": 1872,
+   "visitor": "Braves",
+   "home": "Mansfields",
+   "vs": 25,
+   "hs": 12,
+   "park": null,
+   "city": null,
+   "event": "",
+   "total": 37
+  },
+  "blowout": {
+   "year": 1873,
+   "visitor": "Resolutes",
+   "home": "Braves",
+   "vs": 3,
+   "hs": 32,
+   "park": null,
+   "city": null,
+   "event": "",
+   "margin": 29
+  },
+  "marathon": {
+   "year": 1905,
+   "visitor": "Athletics",
+   "home": "Red Sox",
+   "vs": 4,
+   "hs": 2,
+   "park": "Huntington Avenue Baseball Grounds",
+   "city": "Boston",
+   "event": "",
+   "innings": 20
+  },
+  "ties": {
+   "count": 16,
+   "latest": {
+    "year": 1972,
+    "visitor": "Cubs",
+    "home": "Braves",
+    "vs": 3,
+    "hs": 3,
+    "park": "Atlanta-Fulton County Stadium",
+    "city": "Atlanta",
+    "event": ""
+   }
+  },
+  "forfeits": {
+   "count": 1,
+   "latest": {
+    "year": 1883,
+    "visitor": "Grays",
+    "home": "Phillies",
+    "vs": 11,
+    "hs": 9,
+    "park": null,
+    "city": null,
+    "event": ""
+   }
+  }
+ },
+ "duel": {
+  "year": 1979,
+  "visitor": "Mets",
+  "home": "Phillies",
+  "vs": 0,
+  "hs": 1,
+  "park": "Veterans Stadium",
+  "city": "Philadelphia",
+  "event": "",
+  "vpitcher": "Andy Hassler",
+  "hpitcher": "Steve Carlton",
+  "count": 63
+ },
+ "firsts": {
+  "doubleheaders": 597
+ },
+ "ages": {
+  "youngest": {
+   "name": "Frank McCarton",
+   "age": 17,
+   "year": 1872,
+   "team": "Mansfields"
+  },
+  "oldest": {
+   "name": "Phil Niekro",
+   "age": 47,
+   "year": 1986,
+   "team": "Indians"
+  }
+ },
+ "teams": {
+  "CHN": {
+   "name": "Cubs",
+   "w": 125,
+   "l": 100,
+   "t": 3,
+   "first": 1876,
+   "best": {
+    "score": "22-3 over the Phillies",
+    "year": 1884
+   },
+   "worst": {
+    "score": "3-19 to the Giants",
+    "year": 1961
+   }
+  },
+  "ATL": {
+   "name": "Braves",
+   "w": 99,
+   "l": 108,
+   "t": 2,
+   "first": 1876,
+   "best": {
+    "score": "14-1 over the Wolverines",
+    "year": 1882
+   },
+   "worst": {
+    "score": "0-15 to the Giants",
+    "year": 1934
+   }
+  },
+  "SFN": {
+   "name": "Giants",
+   "w": 92,
+   "l": 106,
+   "t": 2,
+   "first": 1883,
+   "best": {
+    "score": "19-3 over the Cubs",
+    "year": 1961
+   },
+   "worst": {
+    "score": "2-19 to the Cardinals",
+    "year": 1945
+   }
+  },
+  "PHI": {
+   "name": "Phillies",
+   "w": 105,
+   "l": 108,
+   "t": 0,
+   "first": 1883,
+   "best": {
+    "score": "12-1 over the Pirates",
+    "year": 2005
+   },
+   "worst": {
+    "score": "3-22 to the Cubs",
+    "year": 1884
+   }
+  },
+  "PIT": {
+   "name": "Pirates",
+   "w": 108,
+   "l": 105,
+   "t": 1,
+   "first": 1887,
+   "best": {
+    "score": "14-0 over the Senators",
+    "year": 1888
+   },
+   "worst": {
+    "score": "0-13 to the Braves",
+    "year": 1943
+   }
+  },
+  "CIN": {
+   "name": "Reds",
+   "w": 105,
+   "l": 89,
+   "t": 2,
+   "first": 1890,
+   "best": {
+    "score": "12-0 over the Cardinals",
+    "year": 1906
+   },
+   "worst": {
+    "score": "4-16 to the Pirates",
+    "year": 1951
+   }
+  },
+  "LAN": {
+   "name": "Dodgers",
+   "w": 97,
+   "l": 87,
+   "t": 2,
+   "first": 1890,
+   "best": {
+    "score": "16-1 over the Phillies",
+    "year": 1962
+   },
+   "worst": {
+    "score": "1-18 to the Astros",
+    "year": 2025
+   }
+  },
+  "SLN": {
+   "name": "Cardinals",
+   "w": 95,
+   "l": 98,
+   "t": 2,
+   "first": 1892,
+   "best": {
+    "score": "19-2 over the Giants",
+    "year": 1945
+   },
+   "worst": {
+    "score": "2-15 to the Marlins",
+    "year": 2023
+   }
+  },
+  "BOS": {
+   "name": "Red Sox",
+   "w": 99,
+   "l": 68,
+   "t": 0,
+   "first": 1901,
+   "best": {
+    "score": "19-5 over the Athletics",
+    "year": 1948
+   },
+   "worst": {
+    "score": "2-10 to the Athletics",
+    "year": 1927
+   }
+  },
+  "CHA": {
+   "name": "White Sox",
+   "w": 101,
+   "l": 84,
+   "t": 0,
+   "first": 1901,
+   "best": {
+    "score": "13-0 over the Browns",
+    "year": 1953
+   },
+   "worst": {
+    "score": "2-11 to the Senators",
+    "year": 1945
+   }
+  },
+  "CLE": {
+   "name": "Guardians",
+   "w": 93,
+   "l": 81,
+   "t": 2,
+   "first": 1901,
+   "best": {
+    "score": "19-1 over the Yankees",
+    "year": 2006
+   },
+   "worst": {
+    "score": "3-15 to the Tigers",
+    "year": 1923
+   }
+  },
+  "DET": {
+   "name": "Tigers",
+   "w": 84,
+   "l": 95,
+   "t": 2,
+   "first": 1901,
+   "best": {
+    "score": "15-3 over the Indians",
+    "year": 1923
+   },
+   "worst": {
+    "score": "0-11 to the Browns",
+    "year": 1905
+   }
+  },
+  "MIN": {
+   "name": "Twins",
+   "w": 73,
+   "l": 98,
+   "t": 3,
+   "first": 1901,
+   "best": {
+    "score": "13-1 over the Brewers",
+    "year": 1997
+   },
+   "worst": {
+    "score": "1-21 to the Yankees",
+    "year": 1927
+   }
+  },
+  "OAK": {
+   "name": "Athletics",
+   "w": 84,
+   "l": 83,
+   "t": 1,
+   "first": 1901,
+   "best": {
+    "score": "11-1 over the Yankees",
+    "year": 1962
+   },
+   "worst": {
+    "score": "5-19 to the Red Sox",
+    "year": 1948
+   }
+  },
+  "BAL": {
+   "name": "Orioles",
+   "w": 73,
+   "l": 96,
+   "t": 1,
+   "first": 1902,
+   "best": {
+    "score": "11-0 over the Tigers",
+    "year": 1905
+   },
+   "worst": {
+    "score": "0-13 to the White Sox",
+    "year": 1953
+   }
+  },
+  "NYA": {
+   "name": "Yankees",
+   "w": 97,
+   "l": 74,
+   "t": 3,
+   "first": 1903,
+   "best": {
+    "score": "21-1 over the Senators",
+    "year": 1927
+   },
+   "worst": {
+    "score": "1-19 to the Indians",
+    "year": 2006
+   }
+  },
+  "ANA": {
+   "name": "Angels",
+   "w": 31,
+   "l": 35,
+   "t": 0,
+   "first": 1961,
+   "best": {
+    "score": "14-0 over the Blue Jays",
+    "year": 1995
+   },
+   "worst": {
+    "score": "3-12 to the Indians",
+    "year": 2012
+   }
+  },
+  "TEX": {
+   "name": "Rangers",
+   "w": 35,
+   "l": 36,
+   "t": 0,
+   "first": 1961,
+   "best": {
+    "score": "18-3 over the Astros",
+    "year": 2004
+   },
+   "worst": {
+    "score": "0-13 to the Angels",
+    "year": 2015
+   }
+  },
+  "HOU": {
+   "name": "Astros",
+   "w": 35,
+   "l": 31,
+   "t": 0,
+   "first": 1962,
+   "best": {
+    "score": "18-1 over the Dodgers",
+    "year": 2025
+   },
+   "worst": {
+    "score": "3-18 to the Rangers",
+    "year": 2004
+   }
+  },
+  "NYN": {
+   "name": "Mets",
+   "w": 36,
+   "l": 38,
+   "t": 0,
+   "first": 1962,
+   "best": {
+    "score": "8-1 over the Phillies",
+    "year": 1966
+   },
+   "worst": {
+    "score": "7-17 to the Rockies",
+    "year": 2007
+   }
+  },
+  "MIL": {
+   "name": "Brewers",
+   "w": 21,
+   "l": 34,
+   "t": 0,
+   "first": 1969,
+   "best": {
+    "score": "15-3 over the Indians",
+    "year": 1974
+   },
+   "worst": {
+    "score": "1-13 to the Twins",
+    "year": 1997
+   }
+  },
+  "KCA": {
+   "name": "Royals",
+   "w": 28,
+   "l": 27,
+   "t": 0,
+   "first": 1969,
+   "best": {
+    "score": "13-2 over the Pilots",
+    "year": 1969
+   },
+   "worst": {
+    "score": "0-11 to the Angels",
+    "year": 2010
+   }
+  },
+  "WAS": {
+   "name": "Nationals",
+   "w": 37,
+   "l": 25,
+   "t": 0,
+   "first": 1969,
+   "best": {
+    "score": "19-3 over the Cubs",
+    "year": 1977
+   },
+   "worst": {
+    "score": "2-11 to the Red Sox",
+    "year": 2025
+   }
+  },
+  "SDN": {
+   "name": "Padres",
+   "w": 31,
+   "l": 24,
+   "t": 0,
+   "first": 1969,
+   "best": {
+    "score": "11-0 over the Rockies",
+    "year": 1999
+   },
+   "worst": {
+    "score": "0-9 to the Braves",
+    "year": 1980
+   }
+  },
+  "TOR": {
+   "name": "Blue Jays",
+   "w": 18,
+   "l": 27,
+   "t": 0,
+   "first": 1977,
+   "best": {
+    "score": "8-0 over the Devil Rays",
+    "year": 1998
+   },
+   "worst": {
+    "score": "0-14 to the Angels",
+    "year": 1995
+   }
+  },
+  "SEA": {
+   "name": "Mariners",
+   "w": 21,
+   "l": 25,
+   "t": 0,
+   "first": 1977,
+   "best": {
+    "score": "8-1 over the Tigers",
+    "year": 2010
+   },
+   "worst": {
+    "score": "6-14 to the Angels",
+    "year": 2006
+   }
+  },
+  "MIA": {
+   "name": "Marlins",
+   "w": 15,
+   "l": 17,
+   "t": 0,
+   "first": 1993,
+   "best": {
+    "score": "15-2 over the Cardinals",
+    "year": 2023
+   },
+   "worst": {
+    "score": "2-7 to the Cubs",
+    "year": 2015
+   }
+  },
+  "COL": {
+   "name": "Rockies",
+   "w": 12,
+   "l": 20,
+   "t": 0,
+   "first": 1993,
+   "best": {
+    "score": "17-7 over the Mets",
+    "year": 2007
+   },
+   "worst": {
+    "score": "0-11 to the Padres",
+    "year": 1999
+   }
+  },
+  "TBA": {
+   "name": "Rays",
+   "w": 10,
+   "l": 17,
+   "t": 0,
+   "first": 1998,
+   "best": {
+    "score": "11-2 over the Royals",
+    "year": 2008
+   },
+   "worst": {
+    "score": "0-11 to the Tigers",
+    "year": 2000
+   }
+  },
+  "ARI": {
+   "name": "Diamondbacks",
+   "w": 13,
+   "l": 13,
+   "t": 0,
+   "first": 1998,
+   "best": {
+    "score": "17-5 over the Cardinals",
+    "year": 1999
+   },
+   "worst": {
+    "score": "3-11 to the Dodgers",
+    "year": 2006
+   }
+  }
+ },
+ "people": {
+  "born": [
+   {
+    "name": "Mickey Welch",
+    "year": 1859,
+    "place": "Brooklyn, NY",
+    "career": "Career: 307-210, 2.71 ERA, 1,850 strikeouts",
+    "hof": true
+   },
+   {
+    "name": "George Mullin",
+    "year": 1880,
+    "place": "Toledo, OH",
+    "career": "Career: 228-196, 2.82 ERA, 1,482 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Jared Hughes",
+    "year": 1985,
+    "place": "Stamford, CT",
+    "career": "Career: 30-26, 2.96 ERA, 371 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Jim Beattie",
+    "year": 1954,
+    "place": "Hampton, VA",
+    "career": "Career: 52-87, 4.17 ERA, 660 strikeouts",
+    "hof": false
+   },
+   {
+    "name": "Vinny Castilla",
+    "year": 1967,
+    "place": "Oaxaca, México",
+    "career": "Career: .276 average, 320 home runs, 1,884 hits",
+    "hof": false
+   },
+   {
+    "name": "Brendan Donnelly",
+    "year": 1971,
+    "place": "Washington, DC",
+    "career": "Career: 32-10, 3.22 ERA, 369 strikeouts",
+    "hof": false
+   }
+  ],
+  "hof": [
+   {
+    "name": "Mickey Welch",
+    "kind": "Born",
+    "year": 1859,
+    "inducted": "1973"
+   }
+  ],
+  "awardWinners": [],
+  "coincidences": {
+   "bornCount": 65,
+   "fullCircle": {
+    "year": 2025,
+    "debut": "Colson Montgomery",
+    "died": "Bobby Jenks"
+   }
+  },
+  "oneGame": [
+   {
+    "name": "Ed Clark",
+    "year": 1886,
+    "line": "pitched 8 innings, allowed 8 runs",
+    "place": "Cincinnati, OH"
+   },
+   {
+    "name": "Bill Collver",
+    "year": 1885,
+    "line": "went 0 for 4",
+    "place": "Clyde, OH"
+   },
+   {
+    "name": "Charlie Ingraham",
+    "year": 1883,
+    "line": "went 1 for 4",
+    "place": "Peru, OH"
+   }
+  ],
+  "families": []
+ },
+ "negro": {
+  "count": 151,
+  "years": [
+   1933,
+   1949
+  ],
+  "withBox": 78,
+  "game": {
+   "year": 1948,
+   "kind": "League game",
+   "visitor": "Memphis Red Sox",
+   "home": "Birmingham Black Barons",
+   "vs": 9,
+   "hs": 10,
+   "park": "Rickwood Field",
+   "city": "Birmingham, AL",
+   "crowd": 5000,
+   "stars": [
+    {
+     "player": "Ed Steele",
+     "team": "Birmingham Black Barons",
+     "line": "2 for 4, 1 HR, 3 RBI",
+     "approx": false
+    },
+    {
+     "player": "Bob Boyd",
+     "team": "Memphis Red Sox",
+     "line": "3 for 5, 4 RBI",
+     "approx": false
+    },
+    {
+     "player": "Jose Colas",
+     "team": "Memphis Red Sox",
+     "line": "2 for 5, 3 RBI",
+     "approx": false
+    },
+    {
+     "player": "Norman Robinson",
+     "team": "Birmingham Black Barons",
+     "line": "2 for 5, 3 RBI",
+     "approx": false
+    }
+   ],
+   "hasBox": true
+  },
+  "others": [
+   {
+    "year": 1949,
+    "text": "Baltimore Elite Giants 4, New York Cubans 7",
+    "kind": "League game"
+   },
+   {
+    "year": 1948,
+    "text": "Philadelphia Stars 1, Baltimore Elite Giants 3",
+    "kind": "League game"
+   },
+   {
+    "year": 1948,
+    "text": "Newark Eagles 13, Homestead Grays 4",
+    "kind": "League game"
+   },
+   {
+    "year": 1948,
+    "text": "Newark Eagles 0, Homestead Grays 2",
+    "kind": "League game"
+   },
+   {
+    "year": 1948,
+    "text": "New York Black Yankees 9, New York Cubans 5",
+    "kind": "League game"
+   },
+   {
+    "year": 1947,
+    "text": "Philadelphia Stars 5, Newark Eagles 11",
+    "kind": "League game"
+   }
+  ]
+ }
+}

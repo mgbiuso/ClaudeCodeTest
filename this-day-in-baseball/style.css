@@ -415,3 +415,47 @@ figcaption a { text-decoration-thickness: 1px; }
 /* career lines and newspaper links */
 .body .career { margin: 0 0 .6em; font-size: 14.5px; font-style: italic; color: var(--ink-soft); }
 .wire-list a.more { font-family: var(--cond); letter-spacing: .08em; text-transform: uppercase; margin-left: 4px; white-space: nowrap; color: var(--red); }
+
+/* extra boxes from data/more (records, duel, born today, charts) */
+.duel-line { margin: 0 0 6px; font-family: var(--cond); font-size: 24px; letter-spacing: .03em; line-height: 1.1; }
+.duel-line strong { font-weight: 400; }
+.chart .trend { fill: none; stroke: var(--ink); stroke-width: 1.6; stroke-linejoin: round; }
+.chart .grid { stroke: var(--rule); stroke-width: 1; }
+.chart .mark { stroke: var(--red); stroke-width: 1.5; }
+.chart .bar-label { fill: var(--ink); font-size: 12px; }
+
+/* Negro Leagues band */
+.negro { margin-top: 26px; border-top: 4px solid var(--ink); }
+@media (min-width: 900px) { .negro { border-top-width: 9px; } }
+.negro-body { display: grid; grid-template-columns: 1fr; gap: 18px; padding-top: 12px; }
+@media (min-width: 900px) { .negro-body { grid-template-columns: 3fr 2fr; gap: 32px; } }
+.negro-kind { margin: 0 0 2px; font-family: var(--cond); font-size: 16px; letter-spacing: .1em; text-transform: uppercase; color: var(--red); }
+.negro-score { margin: 0 0 4px; font-family: var(--cond); font-size: clamp(28px, 6vw, 40px); line-height: 1.05; }
+.negro-score strong { font-weight: 400; }
+.negro-table { width: 100%; border-collapse: collapse; font-size: 14.5px; margin-top: 8px; }
+.negro-table th { text-align: left; font-family: var(--cond); font-weight: 400; font-size: 14px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft); border-bottom: 2px solid var(--ink); padding: 3px 6px 3px 0; }
+.negro-table td { padding: 4px 6px 4px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.negro-note { margin: 8px 0 0; font-size: 13px; line-height: 1.35; color: var(--ink-soft); }
+.negro > .negro-note { padding: 10px 0 0; margin-top: 12px; border-top: 1px solid var(--rule); }
+.negro-side .mini-head { font-size: 19px; }
+
+/* pick your team */
+.teamband { margin: 14px 0 0; padding: 10px 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); display: flex; flex-wrap: wrap; align-items: center; gap: 8px 22px; }
+.teamband-top { display: flex; align-items: center; gap: 10px; }
+.teamband-label { font-family: var(--cond); font-size: 19px; letter-spacing: .1em; text-transform: uppercase; color: var(--red); }
+.teamband select { font: inherit; font-size: 16px; min-height: 44px; padding: 4px 8px; border: 2px solid var(--ink); background: var(--paper, #fff); color: var(--ink); border-radius: 0; }
+.teamband-out { flex: 1 1 260px; min-width: 0; }
+.teamband-out .wire-sum { margin: 0; }
+.teamband-stats { display: grid; grid-template-columns: auto 1fr; gap: 2px 14px; margin: 0; font-size: 14.5px; }
+.teamband-stats dt { font-family: var(--cond); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); }
+.teamband-stats dd { margin: 0; font-weight: 700; }
+
+/* a very long game (18+ innings) scrolls inside its box instead of widening the page */
+.gotd { max-width: 100%; overflow-x: auto; }
+.nx { min-width: 0; max-width: 100%; }
+
+/* accessibility: small links get a 24px tap target, estimate text for screen readers, outline tidy-up */
+.sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+a.more, .watch-link { display: inline-block; min-height: 24px; line-height: 24px; }
+.mini-head { font-weight: 400; }
+/* small red text stays on --paper (5.0:1); on --paper-2 it would be 4.3:1, so --paper-2 is only for photo backdrops and calendar cells */

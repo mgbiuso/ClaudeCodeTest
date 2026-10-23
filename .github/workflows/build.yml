@@ -33,6 +33,10 @@ jobs:
           key: wikipedia-cache-${{ github.run_id }}
           restore-keys: wikipedia-cache-
 
+      - name: Quality checks (warn only)
+        working-directory: this-day-in-baseball
+        run: bash scripts/check.sh || echo "::warning::Quality checks found problems. Open this step to read them."
+
       # Data files the builds read. Files already in the cache are skipped. If a download fails, the build carries on without it.
       - name: Download Retrosheet files
         continue-on-error: true
