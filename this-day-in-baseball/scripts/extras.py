@@ -36,6 +36,13 @@ ROOT = Path(__file__).resolve().parent.parent
 LAHMAN_DIR = ROOT / ".cache" / "lahman"
 PAPERS_DIR = ROOT / "data" / "papers"
 LAHMAN_FILES = ("People.csv", "Batting.csv", "Pitching.csv")
+LAHMAN_COLUMNS = {
+    "People.csv": ("playerID", "nameFirst", "nameLast", "debut", "finalGame", "deathYear"),
+    "Batting.csv": ("playerID", "yearID", "G", "AB", "H", "HR", "SB"),
+    "Pitching.csv": ("playerID", "yearID", "W", "L", "G", "SV", "IPouts", "ER", "SO"),
+}
+# The old GitHub address below is gone (404). Download the 2025 zip by hand from https://sabr.org/lahman-database/
+# and use: python3 scripts/extras.py --fetch-lahman --source <the zip>
 LAHMAN_URL = "https://github.com/chadwickbureau/baseballdatabank/archive/refs/heads/master.zip"
 LOC_URL = "https://www.loc.gov/collections/chronicling-america/"
 UA = {"User-Agent": "this-day-in-baseball/1.0 (mgbiuso@gmail.com)"}
@@ -108,6 +115,13 @@ def load_lahman():
     if not all((LAHMAN_DIR / n).exists() for n in LAHMAN_FILES):
         print("  note: career lines skipped, the Lahman files are not downloaded (run: python3 scripts/extras.py --fetch-lahman)", file=sys.stderr)
         return None
+    for name, cols in LAHMAN_COLUMNS.items():  # SABR plans a new layout in 2027: stop with a plain message if the columns change
+        with open(LAHMAN_DIR / name, encoding="utf-8-sig", newline="") as f:
+            header = next(csv.reader(f), [])
+        missing = [c for c in cols if c not in header]
+        if missing:
+            print(f"  note: career lines skipped, {name} is missing columns {', '.join(missing)} (Lahman changed its layout)", file=sys.stderr)
+            return None
     debut, final, death, death_year = {}, {}, {}, {}
     debut_y, final_y = {}, {}  # (name, year) fallbacks when the exact date differs (some last games are postseason games)
     for r in _rows("People.csv"):
