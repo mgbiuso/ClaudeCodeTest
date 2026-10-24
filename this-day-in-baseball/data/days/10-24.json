@@ -12,7 +12,7 @@
     "1960 World Series",
     "Bill Mazeroski"
    ],
-   "score": 159.75717332766007,
+   "score": 159.76299367264886,
    "abouts": [
     "1960 World Series",
     "Bill Mazeroski",
@@ -40,13 +40,43 @@
   {
    "src": "article",
    "kind": "event",
+   "year": "2021",
+   "text": "On October 24, 2021, Prieto was hired as the first base coach for the Tampa Bay Rays.",
+   "links": [
+    "Chris Prieto"
+   ],
+   "about": "Chris Prieto",
+   "score": 21.300356939925372,
+   "abouts": [
+    "Chris Prieto"
+   ],
+   "key": "51034c8bb7959ac4",
+   "headline": "Prieto Hired as Rays First Base Coach",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chris_Prieto_%28Third_Base_Coach%29%2C_Oakland_A%27s_6%2C_Seattle_Mariners_2%2C_Oakland_Coliseum%2C_Oakland%2C_California_%2847934063971%29_%28cropped%29.jpg/960px-Chris_Prieto_%28Third_Base_Coach%29%2C_Oakland_A%27s_6%2C_Seattle_Mariners_2%2C_Oakland_Coliseum%2C_Oakland%2C_California_%2847934063971%29_%28cropped%29.jpg",
+    "credit": "Ken Lund from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chris_Prieto_(Third_Base_Coach),_Oakland_A%27s_6,_Seattle_Mariners_2,_Oakland_Coliseum,_Oakland,_California_(47934063971)_(cropped).jpg",
+    "alt": "Player in navy Mariners jersey, PRIETO 13, helmet, grass field.",
+    "source": "checked",
+    "of": "Chris Prieto (Commons search)",
+    "w": 1087,
+    "h": 2991,
+    "tier": "person"
+   },
+   "extract": "Christian Michael Prieto is an American former professional baseball player and coach who played one season in Major League Baseball for the Los Angeles Angels of Anaheim in 2005. Prieto attended Carmel High School, and the University of Nevada.",
+   "page": "https://en.wikipedia.org/wiki/Chris_Prieto"
+  },
+  {
+   "src": "article",
+   "kind": "event",
    "year": "2019",
    "text": "On October 24, 2019, the Cubs hired Ross as their manager to replace Joe Maddon, signing him to a three-year contract.",
    "links": [
     "David Ross (baseball)"
    ],
    "about": "David Ross (baseball)",
-   "score": 22.0,
+   "score": 43.46515452803219,
    "abouts": [
     "David Ross (baseball)"
    ],
@@ -68,25 +98,6 @@
    "page": "https://en.wikipedia.org/wiki/David_Ross_(baseball)"
   },
   {
-   "src": "article",
-   "kind": "event",
-   "year": "2019",
-   "text": "On October 24, 2019, the Cincinnati Reds announced the hiring of Zinter as their hitting coach.",
-   "links": [
-    "Alan Zinter"
-   ],
-   "about": "Alan Zinter",
-   "score": 10.0,
-   "abouts": [
-    "Alan Zinter"
-   ],
-   "key": "0f5cb7cbcf80184c",
-   "headline": "Reds Hire Zinter as Hitting Coach",
-   "image": null,
-   "extract": "Alan Michael Zinter is an American former professional baseball player and hitting coach. He played for Seibu Lions of Nippon Professional Baseball (NPB) in 1999 and with the Houston Astros and Arizona Diamondbacks of Major League Baseball (MLB) in 2002 and 2004, respectively. He served as the minor league hitting…",
-   "page": "https://en.wikipedia.org/wiki/Alan_Zinter"
-  },
-  {
    "src": "yearpage",
    "kind": "event",
    "year": "2018",
@@ -96,13 +107,13 @@
     "Fenway Park",
     "2018 World Series"
    ],
-   "score": 87.46652330746505,
+   "score": 88.20687472596063,
    "abouts": [
+    "Fenway Park",
     "2018 World Series",
-    "David Price (baseball)",
-    "Fenway Park"
+    "David Price (baseball)"
    ],
-   "about": "2018 World Series",
+   "about": "Fenway Park",
    "key": "6e2c9b3a72502d24",
    "headline": "Price Holds Dodgers to Two Runs, Red Sox Lead 2-0",
    "image": {
@@ -117,8 +128,27 @@
     "h": 3364,
     "tier": "person"
    },
-   "extract": "The 2018 World Series was the championship series of Major League Baseball's 2018 season. The 114th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Boston Red Sox and the National League (NL) champion Los Angeles Dodgers. The Red Sox defeated the Dodgers in…",
-   "page": "https://en.wikipedia.org/wiki/2018_World_Series"
+   "extract": "Fenway Park is a ballpark in Boston, Massachusetts, United States, close to Kenmore Square. Since 1912, it has been the home field of Major League Baseball's (MLB) Boston Red Sox. While the stadium was built in 1912, it was substantially rebuilt in 1934, and underwent major renovations and modifications in the 21st…",
+   "page": "https://en.wikipedia.org/wiki/Fenway_Park"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2018",
+   "text": "Benny Valenzuela, 85, Mexican third baseman who played for the 1958 St. Louis Cardinals.",
+   "links": [
+    "Benny Valenzuela"
+   ],
+   "score": 20.055,
+   "abouts": [
+    "Benny Valenzuela"
+   ],
+   "about": "Benny Valenzuela",
+   "key": "9bf53c9636e042a3",
+   "headline": "Benny Valenzuela, 85, Mexican Third Baseman",
+   "image": null,
+   "extract": "Benjamín Valenzuela Beltrán was a Mexican professional baseball player, a third baseman who appeared in ten Major League Baseball games for the St. Louis Cardinals during the 1958 season. Nicknamed \"Papelero\" in his native Mexico, he threw and batted right-handed, stood 5 feet 10 inches (1.78 m) tall and weighed 175…",
+   "page": "https://en.wikipedia.org/wiki/Benny_Valenzuela"
   },
   {
    "src": "yearpage",
@@ -129,12 +159,12 @@
     "2017 World Series",
     "Clayton Kershaw"
    ],
-   "score": 88.14368113367837,
+   "score": 89.03008541504603,
    "abouts": [
-    "2017 World Series",
-    "Clayton Kershaw"
+    "Clayton Kershaw",
+    "2017 World Series"
    ],
-   "about": "2017 World Series",
+   "about": "Clayton Kershaw",
    "key": "a29a9bc0944e6faa",
    "headline": "Clayton Kershaw Leads Dodgers Past Astros 3-1 in Game 1",
    "image": {
@@ -149,8 +179,8 @@
     "h": 420,
     "tier": "venue"
    },
-   "extract": "The 2017 World Series was the championship series of Major League Baseball's (MLB) 2017 season. The 113th edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion Los Angeles Dodgers and the American League (AL) champion Houston Astros. The series was played between…",
-   "page": "https://en.wikipedia.org/wiki/2017_World_Series"
+   "extract": "Clayton Edward Kershaw is an American former professional baseball pitcher who played 18 seasons for the Los Angeles Dodgers of Major League Baseball (MLB). A left-handed starting pitcher, Kershaw was an 11-time National League (NL) All-Star, three-time Cy Young Award winner, and 2014 NL Most Valuable Player. He is…",
+   "page": "https://en.wikipedia.org/wiki/Clayton_Kershaw"
   },
   {
    "src": "article",
@@ -161,7 +191,7 @@
     "Charlie Montoyo"
    ],
    "about": "Charlie Montoyo",
-   "score": 10.0,
+   "score": 27.258164737284954,
    "abouts": [
     "Charlie Montoyo"
    ],
@@ -191,7 +221,7 @@
     "2012 Major League Baseball season"
    ],
    "about": "2012 Major League Baseball season",
-   "score": 103.90266662658202,
+   "score": 103.91773141135175,
    "abouts": [
     "2012 Major League Baseball season"
    ],
@@ -222,7 +252,7 @@
     "San Francisco Giants",
     "2012 World Series"
    ],
-   "score": 100.57305492116086,
+   "score": 100.69024972102446,
    "abouts": [
     "2012 World Series",
     "Pablo Sandoval",
@@ -260,7 +290,7 @@
     "Buck O'Neil",
     "Buck O'Neil Lifetime Achievement Award"
    ],
-   "score": 62.0,
+   "score": 82.45252470712022,
    "abouts": [
     "Buck O'Neil",
     "Buck O'Neil Lifetime Achievement Award"
@@ -292,7 +322,7 @@
     "Fenway Park",
     "Curt Schilling"
    ],
-   "score": 10.0,
+   "score": 33.20687472596063,
    "abouts": [
     "Fenway Park",
     "Curt Schilling"
@@ -325,7 +355,7 @@
     "Atlanta Braves",
     "Atlanta–Fulton County Stadium"
    ],
-   "score": 111.02899810785289,
+   "score": 111.06904922320751,
    "abouts": [
     "1996 World Series",
     "Atlanta–Fulton County Stadium",
@@ -364,7 +394,7 @@
     "1992 World Series",
     "Atlanta Braves"
    ],
-   "score": 95.55564018172562,
+   "score": 95.69498507016318,
    "abouts": [
     "1992 World Series",
     "Toronto Blue Jays",
@@ -552,7 +582,7 @@
     "Associated Press",
     "American League"
    ],
-   "score": 55.82215103144817,
+   "score": 55.79769712798655,
    "abouts": [
     "Associated Press",
     "American League",
@@ -573,7 +603,7 @@
    "links": [
     "Al Brazle"
    ],
-   "score": 20.087,
+   "score": 20.089,
    "abouts": [
     "Al Brazle"
    ],
@@ -634,7 +664,7 @@
    "links": [
     "Andy Oyler"
    ],
-   "score": 20.1235,
+   "score": 20.116,
    "abouts": [
     "Andy Oyler"
    ],
@@ -654,7 +684,7 @@
     "Hiram Bithorn Stadium"
    ],
    "about": "Hiram Bithorn Stadium",
-   "score": 25.0,
+   "score": 43.40846696002282,
    "abouts": [
     "Hiram Bithorn Stadium"
    ],
@@ -807,7 +837,7 @@
     "Billy Murray (singer)",
     "Albert Von Tilzer"
    ],
-   "score": 50.84984086998446,
+   "score": 50.84690247655975,
    "abouts": [
     "Albert Von Tilzer",
     "Take Me Out to the Ball Game",
@@ -1108,7 +1138,8 @@
     "park": "Rogers Centre",
     "event": "World Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 169,
@@ -1268,6 +1299,36 @@
    "paper": "Amerikanski srbobran (Pittsburg, Pa.;Pittsburgh, Pa.)",
    "page": 1,
    "url": "https://www.loc.gov/resource/sn85055101/1962-10-24/ed-1/?sp=1&q=baseball"
+  },
+  {
+   "year": 1959,
+   "paper": "The Detroit tribune (Detroit, Mich.)",
+   "page": 9,
+   "url": "https://www.loc.gov/resource/sn92063852/1959-10-24/ed-1/?sp=9&q=baseball"
+  },
+  {
+   "year": 1956,
+   "paper": "The Key West citizen (Key West, Fla.)",
+   "page": 8,
+   "url": "https://www.loc.gov/resource/sn83016244/1956-10-24/ed-1/?sp=8&q=baseball"
+  },
+  {
+   "year": 1951,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 14,
+   "url": "https://www.loc.gov/resource/sn83045462/1951-10-24/ed-1/?sp=14&q=baseball"
+  },
+  {
+   "year": 1947,
+   "paper": "Le messager (Lewiston, Me.)",
+   "page": 6,
+   "url": "https://www.loc.gov/resource/sn83045313/1947-10-24/ed-1/?sp=6&q=baseball"
+  },
+  {
+   "year": 1946,
+   "paper": "Le messager (Lewiston, Me.)",
+   "page": 6,
+   "url": "https://www.loc.gov/resource/sn83045313/1946-10-24/ed-1/?sp=6&q=baseball"
   }
  ]
 }

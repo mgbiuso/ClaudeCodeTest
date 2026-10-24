@@ -5856,6 +5856,22 @@
   "reason": "person: Older man in Braves jersey and cap in dugout with baseball",
   "model": "claude-haiku-5-5"
  },
+ "51034c8bb7959ac4": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chris_Prieto_%28Third_Base_Coach%29%2C_Oakland_A%27s_6%2C_Seattle_Mariners_2%2C_Oakland_Coliseum%2C_Oakland%2C_California_%2847934063971%29_%28cropped%29.jpg/960px-Chris_Prieto_%28Third_Base_Coach%29%2C_Oakland_A%27s_6%2C_Seattle_Mariners_2%2C_Oakland_Coliseum%2C_Oakland%2C_California_%2847934063971%29_%28cropped%29.jpg",
+   "credit": "Ken Lund from Reno, Nevada, USA",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Chris_Prieto_(Third_Base_Coach),_Oakland_A%27s_6,_Seattle_Mariners_2,_Oakland_Coliseum,_Oakland,_California_(47934063971)_(cropped).jpg",
+   "alt": "Player in navy Mariners jersey, PRIETO 13, helmet, grass field.",
+   "source": "checked",
+   "of": "Chris Prieto (Commons search)",
+   "w": 1087,
+   "h": 2991,
+   "tier": "person"
+  },
+  "reason": "person: Player in navy Mariners jersey, PRIETO 13, helmet, grass field.",
+  "model": "claude-haiku-5-5"
+ },
  "5124774f354ccd96": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/1884grays.jpg/960px-1884grays.jpg",
@@ -11780,6 +11796,11 @@
  "9bb143e2da89c35d": {
   "image": null,
   "reason": "rejected 1888 Reds.jpg: The photo is captioned and dated 1888, but the story describes the 1880 Cincinnati Stars' final game. The period doesn't match the event.",
+  "model": "claude-haiku-5-5"
+ },
+ "9bf53c9636e042a3": {
+  "image": null,
+  "reason": "no free-licensed candidates",
   "model": "claude-haiku-5-5"
  },
  "9c069c84eb6ab94b": {
