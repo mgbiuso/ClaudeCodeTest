@@ -11573,6 +11573,11 @@
   "reason": "person: Older man in black polo, smiling, blue backdrop with mountain logo",
   "model": "claude-haiku-5-5"
  },
+ "97e54f6dc813a3d3": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
  "97f26d5909b6440a": {
   "image": null,
   "reason": "no free-licensed candidates",
@@ -16362,6 +16367,11 @@
    "tier": "person"
   },
   "reason": "person: Pitcher in white Athletics road-style jersey, number 51, mid-delivery at a ballpark.",
+  "model": "claude-haiku-5-5"
+ },
+ "d590cb55625f4c3d": {
+  "image": null,
+  "reason": "judge found no fitting photo",
   "model": "claude-haiku-5-5"
  },
  "d5a51ca06f6b72c2": {

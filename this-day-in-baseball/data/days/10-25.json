@@ -12,7 +12,7 @@
     "Yankee Stadium (1923)",
     "Josh Beckett"
    ],
-   "score": 136.3957100324582,
+   "score": 136.53298283398638,
    "abouts": [
     "2003 World Series",
     "Yankee Stadium (1923)",
@@ -51,7 +51,7 @@
     "Bobby Dickerson"
    ],
    "about": "Bobby Dickerson",
-   "score": 26.319363384326117,
+   "score": 26.28479076280466,
    "abouts": [
     "Bobby Dickerson"
    ],
@@ -81,7 +81,7 @@
     "Charlie Montoyo"
    ],
    "about": "Charlie Montoyo",
-   "score": 39.43073498403287,
+   "score": 39.208475678203584,
    "abouts": [
     "Charlie Montoyo"
    ],
@@ -110,7 +110,7 @@
    "links": [
     "2017 World Series"
    ],
-   "score": 73.1582840258396,
+   "score": 73.22470272298398,
    "abouts": [
     "2017 World Series"
    ],
@@ -141,7 +141,7 @@
     "Theo Epstein",
     "Ben Cherington"
    ],
-   "score": 39.28713846473242,
+   "score": 39.217879398751286,
    "abouts": [
     "Ben Cherington",
     "Theo Epstein"
@@ -173,7 +173,7 @@
     "John Farrell (baseball manager)"
    ],
    "about": "John Farrell (baseball manager)",
-   "score": 39.85970817537231,
+   "score": 39.976929904045704,
    "abouts": [
     "John Farrell (baseball manager)"
    ],
@@ -204,7 +204,7 @@
     "John Smoltz",
     "CC Sabathia"
    ],
-   "score": 94.18484690045938,
+   "score": 94.1781992400349,
    "abouts": [
     "CC Sabathia",
     "John Smoltz",
@@ -238,7 +238,7 @@
     "Roberto Clemente Award",
     "Players Choice Award"
    ],
-   "score": 44.14706568464672,
+   "score": 44.07835353306338,
    "abouts": [
     "Albert Pujols",
     "Roberto Clemente Award",
@@ -359,7 +359,7 @@
     "Frank Viola",
     "Jeff Reardon"
    ],
-   "score": 134.73618803935332,
+   "score": 134.9980447948571,
    "abouts": [
     "1987 World Series",
     "Frank Viola",
@@ -398,7 +398,7 @@
     "Boston Red Sox",
     "Gary Carter"
    ],
-   "score": 93.29767953577108,
+   "score": 93.36694789094153,
    "abouts": [
     "1918 World Series",
     "Gary Carter",
@@ -426,6 +426,27 @@
     "title": "Must C Classic: Mets win Game 6 on Mookie Wilson's grounder that goes through Bill Buckner's legs",
     "channel": "MLB"
    }
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1976",
+   "text": "Claire Merritt Ruth, 79, widow of Babe Ruth, who died on August 16, 1948",
+   "links": [
+    "Claire Merritt Ruth",
+    "Babe Ruth"
+   ],
+   "score": 23.2045,
+   "abouts": [
+    "Claire Merritt Ruth",
+    "Babe Ruth"
+   ],
+   "about": "Claire Merritt Ruth",
+   "key": "97e54f6dc813a3d3",
+   "headline": "Claire Merritt Ruth, 79, Widow of Babe Ruth",
+   "image": null,
+   "extract": "George Herman \"Babe\" Ruth was an American professional baseball player whose career in Major League Baseball (MLB) spanned 22 seasons, from 1914 through 1935. Nicknamed \"the Bambino\" and \"the Sultan of Swat\", he began his MLB career as a star left-handed pitcher for the Boston Red Sox, but achieved his greatest fame…",
+   "page": "https://en.wikipedia.org/wiki/Babe_Ruth"
   },
   {
    "src": "yearpage",
@@ -459,7 +480,7 @@
     "Houston Astros",
     "César Cedeño"
    ],
-   "score": 10.0,
+   "score": 27.72220068658846,
    "abouts": [
     "César Cedeño",
     "Houston Astros"
@@ -561,7 +582,7 @@
     "Brooklyn Dodgers",
     "Branch Rickey"
    ],
-   "score": 43.66945205808062,
+   "score": 43.663605821445636,
    "abouts": [
     "Branch Rickey",
     "Leo Durocher",
@@ -593,7 +614,7 @@
    "links": [
     "Bill Phillips (pitcher)"
    ],
-   "score": 20.0715,
+   "score": 20.071,
    "abouts": [
     "Bill Phillips (pitcher)"
    ],
@@ -624,7 +645,7 @@
     "1918 New York Yankees season"
    ],
    "about": "1918 New York Yankees season",
-   "score": 21.450173056812588,
+   "score": 21.537480189566065,
    "abouts": [
     "1918 New York Yankees season"
    ],
@@ -633,6 +654,25 @@
    "image": null,
    "extract": "The 1918 New York Yankees season was the 16th season for the franchise. The team finished with a record of 60–63, finishing 13.5 games behind the American League champion Boston Red Sox. New York was managed by Miller Huggins. Their home games were played at the Polo Grounds.",
    "page": "https://en.wikipedia.org/wiki/1918_New_York_Yankees_season"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1904",
+   "text": "Cornelius Van Cott, 66, owner of the New York Giants from January 1893 to January 1895.",
+   "links": [
+    "Cornelius Van Cott"
+   ],
+   "score": 20.05,
+   "abouts": [
+    "Cornelius Van Cott"
+   ],
+   "about": "Cornelius Van Cott",
+   "key": "d590cb55625f4c3d",
+   "headline": "Cornelius Van Cott, 66, Former New York Giants Owner",
+   "image": null,
+   "extract": "Cornelius C. Van Cott was the owner of the New York Giants of the National League for two years in the 1890s. He later was a member of the New York State Senate and served two terms as Postmaster of New York City.",
+   "page": "https://en.wikipedia.org/wiki/Cornelius_Van_Cott"
   },
   {
    "src": "yearpage",
@@ -887,7 +927,8 @@
     "park": "Rogers Centre",
     "event": "World Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 159,
@@ -1032,5 +1073,43 @@
    1987,
    1987
   ]
- }
+ },
+ "papers": [
+  {
+   "year": 1960,
+   "paper": "The Key West citizen (Key West, Fla.)",
+   "page": 8,
+   "url": "https://www.loc.gov/resource/sn83016244/1960-10-25/ed-1/?sp=8&q=baseball"
+  },
+  {
+   "year": 1956,
+   "paper": "East Cleveland leader (East Cleveland, Ohio)",
+   "page": 4,
+   "url": "https://www.loc.gov/resource/sn83035682/1956-10-25/ed-1/?sp=4&q=baseball"
+  },
+  {
+   "year": 1943,
+   "paper": "Le messager (Lewiston, Me.)",
+   "page": 4,
+   "url": "https://www.loc.gov/resource/sn83045313/1943-10-25/ed-1/?sp=4&q=baseball"
+  },
+  {
+   "year": 1941,
+   "paper": "The Washington daily news (Washington, D.C.)",
+   "page": 27,
+   "url": "https://www.loc.gov/resource/sn82016181/1941-10-25/ed-1/?sp=27&q=baseball"
+  },
+  {
+   "year": 1917,
+   "paper": "The Butte daily post (Butte, Mont.)",
+   "page": 10,
+   "url": "https://www.loc.gov/resource/sn85053058/1917-10-25/ed-1/?sp=10&q=baseball"
+  },
+  {
+   "year": 1904,
+   "paper": "The Washington times (Washington [D.C.])",
+   "page": 8,
+   "url": "https://www.loc.gov/resource/sn84026749/1904-10-25/ed-1/?sp=8&q=baseball"
+  }
+ ]
 }
