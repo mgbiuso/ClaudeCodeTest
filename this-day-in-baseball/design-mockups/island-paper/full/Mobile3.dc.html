@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Oct 4 mobile part 3</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@500;600;800;900&family=Playfair+Display:ital,wght@0,700;0,800;0,900;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+.pg{--ink:#1a1916;--mut:#46433b;--red:#c23b22;--blue:#2554a5;--hf:'Playfair Display',Georgia,serif;--bf:'Source Serif 4',Georgia,serif;--kf:'Libre Franklin','Helvetica Neue',Arial,sans-serif;--sc:#2554a5;
+position:relative;width:390px;box-sizing:border-box;padding:14px 16px 20px;background:var(--paper);color:var(--ink);font-family:var(--bf);display:flex;flex-direction:column;box-shadow:inset 0 0 70px rgba(70,58,36,.30)}
+.tex{position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:none;mix-blend-mode:multiply;opacity:.5;z-index:5}
+.s4{--sc:#7a5200}.s5{--sc:#5a2d7a}.s6{--sc:#2b2a27}
+.plw{border:2px solid var(--red);padding:3px}
+.plate{background:var(--blue);color:#fff;text-align:center;padding:9px 0 7px}
+.plate h1{margin:0;font:900 27px/1 var(--hf)}
+.plate p{margin:4px 0 0;font:800 7px var(--kf);letter-spacing:.2em;text-transform:uppercase}
+.dline{display:flex;justify-content:space-between;font:600 10px var(--kf);letter-spacing:.1em;text-transform:uppercase;color:var(--mut);border-bottom:1px solid var(--ink);padding:7px 0 6px}
+.sec{background:var(--sc);color:#fff;display:flex;justify-content:space-between;align-items:baseline;padding:10px 14px 8px;margin-top:20px;outline:1px solid rgba(255,255,255,.6);outline-offset:-4px}
+.sec h2{margin:0;font:900 26px/1 var(--hf)}
+.sec span{font:800 8px var(--kf);letter-spacing:.14em;text-transform:uppercase}
+.tx{font:400 14px/1.45 var(--bf);margin:0 0 8px}
+.rm{display:inline-block;font:900 10px var(--kf);letter-spacing:.12em;text-transform:uppercase;color:var(--ink);text-decoration:none;border-bottom:2px solid var(--red);padding:10px 0 1px;align-self:flex-start}
+.bx{border:2px solid var(--ink);padding:10px 12px;display:flex;flex-direction:column;margin-top:14px}
+.bx h3{margin:-10px -12px 6px;background:var(--sc);color:#fff;font:900 11px var(--kf);letter-spacing:.12em;text-transform:uppercase;padding:6px 12px}
+.n{display:flex;justify-content:space-between;align-items:center;gap:10px;border-bottom:1px dotted var(--ink);padding:7px 0;font:400 14px/1.3 var(--bf)}
+.n em{font:900 15px var(--kf);font-style:normal;text-align:right;color:var(--sc)}
+.n em.s{font-size:11px;max-width:48%}
+.sm{font:500 11px/1.4 var(--kf);color:var(--mut);margin:6px 0 0}
+.pq{border-top:4px solid var(--red);border-bottom:1px solid var(--ink);padding:14px 10px;margin:16px 0 2px;text-align:center}
+.pq p{font:italic 700 22px/1.22 var(--hf);margin:0}
+.pq span{display:block;font:800 9px var(--kf);letter-spacing:.14em;text-transform:uppercase;color:var(--mut);margin-top:8px}
+.br{display:grid;grid-template-columns:40px 1fr 62px;align-items:center;gap:6px;border-bottom:1px dotted var(--ink);padding:4px 0;font:700 11px var(--kf)}
+.br i{display:block;height:11px;background:var(--sc)}
+.br.q i{height:4px;background:#6b665a}
+.br em{font-style:normal;text-align:right;font-weight:900}
+.ix{columns:2;column-gap:16px;column-rule:1px solid var(--ink)}
+.ix p{break-inside:avoid;margin:0 0 7px;font:400 12px/1.3 var(--bf)}
+.ix b{display:block;font:900 10px var(--kf);letter-spacing:.06em}
+.ix u{font:800 7px var(--kf);letter-spacing:.1em;text-decoration:none;text-transform:uppercase;border:1px solid var(--ink);padding:0 3px;margin-left:4px}
+.dyk{margin:16px 0 4px;padding:10px 12px;border-top:3px double var(--ink);border-bottom:3px double var(--ink);background:rgba(255,255,255,.18)}
+.dyk b{display:inline-block;font:900 10px var(--kf);letter-spacing:.16em;text-transform:uppercase;color:#fff;background:var(--red);padding:4px 9px;transform:rotate(-2deg);margin-bottom:8px}
+.dyk p{margin:0;font:italic 700 17px/1.25 var(--hf)}
+.bn{border:2px solid var(--ink);padding:12px 14px;background:rgba(255,255,255,.14);margin-top:14px}
+.bn .num{font:900 72px/.9 var(--hf);color:var(--sc);letter-spacing:-.02em;margin:0}
+.bn .lab{font:900 12px var(--kf);letter-spacing:.12em;text-transform:uppercase;margin:8px 0;padding-bottom:7px;border-bottom:3px double var(--ink)}
+.bn p{font:400 14px/1.4 var(--bf);margin:0 0 5px}
+.fgs{display:grid;grid-template-columns:1fr 1fr;gap:12px 10px;margin-top:12px}
+.fg{margin:0;display:flex;flex-direction:column}
+.fg img{display:block;width:100%;height:120px;object-fit:cover;object-position:50% 25%;border:1px solid var(--ink);border-bottom:4px solid var(--ink)}
+.fg b{font:900 10px var(--kf);letter-spacing:.1em;margin:5px 0 1px}
+.fg span{font:600 11px/1.3 var(--kf)}
+.fg em{font:500 7.5px/1.3 var(--kf);letter-spacing:.05em;text-transform:uppercase;color:var(--mut);font-style:normal;padding-top:4px}
+.cdp{display:flex;flex-direction:column;border:2px solid var(--ink);background:rgba(255,255,255,.2);padding:10px;margin-top:12px}
+.cdp img{display:block;width:100%;height:240px;object-fit:contain;background:rgba(120,100,60,.18);border:1px solid var(--ink)}
+.cdp b{font:800 17px/1.15 var(--hf);margin:8px 0 2px}
+.cdp span{font:600 12px/1.35 var(--kf)}
+.cdp em{font:500 8px/1.3 var(--kf);letter-spacing:.05em;text-transform:uppercase;color:var(--mut);font-style:normal;margin-top:6px}
+.pp{display:flex;flex-direction:column;border:2px dashed var(--ink);padding:10px 12px;text-decoration:none;color:var(--ink);background:rgba(255,255,255,.14);margin-top:12px}
+.pp b{font:900 40px/.95 var(--hf);color:var(--sc)}
+.pp span{font:600 12px/1.4 var(--kf);margin-top:4px}
+.pp em{font:900 10px var(--kf);letter-spacing:.12em;text-transform:uppercase;font-style:normal;border-bottom:2px solid var(--red);align-self:flex-start;margin-top:8px}
+.ft{border-top:3px double var(--ink);margin-top:24px;padding-top:8px;font:500 10px/1.5 var(--kf);color:var(--mut)}
+</style>
+</helmet>
+<div class="pg" style="--paper: {{paper}}">
+<svg class="tex" aria-hidden="true" preserveAspectRatio="none"><defs><filter id="grainm3" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 0.22  0 0 0 0 0.20  0 0 0 0 0.16  1.3 0 0 0 -0.52"/></filter><filter id="blotm3" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.01 0.03" numOctaves="3" seed="3"/><feColorMatrix values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.24  0.9 0 0 0 -0.32"/></filter></defs><rect width="100%" height="100%" filter="url(#blotm3)"/><rect width="100%" height="100%" filter="url(#grainm3)"/></svg>
+
+<div class="plw"><div class="plate"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+<div class="dline"><span>Sunday, Oct. 4</span><span>History Edition</span><span>B5</span></div>
+
+<div class="s6" style="--sc:#2b2a27">
+<div class="sec" style="margin-top:14px"><h2>More From the Day</h2><span>Six stories</span></div>
+<div class="fgs">
+<figure class="fg"><img src="/_blob/5fbe063e0771bcb9e89cbfa36823aad5" alt="Vintage baseball card portrait of Germany Schaefer" loading="lazy"><b>1913</b><span>Senators use eight pitchers, including manager Griffith</span><em>Germany Schaefer card. American Tobacco Co., public domain</em></figure>
+<figure class="fg"><img src="/_blob/7778f9f811d096892ebbf430ed545ee2" alt="Freddie Lindstrom with his young son" loading="lazy"><b>1935</b><span>Lindstrom's misplay helps Tigers win Game 3, 6-5</span><em>Lindstrom and son. Unknown author, public domain</em></figure>
+<figure class="fg"><img src="/_blob/6cf574c4793ae0f808f0cab418d9feff" alt="Portrait of Johnny Cooney in 1921" loading="lazy"><b>1937</b><span>Dodgers trade four players for Leo Durocher</span><em>Johnny Cooney, 1921. Public domain</em></figure>
+<figure class="fg"><img src="/_blob/2af11c12224d531ae90373629392a5ce" alt="Mike Schmidt at a Hall of Fame event" loading="lazy"><b>1983</b><span>Carlton and Schmidt lead Phillies past Dodgers, 1-0</span><em>Mike Schmidt. Peter Bond, CC BY-SA 2.0</em></figure>
+<figure class="fg"><img src="/_blob/73860c0c1b6a1901381605274f1da305" alt="The Astrodome in 1965" loading="lazy"><b>2007</b><span>Don Nottebart, 71, threw the first Colt .45s no-hitter</span><em>The Astrodome, 1965. Ted Rozumalski, public domain</em></figure>
+<figure class="fg"><img src="/_blob/d906480269f1d8538bc7b644d1857a32" alt="1981 Phoenix Giants baseball card of Bob Tufts" loading="lazy"><b>2019</b><span>Bob Tufts, 63, former Giants and Royals pitcher</span><em>Bob Tufts, 1981 card. Public domain</em></figure>
+</div>
+<div class="sec" style="margin-top:20px"><h2>The Papers</h2><span>Library of Congress</span></div>
+<a class="pp" href="https://www.loc.gov/collections/chronicling-america/?dates=1928-10-05&amp;q=world+series" target="_blank" rel="noopener"><b>1928</b><span>Oct. 5, the morning after Game 1. 120 newspaper pages match "world series."</span><em>Read the papers</em></a>
+<a class="pp" href="https://www.loc.gov/collections/chronicling-america/?dates=1939-10-05&amp;q=world+series" target="_blank" rel="noopener"><b>1939</b><span>Oct. 5, the morning after Dickey's single. 113 newspaper pages match "world series."</span><em>Read the papers</em></a>
+<a class="pp" href="https://www.loc.gov/collections/chronicling-america/?dates=1955-10-05&amp;q=world+series" target="_blank" rel="noopener"><b>1955</b><span>Oct. 5, the morning after Podres and the Dodgers. 26 newspaper pages match "world series."</span><em>Read the papers</em></a>
+</div>
+
+<div class="s4">
+<div class="sec" style="margin-top:14px"><h2>By the Decade</h2><span>Page B5</span></div>
+
+<div class="bn"><p class="num">98 to 1</p><div class="lab">Complete games per team season</div><p>In the 1900s a team finished about 98 games a season. In the 2020s, one.</p><p class="sm">Lahman database (SABR)</p></div>
+
+<div class="bx"><h3>Average crowd on Oct. 4</h3>
+<sc-for list="{{crowd}}" as="r" hint-placeholder-count="16"><div class="br"><span>{{r.label}}</span><i style="width:{{r.w}}"></i><em>{{r.text}}</em></div></sc-for>
+<p class="sm">Retrosheet games on this date. No crowd counts exist for the 1880s.</p></div>
+
+<div class="bx"><h3>Home runs per game, by decade</h3>
+<sc-for list="{{hr}}" as="r" hint-placeholder-count="15"><div class="br"><span>{{r.label}}</span><i style="width:{{r.w}}"></i><em>{{r.text}}</em></div></sc-for>
+<p class="sm">Lahman database (SABR), both teams combined.</p></div>
+
+<div class="bx"><h3>Complete games per team season</h3>
+<sc-for list="{{cg}}" as="r" hint-placeholder-count="13"><div class="br"><span>{{r.label}}</span><i style="width:{{r.w}}"></i><em>{{r.text}}</em></div></sc-for>
+<p class="sm">Averages for each decade.</p></div>
+
+<div class="bx"><h3>Runs per game on Oct. 4</h3>
+<sc-for list="{{runs}}" as="r" hint-placeholder-count="16"><div class="br q"><span>{{r.label}}</span><i style="width:{{r.w}}"></i><em>{{r.text}}</em></div></sc-for>
+<p class="sm">Both teams combined.</p></div>
+</div>
+
+<div class="s5">
+<div class="sec"><h2>Negro Leagues Day</h2><span>Page B6</span></div>
+
+<div class="bx"><h3>1921 Negro League World Series</h3>
+<p class="tx">Chicago American Giants 5, Hilldale Club 2, at Baker Bowl in Philadelphia.</p>
+<div class="n"><span>Bill Holland, American Giants</span><em class="s">9 IP, 10 K, 2 R</em></div>
+<div class="n"><span>Willis Flournoy, Hilldale</span><em class="s">8 IP, 11 K, 5 R</em></div>
+<div class="n"><span>Cristobal Torriente, American Giants</span><em class="s">2 for 4, 1 HR, 2 RBI</em></div>
+<div class="n"><span>Bobby Williams, Hilldale</span><em class="s">3 for 4</em></div>
+<a class="rm" href="https://en.wikipedia.org/wiki/Negro_league_baseball" rel="noopener">Read more</a></div>
+
+<div class="bx"><h3>Other Games on This Date</h3>
+<div class="n"><span>1927: Atlantic City Bacharach Giants 1, Chicago American Giants 9</span></div>
+<div class="n"><span>1926: Chicago American Giants 4, Atlantic City Bacharach Giants 4</span></div>
+<div class="n"><span>1925: Hilldale 7, Kansas City Monarchs 3</span></div>
+<div class="n"><span>1924: Kansas City Monarchs 0, Hilldale 11</span></div>
+<div class="n"><span>1940: East-West All-Star games, North 8, Taylor All Stars 0, and North 2, South 4</span></div>
+<p class="sm">29 games, 1920 to 1948. 19 have box scores. Retrosheet says its Negro Leagues files are incomplete.</p></div>
+</div>
+
+<div class="dyk"><b>Did you know</b><p>Randy Johnson threw his last pitch on Oct. 4, 2009, with 303 wins and 4,875 strikeouts.</p></div>
+
+<div class="s6">
+<div class="sec"><h2>Every Story</h2><span>Page B7</span></div>
+
+<div class="bx"><h3>All 43 stories, by year</h3>
+<div class="ix"><sc-for list="{{stories}}" as="s" hint-placeholder-count="43"><p><b>{{s.y}}</b>{{s.h}}<sc-if value="{{s.p}}" hint-placeholder-val="{{false}}"><u>Photo</u></sc-if></p></sc-for></div>
+<p class="sm">Video: none on file for Oct. 4.</p></div>
+</div>
+
+<div class="ft">The information used here was obtained free of charge from and is copyrighted by Retrosheet. Stories and summaries: Wikipedia. Photos: Wikimedia Commons, credited under each picture. Headlines written with the help of an AI model. Negro Leagues data: Retrosheet. Career lines and decade charts: Lahman database (SABR).</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"paper":{"editor":"color","default":"#dcdad3","options":["#dcdad3","#e6e3dc","#f1e9d8"],"section":"Paper"},"$preview":{"width":390,"height":4200}}'>
+class Component extends DCLogic {
+renderVals() {
+  const fmt = (n) => n.toLocaleString('en-US');
+  const bars = (rows, f) => {
+    const m = Math.max(...rows.map((r) => r[1] || 0));
+    return rows.map((r) => ({ label: r[0], text: r[1] == null ? 'none' : f(r[1]), w: r[1] == null ? '0%' : (r[1] / m * 100).toFixed(1) + '%' }));
+  };
+  const crowd = bars([['1870s',1700],['1880s',null],['1890s',1449],['1900s',4042],['1910s',4247],['1920s',14577],['1930s',47766],['1940s',44442],['1950s',61634],['1960s',26739],['1970s',24533],['1980s',24857],['1990s',35977],['2000s',37673],['2010s',38789],['2020s',31685]], fmt);
+  const hr = bars([['1870s',0.26],['1890s',0.35],['1900s',0.29],['1910s',0.34],['1920s',0.80],['1930s',1.09],['1940s',1.05],['1950s',1.68],['1960s',1.65],['1970s',1.49],['1980s',1.61],['1990s',1.91],['2000s',2.15],['2010s',2.14],['2020s',2.36]], (v) => v.toFixed(2));
+  const cg = bars([['1900s',97.9],['1910s',65.7],['1920s',56.9],['1930s',47.9],['1940s',47.8],['1950s',51.8],['1960s',40.7],['1970s',40.8],['1980s',24.4],['1990s',11.5],['2000s',5.8],['2010s',3.5],['2020s',1.1]], (v) => v.toFixed(1));
+  const runs = bars([['1870s',16.56],['1880s',9.81],['1890s',9.06],['1900s',6.33],['1910s',8.81],['1920s',11.31],['1930s',6.33],['1940s',7.29],['1950s',5.29],['1960s',8.79],['1970s',8.2],['1980s',8.16],['1990s',7.19],['2000s',9.34],['2010s',7.53],['2020s',7.7]], (v) => v.toFixed(2));
+  const S = [
+    [1877,'Boston and Lowell Ladies\' Men Named Best Pro Teams by Papers',0],[1880,'National League Bans Alcohol Sales in Member Parks, Sunday Rentals',0],[1882,'Red Stockings Beat Blues 5-2, First AA Win Over NL',0],[1891,'Breitenstein Throws No-Hitter in Browns\' 8-0 Win Over Colonels',1],[1904,'Sam Mertes Hits for the Cycle in Giants\' 7-3 Loss to Cardinals',1],[1913,'Senators Use Eight Pitchers, Including Manager Griffith, Beat Red Sox 10-9',1],[1922,'Giants Score Three in Eighth, Take World Series Opener 3-2',1],[1924,'Giants Win World Series Game One 4-3 in Extra Innings',1],[1925,'Cobb Pitches 1-2-3 Ninth as Tigers Beat Browns 11-6',0],[1928,'Yanks Strike First in World Series, Win Game 1 by 4-1',1],[1930,'Hallahan Escapes Bases Loaded Jam, Cardinals Win Game Three 5-0',0],[1933,'Six-Run Sixth Carries Giants to World Series Game Two Win',0],[1934,'Goslin\'s Single Wins It, Tigers Take Game Two 3-2',1],[1935,'Lindstrom\'s Misplay Helps Tigers Take Game Three 6-5',1],[1936,'Yankees Jump to 4-0 Lead, Beat Hubbell 5-2 in Game 4',0],[1937,'Dodgers Trade Four Players to Cardinals for Leo Durocher',1],[1939,'Bill Dickey\'s Ninth-Inning Single Wins Game 1 for Yankees 2-1',1],[1946,'Montreal Royals Beat Louisville Colonels 2-0, Win Junior World Series',1],[1948,'Game Played at Fenway Park in Boston',0],[1949,'Dodgers Sell Minor-League Assets, Send Jethroe to Braves',0],[1951,'Cubs Trade Smoky Burgess to Reds, off-Season Deals Begin',0],[1955,'Podres Pitches Dodgers to First World Series Title, Beating Yankees 2-0',0],[1963,'Sherm Lollar, 39, Nine-Time All-Star, Released by White Sox',0],[1965,'Tigers Acquire Bill Monbouquette, 29, From Red Sox in Trade',0],[1969,'First LCS Between Division Champs Begins, Orioles and Mets Lead',0],[1976,'Ollie Carnegie, 77, Outfielder and Minor-League Slugger',0],[1978,'Steve Garvey Homers Twice, Dodgers Beat Phillies 9-5 in NLCS Opener',1],[1983,'Carlton, Schmidt Lead Phillies Past Dodgers 1-0 in NLCS Opener',1],[1986,'Greg Gagne Hits Two Inside-the-Park Homers in Twins Win',1],[1987,'Tanana Shuts out Blue Jays 1-0, Clinches Tigers Division Title',1],[1991,'Mariners Beat White Sox 6-4, Clinch First Winning Season Ever',0],[1993,'Cubs Post 84-78 Record, First Winning Non-Title Season Since 1972',0],[1999,'Mets Beat Reds 5-0 in Playoff, Win NL Wild Card',0],[2007,'Don Nottebart, 71, Pitcher Who Threw First Colt .45s No-Hitter',1],[2008,'Dodgers Sweep Cubs, Advance to NLCS',1],[2009,'Barry Lersch, 65, Relief Pitcher',0],[2010,'Diamondbacks Drop Interim Tag, Name Gibson Manager for 2011',0],[2016,'Encarnación\'s Three-Run Homer in 11th Sends Blue Jays Past Orioles',1],[2016,'Doug Slaten, 36, Relief Pitcher',1],[2017,'Diamondbacks Rally Past Rockies 11-8 in NL Wild Card Game',1],[2019,'Bob Tufts, 63, Former Giants and Royals Pitcher',1],[2025,'American and National League Division Series Begin Across Baseball',0],[2026,'Brewers Beat Padres 4-3 in NLDS Game 2, France Drives in Opener',0]
+  ];
+  return { paper: this.props.paper ?? '#dcdad3', crowd, hr, cg, runs, stories: S.map((s) => ({ y: String(s[0]), h: s[1], p: !!s[2] })) };
+}
+}
+</script>
+</body>
+</html>

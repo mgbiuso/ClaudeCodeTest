@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Game Page</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@500;600;800;900&family=Playfair+Display:ital,wght@0,700;0,800;0,900;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+.pg{--paper:#dcdad3;--ink:#1a1916;--mut:#46433b;--red:#c23b22;--blue:#2554a5;--hf:'Playfair Display',Georgia,serif;--kf:'Libre Franklin','Helvetica Neue',Arial,sans-serif;--bf:'Source Serif 4',Georgia,serif;position:relative;background:var(--paper);color:var(--ink);font-family:var(--bf);min-height:1000px;padding:20px 16px 40px;box-sizing:border-box;box-shadow:inset 0 0 110px rgba(70,58,36,.30)}
+.tex{position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:none;mix-blend-mode:multiply;opacity:.5;z-index:5}
+.plw{border:2px solid var(--red);padding:4px;margin:14px 0 0}
+.in{max-width:760px;margin:0 auto;display:flex;flex-direction:column}
+.plate{background:var(--blue);color:#fff;text-align:center;padding:16px 0 12px}
+.plate h1{margin:0;font:900 clamp(30px,7vw,64px)/1 var(--hf)}
+.plate p{margin:6px 0 0;font:800 clamp(8px,1.8vw,11px) var(--kf);letter-spacing:.24em;text-transform:uppercase}
+.dline{display:flex;justify-content:space-between;gap:8px;font:600 11px var(--kf);letter-spacing:.12em;text-transform:uppercase;color:var(--mut);border-bottom:1px solid var(--ink);padding:9px 0 8px}
+.sec{background:var(--blue);color:#fff;display:flex;justify-content:space-between;align-items:baseline;gap:8px;padding:12px 18px 10px;margin-top:22px;outline:1px solid rgba(255,255,255,.6);outline-offset:-5px}
+.sec h2{margin:0;font:900 34px/1 var(--hf)}
+.sec span{font:600 10px var(--kf);letter-spacing:.16em;text-transform:uppercase}
+.intro{font:400 15px/1.5 var(--bf);margin:14px 0 4px}
+.tabs{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));border:2px solid var(--ink);margin-top:14px}
+.tab{font:800 11px var(--kf);letter-spacing:.1em;text-transform:uppercase;padding:14px 8px;min-height:48px;background:var(--paper);color:var(--ink);border:0;border-right:1px solid var(--ink);cursor:pointer}
+.tab:last-child{border-right:0}
+.tab.on{background:var(--red);color:#fff}
+.bx{border:2px solid var(--ink);padding:16px;margin-top:14px;display:flex;flex-direction:column;gap:12px}
+.bx h3{margin:-16px -16px 4px;background:var(--blue);color:#fff;font:800 12px var(--kf);letter-spacing:.14em;text-transform:uppercase;padding:6px 16px;display:flex;justify-content:space-between}
+.q{font:800 26px/1.2 var(--hf);margin:0;letter-spacing:-.01em}
+.clue{font:600 12px/1.4 var(--kf);letter-spacing:.06em;text-transform:uppercase;color:var(--mut);margin:0}
+.o{display:flex;justify-content:space-between;align-items:center;gap:12px;text-align:left;font:600 17px/1.3 var(--bf);padding:12px 14px;min-height:48px;border:2px solid var(--ink);background:var(--paper);color:var(--ink);cursor:pointer}
+.o:hover{background:#cfccc2}
+.o i{font:800 10px var(--kf);letter-spacing:.12em;text-transform:uppercase;font-style:normal;white-space:nowrap}
+.o.ok{background:#1f6b4a;color:#fff}
+.o.bad{border-style:dashed;text-decoration:line-through}
+.fb{font:800 13px var(--kf);letter-spacing:.1em;text-transform:uppercase;margin:0}
+.note{font:400 15px/1.5 var(--bf);margin:0}
+.nx{align-self:flex-start;font:800 11px var(--kf);letter-spacing:.12em;text-transform:uppercase;padding:14px 18px;min-height:48px;background:var(--ink);color:var(--paper);border:0;cursor:pointer}
+.big{font:900 64px/1 var(--hf);color:var(--red);margin:0}
+.sm{font:500 11px/1.5 var(--kf);color:var(--mut);margin:14px 0 0}
+.ft{border-top:3px double var(--ink);margin-top:26px;padding-top:8px;font:500 10.5px/1.5 var(--kf);color:var(--mut)}
+</style>
+</helmet>
+<div class="pg" style="--paper: {{paper}}">
+<svg class="tex" aria-hidden="true" preserveAspectRatio="none"><defs><filter id="grainG" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 0.22  0 0 0 0 0.20  0 0 0 0 0.16  1.3 0 0 0 -0.52"/></filter><filter id="blotG" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.004 0.02" numOctaves="3" seed="3"/><feColorMatrix values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.24  0.9 0 0 0 -0.32"/></filter></defs><rect width="100%" height="100%" filter="url(#blotG)"/><rect width="100%" height="100%" filter="url(#grainG)"/></svg>
+<div class="in">
+<div class="plw"><div class="plate"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+<div class="dline"><span>Sunday, Oct. 4</span><span>History Edition</span><span>Page B8</span></div>
+<div class="sec"><h2>The Game Page</h2><span>Four quick games</span></div>
+<p class="intro">Every question below comes from the facts on the Oct. 4 pages. Pick a game, answer ten or eight questions, and see your score.</p>
+
+<div class="tabs"><sc-for list="{{tabs}}" as="tb" hint-placeholder-count="4"><button class="{{tb.cls}}" onClick="{{tb.pick}}">{{tb.t}}</button></sc-for></div>
+
+<div class="bx">
+<h3><span>{{gname}}</span><span>{{prog}}</span></h3>
+<sc-if value="{{playing}}" hint-placeholder-val="{{true}}">
+<p class="clue">{{clue}}</p>
+<p class="q">{{prompt}}</p>
+<sc-for list="{{opts}}" as="o" hint-placeholder-count="4"><button class="{{o.cls}}" onClick="{{o.pick}}"><span>{{o.t}}</span><i>{{o.m}}</i></button></sc-for>
+<sc-if value="{{answered}}" hint-placeholder-val="{{false}}">
+<p class="fb">{{fb}}</p>
+<p class="note">{{note}}</p>
+<button class="nx" onClick="{{next}}">{{nextLabel}}</button>
+</sc-if>
+</sc-if>
+<sc-if value="{{finished}}" hint-placeholder-val="{{false}}">
+<p class="clue">Final score</p>
+<p class="big">{{score}} of {{total}}</p>
+<p class="note">{{verdict}}</p>
+<button class="nx" onClick="{{restart}}">Play again</button>
+</sc-if>
+</div>
+<p class="sm">Questions are written from the Oct. 4 data: Retrosheet, Lahman (SABR) and Wikipedia. The real site would draw new questions from each day's own file.</p>
+<div class="ft">The information used here was obtained free of charge from and is copyrighted by Retrosheet. Stories and summaries: Wikipedia. Career lines and decade figures: Lahman database (SABR). Headlines written with the help of an AI model.</div>
+</div></div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"paper":{"editor":"color","default":"#dcdad3","options":["#dcdad3","#e6e3dc","#f1e9d8"],"section":"Paper"},"$preview":{"width":1200,"height":1100}}'>
+class Component extends DCLogic {
+constructor(props) { super(props); this.state = { g: 0, q: 0, picked: -1, score: 0, done: false }; }
+renderVals() {
+  const st = this.state;
+  // Place the right answer at a steady but varied spot among the options.
+  const place = (answer, others, i) => {
+    const pos = (i * 3 + 1) % (others.length + 1);
+    const o = others.slice();
+    o.splice(pos, 0, answer);
+    return { opts: o, ans: pos };
+  };
+
+  // Game 1: mystery career line
+  const born = [
+    ['Dennis Cook', 'Born Oct. 4, 1962, in LaMarque, Texas.', '64-46, 3.91 ERA, 739 strikeouts'],
+    ['Kyle Lohse', 'Born Oct. 4, 1978, in Chico, Calif.', '147-143, 4.40 ERA, 1,615 strikeouts'],
+    ['Joe Boever', 'Born Oct. 4, 1960, in Kirkwood, Mo.', '34-45, 3.93 ERA, 541 strikeouts'],
+    ['Charlie Leibrandt', 'Born Oct. 4, 1956, in Chicago.', '140-119, 3.71 ERA, 1,121 strikeouts'],
+    ['Bruce Ruffin', 'Born Oct. 4, 1963, in Lubbock, Texas.', '60-82, 4.19 ERA, 843 strikeouts'],
+    ['Jered Weaver', 'Born Oct. 4, 1982, in Northridge, Calif.', '150-98, 3.63 ERA, 1,621 strikeouts']
+  ];
+  const g1 = born.map((b, i) => {
+    const others = [1, 2, 3].map((k) => born[(i + k) % born.length][0]);
+    const p = place(b[0], others, i);
+    return { clue: b[1], prompt: 'Career line: ' + b[2] + '. Who is it?', opts: p.opts, ans: p.ans, note: b[0] + ' was born on Oct. 4. ' + b[2] + '.' };
+  });
+  const last = [
+    ['Randy Johnson', 'Played his last game on Oct. 4, 2009.', '303-166, 3.29 ERA, 4,875 strikeouts', ['Bert Blyleven', 'Jered Weaver', 'Kyle Lohse']],
+    ['Bert Blyleven', 'Played his last game on Oct. 4, 1992.', '287-250, 3.31 ERA, 3,701 strikeouts', ['Randy Johnson', 'Charlie Leibrandt', 'Dennis Cook']],
+    ['Reggie Jackson', 'Played his last game on Oct. 4, 1987.', '.262, 563 home runs, 2,584 hits, 228 steals', ['Harry Hooper', 'Dan Brouthers', 'Deacon White']],
+    ['Dan Brouthers', 'Played his last game on Oct. 4, 1904.', '.342, 107 home runs, 2,303 hits, 257 steals', ['Reggie Jackson', 'Harry Hooper', 'Deacon White']]
+  ];
+  const g1b = last.map((b, i) => {
+    const p = place(b[0], b[3], i + 6);
+    return { clue: b[1], prompt: 'Career line: ' + b[2] + '. Who is it?', opts: p.opts, ans: p.ans, note: b[0] + ' retired after a game on this date. ' + b[2] + '.' };
+  });
+
+  // Game 2: which came first
+  const pairs = [
+    [[1904, 'Sam Mertes Hits for the Cycle in Giants\' 7-3 Loss to Cardinals'], [1934, 'Goslin\'s Single Wins It, Tigers Take Game Two 3-2']],
+    [[1955, 'Podres Pitches Dodgers to First World Series Title, Beating Yankees 2-0'], [1969, 'First LCS Between Division Champs Begins, Orioles and Mets Lead']],
+    [[1978, 'Steve Garvey Homers Twice, Dodgers Beat Phillies 9-5 in NLCS Opener'], [1986, 'Greg Gagne Hits Two Inside-the-Park Homers in Twins Win']],
+    [[1991, 'Mariners Beat White Sox 6-4, Clinch First Winning Season Ever'], [1999, 'Mets Beat Reds 5-0 in Playoff, Win NL Wild Card']],
+    [[1937, 'Dodgers Trade Four Players to Cardinals for Leo Durocher'], [1946, 'Montreal Royals Beat Louisville Colonels 2-0, Win Junior World Series']],
+    [[1880, 'National League Bans Alcohol Sales in Member Parks, Sunday Rentals'], [1913, 'Senators Use Eight Pitchers, Including Manager Griffith, Beat Red Sox 10-9']],
+    [[2008, 'Dodgers Sweep Cubs, Advance to NLCS'], [2016, 'Encarnación\'s Three-Run Homer in 11th Sends Blue Jays Past Orioles']],
+    [[1922, 'Giants Score Three in Eighth, Take World Series Opener 3-2'], [1939, 'Bill Dickey\'s Ninth-Inning Single Wins Game 1 for Yankees 2-1']]
+  ];
+  const g2 = pairs.map((p, i) => {
+    const early = i % 2 === 0;
+    return { clue: 'Both happened on Oct. 4, in different years.', prompt: 'Which came first?', opts: early ? [p[0][1], p[1][1]] : [p[1][1], p[0][1]], ans: early ? 0 : 1, note: 'It was ' + p[0][0] + ' for the first one and ' + p[1][0] + ' for the second.' };
+  });
+
+  // Game 3: guess the year
+  const years = [
+    ['Podres Pitches Dodgers to First World Series Title, Beating Yankees 2-0', 1955, [1947, 1963, 1971]],
+    ['Cobb Pitches 1-2-3 Ninth as Tigers Beat Browns 11-6', 1925, [1905, 1945, 1965]],
+    ['Mariners Beat White Sox 6-4, Clinch First Winning Season Ever', 1991, [1981, 1999, 2005]],
+    ['Mets Beat Reds 5-0 in Playoff, Win NL Wild Card', 1999, [1979, 1989, 2009]],
+    ['Greg Gagne Hits Two Inside-the-Park Homers in Twins Win', 1986, [1956, 1966, 2006]],
+    ['Dodgers Trade Four Players to Cardinals for Leo Durocher', 1937, [1917, 1957, 1977]],
+    ['Montreal Royals Beat Louisville Colonels 2-0, Win Junior World Series', 1946, [1926, 1966, 1986]],
+    ['Diamondbacks Rally Past Rockies 11-8 in NL Wild Card Game', 2017, [1987, 1997, 2002]],
+    ['Steve Garvey Homers Twice, Dodgers Beat Phillies 9-5 in NLCS Opener', 1978, [1958, 1998, 2008]],
+    ['First LCS Between Division Champs Begins, Orioles and Mets Lead', 1969, [1949, 1959, 1979]]
+  ];
+  const g3 = years.map((y) => {
+    const all = y[2].concat([y[1]]).sort((a, b) => a - b);
+    return { clue: 'A headline from Oct. 4. What year?', prompt: y[0], opts: all.map(String), ans: all.indexOf(y[1]), note: 'It happened on Oct. 4, ' + y[1] + '.' };
+  });
+
+  // Game 4: higher or lower
+  const hl = [
+    ['Average crowd on Oct. 4 in the 1950s: 61,634. Was the 1990s average higher or lower?', 1, 'Lower. The 1990s average was 35,977.'],
+    ['Home runs per game in the 1920s: 0.80. Were the 1930s higher or lower?', 0, 'Higher. The 1930s averaged 1.09.'],
+    ['Complete games per team season in the 1900s: 97.9. Was the 1980s figure higher or lower?', 1, 'Lower. The 1980s figure was 24.4.'],
+    ['Runs per game on Oct. 4 in the 1870s: 16.56. Was the 1900s figure higher or lower?', 1, 'Lower. The 1900s figure was 6.33.'],
+    ['Average crowd on Oct. 4 in the 1980s: 24,857. Was the 2000s average higher or lower?', 0, 'Higher. The 2000s average was 37,673.'],
+    ['Home runs per game in the 1990s: 1.91. Were the 2020s higher or lower?', 0, 'Higher. The 2020s average is 2.36.'],
+    ['Average crowd on Oct. 4 in the 1930s: 47,766. Was the 1920s average higher or lower?', 1, 'Lower. The 1920s average was 14,577.'],
+    ['Runs per game on Oct. 4 in the 1920s: 11.31. Was the 1950s figure higher or lower?', 1, 'Lower. The 1950s figure was 5.29.']
+  ];
+  const g4 = hl.map((h) => ({ clue: 'Higher or lower, by decade', prompt: h[0], opts: ['Higher', 'Lower'], ans: h[1], note: h[2] }));
+
+  const games = [
+    { name: 'Mystery Career Line', qs: g1.concat(g1b) },
+    { name: 'Which Came First?', qs: g2 },
+    { name: 'Guess the Year', qs: g3 },
+    { name: 'Higher or Lower', qs: g4 }
+  ];
+
+  const game = games[st.g];
+  const total = game.qs.length;
+  const q = game.qs[Math.min(st.q, total - 1)];
+  const answered = st.picked >= 0;
+  const right = answered && st.picked === q.ans;
+
+  const tabs = games.map((gm, i) => ({
+    t: gm.name,
+    cls: i === st.g ? 'tab on' : 'tab',
+    pick: () => this.setState({ g: i, q: 0, picked: -1, score: 0, done: false })
+  }));
+  const opts = q.opts.map((t, i) => ({
+    t,
+    cls: !answered ? 'o' : (i === q.ans ? 'o ok' : (i === st.picked ? 'o bad' : 'o')),
+    m: !answered ? '' : (i === q.ans ? 'Correct answer' : (i === st.picked ? 'Your pick' : '')),
+    pick: () => {
+      if (this.state.picked >= 0) return;
+      this.setState({ picked: i, score: this.state.score + (i === q.ans ? 1 : 0) });
+    }
+  }));
+  const pct = st.score / total;
+  const verdict = pct >= 0.9 ? 'A perfect edition. You could write this page.' : pct >= 0.6 ? 'A solid day at the ballpark.' : 'Plenty to read on the other pages. Try again.';
+
+  return {
+    paper: this.props.paper ?? '#dcdad3',
+    tabs, opts, total,
+    gname: game.name,
+    prog: st.done ? 'Finished' : 'Question ' + (st.q + 1) + ' of ' + total + ' · Score ' + st.score,
+    playing: !st.done,
+    finished: st.done,
+    answered,
+    clue: q.clue,
+    prompt: q.prompt,
+    fb: right ? 'Correct.' : 'Not quite.',
+    note: q.note,
+    nextLabel: st.q + 1 >= total ? 'See my score' : 'Next question',
+    next: () => {
+      if (this.state.q + 1 >= total) this.setState({ done: true });
+      else this.setState({ q: this.state.q + 1, picked: -1 });
+    },
+    restart: () => this.setState({ q: 0, picked: -1, score: 0, done: false }),
+    score: st.score,
+    verdict
+  };
+}
+}
+</script>
+</body>
+</html>

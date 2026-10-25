@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Oct 4 mobile part 1</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@500;600;800;900&family=Playfair+Display:ital,wght@0,700;0,800;0,900;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+.pg{--ink:#1a1916;--mut:#46433b;--red:#c23b22;--blue:#2554a5;--hf:'Playfair Display',Georgia,serif;--bf:'Source Serif 4',Georgia,serif;--kf:'Libre Franklin','Helvetica Neue',Arial,sans-serif;--sc:#2554a5;
+position:relative;width:390px;box-sizing:border-box;padding:14px 16px 20px;background:var(--paper);color:var(--ink);font-family:var(--bf);display:flex;flex-direction:column;box-shadow:inset 0 0 70px rgba(70,58,36,.30)}
+.tex{position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:none;mix-blend-mode:multiply;opacity:.5;z-index:5}
+.s1{--sc:#2554a5}
+.nyy,.det{--tc:#0c2340}.lad{--tc:#005a9c}.sfg{--tc:#9a3a08}.stl{--tc:#6b4423}.mtl{--tc:#1d4ea7}.tor{--tc:#134a8e}
+.tz{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:8px}
+.tz div{border:1px solid var(--ink);padding:5px 7px 6px;background:rgba(255,255,255,.18)}
+.tz b{display:block;font:900 13px/1.05 var(--kf);text-transform:uppercase;color:var(--red);border-bottom:1px solid var(--ink);padding-bottom:3px;margin-bottom:3px}
+.tz span{font:500 10px/1.3 var(--kf)}
+.plw{border:2px solid var(--red);padding:3px}
+.plate{background:var(--blue);color:#fff;text-align:center;padding:12px 0 9px}
+.plate h1{margin:0;font:900 35px/1 var(--hf)}
+.plate p{margin:5px 0 0;font:800 7.5px var(--kf);letter-spacing:.2em;text-transform:uppercase}
+.dline{display:flex;justify-content:space-between;font:600 10px var(--kf);letter-spacing:.1em;text-transform:uppercase;color:var(--mut);border-bottom:1px solid var(--ink);padding:7px 0 6px}
+.sec{background:var(--sc);color:#fff;display:flex;justify-content:space-between;align-items:baseline;padding:10px 14px 8px;margin-top:24px;outline:1px solid rgba(255,255,255,.6);outline-offset:-4px}
+.sec h2{margin:0;font:900 26px/1 var(--hf)}
+.sec span{font:800 8px var(--kf);letter-spacing:.14em;text-transform:uppercase}
+.k{font:900 10px var(--kf);letter-spacing:.12em;text-transform:uppercase;color:var(--tc,var(--ink));margin:0 0 3px}
+.k.t::before{content:"";display:inline-block;width:8px;height:8px;background:var(--tc);margin-right:6px}
+.h{font:800 17px/1.08 var(--hf);margin:0 0 6px}
+.lead{font-size:50px;line-height:.98;color:var(--red);text-shadow:2px 2px 0 var(--ink);font-weight:900;margin:0 0 8px}
+.tx{font:400 14px/1.45 var(--bf);margin:0 0 8px}
+.by{font:800 9px var(--kf);letter-spacing:.12em;text-transform:uppercase;margin:0 0 8px}
+.ph{display:block;width:100%;object-fit:cover;border:1px solid var(--ink);border-bottom:4px solid var(--tc,var(--ink));filter:contrast(1.04) saturate(1.1)}
+.cap{font:600 11px/1.35 var(--kf);margin:5px 0 0}
+.cr{font:500 8px var(--kf);letter-spacing:.05em;text-transform:uppercase;text-align:right;color:var(--mut);margin:3px 0 6px}
+.rm{display:inline-block;font:900 10px var(--kf);letter-spacing:.12em;text-transform:uppercase;color:var(--ink);text-decoration:none;border-bottom:2px solid var(--tc,var(--red));padding:10px 0 1px;margin-top:auto;align-self:flex-start}
+.blk{border-top:3px double var(--ink);padding:14px 0;display:flex;flex-direction:column}
+.grid{display:grid;grid-template-columns:1fr 1fr;border-top:1px solid var(--ink)}
+.card{padding:12px 10px 12px 0;border-bottom:1px solid var(--ink);display:flex;flex-direction:column}
+.card:nth-child(even){padding:12px 0 12px 10px;border-left:1px solid var(--ink)}
+.card.wide{grid-column:1 / span 2;padding:12px 0;border-left:0}
+.bx{border:2px solid var(--ink);padding:10px 12px;display:flex;flex-direction:column;margin-top:14px}
+.bx.tint{background:rgba(37,84,165,.10)}
+.bx.warm{background:rgba(160,110,20,.12)}
+.bx h3{margin:-10px -12px 6px;background:var(--sc);color:#fff;font:900 11px var(--kf);letter-spacing:.12em;text-transform:uppercase;padding:6px 12px}
+.n{display:flex;justify-content:space-between;align-items:center;gap:10px;border-bottom:1px dotted var(--ink);padding:7px 0;font:400 14px/1.3 var(--bf)}
+.n em{font:900 15px var(--kf);font-style:normal;text-align:right;color:var(--sc)}
+.n em.s{font-size:11px;max-width:48%}
+.sm{font:500 11px/1.4 var(--kf);color:var(--mut);margin:6px 0 0}
+.tk{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center;background:var(--ink);color:#f2ead0;padding:8px 12px;margin-top:8px;font:800 9px var(--kf);letter-spacing:.08em;text-transform:uppercase}
+.tk i{display:inline-block;width:5px;height:5px;background:#e8c86a;transform:rotate(45deg)}
+.tk b{color:#e8c86a}
+.bn{border:2px solid var(--ink);padding:12px 14px;background:rgba(255,255,255,.14);margin-top:14px}
+.bn .num{font:900 72px/.9 var(--hf);color:var(--sc);letter-spacing:-.02em;margin:0}
+.bn .lab{font:900 12px var(--kf);letter-spacing:.12em;text-transform:uppercase;margin:8px 0;padding-bottom:7px;border-bottom:3px double var(--ink)}
+.bn p{font:400 14px/1.4 var(--bf);margin:0 0 5px}
+.sbp{background:#11261b;color:#f2ead0;padding:10px 10px;border:3px solid var(--ink);margin-top:14px}
+.sbp .ttl{font:800 9px/1.4 var(--kf);letter-spacing:.1em;text-transform:uppercase;color:#e8c86a;margin-bottom:8px}
+.sbg{display:grid;grid-template-columns:42px repeat(18,minmax(0,1fr)) 22px 22px 22px;gap:1px}
+.sbc{text-align:center;font:800 10px/20px var(--kf);background:#1b3a2a;color:#f2ead0}
+.sbc.hd{background:transparent;color:#e8c86a;font-size:7px}
+.sbc.nm{text-align:left;padding-left:3px;font-size:8px;letter-spacing:.04em;text-transform:uppercase}
+.sbc.lit{background:#e8c86a;color:#11261b}
+.sbc.tot{background:#274d38;color:#fff}
+.sbp .nt{font:500 11px/1.45 var(--kf);color:#d8d2b8;margin:8px 0 0}
+.tn{margin-top:8px;border-top:1px solid #e8c86a}
+.tn div{padding:8px 0 0;font:400 13.5px/1.45 var(--bf);color:#f2ead0}
+.tn b{font:900 10px var(--kf);letter-spacing:.12em;text-transform:uppercase;display:block;margin-bottom:2px;color:#e8c86a}
+.pq{border-top:4px solid var(--red);border-bottom:1px solid var(--ink);padding:14px 10px;margin:16px 0 2px;text-align:center}
+.pq p{font:italic 700 22px/1.22 var(--hf);margin:0}
+.pq span{display:block;font:800 9px var(--kf);letter-spacing:.14em;text-transform:uppercase;color:var(--mut);margin-top:8px}
+.tg{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid var(--ink);border-left:1px solid var(--ink)}
+.tg div{border-right:1px solid var(--ink);border-bottom:1px solid var(--ink);padding:7px 7px 5px}
+.tg b{display:block;font:900 9px var(--kf);letter-spacing:.08em;text-transform:uppercase}
+.tg span{font:600 15px var(--bf)}
+.dyk{margin:16px 0 4px;padding:10px 12px;border-top:3px double var(--ink);border-bottom:3px double var(--ink);background:rgba(255,255,255,.18)}
+.dyk b{display:inline-block;font:900 10px var(--kf);letter-spacing:.16em;text-transform:uppercase;color:#fff;background:var(--red);padding:4px 9px;transform:rotate(-2deg);margin-bottom:8px}
+.dyk p{margin:0;font:italic 700 17px/1.25 var(--hf)}
+.dk{--ink:#f2ead0;--mut:#bdb79f;--sc:#c8402a;margin:20px -16px 0;padding:16px 16px 16px;background:#161b26;color:#f2ead0}
+.dk .sec{margin-top:0;outline-color:rgba(242,234,208,.6)}
+.dk .n em{color:#f0b429}
+.dk .bx{background:rgba(255,255,255,.04)}
+.dk .dyk{background:rgba(255,255,255,.06)}
+.tag{display:inline-block;font:900 9px var(--kf);letter-spacing:.2em;text-transform:uppercase;color:#f0b429;border:1px solid #f0b429;padding:2px 7px;margin-bottom:8px}
+.fgs{display:grid;grid-template-columns:1fr 1fr;gap:12px 10px;margin-top:12px}
+.fg{margin:0;display:flex;flex-direction:column}
+.fg img{display:block;width:100%;height:120px;object-fit:cover;object-position:50% 25%;border:1px solid var(--ink);border-bottom:4px solid var(--ink)}
+.fg b{font:900 10px var(--kf);letter-spacing:.1em;margin:5px 0 1px}
+.fg span{font:600 11px/1.3 var(--kf)}
+.fg em{font:500 7.5px/1.3 var(--kf);letter-spacing:.05em;text-transform:uppercase;color:var(--mut);font-style:normal;padding-top:4px}
+.cdp{display:flex;flex-direction:column;border:2px solid var(--ink);background:rgba(255,255,255,.2);padding:10px;margin-top:12px}
+.cdp img{display:block;width:100%;height:240px;object-fit:contain;background:rgba(120,100,60,.18);border:1px solid var(--ink)}
+.cdp b{font:800 17px/1.15 var(--hf);margin:8px 0 2px}
+.cdp span{font:600 12px/1.35 var(--kf)}
+.cdp em{font:500 8px/1.3 var(--kf);letter-spacing:.05em;text-transform:uppercase;color:var(--mut);font-style:normal;margin-top:6px}
+.pp{display:flex;flex-direction:column;border:2px dashed var(--ink);padding:10px 12px;text-decoration:none;color:var(--ink);background:rgba(255,255,255,.14);margin-top:12px}
+.pp b{font:900 40px/.95 var(--hf);color:var(--sc)}
+.pp span{font:600 12px/1.4 var(--kf);margin-top:4px}
+.pp em{font:900 10px var(--kf);letter-spacing:.12em;text-transform:uppercase;font-style:normal;border-bottom:2px solid var(--red);align-self:flex-start;margin-top:8px}
+.ft{border-top:3px double var(--ink);margin-top:24px;padding-top:8px;font:500 10px/1.5 var(--kf);color:var(--mut)}
+</style>
+</helmet>
+<div class="pg" style="--paper: {{paper}}">
+<svg class="tex" aria-hidden="true" preserveAspectRatio="none"><defs><filter id="grainm1" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 0.22  0 0 0 0 0.20  0 0 0 0 0.16  1.3 0 0 0 -0.52"/></filter><filter id="blotm1" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.01 0.03" numOctaves="3" seed="3"/><feColorMatrix values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.24  0.9 0 0 0 -0.32"/></filter></defs><rect width="100%" height="100%" filter="url(#blotm1)"/><rect width="100%" height="100%" filter="url(#grainm1)"/></svg>
+
+<div class="tz">
+<div><b>18 innings</b><span>Giants beat Nationals, 2-1, in the longest game on Oct. 4 / B2</span></div>
+<div><b>92,394 fans</b><span>The biggest crowd ever on this date, 1959 / B2</span></div>
+</div>
+<div class="plw"><div class="plate"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+<div class="dline"><span>Sunday, Oct. 4</span><span>History Edition</span><span>B1</span></div>
+
+<div class="blk nyy" style="border-top:0">
+<p class="k t" style="margin-top:8px">1928 World Series, Game 1</p>
+<h1 class="h lead">Yanks strike first</h1>
+<p class="by">From the Wikipedia entry for Oct. 4</p>
+<img class="ph" style="height:250px;object-position:50% 40%" src="/_blob/e17f7720043e12bd00015d2422170569" alt="Black-and-white team photo of 1928 New York Yankees players in uniform outdoors, ballpark stands behind">
+<p class="cap">The 1928 New York Yankees won the opener over the St. Louis Cardinals, 4-1.</p>
+<p class="cr">Photo: Wikimedia Commons, public domain</p>
+<p class="tx">The Cardinals get just three hits, one of them a home run by Bottomley, as the Yankees take Game 1.</p>
+<a class="rm" href="https://en.wikipedia.org/wiki/1928_World_Series" rel="noopener">Read more</a>
+</div>
+
+<div class="blk lad">
+<p class="k t">1955 World Series, Game 7</p>
+<h2 class="h" style="font-size:30px">Next year is here</h2>
+<p class="tx">Johnny Podres pitches the Brooklyn Dodgers to their first World Series title, a 2-0 win over the Yankees. Podres is named MVP of the Series, the first time such an award is given.</p>
+<a class="rm" href="https://en.wikipedia.org/wiki/Johnny_Podres" rel="noopener">Read more</a>
+</div>
+
+<div class="grid">
+<sc-for list="{{cards}}" as="c" hint-placeholder-count="11"><div class="{{c.cls}}">
+<img class="ph" style="height:{{c.ph}}px;object-position:50% 25%" src="{{c.img}}" alt="{{c.alt}}">
+<p class="cr">{{c.cr}}</p>
+<p class="k t">{{c.k}}</p>
+<h2 class="h">{{c.h}}</h2>
+<p class="tx" style="font-size:13px">{{c.tx}}</p>
+<a class="rm" href="{{c.href}}" rel="noopener">Read more</a>
+</div></sc-for>
+</div>
+
+<div class="s1">
+<div class="bx tint" style="margin-top:20px"><h3>By the Numbers, Oct. 4</h3>
+<div class="n"><span>Games played on this date</span><em>464</em></div>
+<div class="n"><span>Most runs: Athletics 19, White Stockings 10 (1875)</span><em>29</em></div>
+<div class="n"><span>Longest game (2014)</span><em>18 inn.</em></div>
+<div class="n"><span>Most strikeouts in a game (2014)</span><em>34</em></div>
+<div class="n"><span>Walk-off wins</span><em>31</em></div>
+<div class="n"><span>Biggest crowd (1959)</span><em>92,394</em></div>
+<div class="n"><span>Home team won, of 456 decided</span><em>55%</em></div>
+<div class="n"><span>Ballparks that hosted games</span><em>123</em></div>
+<div class="n"><span>Postseason games</span><em>99</em></div></div>
+
+<div class="bx warm" style="--sc:#7a5200"><h3>In Brief</h3>
+<p class="tx"><b>2012.</b> Dodgers trade Rubby de la Rosa and Jerry Sands to the Red Sox.</p>
+<p class="tx"><b>1986.</b> Dave Righetti reaches 45 saves in a season.</p>
+<p class="tx"><b>1980.</b> Rickey Henderson reaches 100 steals in a season. Mike Boddicker debuts (career: 134-116, 3.80 ERA).</p>
+<p class="tx"><b>1966.</b> Cubs release Robin Roberts.</p>
+<p class="tx"><b>2009.</b> Randy Johnson plays his last game (career: 303-166, 3.29 ERA, 4,875 strikeouts).</p>
+<p class="tx"><b>2014.</b> Manager Matt Williams is ejected for arguing a called third strike.</p></div>
+
+<div class="sec"><h2>The Scoreboard</h2><span>Page B2</span></div>
+<div class="tk"><b>Final</b><i></i><span>2014: Giants 2, Nationals 1 (18)</span><i></i><span>1959: Dodgers 3, White Sox 1</span><i></i><span>1987: Tigers 1, Blue Jays 0</span><i></i><span>1913: Browns 0, Indians 0</span></div>
+
+<div class="bn"><p class="num">92,394</p><p class="lab">Biggest crowd, 1959</p>
+<p>White Sox at Dodgers, 1959 World Series. The Dodgers win, 3-1, at the Los Angeles Memorial Coliseum.</p>
+<p>That is 5.3 times the 17,355 average crowd that season.</p>
+<a class="rm" href="https://en.wikipedia.org/wiki/1959_World_Series" rel="noopener">Read more</a></div>
+
+<div class="bn"><p class="num">18</p><p class="lab">Innings, 383 minutes</p>
+<p>Giants 2, Nationals 1, 2014 Division Series. The game took 6 hours and 23 minutes, with 34 strikeouts.</p>
+<a class="rm" href="https://en.wikipedia.org/wiki/2014_National_League_Division_Series" rel="noopener">Read more</a></div>
+
+<div class="bn"><p class="num">1-0</p><p class="lab">The pitchers' duel, 1987</p>
+<p>Tigers 1, Blue Jays 0 at Tiger Stadium. Frank Tanana gets the win and Jimmy Key takes the loss. One of 11 such games on this date.</p>
+<a class="rm" href="https://en.wikipedia.org/wiki/Frank_Tanana" rel="noopener">Read more</a></div>
+
+<div class="sbp"><div class="ttl">Game of the Day: 2014 Division Series, Giants at Nationals. Nationals Park, 44,035 fans</div>
+<div class="sbg"><sc-for list="{{sb}}" as="x" hint-placeholder-count="66"><div class="{{x.cls}}">{{x.t}}</div></sc-for></div>
+<p class="nt">Nationals score in the 3rd. Giants tie it in the 9th and win it in the 18th. The longest game ever played on Oct. 4.</p>
+<div class="tn"><div><b>The first game on this date, 1871</b>Mutuals 10, Braves 13, before a crowd of 3,000.</div><div><b>The latest game on this date, 2026</b>Braves 3, Dodgers 2, in the National League Division Series, before 50,729 at Dodger Stadium.</div></div></div>
+
+<div class="pq"><p>Tied 1-1 after nine innings. Decided in the eighteenth.</p><span>The 2014 Division Series game, from Retrosheet</span></div>
+
+<div class="bx"><h3>Ties</h3>
+<div class="n"><span>Games that ended tied on Oct. 4</span><em>8</em></div>
+<div class="n"><span>The latest, 1913: Browns 0, Indians 0, at League Park IV</span><em>0-0</em></div></div>
+
+<div class="bx"><h3>Forfeits</h3>
+<div class="n"><span>Games forfeited on Oct. 4</span><em>2</em></div>
+<div class="n"><span>The latest, 1909: Phillies at Giants, 1-1, Polo Grounds IV</span><em>1909</em></div></div>
+
+<div class="bx"><h3>The Record Book</h3>
+<div class="n"><span>Doubleheaders played on this date</span><em>40</em></div>
+<div class="n"><span>Most runs: 1875 Athletics 19, White Stockings 10</span><em>29</em></div>
+<div class="n"><span>Biggest blowout: 1875 Dark Blues 18, New Havens 0</span><em>18-0</em></div></div>
+
+<div class="bx"><h3>Every Team's Record on Oct. 4</h3>
+<div class="tg"><sc-for list="{{teams}}" as="t" hint-placeholder-count="30"><div style="border-top: 4px solid {{t.c}}"><b>{{t.n}}</b><span>{{t.r}}</span></div></sc-for></div>
+<p class="sm">Wins-losses-ties.</p></div>
+
+<div class="dyk"><b>Did you know</b><p>The record crowd, 92,394 in 1959, is more than 20 times the average Oct. 4 crowd of the 1900s.</p></div>
+<div class="bx"><h3>Standings for the Day</h3>
+<p class="k" style="margin-top:4px;color:var(--sc)">Best</p>
+<div class="n"><span>Mets</span><em class="s">.789 (15-4)</em></div>
+<div class="n"><span>Mariners</span><em class="s">.688 (11-5)</em></div>
+<div class="n"><span>Giants</span><em class="s">.617 (29-18)</em></div>
+<p class="k" style="margin-top:10px;color:var(--red)">Worst</p>
+<div class="n"><span>Nationals</span><em class="s">.200 (3-12)</em></div>
+<div class="n"><span>Astros</span><em class="s">.333 (5-10)</em></div>
+<div class="n"><span>Pirates</span><em class="s">.342 (13-25)</em></div></div>
+</div>
+<div class="ft">Continues on the next page: players and the wire.</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"paper":{"editor":"color","default":"#dcdad3","options":["#dcdad3","#e6e3dc","#f1e9d8"],"section":"Paper"},"$preview":{"width":390,"height":7400}}'>
+class Component extends DCLogic {
+renderVals() {
+  const cards = [
+    { t:'sfg', img:'/_blob/b8258c67c38a0fda22cb9c5dd0ee970a', alt:'Man in straw hat shaking hands with player in white W uniform, crowd, flag', cr:'National Photo Company, public domain', k:'1924 World Series', h:'Giants win opener in extra innings', tx:'The New York Giants win Game 1, 4-3, in extra innings.', href:'https://en.wikipedia.org/wiki/1924_World_Series' },
+    { t:'det', img:'/_blob/c9d73209cbd10fe124e22a495dff9592', alt:'Pitcher in gray road uniform mid-windup on field, stadium stands behind', cr:'Mike Fitzpatrick, CC BY 2.0', k:'1987 AL East', h:'Tanana blanks Blue Jays, Tigers take the division', tx:'Frank Tanana shuts out Toronto, 1-0, to clinch the Tigers\' division title.', href:'https://en.wikipedia.org/wiki/Frank_Tanana' },
+    { t:'lad', img:'/_blob/bcce6752207caa09e011e1fac43e5f67', alt:'Batter in Dodgers jersey at plate, catcher, umpire, stadium crowd', cr:'Wikimedia Commons, CC BY 2.0', k:'1978 NLCS, Game 1', h:'Garvey homers twice in opener', tx:'Steve Garvey hits two home runs as the Dodgers beat the Phillies, 9-5.', href:'https://en.wikipedia.org/wiki/Steve_Garvey' },
+    { t:'sfg', img:'/_blob/4b46eff2df7572c42ce85c0359548f20', alt:'Dense crowd filling stands at a ballpark', cr:'David Shapinsky, CC BY-SA 2.0', k:'1922 World Series', h:'Giants score three in the eighth to take the opener', tx:'The Giants take the 1922 World Series opener, 3-2.', href:'https://en.wikipedia.org/wiki/Polo_Grounds' },
+    { t:'nyy', img:'/_blob/89e98d7afe9a88a778186cf26d1b1790', alt:'Man in pinstriped Yankees uniform and NY cap, black-and-white', cr:'Bill Dickey. Harris and Ewing, public domain', k:'1939 World Series', h:'Dickey\'s ninth-inning single wins it', tx:'Bill Dickey\'s single wins Game 1 for the Yankees, 2-1.', href:'https://en.wikipedia.org/wiki/1939_World_Series' },
+    { t:'det', img:'/_blob/e2d1da6685e3436520dd9b7a00ac6a19', alt:'Painted baseball card portrait of Goose Goslin in white cap and jersey', cr:'Goudey card, public domain', k:'1934 World Series', h:'Goslin\'s single wins it for Tigers', tx:'Detroit takes Game 2, 3-2.', href:'https://en.wikipedia.org/wiki/Goose_Goslin' },
+    { t:'stl', img:'/_blob/3514b4ad9ba6b9133b29519ab744999c', alt:'1880s St. Louis Browns team portrait in uniform', cr:'Strauss, public domain', k:'1891', h:'Breitenstein throws a no-hitter', tx:'The Browns beat the Colonels, 8-0.', href:'https://en.wikipedia.org/wiki/American_Association_(1882%E2%80%931891)' },
+    { t:'sfg', img:'/_blob/5dbd5bf9f40d6d298e3bd8bee4058f25', alt:'Sepia portrait of a man in a New York baseball jersey', cr:'Carl J. Horner, public domain', k:'1904', h:'Mertes hits for the cycle', tx:'Sam Mertes completes the cycle in the Giants\' 7-3 loss to the Cardinals.', href:'https://en.wikipedia.org/wiki/Sam_Mertes' },
+    { t:'mtl', img:'/_blob/5cff474187b955b0d285bf7973b1b170', alt:'Team photo of baseball players in white uniforms before a stadium', cr:'Conrad Poirier, public domain', k:'1946', h:'Royals win Junior World Series', tx:'Montreal beats Louisville, 2-0.', href:'https://en.wikipedia.org/wiki/Delorimier_Stadium' },
+    { t:'tor', img:'/_blob/665f327900ef8b3b7be25b1856692e58', alt:'Baseball player in Blue Jays road uniform running on field', cr:'Keith Allison, CC BY-SA 2.0', k:'2016 AL Wild Card', h:'Encarnación\'s homer in the 11th', tx:'A three-run homer sends the Blue Jays past the Orioles.', href:'https://en.wikipedia.org/wiki/Edwin_Encarnaci%C3%B3n' },
+    { t:'lad', img:'/_blob/4832ca2491c861b6113a89c2ad842824', alt:'Dodger Stadium scoreboard showing NLCS, night game', cr:'KennethHan, public domain', k:'2008 NLCS', h:'Dodgers sweep Cubs, advance', tx:'Los Angeles sweeps Chicago and moves on to the National League Championship Series.', href:'https://en.wikipedia.org/wiki/League_Championship_Series' }
+  ].map((c, i, a) => ({ ...c, cls: (i === a.length - 1 ? 'card wide ' : 'card ') + c.t, ph: i === a.length - 1 ? 150 : 120 }));
+  const teamRows = [['Braves','25-24','#a30d33'],['Giants','29-18-2','#9a3a08'],['Cubs','24-18-1','#0e3386'],['Phillies','23-21-2','#b01220'],['Pirates','13-25','#9a7b00'],['Dodgers','22-22-1','#005a9c'],['Cardinals','18-18-2','#b3151f'],['Reds','16-19','#a8101c'],['Red Sox','15-18','#b0222c'],['White Sox','17-12','#1a1916'],['Athletics','15-17','#0f5b3a'],['Guardians','15-12-2','#a40e30'],['Yankees','33-21','#0c2340'],['Orioles','13-15-2','#b8420a'],['Twins','12-22','#002b5c'],['Tigers','18-14','#12294a'],['Rangers','8-9','#003278'],['Angels','6-10','#ba0021'],['Astros','5-10','#b25900'],['Mets','15-4','#1f4fa0'],['Royals','8-5','#004687'],['Brewers','8-8','#12284b'],['Nationals','3-12','#ab0003'],['Padres','7-8','#2f241d'],['Blue Jays','6-7','#134a8e'],['Mariners','11-5','#0c6a73'],['Rays','2-6','#092c5c'],['Rockies','3-5','#4b2e83'],['Diamondbacks','7-1','#a71930'],['Marlins','2-4','#0077a8']];
+  const g = [0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1];
+  const n = [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+  const sb = [{ cls: 'sbc hd', t: '' }];
+  for (let i = 1; i <= 18; i++) sb.push({ cls: 'sbc hd', t: String(i) });
+  ['R','H','E'].forEach((l) => sb.push({ cls: 'sbc hd', t: l }));
+  const row = (name, runs, tot) => {
+    sb.push({ cls: 'sbc nm', t: name });
+    runs.forEach((v) => sb.push({ cls: v ? 'sbc lit' : 'sbc', t: String(v) }));
+    tot.forEach((v) => sb.push({ cls: 'sbc tot', t: String(v) }));
+  };
+  row('Giants', g, [2, 8, 0]);
+  row('Nats', n, [1, 9, 0]);
+  return { paper: this.props.paper ?? '#dcdad3', cards, sb, teams: teamRows.map((t) => ({ n: t[0], r: t[1], c: t[2] })) };
+}
+}
+</script>
+</body>
+</html>
