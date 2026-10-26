@@ -380,6 +380,22 @@
   "reason": "rejected MG 0099 Rene Lachemann.jpg: The story concerns the 1992 Florida Marlins hiring their first manager, but the uniform reads Colorado, a team that did not exist until 1993. Florida's uniform would not match this photo, so it cannot depict the 1992 event. The file name and article point to Lachemann, but the visible team contradicts the story's period and franchise.",
   "model": "claude-haiku-5-5"
  },
+ "0479e0e6ea3399c3": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Beto_Avila_1948.jpg",
+   "credit": "Caramelos El Indio",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Beto_Avila_1948.jpg",
+   "alt": "Young man in baseball cap and uniform, sepia newspaper-style portrait",
+   "source": "checked",
+   "of": "Bobby Ávila",
+   "w": 453,
+   "h": 658,
+   "tier": "person"
+  },
+  "reason": "person: Young man in baseball cap and uniform, sepia newspaper-style portrait",
+  "model": "claude-haiku-5-5"
+ },
  "0584352a74112155": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Luis_Tiant_1965.jpeg",
@@ -6838,6 +6854,11 @@
   "reason": "person: Smiling man in Red Sox cap and navy Boston jersey, bearded, outdoors at ballpark",
   "model": "claude-haiku-5-5"
  },
+ "5fe05b4065bf664a": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
  "5ff45446406ccf8e": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frank_Thomas_1997_CROP.jpg/960px-Frank_Thomas_1997_CROP.jpg",
@@ -13085,6 +13106,11 @@
  "aa86622bf27a617b": {
   "image": null,
   "reason": "weak pick (0.2): 1888 Cincinnati team photo is from a different era (~66 years before 1954), so it fails the within-5-years team criterion; included only as the closest Cincinnati team photo, low confidence.",
+  "model": "claude-haiku-5-5"
+ },
+ "aa94c7fa85553358": {
+  "image": null,
+  "reason": "rejected Steve Bilko and Bob Anderson.jpg: The story concerns Bob Scheffing's MLB career with the Cubs, Reds, Cardinals, Tigers and Mets, but the photo shows Angels minor-league uniforms (Pacific Coast League style), a setting the story does not mention. The file name names two other players, not Scheffing, and nothing in the image ties to his career.",
   "model": "claude-haiku-5-5"
  },
  "aaa3f51837fb3bb8": {

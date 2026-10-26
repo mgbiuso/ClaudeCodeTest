@@ -12,7 +12,7 @@
     "Atlanta Braves",
     "1996 World Series"
    ],
-   "score": 121.02899810785289,
+   "score": 121.14315652494852,
    "abouts": [
     "1996 World Series",
     "New York Yankees",
@@ -73,7 +73,7 @@
    "links": [
     "Joe Girardi"
    ],
-   "score": 62.0,
+   "score": 85.64335127593016,
    "abouts": [
     "Joe Girardi"
    ],
@@ -94,6 +94,25 @@
    },
    "extract": "Joseph Elliott Girardi is an American sports broadcaster and former professional baseball player and manager in Major League Baseball (MLB). Girardi played the catcher position for the Chicago Cubs, Colorado Rockies, New York Yankees, and St. Louis Cardinals during a big league playing career that spanned from 1989 to…",
    "page": "https://en.wikipedia.org/wiki/Joe_Girardi"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2015",
+   "text": "On October 26, 2015, Stottlemyre was announced as the new pitching coach for the Seattle Mariners during manager Scott Servais' inaugural press conference.",
+   "links": [
+    "Mel Stottlemyre Jr."
+   ],
+   "about": "Mel Stottlemyre Jr.",
+   "score": 22.0,
+   "abouts": [
+    "Mel Stottlemyre Jr."
+   ],
+   "key": "5fe05b4065bf664a",
+   "headline": "Stottlemyre Named Mariners Pitching Coach Under Servais",
+   "image": null,
+   "extract": "Melvin Leon Stottlemyre Jr. is an American professional baseball pitching coach and a former right-handed pitcher who played in Major League Baseball (MLB) for the Kansas City Royals.",
+   "page": "https://en.wikipedia.org/wiki/Mel_Stottlemyre_Jr."
   },
   {
    "src": "yearpage",
@@ -138,7 +157,7 @@
     "Joe Blanton",
     "2008 World Series"
    ],
-   "score": 91.46017217997368,
+   "score": 92.00915587454475,
    "abouts": [
     "2008 World Series",
     "Joe Blanton"
@@ -176,7 +195,7 @@
     "Chunichi Dragons",
     "2006 Japan Series"
    ],
-   "score": 21.919076829902156,
+   "score": 21.945830421822663,
    "abouts": [
     "2006 Japan Series",
     "Hokkaido Nippon Ham Fighters",
@@ -210,7 +229,7 @@
     "Chicago White Sox",
     "Houston Astros"
    ],
-   "score": 97.83907103751375,
+   "score": 97.87640119090098,
    "abouts": [
     "2005 World Series",
     "Chicago White Sox",
@@ -248,7 +267,7 @@
     "2005 Major League Baseball postseason"
    ],
    "about": "2005 Major League Baseball postseason",
-   "score": 68.55101007327693,
+   "score": 68.62424543814693,
    "abouts": [
     "2005 Major League Baseball postseason"
    ],
@@ -279,7 +298,7 @@
     "Alex Cabrera",
     "Seibu Lions"
    ],
-   "score": 71.6141963634316,
+   "score": 71.62860429009706,
    "abouts": [
     "Alex Cabrera",
     "Takashi Ishii (baseball)",
@@ -291,6 +310,36 @@
    "image": null,
    "extract": "Alexander Alberto Cabrera is a Venezuelan former first baseman and right-handed batter who played in 2000 for the Arizona Diamondbacks in Major League Baseball (MLB) and for 12 seasons in Nippon Professional Baseball (NPB). He also played several seasons in the Mexican League and the Venezuelan Professional Baseball…",
    "page": "https://en.wikipedia.org/wiki/Alex_Cabrera"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2004",
+   "text": "Bobby Ávila, 80, Mexican All-Star second baseman for the Cleveland Indians who won the AL batting title in 1954, the first Hispanic player to do so; became president of the Mexican League.",
+   "links": [
+    "Bobby Ávila"
+   ],
+   "score": 20.6675,
+   "abouts": [
+    "Bobby Ávila"
+   ],
+   "about": "Bobby Ávila",
+   "key": "0479e0e6ea3399c3",
+   "headline": "Bobby Ávila, 80, Mexican All-Star Second Baseman",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Beto_Avila_1948.jpg",
+    "credit": "Caramelos El Indio",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Beto_Avila_1948.jpg",
+    "alt": "Young man in baseball cap and uniform, sepia newspaper-style portrait",
+    "source": "checked",
+    "of": "Bobby Ávila",
+    "w": 453,
+    "h": 658,
+    "tier": "person"
+   },
+   "extract": "Roberto Francisco Ávila González, known as \"Beto\" in Mexico and as \"Bobby\" in the United States, was a Mexican professional baseball second baseman.",
+   "page": "https://en.wikipedia.org/wiki/Bobby_%C3%81vila"
   },
   {
    "src": "yearpage",
@@ -336,7 +385,7 @@
     "New York Mets",
     "2000 World Series"
    ],
-   "score": 116.6197650377146,
+   "score": 116.7239256131633,
    "abouts": [
     "2000 World Series",
     "New York Yankees",
@@ -395,7 +444,7 @@
     "Frank Thomas",
     "Chicago White Sox"
    ],
-   "score": 67.70327380455059,
+   "score": 67.54466763025016,
    "abouts": [
     "Frank Thomas",
     "Chicago White Sox"
@@ -427,7 +476,7 @@
     "Bill Bevens",
     "Cookie Lavagetto"
    ],
-   "score": 20.216,
+   "score": 20.2195,
    "abouts": [
     "Bill Bevens",
     "Cookie Lavagetto"
@@ -449,13 +498,13 @@
     "Tommy Lasorda",
     "Jim Leyland"
    ],
-   "score": 87.0,
+   "score": 108.55654373000404,
    "abouts": [
-    "Tommy Lasorda",
     "Jim Leyland",
+    "Tommy Lasorda",
     "Los Angeles Dodgers"
    ],
-   "about": "Tommy Lasorda",
+   "about": "Jim Leyland",
    "key": "f67734c444074066",
    "headline": "Lasorda Wins NL Manager of the Year, 19 of 24 First-Place Votes",
    "image": {
@@ -470,8 +519,8 @@
     "h": 829,
     "tier": "person"
    },
-   "extract": "Thomas Charles Lasorda was an American professional baseball pitcher and manager. He managed the Los Angeles Dodgers of Major League Baseball (MLB) from 1976 through 1996. He was inducted into the National Baseball Hall of Fame as a manager in 1997.",
-   "page": "https://en.wikipedia.org/wiki/Tommy_Lasorda"
+   "extract": "James Richard Leyland is an American former professional baseball player, coach and manager. He serves as a special assistant to the Detroit Tigers of Major League Baseball (MLB).",
+   "page": "https://en.wikipedia.org/wiki/Jim_Leyland"
   },
   {
    "src": "yearpage",
@@ -483,13 +532,13 @@
     "Royals Stadium",
     "1985 World Series"
    ],
-   "score": 99.76855690213777,
+   "score": 100.62317312009569,
    "abouts": [
-    "1985 World Series",
     "Royals Stadium",
+    "1985 World Series",
     "St. Louis Cardinals"
    ],
-   "about": "1985 World Series",
+   "about": "Royals Stadium",
    "key": "06e19d91aa515b39",
    "headline": "Cardinals Lead 1-0 in Ninth, Poised for World Series Title",
    "image": {
@@ -504,13 +553,34 @@
     "h": 369,
     "tier": "venue"
    },
-   "extract": "The 1985 World Series was the championship series of Major League Baseball's (MLB) 1985 season. The 82nd edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Kansas City Royals and the National League (NL) champion St. Louis Cardinals. The Royals upset the…",
-   "page": "https://en.wikipedia.org/wiki/1985_World_Series",
+   "extract": "Kauffman Stadium is a ballpark located in Kansas City, Missouri, and the home of Major League Baseball's Kansas City Royals. It is next door to Arrowhead Stadium, home of the National Football League's Kansas City Chiefs. Both make up the Truman Sports Complex. The stadium is named for Ewing Kauffman, the founder and…",
+   "page": "https://en.wikipedia.org/wiki/Kauffman_Stadium",
    "video": {
     "id": "vyt1xEvqqow",
     "title": "WS1985 Gm6: Denkinger calls Orta safe at first base",
     "channel": "MLB"
    }
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1985",
+   "text": "Bob Scheffing, 72, catcher, coach, manager and executive; hit .263 with 20 home runs and 187 RBI in 517 games for the Chicago Cubs, Cincinnati Reds and St. Louis Cardinals between 1941 and 1951; managed Cubs from 1957 through 1959 and Detroit Tigers from 1961 until June 16, 1963; succeeded Johnny Murphy as general manager of the New York Mets upon Murphy's sudden death in January 1970, and served as GM through the…",
+   "links": [
+    "Bob Scheffing",
+    "Johnny Murphy"
+   ],
+   "score": 20.18,
+   "abouts": [
+    "Bob Scheffing",
+    "Johnny Murphy"
+   ],
+   "about": "Bob Scheffing",
+   "key": "aa94c7fa85553358",
+   "headline": "Bob Scheffing, 72, Catcher, Manager and Mets General Manager",
+   "image": null,
+   "extract": "Robert Boden Scheffing was an American professional baseball player, coach, manager and front-office executive. Nicknamed \"Grumpy\", the native of Overland, Missouri, is most often identified with the Chicago Cubs, for whom he played as a catcher, coached (1954–55), and managed (1957–59). Scheffing threw and batted…",
+   "page": "https://en.wikipedia.org/wiki/Bob_Scheffing"
   },
   {
    "src": "yearpage",
@@ -522,7 +592,7 @@
     "Philadelphia Phillies",
     "Cy Young Award"
    ],
-   "score": 57.709019104740875,
+   "score": 57.61730155162236,
    "abouts": [
     "Cy Young Award",
     "Steve Carlton",
@@ -556,7 +626,7 @@
     "New York Yankees",
     "1981 World Series"
    ],
-   "score": 70.14630997902088,
+   "score": 70.39028933489593,
    "abouts": [
     "1981 World Series",
     "George Steinbrenner",
@@ -579,7 +649,7 @@
     "Aurelio López",
     "Mexico City Reds"
    ],
-   "score": 35.96562299177231,
+   "score": 36.03412938015924,
    "abouts": [
     "Aurelio López",
     "St. Louis Cardinals",
@@ -636,7 +706,7 @@
     "American League",
     "1961 Major League Baseball expansion"
    ],
-   "score": 57.74065672373972,
+   "score": 57.79522179535361,
    "abouts": [
     "American League",
     "1961 Major League Baseball expansion",
@@ -693,7 +763,7 @@
     "Baseball Hall of Fame",
     "Boston Braves"
    ],
-   "score": 77.9390131935921,
+   "score": 77.94604744791152,
    "abouts": [
     "Billy Southworth",
     "Baseball Hall of Fame",
@@ -791,7 +861,7 @@
     "New York Giants (baseball)",
     "1911 World Series"
    ],
-   "score": 106.14968842953967,
+   "score": 106.35339418072354,
    "abouts": [
     "1911 World Series",
     "Philadelphia Athletics",
@@ -1145,7 +1215,8 @@
     "park": "Dodger Stadium",
     "event": "World Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 224,
@@ -1297,6 +1368,36 @@
    "paper": "Evening star (Washington, D.C.)",
    "page": 69,
    "url": "https://www.loc.gov/resource/sn83045462/1960-10-26/ed-1/?sp=69&q=baseball"
+  },
+  {
+   "year": 1956,
+   "paper": "The Key West citizen (Key West, Fla.)",
+   "page": 8,
+   "url": "https://www.loc.gov/resource/sn83016244/1956-10-26/ed-1/?sp=8&q=baseball"
+  },
+  {
+   "year": 1949,
+   "paper": "Laurel outlook (Laurel, Mont.)",
+   "page": 6,
+   "url": "https://www.loc.gov/resource/sn86075258/1949-10-26/ed-1/?sp=6&q=baseball"
+  },
+  {
+   "year": 1946,
+   "paper": "Le messager (Lewiston, Me.)",
+   "page": 4,
+   "url": "https://www.loc.gov/resource/sn83045313/1946-10-26/ed-1/?sp=4&q=baseball"
+  },
+  {
+   "year": 1931,
+   "paper": "The Washington times (Washington [D.C.])",
+   "page": 18,
+   "url": "https://www.loc.gov/resource/sn84026749/1931-10-26/ed-1/?sp=18&q=baseball"
+  },
+  {
+   "year": 1911,
+   "paper": "The Fulton County news (McConnellsburg, Pa.)",
+   "page": 7,
+   "url": "https://www.loc.gov/resource/sn86081889/1911-10-26/ed-1/?sp=7&q=baseball"
   }
  ]
 }
