@@ -43,6 +43,10 @@
   "reason": "Candidate 1 is official MLB footage of the specific 1985 Game 6 play where Denkinger calls Orta safe at first in the bottom of the 9th, matching the story's eve",
   "query": "Cardinals Royals 1985 World Series Game 6 Don Denkinger call"
  },
+ "091d0ee8a33c3022": {
+  "none": "no official embeddable video",
+  "query": "Harry Dalton Baltimore Orioles California Angels general manager 1971"
+ },
  "0b9e5450514a1684": {
   "none": "no official embeddable video",
   "query": "Kirby Higbe Brooklyn Dodgers 1941 22 wins highlights"
@@ -554,6 +558,14 @@
   "published": "2025-11-02",
   "reason": "Candidate 1 is from MLB's official channel, published 2025-11-02, and is titled as the 2025 World Series win after Game 7, matching the story's event and year. ",
   "query": "Dodgers defeat Blue Jays Game 7 2025 World Series highlights"
+ },
+ "84e47fc4bc1f71d7": {
+  "id": "QYuWVArJbBM",
+  "title": "1991 WS Gm7: Larkin's single wins series for Twins",
+  "channel": "MLB",
+  "published": "2013-10-10",
+  "reason": "Official MLB footage of Game 7 of the 1991 World Series showing Larkin's single and Gladden's winning run, matching the story's key event and year.",
+  "query": "Jack Morris 10-inning shutout Game 7 1991 World Series Twins"
  },
  "85e78ffff0155c81": {
   "id": "WnW-fl0mNwo",

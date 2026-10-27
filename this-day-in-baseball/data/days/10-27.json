@@ -5,40 +5,40 @@
   {
    "src": "yearpage",
    "kind": "event",
-   "year": "2006",
-   "text": "The St. Louis Cardinals defeat the Detroit Tigers 4–2, winning the World Series 4–1 for their 10th championship and their first since 1982. Their 83 regular-season victories is a new record for the fewest by a Series champion in a full season.",
+   "year": "1986",
+   "text": "At Shea Stadium, the Mets come from behind again, overcoming a three-run Boston lead with six unanswered runs in the sixth and seventh innings and winning Game 7 of the World Series over the Red Sox by a final of 8–5. The Mets capture their second Fall Classic championship and first since 1969. Third baseman Ray Knight, whose homer broke a 3–3 deadlock in the seventh, is chosen Series MVP.",
    "links": [
-    "St. Louis Cardinals",
-    "Detroit Tigers",
-    "2006 World Series"
+    "Shea Stadium",
+    "New York Mets",
+    "Boston Red Sox"
    ],
-   "score": 121.0383064559839,
+   "score": 115.0,
    "abouts": [
-    "2006 World Series",
-    "St. Louis Cardinals",
-    "Detroit Tigers"
+    "Shea Stadium",
+    "New York Mets",
+    "Boston Red Sox"
    ],
-   "about": "2006 World Series",
-   "key": "c98fb32e9e6df904",
-   "headline": "Cardinals Beat Tigers 4-2, Win World Series 4-1",
+   "about": "Shea Stadium",
+   "key": "baa85207a74d6537",
+   "headline": "Mets Rally Past Red Sox 8-5 in Game 7, Win Series",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cardinals_at_White_House.jpg",
-    "credit": "Eric Draper",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Cardinals_at_White_House.jpg",
-    "alt": "Team group in formal wear behind a Bush 06 jersey at a White House-style room",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bill_Buckner_of_the_Boston_Red_Sox.jpg",
+    "credit": "Craig Johnson from San Diego, CA, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bill_Buckner_of_the_Boston_Red_Sox.jpg",
+    "alt": "Smiling man in Boston road jersey, navy cap, mustache, outdoors near fence",
     "source": "checked",
-    "of": "2006 World Series",
-    "w": 515,
-    "h": 361,
-    "tier": "event"
+    "of": "1986 World Series",
+    "w": 719,
+    "h": 893,
+    "tier": "team"
    },
-   "extract": "The 2006 World Series was the championship series of Major League Baseball's (MLB) 2006 season. The 102nd edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Detroit Tigers and the National League (NL) champion St. Louis Cardinals; the Cardinals won the series in five…",
-   "page": "https://en.wikipedia.org/wiki/2006_World_Series",
+   "extract": "William A. Shea Municipal Stadium, typically shortened to Shea Stadium, was a multi-purpose stadium in Flushing Meadows–Corona Park in Queens, New York City. Opened in 1964, it was home to the New York Mets of Major League Baseball (MLB) from 1964 to 2008, as well as the New York Jets of the American Football League…",
+   "page": "https://en.wikipedia.org/wiki/Shea_Stadium",
    "video": {
-    "id": "H8q7lUy8HXw",
-    "title": "WS2006 Gm5: Weaver fans 9 in Classic-clinching win",
-    "channel": "MLB"
+    "id": "oLHidTxSbVw",
+    "title": "1986 World Series Game 7 Highlights",
+    "channel": "New York Mets"
    },
    "lead": true
   },
@@ -82,13 +82,13 @@
     "Arlington, Texas",
     "Los Angeles Dodgers"
    ],
-   "score": 97.80156605926973,
+   "score": 75.0,
    "abouts": [
-    "Arlington, Texas",
     "Globe Life Field",
+    "Arlington, Texas",
     "Los Angeles Dodgers"
    ],
-   "about": "Arlington, Texas",
+   "about": "Globe Life Field",
    "key": "cb41adbbe0f0d295",
    "headline": "Dodgers Beat Rays 3-1, Win 2020 World Series in Six",
    "image": {
@@ -121,7 +121,7 @@
     "Dodger Stadium",
     "Mitch Moreland"
    ],
-   "score": 107.49568497268692,
+   "score": 85.0,
    "abouts": [
     "2018 World Series",
     "Dodger Stadium",
@@ -158,7 +158,7 @@
    "links": [
     "2017 World Series"
    ],
-   "score": 73.1582840258396,
+   "score": 73.24321471085054,
    "abouts": [
     "2017 World Series"
    ],
@@ -179,7 +179,7 @@
     "inside-the-park home run",
     "Eric Hosmer"
    ],
-   "score": 117.52914016927419,
+   "score": 100.0,
    "abouts": [
     "Alcides Escobar",
     "inside-the-park home run",
@@ -285,7 +285,7 @@
     "2012 Los Angeles Angels season"
    ],
    "about": "2012 Los Angeles Angels season",
-   "score": 50.187448647562555,
+   "score": 50.11107011483148,
    "abouts": [
     "2012 Los Angeles Angels season"
    ],
@@ -294,36 +294,6 @@
    "image": null,
    "extract": "The 2012 Los Angeles Angels of Anaheim season was the franchise's 52nd season and 47th in Anaheim. The Angels would miss the playoffs for the third straight season, finishing third in the American League West at 89–73.",
    "page": "https://en.wikipedia.org/wiki/2012_Los_Angeles_Angels_season"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "2009",
-   "text": "On October 27, 2009, Mills was named manager of the Houston Astros, replacing interim manager Dave Clark; he was hired after Manny Acta declined (he elected to manage the Cleveland Indians).",
-   "links": [
-    "Brad Mills (baseball manager)"
-   ],
-   "about": "Brad Mills (baseball manager)",
-   "score": 35.95142582016621,
-   "abouts": [
-    "Brad Mills (baseball manager)"
-   ],
-   "key": "7c98848bf6f6f3c7",
-   "headline": "Mills Named Astros Manager, Replacing Interim Dave Clark",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG/960px-Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
-    "credit": "EricEnfermero",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
-    "alt": "Man in red cap and navy jacket with a 'C' logo at a ballpark",
-    "source": "checked",
-    "of": "Brad Mills (baseball manager)",
-    "w": 1898,
-    "h": 2848,
-    "tier": "person"
-   },
-   "extract": "James Bradley Mills is an American former professional baseball player, coach, and manager. He played in Major League Baseball (MLB) as an infielder for the Montreal Expos from 1980 to 1983. He managed the Houston Astros from 2010 to 2012, and served as a coach in MLB for the Expos, Philadelphia Phillies, Boston Red…",
-   "page": "https://en.wikipedia.org/wiki/Brad_Mills_(baseball_manager)"
   },
   {
    "src": "yearpage",
@@ -352,6 +322,45 @@
    "page": ""
   },
   {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2006",
+   "text": "The St. Louis Cardinals defeat the Detroit Tigers 4–2, winning the World Series 4–1 for their 10th championship and their first since 1982. Their 83 regular-season victories is a new record for the fewest by a Series champion in a full season.",
+   "links": [
+    "St. Louis Cardinals",
+    "Detroit Tigers",
+    "2006 World Series"
+   ],
+   "score": 100.0,
+   "abouts": [
+    "2006 World Series",
+    "St. Louis Cardinals",
+    "Detroit Tigers"
+   ],
+   "about": "2006 World Series",
+   "key": "c98fb32e9e6df904",
+   "headline": "Cardinals Beat Tigers 4-2, Win World Series 4-1",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cardinals_at_White_House.jpg",
+    "credit": "Eric Draper",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Cardinals_at_White_House.jpg",
+    "alt": "Team group in formal wear behind a Bush 06 jersey at a White House-style room",
+    "source": "checked",
+    "of": "2006 World Series",
+    "w": 515,
+    "h": 361,
+    "tier": "event"
+   },
+   "extract": "The 2006 World Series was the championship series of Major League Baseball's (MLB) 2006 season. The 102nd edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Detroit Tigers and the National League (NL) champion St. Louis Cardinals; the Cardinals won the series in five…",
+   "page": "https://en.wikipedia.org/wiki/2006_World_Series",
+   "video": {
+    "id": "H8q7lUy8HXw",
+    "title": "WS2006 Gm5: Weaver fans 9 in Classic-clinching win",
+    "channel": "MLB"
+   }
+  },
+  {
    "src": "article",
    "kind": "event",
    "year": "2006",
@@ -360,7 +369,7 @@
     "2006 Major League Baseball postseason"
    ],
    "about": "2006 Major League Baseball postseason",
-   "score": 68.06920910938035,
+   "score": 68.15569625128406,
    "abouts": [
     "2006 Major League Baseball postseason"
    ],
@@ -382,6 +391,36 @@
    "page": "https://en.wikipedia.org/wiki/2006_Major_League_Baseball_postseason"
   },
   {
+   "src": "article",
+   "kind": "event",
+   "year": "2005",
+   "text": "Eldred announced his retirement as a player on October 27, 2005.",
+   "links": [
+    "Cal Eldred"
+   ],
+   "about": "Cal Eldred",
+   "score": 35.0,
+   "abouts": [
+    "Cal Eldred"
+   ],
+   "key": "b63f772be0193a97",
+   "headline": "Eldred Announces Retirement as a Player",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Cal_Eldred.jpg",
+    "credit": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cal_Eldred.jpg",
+    "alt": "Player in gray Kansas City road jersey #22 and blue KC cap on grass",
+    "source": "checked",
+    "of": "Cal Eldred",
+    "w": 952,
+    "h": 1209,
+    "tier": "person"
+   },
+   "extract": "Calvin John Eldred is an American former professional baseball pitcher who played for 14 seasons in Major League Baseball (MLB) from 1991 to 2005. He previously worked for the St. Louis Cardinals as a special assistant to general manager John Mozeliak, instructing minor league players for various on-field and…",
+   "page": "https://en.wikipedia.org/wiki/Cal_Eldred"
+  },
+  {
    "src": "yearpage",
    "kind": "event",
    "year": "2004",
@@ -391,7 +430,7 @@
     "St. Louis Cardinals",
     "2004 World Series"
    ],
-   "score": 72.33181684130483,
+   "score": 72.42874905407126,
    "abouts": [
     "2004 World Series",
     "Boston Red Sox",
@@ -425,7 +464,7 @@
     "2002 World Series",
     "San Francisco Giants"
    ],
-   "score": 71.83771136760288,
+   "score": 71.98282732592449,
    "abouts": [
     "2002 World Series",
     "Anaheim Angels",
@@ -447,7 +486,7 @@
     "2001 World Series"
    ],
    "about": "2001 World Series",
-   "score": 72.82066611921053,
+   "score": 72.90895210995124,
    "abouts": [
     "2001 World Series"
    ],
@@ -565,7 +604,7 @@
     "1991 World Series",
     "Jack Morris"
    ],
-   "score": 95.50598492932673,
+   "score": 95.85599858400211,
    "abouts": [
     "1991 World Series",
     "Jack Morris",
@@ -587,7 +626,12 @@
     "tier": "person"
    },
    "extract": "The 1991 World Series was the championship series of Major League Baseball's (MLB) 1991 season. The 88th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Minnesota Twins and the National League (NL) champion Atlanta Braves. The Twins defeated the Braves four…",
-   "page": "https://en.wikipedia.org/wiki/1991_World_Series"
+   "page": "https://en.wikipedia.org/wiki/1991_World_Series",
+   "video": {
+    "id": "QYuWVArJbBM",
+    "title": "1991 WS Gm7: Larkin's single wins series for Twins",
+    "channel": "MLB"
+   }
   },
   {
    "src": "yearpage",
@@ -599,7 +643,7 @@
     "1989 World Series",
     "1989 Loma Prieta earthquake"
    ],
-   "score": 74.12872047225729,
+   "score": 74.11649064070616,
    "abouts": [
     "1989 Loma Prieta earthquake",
     "1989 World Series",
@@ -625,25 +669,6 @@
   },
   {
    "src": "yearpage",
-   "kind": "death",
-   "year": "1988",
-   "text": "Ben Steiner, 67, second baseman for the Boston Red Sox and Detroit Tigers from 1945 to 1947.",
-   "links": [
-    "Ben Steiner"
-   ],
-   "score": 20.0595,
-   "abouts": [
-    "Ben Steiner"
-   ],
-   "about": "Ben Steiner",
-   "key": "01bf3b43bf755327",
-   "headline": "Ben Steiner, 67, Former Red Sox and Tigers Second Baseman",
-   "image": null,
-   "extract": "Benjamin Saunders Steiner was an American professional baseball player. A second baseman, he appeared in 82 games in Major League Baseball between 1945 and 1947 for the Boston Red Sox (1945–1946) and Detroit Tigers (1947). Steiner, born in Alexandria, Virginia, attended Central High School in Washington, D.C., and…",
-   "page": "https://en.wikipedia.org/wiki/Ben_Steiner"
-  },
-  {
-   "src": "yearpage",
    "kind": "event",
    "year": "1987",
    "text": "Buck Rodgers, who led the Montreal Expos to 91 victories in 1987, is elected National League Manager of the Year by the BBWAA, outpacing Roger Craig of the San Francisco Giants by 27 points. Two days from now, Sparky Anderson of the American League East champion Detroit Tigers will win his second Junior Circuit Manager of the Year nod in four seasons, edging Tom Trebelhorn of the Milwaukee Brewers and Tom Kelly of…",
@@ -652,7 +677,7 @@
     "Montreal Expos",
     "1987 Montreal Expos season"
    ],
-   "score": 68.86456001485054,
+   "score": 68.81805989946072,
    "abouts": [
     "Buck Rodgers",
     "1987 Montreal Expos season",
@@ -677,45 +702,6 @@
    "page": "https://en.wikipedia.org/wiki/Buck_Rodgers"
   },
   {
-   "src": "yearpage",
-   "kind": "event",
-   "year": "1986",
-   "text": "At Shea Stadium, the Mets come from behind again, overcoming a three-run Boston lead with six unanswered runs in the sixth and seventh innings and winning Game 7 of the World Series over the Red Sox by a final of 8–5. The Mets capture their second Fall Classic championship and first since 1969. Third baseman Ray Knight, whose homer broke a 3–3 deadlock in the seventh, is chosen Series MVP.",
-   "links": [
-    "Shea Stadium",
-    "New York Mets",
-    "Boston Red Sox"
-   ],
-   "score": 115.0,
-   "abouts": [
-    "Shea Stadium",
-    "New York Mets",
-    "Boston Red Sox"
-   ],
-   "about": "Shea Stadium",
-   "key": "baa85207a74d6537",
-   "headline": "Mets Rally Past Red Sox 8-5 in Game 7, Win Series",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bill_Buckner_of_the_Boston_Red_Sox.jpg",
-    "credit": "Craig Johnson from San Diego, CA, USA",
-    "license": "CC BY-SA 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bill_Buckner_of_the_Boston_Red_Sox.jpg",
-    "alt": "Smiling man in Boston road jersey, navy cap, mustache, outdoors near fence",
-    "source": "checked",
-    "of": "1986 World Series",
-    "w": 719,
-    "h": 893,
-    "tier": "team"
-   },
-   "extract": "William A. Shea Municipal Stadium, typically shortened to Shea Stadium, was a multi-purpose stadium in Flushing Meadows–Corona Park in Queens, New York City. Opened in 1964, it was home to the New York Mets of Major League Baseball (MLB) from 1964 to 2008, as well as the New York Jets of the American Football League…",
-   "page": "https://en.wikipedia.org/wiki/Shea_Stadium",
-   "video": {
-    "id": "oLHidTxSbVw",
-    "title": "1986 World Series Game 7 Highlights",
-    "channel": "New York Mets"
-   }
-  },
-  {
    "src": "article",
    "kind": "event",
    "year": "1986",
@@ -724,7 +710,7 @@
     "1986 Major League Baseball postseason"
    ],
    "about": "1986 Major League Baseball postseason",
-   "score": 65.84690247655975,
+   "score": 65.98502364011523,
    "abouts": [
     "1986 Major League Baseball postseason"
    ],
@@ -1158,7 +1144,8 @@
     "park": "Dodger Stadium",
     "event": "World Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 334,
@@ -1317,6 +1304,12 @@
  },
  "papers": [
   {
+   "year": 1958,
+   "paper": "The Key West citizen (Key West, Fla.)",
+   "page": 8,
+   "url": "https://www.loc.gov/resource/sn83016244/1958-10-27/ed-1/?sp=8&q=baseball"
+  },
+  {
    "year": 1955,
    "paper": "Le messager (Lewiston, Me.)",
    "page": 6,
@@ -1329,10 +1322,22 @@
    "url": "https://www.loc.gov/resource/sn83016244/1950-10-27/ed-1/?sp=6&q=baseball"
   },
   {
+   "year": 1948,
+   "paper": "Laurel outlook (Laurel, Mont.)",
+   "page": 12,
+   "url": "https://www.loc.gov/resource/sn86075258/1948-10-27/ed-1/?sp=12&q=baseball"
+  },
+  {
    "year": 1887,
    "paper": "Democratic Northwest (Napoleon, Ohio)",
    "page": 3,
    "url": "https://www.loc.gov/resource/sn84028296/1887-10-27/ed-1/?sp=3&q=baseball"
+  },
+  {
+   "year": 1877,
+   "paper": "The Cincinnati daily star ([Cincinnati, Ohio])",
+   "page": 4,
+   "url": "https://www.loc.gov/resource/sn85025759/1877-10-27/ed-1/?sp=4&q=baseball"
   }
  ]
 }

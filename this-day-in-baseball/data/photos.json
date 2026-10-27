@@ -14059,6 +14059,22 @@
   "reason": "person: Black granite headstone reading McCovey, with Giants #44 logo, in cemetery",
   "model": "claude-haiku-5-5"
  },
+ "b63f772be0193a97": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Cal_Eldred.jpg",
+   "credit": "Keith Allison from Hanover, MD, USA",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cal_Eldred.jpg",
+   "alt": "Player in gray Kansas City road jersey #22 and blue KC cap on grass",
+   "source": "checked",
+   "of": "Cal Eldred",
+   "w": 952,
+   "h": 1209,
+   "tier": "person"
+  },
+  "reason": "person: Player in gray Kansas City road jersey #22 and blue KC cap on grass",
+  "model": "claude-haiku-5-5"
+ },
  "b65840ca945afdab": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Luke_Appling_1942.jpg",
