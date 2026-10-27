@@ -2,7 +2,7 @@
 
 These are saved copies of private claude.ai mockups. The live site is unchanged.
 
-- `full/` : Oct. 4 desktop (Main), Oct. 22 desktop (Day2) and three Oct. 4 mobile parts (Mobile1 to 3).
+- `full/` : Oct. 4 desktop (Main, Main2), Oct. 22 desktop (Day2, Day2b), three Oct. 4 mobile parts (Mobile1 to 3) and five Oct. 22 mobile parts (Mobile22_1 to 5). The photo links point at the current shared mockup, CcR5.
 - `games/` : the games page.
 
 Image tags point to files stored inside the claude.ai mockup (`/_blob/...`), so the photos do not show if you open these files from this folder. Each photo's credit and license is printed under it in the files. Photos came from Wikimedia Commons and the Library of Congress.
