@@ -43,3 +43,15 @@ Checked October 22, 2026. Terms can change, so read each site's current terms be
 ## Video
 
 YouTube embeds of MLB and club videos fail with error 150 even when YouTube's data says "embeddable". Keep link-outs for those. Embed only videos that pass the real-browser test (data/video_playable.json). Better sources for playable old footage: National Archives, Library of Congress, Internet Archive, Wikimedia Commons. Check each item.
+
+## Researched October 26, 2026 (tested with small samples, not built yet)
+
+| Idea | What I found | Limits and next step |
+| --- | --- | --- |
+| Weather from Retrosheet | `gameinfo.csv` in the yearly zips (retrosheet.org/downloads/YYYY/YYYYcsvs.zip, 1897 to 2025, about 8 MB per year) has temperature, sky, precipitation, wind and field condition. Coverage in samples: 1925 temp 4 of 1,277 games; 1950 temp 43 of 1,244; 1975 temp 643 of 1,948; 1990 temp 1,429 of 2,120; 2015 temp 2,466 of 2,466. | Good for 1990 and later, thin before 1975. Use only where a value exists and skip the line otherwise. Same Retrosheet credit line. Our cached files do not include it yet, so a fetch step is needed. |
+| Ballpark coordinates | Wikidata property P625 had coordinates for 14 of 14 test parks (Polo Grounds, Ebbets Field, Forbes Field, Fenway and others). Retrosheet `ballparks0.csv` and Lahman `Parks.csv` have names and cities but no coordinates. | Match by park name needs a hand-checked list. A name search for "Tiger Stadium" returned the LSU football stadium, so every match must be checked. About 520 Retrosheet park codes. Wikidata data is CC0. |
+| Lahman tables we do not use | The full Lahman zip also has All-Star games, World Series results, Salaries (1985 on), Managers and more. Our cache keeps only 10 tables. | Download the zip again from sabr.org/lahman-database. The old GitHub address is gone. |
+| Wikipedia "On this day" feed | `api.wikimedia.org/feed/v1/wikipedia/en/onthisday/events/MM/DD` returned 48 world events for Oct. 4. No key. | Text is CC BY-SA, so credit Wikipedia. Cache it, one call per day. |
+| Old films and newsreels (Internet Archive) | A search for baseball movies dated 1900 to 1965 returned 110 items, including "1934 World Series", "1957 World Series Game 1", "Casey at the Bat (1927)" and Sacramento newsreels. The embed address (archive.org/embed/ID) answered with no frame block. | Licences vary per item and many say nothing. Check each item. Embed only after the real-browser test. Otherwise link out to the item page. |
+| Newspaper front pages (Library of Congress) | Chronicling America pages can be shown at any size through tile.loc.gov image links, and the front page of any issue is `?sp=1`. | Project rule says Library of Congress newspapers are link-out only. Showing even a small front-page thumbnail would need Mike's OK to change that rule, with a credit and a link to the page. The search API gives no rights field. |
+| MLB Stats API and Statcast | See above. Statcast starts in 2015. | Skip the pybaseball and baseballr packages. They also scrape Baseball-Reference and FanGraphs, which our rules do not allow. |
