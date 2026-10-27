@@ -47,7 +47,7 @@ Mike is new to coding and does not know what he does not know. So:
 - Be polite to outside sites: cache results, pace requests, never hammer an API.
 - MLB data (Stats API, Baseball Savant) allows only individual, non-commercial, non-bulk use. Keep it light and cached.
 - Do not copy data from sites whose terms bar it (Baseball-Reference, FanGraphs). Link to them instead.
-- Newspapers from the Library of Congress are link-out only.
+- Newspapers from the Library of Congress: for papers published before 1929, a small page or article picture is allowed if it shows a credit ("Library of Congress, Chronicling America") and links to the loc.gov page. For 1929 and later, link out only. (Rule changed by Mike on Oct. 26, 2026.)
 
 ## Video rules
 - YouTube's "embeddable" flag is not reliable here. MLB and club videos fail with error 150 in the real player.
