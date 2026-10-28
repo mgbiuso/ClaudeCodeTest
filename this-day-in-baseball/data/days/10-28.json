@@ -12,7 +12,7 @@
     "David Price (baseball)",
     "2018 World Series"
    ],
-   "score": 152.49568497268692,
+   "score": 152.52676753080092,
    "abouts": [
     "2018 World Series",
     "David Price (baseball)",
@@ -50,7 +50,7 @@
    "links": [
     "2017 World Series"
    ],
-   "score": 73.1582840258396,
+   "score": 73.27674882827716,
    "abouts": [
     "2017 World Series"
    ],
@@ -82,13 +82,13 @@
     "Jacob deGrom",
     "Lucas Duda"
    ],
-   "score": 72.7710522186155,
+   "score": 50.0,
    "abouts": [
-    "Jacob deGrom",
     "Johnny Cueto",
+    "Jacob deGrom",
     "Lucas Duda"
    ],
-   "about": "Jacob deGrom",
+   "about": "Johnny Cueto",
    "key": "34707ddae9194758",
    "headline": "Cueto Two-Hits Mets, Royals Take 2-0 World Series Lead",
    "image": {
@@ -103,8 +103,8 @@
     "h": 2100,
     "tier": "person"
    },
-   "extract": "Jacob Anthony deGrom is an American professional baseball pitcher for the Texas Rangers of Major League Baseball (MLB). He has previously played in MLB for the New York Mets.",
-   "page": "https://en.wikipedia.org/wiki/Jacob_deGrom"
+   "extract": "Johnny Cueto Ortiz is a Dominican professional baseball pitcher who is a free agent. He previously played in Major League Baseball (MLB) for the Cincinnati Reds, Kansas City Royals, San Francisco Giants, Chicago White Sox, Miami Marlins, and Los Angeles Angels, and most recently played for Leones del Escogido of the…",
+   "page": "https://en.wikipedia.org/wiki/Johnny_Cueto"
   },
   {
    "src": "article",
@@ -115,7 +115,7 @@
     "2012 Major League Baseball season"
    ],
    "about": "2012 Major League Baseball season",
-   "score": 103.93871885823233,
+   "score": 103.9967027472679,
    "abouts": [
     "2012 Major League Baseball season"
    ],
@@ -146,7 +146,7 @@
     "Detroit Tigers",
     "2012 World Series"
    ],
-   "score": 85.59809374876288,
+   "score": 86.04355009953201,
    "abouts": [
     "2012 World Series",
     "San Francisco Giants",
@@ -169,7 +169,7 @@
     "Busch Stadium",
     "Chevrolet Corvette"
    ],
-   "score": 151.25540462297565,
+   "score": 151.16557612108156,
    "abouts": [
     "Chevrolet Corvette",
     "Busch Stadium",
@@ -207,7 +207,7 @@
     "2011 Major League Baseball postseason"
    ],
    "about": "2011 Major League Baseball postseason",
-   "score": 68.45098040014257,
+   "score": 68.57374380362529,
    "abouts": [
     "2011 Major League Baseball postseason"
    ],
@@ -257,7 +257,7 @@
     "Texas Rangers (baseball)",
     "2010 World Series"
    ],
-   "score": 95.45375844822452,
+   "score": 95.77592079847004,
    "abouts": [
     "2010 World Series",
     "San Francisco Giants",
@@ -280,11 +280,11 @@
     "Cliff Lee",
     "earned run average"
    ],
-   "score": 107.02809761421676,
+   "score": 107.23842534502478,
    "abouts": [
     "2009 World Series",
-    "earned run average",
-    "Cliff Lee"
+    "Cliff Lee",
+    "earned run average"
    ],
    "about": "2009 World Series",
    "key": "ad6377589d126cb8",
@@ -313,7 +313,7 @@
     "Garret Anderson"
    ],
    "about": "Garret Anderson",
-   "score": 29.923311530950535,
+   "score": 10.0,
    "abouts": [
     "Garret Anderson"
    ],
@@ -333,55 +333,6 @@
    },
    "extract": "Garret Joseph Anderson was an American professional baseball left fielder who played 17 seasons in Major League Baseball (MLB) from 1994 to 2010, primarily for the California / Anaheim Angels / Los Angeles Angels of Anaheim. He also played for the Atlanta Braves and Los Angeles Dodgers.",
    "page": "https://en.wikipedia.org/wiki/Garret_Anderson"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "2008",
-   "text": "On October 28, 2008, Barack Obama held a rally at Harbor Park.",
-   "links": [
-    "Harbor Park"
-   ],
-   "about": "Harbor Park",
-   "score": 25.379558807413886,
-   "abouts": [
-    "Harbor Park"
-   ],
-   "key": "29b1c4506fef6d58",
-   "headline": "Barack Obama Holds Rally at Harbor Park",
-   "image": null,
-   "extract": "Harbor Park is a stadium, used primarily for baseball, on the Elizabeth River, in downtown Norfolk, Virginia. Once rated the best minor league stadium by Baseball America, it is home to the Norfolk Tides Minor League Baseball team. The Tides are the Baltimore Orioles' Triple-A farm team and compete in the…",
-   "page": "https://en.wikipedia.org/wiki/Harbor_Park"
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
-   "year": "2005",
-   "text": "Bob Broeg, 87, sportswriter for the St. Louis Post-Dispatch and The Sporting News from 1945 to 1995.",
-   "links": [
-    "Bob Broeg"
-   ],
-   "score": 20.1175,
-   "abouts": [
-    "Bob Broeg"
-   ],
-   "about": "Bob Broeg",
-   "key": "3bbab6f0aaf515cc",
-   "headline": "Bob Broeg, 87, Sportswriter for St. Louis Post-Dispatch",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bobboregsports.jpg",
-    "credit": "Johnmaxmena2 (talk)",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Bobboregsports.jpg",
-    "alt": "Older man with glasses and bow tie, microphone, red-jacketed person beside him, outdoor stadium",
-    "source": "checked",
-    "of": "Bob Broeg",
-    "w": 523,
-    "h": 651,
-    "tier": "person"
-   },
-   "extract": "",
-   "page": ""
   },
   {
    "src": "yearpage",
@@ -426,7 +377,7 @@
     "Andújar Cedeño",
     "hitting for the cycle"
    ],
-   "score": 20.3065,
+   "score": 20.289,
    "abouts": [
     "Andújar Cedeño",
     "hitting for the cycle"
@@ -471,7 +422,7 @@
     "1995 World Series",
     "Tom Glavine"
    ],
-   "score": 116.16205789210423,
+   "score": 116.42316866582294,
    "abouts": [
     "1995 World Series",
     "Tom Glavine",
@@ -509,7 +460,7 @@
     "1995 Major League Baseball postseason"
    ],
    "about": "1995 Major League Baseball postseason",
-   "score": 52.83277665441527,
+   "score": 52.972515219100444,
    "abouts": [
     "1995 Major League Baseball postseason"
    ],
@@ -529,7 +480,7 @@
     "1989 San Francisco Giants season",
     "1989 World Series"
    ],
-   "score": 111.94432316287796,
+   "score": 112.11491789604639,
    "abouts": [
     "1989 World Series",
     "1989 Oakland Athletics season",
@@ -591,7 +542,7 @@
     "Bill Giles (baseball)",
     "Woody Woodward"
    ],
-   "score": 43.178273384784745,
+   "score": 22.0,
    "abouts": [
     "Bill Giles (baseball)",
     "Woody Woodward",
@@ -624,6 +575,36 @@
    "key": "cfa68854fec58cda",
    "headline": "Larry Bowa, 40, Named Padres Manager, Replacing Steve Boros",
    "image": null,
+   "extract": "Lawrence Robert Bowa is an American former professional baseball shortstop, manager, and coach in Major League Baseball (MLB). He played professionally for the Philadelphia Phillies, Chicago Cubs, and the New York Mets. Bowa went on to manage the San Diego Padres and Phillies.",
+   "page": "https://en.wikipedia.org/wiki/Larry_Bowa"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1986",
+   "text": "Bowa was hired to manage the Padres on October 28, 1986, a little over a year after playing in his final MLB game.",
+   "links": [
+    "Larry Bowa"
+   ],
+   "about": "Larry Bowa",
+   "score": 10.0,
+   "abouts": [
+    "Larry Bowa"
+   ],
+   "key": "b56697336f2a5b68",
+   "headline": "Bowa Hired to Manage Padres, a Year After Final Game",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bowa-Larry-Futures-Game-2026_%28cropped%29.png/960px-Bowa-Larry-Futures-Game-2026_%28cropped%29.png",
+    "credit": "Zach McHoul",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bowa-Larry-Futures-Game-2026_(cropped).png",
+    "alt": "Older man in red Phillies cap and American jersey, sunglasses, grass field",
+    "source": "checked",
+    "of": "Larry Bowa",
+    "w": 2304,
+    "h": 3072,
+    "tier": "person"
+   },
    "extract": "Lawrence Robert Bowa is an American former professional baseball shortstop, manager, and coach in Major League Baseball (MLB). He played professionally for the Philadelphia Phillies, Chicago Cubs, and the New York Mets. Bowa went on to manage the San Diego Padres and Phillies.",
    "page": "https://en.wikipedia.org/wiki/Larry_Bowa"
   },
@@ -737,7 +718,7 @@
     "Clark Griffith",
     "Tom Yawkey"
    ],
-   "score": 57.74065672373972,
+   "score": 57.825636655277314,
    "abouts": [
     "American League",
     "Clark Griffith",
@@ -805,13 +786,13 @@
     "Cleveland Indians",
     "Bob Feller"
    ],
-   "score": 43.32196380883859,
+   "score": 22.0,
    "abouts": [
-    "Bob Feller",
     "Ossie Vitt",
+    "Bob Feller",
     "Cleveland Indians"
    ],
-   "about": "Bob Feller",
+   "about": "Ossie Vitt",
    "key": "9fd4fd36365bf7e3",
    "headline": "Indians Fire Manager Ossie Vitt After Mutiny-Plagued Season",
    "image": {
@@ -826,8 +807,8 @@
     "h": 4464,
     "tier": "person"
    },
-   "extract": "Robert William Andrew Feller, nicknamed \"the Heater from Van Meter\", \"Bullet Bob\", and \"Rapid Robert\", was an American professional baseball player who was a pitcher for 18 seasons in Major League Baseball (MLB) for the Cleveland Indians between 1936 and 1956. In a career spanning 570 games, Feller pitched 3,827…",
-   "page": "https://en.wikipedia.org/wiki/Bob_Feller"
+   "extract": "Oscar Joseph \"Ossie\" Vitt was an American Major League Baseball third baseman and manager in the American League for the Detroit Tigers (1912–1918) and Boston Red Sox (1919–1921). Vitt later became manager of the Cleveland Indians (1938–1940), where he sometimes clashed with his players.",
+   "page": "https://en.wikipedia.org/wiki/Ossie_Vitt"
   },
   {
    "src": "yearpage",
@@ -871,7 +852,7 @@
     "American Association (1882–1891)",
     "National League (baseball)"
    ],
-   "score": 37.4271874053815,
+   "score": 37.499809327980955,
    "abouts": [
     "American Association (1882–1891)",
     "National League (baseball)",
@@ -1062,7 +1043,8 @@
     "park": "Dodger Stadium",
     "event": "World Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 579,
@@ -1192,6 +1174,30 @@
    "paper": "East Cleveland leader (East Cleveland, Ohio)",
    "page": 2,
    "url": "https://www.loc.gov/resource/sn83035682/1954-10-28/ed-1/?sp=2&q=baseball"
+  },
+  {
+   "year": 1953,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 68,
+   "url": "https://www.loc.gov/resource/sn83045462/1953-10-28/ed-1/?sp=68&q=baseball"
+  },
+  {
+   "year": 1940,
+   "paper": "The Key West citizen (Key West, Fla.)",
+   "page": 3,
+   "url": "https://www.loc.gov/resource/sn83016244/1940-10-28/ed-1/?sp=3&q=baseball"
+  },
+  {
+   "year": 1889,
+   "paper": "The Pacific commercial advertiser (Honolulu, Hawaiian Islands)",
+   "page": 3,
+   "url": "https://www.loc.gov/resource/sn85047084/1889-10-28/ed-1/?sp=3&q=baseball"
+  },
+  {
+   "year": 1882,
+   "paper": "The Cheyenne daily leader (Cheyenne, Wyo.)",
+   "page": 2,
+   "url": "https://www.loc.gov/resource/sn84022149/1882-10-28/ed-1/?sp=2&q=baseball"
   }
  ]
 }

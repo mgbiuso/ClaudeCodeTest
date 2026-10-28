@@ -14022,6 +14022,22 @@
   "reason": "person: Black-and-white portrait of a baseball player in Royals jersey and KC cap.",
   "model": "claude-haiku-5-5"
  },
+ "b56697336f2a5b68": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bowa-Larry-Futures-Game-2026_%28cropped%29.png/960px-Bowa-Larry-Futures-Game-2026_%28cropped%29.png",
+   "credit": "Zach McHoul",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Bowa-Larry-Futures-Game-2026_(cropped).png",
+   "alt": "Older man in red Phillies cap and American jersey, sunglasses, grass field",
+   "source": "checked",
+   "of": "Larry Bowa",
+   "w": 2304,
+   "h": 3072,
+   "tier": "person"
+  },
+  "reason": "person: Older man in red Phillies cap and American jersey, sunglasses, grass field",
+  "model": "claude-haiku-5-5"
+ },
  "b5ca5d1632f29f5b": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dwightevans.JPG/960px-Dwightevans.JPG",
