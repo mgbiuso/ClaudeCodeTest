@@ -12,7 +12,7 @@
     "1983 NBA Finals",
     "Cole Hamels"
    ],
-   "score": 119.97620100931408,
+   "score": 120.18553816333963,
    "abouts": [
     "1983 NBA Finals",
     "Citizens Bank Park",
@@ -52,7 +52,7 @@
     "Yuli Gurriel",
     "Jose Altuve"
    ],
-   "score": 73.1582840258396,
+   "score": 73.26364848034623,
    "abouts": [
     "2017 World Series",
     "Yuli Gurriel",
@@ -84,7 +84,7 @@
    "links": [
     "Al Richter"
    ],
-   "score": 20.2005,
+   "score": 20.18,
    "abouts": [
     "Al Richter"
    ],
@@ -226,7 +226,7 @@
     "Mark Teixeira",
     "Hideki Matsui"
    ],
-   "score": 88.69627901634256,
+   "score": 88.63241348392415,
    "abouts": [
     "A. J. Burnett",
     "Mark Teixeira",
@@ -307,7 +307,7 @@
    "links": [
     "Al Niemiec"
    ],
-   "score": 20.0615,
+   "score": 20.0595,
    "abouts": [
     "Al Niemiec"
    ],
@@ -394,7 +394,7 @@
     "Eddie Sawyer",
     "Gene Mauch"
    ],
-   "score": 20.254,
+   "score": 20.2525,
    "abouts": [
     "Andy Cohen (baseball)",
     "Eddie Sawyer",
@@ -440,18 +440,18 @@
     "Philadelphia Phillies",
     "Bill Giles (baseball)"
    ],
-   "score": 35.0,
+   "score": 56.1828122592668,
    "abouts": [
-    "Ruly Carpenter",
     "Bill Giles (baseball)",
+    "Ruly Carpenter",
     "Philadelphia Phillies"
    ],
-   "about": "Ruly Carpenter",
+   "about": "Bill Giles (baseball)",
    "key": "c265d2b6550b8482",
    "headline": "Phillies Sold to Investment Group for $30.175 Million",
    "image": null,
-   "extract": "Robert Ruliph Morgan \"Ruly\" Carpenter III was an American businessman and baseball executive. He was the principal owner and president of the Philadelphia Phillies from 1972 to 1981.",
-   "page": "https://en.wikipedia.org/wiki/Ruly_Carpenter"
+   "extract": "William Yale Giles was an American baseball executive who was a chairman and part-owner of Major League Baseball's (MLB) Philadelphia Phillies. From 2001 until his death, he served as the honorary president of the National League.",
+   "page": "https://en.wikipedia.org/wiki/Bill_Giles_(baseball)"
   },
   {
    "src": "yearpage",
@@ -761,7 +761,8 @@
     "park": "Dodger Stadium",
     "event": "World Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 978,
@@ -882,5 +883,43 @@
    2019,
    2019
   ]
- }
+ },
+ "papers": [
+  {
+   "year": 1963,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 21,
+   "url": "https://www.loc.gov/resource/sn83045462/1963-10-29/ed-1/?sp=21&q=baseball"
+  },
+  {
+   "year": 1962,
+   "paper": "The Daily news of the Virgin Islands (Charlotte Amalie, St. Thomas, V.I.)",
+   "page": 11,
+   "url": "https://www.loc.gov/resource/sn83025327/1962-10-29/ed-1/?sp=11&q=baseball"
+  },
+  {
+   "year": 1958,
+   "paper": "The Sidney herald (Sidney, Mont.)",
+   "page": 5,
+   "url": "https://www.loc.gov/resource/sn83004278/1958-10-29/ed-1/?sp=5&q=baseball"
+  },
+  {
+   "year": 1948,
+   "paper": "Browning chief (Browning, Mont.)",
+   "page": 11,
+   "url": "https://www.loc.gov/resource/sn85053044/1948-10-29/ed-1/?sp=11&q=baseball"
+  },
+  {
+   "year": 1944,
+   "paper": "Detroit evening times (Detroit, Mich)",
+   "page": 72,
+   "url": "https://www.loc.gov/resource/sn88063294/1944-10-29/ed-1/?sp=72&q=baseball"
+  },
+  {
+   "year": 1889,
+   "paper": "Pittsburg dispatch (Pittsburg [Pa.])",
+   "page": 6,
+   "url": "https://www.loc.gov/resource/sn84024546/1889-10-29/ed-1/?sp=6&q=baseball"
+  }
+ ]
 }
