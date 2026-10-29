@@ -22,8 +22,8 @@ position:relative;width:390px;box-sizing:border-box;padding:14px 16px 20px;backg
 .tz span{font:500 10px/1.3 var(--kf)}
 .plw{border:2px solid var(--red);padding:3px}
 .plate{background:var(--blue);color:#fff;text-align:center;padding:12px 0 9px}
-.plate h1{margin:0;font:900 35px/1 var(--hf)}
-.plate p{margin:5px 0 0;font:800 8.5px var(--kf);letter-spacing:.2em;text-transform:uppercase}
+.plate h1{margin:0;font:900 35px/1.2 var(--hf)}
+.plate p{margin:6px 0 0;font:800 8.5px var(--kf);letter-spacing:.2em;text-transform:uppercase}
 .dline{display:flex;justify-content:space-between;font:600 10px var(--kf);letter-spacing:.1em;text-transform:uppercase;color:var(--mut);border-bottom:1px solid var(--ink);padding:7px 0 6px}
 .sec{background:var(--sc);color:#fff;display:flex;justify-content:space-between;align-items:baseline;padding:10px 14px 8px;margin-top:24px;outline:1px solid rgba(255,255,255,.6);outline-offset:-4px}
 .sec h2{margin:0;font:900 26px/1 var(--hf)}
@@ -31,7 +31,7 @@ position:relative;width:390px;box-sizing:border-box;padding:14px 16px 20px;backg
 .k{font:900 10px var(--kf);letter-spacing:.12em;text-transform:uppercase;color:var(--tc,var(--ink));margin:0 0 3px}
 .k.t::before{content:"";display:inline-block;width:8px;height:8px;background:var(--tc);margin-right:6px}
 .h{font:800 17px/1.08 var(--hf);margin:0 0 6px}
-.lead{font-size:50px;line-height:.98;color:var(--red);text-shadow:2px 2px 0 var(--ink);font-weight:900;margin:0 0 8px}
+.lead{font-size:50px;line-height:1.08;letter-spacing:.015em;margin-bottom:12px;color:var(--red);text-shadow:2px 2px 0 var(--ink);font-weight:900;margin:0 0 8px}
 .tx{font:400 14px/1.45 var(--bf);margin:0 0 8px}
 .by{font:800 9px var(--kf);letter-spacing:.12em;text-transform:uppercase;margin:0 0 8px}
 .ph{display:block;width:100%;object-fit:cover;border:1px solid var(--ink);border-bottom:4px solid var(--tc,var(--ink));filter:contrast(1.04) saturate(1.1)}
@@ -126,7 +126,7 @@ position:relative;width:390px;box-sizing:border-box;padding:14px 16px 20px;backg
 .sec,.plate,.sod .l,.bx h3,.cd .hd,.dyk b,.tk,.sbp,.dk{background-image:radial-gradient(rgba(20,16,10,.07) .6px,transparent 1px);background-size:3px 3px}
 </style>
 </helmet>
-<div class="pg" style="--paper: {{paper}}">
+<div class="pg" style="--paper: {{paper}};padding-top:0">
 <svg class="tex" aria-hidden="true" preserveAspectRatio="none"><defs><filter id="grainm1" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 0.22  0 0 0 0 0.20  0 0 0 0 0.16  1.3 0 0 0 -0.52"/></filter><filter id="blotm1" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.01 0.03" numOctaves="3" seed="3"/><feColorMatrix values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.24  0.9 0 0 0 -0.32"/></filter><filter id="ink3" color-interpolation-filters="sRGB"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="6" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="0.8" xChannelSelector="R" yChannelSelector="G" result="bleed"/><feColorMatrix in="bleed" type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" result="r"/><feOffset in="r" dx="0.5" dy="0.3" result="ro"/><feColorMatrix in="bleed" type="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" result="gb"/><feBlend in="ro" in2="gb" mode="screen" result="mis"/><feTurbulence type="fractalNoise" baseFrequency="1.1" numOctaves="1" seed="11" result="sp"/><feColorMatrix in="sp" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -5 4.6" result="holes"/><feComposite in="mis" in2="holes" operator="in"/></filter></defs><rect width="100%" height="100%" filter="url(#blotm1)"/><rect width="100%" height="100%" filter="url(#grainm1)"/></svg>
 
 <div class="tz">
@@ -134,12 +134,11 @@ position:relative;width:390px;box-sizing:border-box;padding:14px 16px 20px;backg
 <div><b>92,394 fans</b><span>The biggest crowd ever on this date, 1959 / B2</span></div>
 </div>
 <div class="plw"><div class="plate"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
-<div class="dline"><span>Sunday, Oct. 4</span><span>History Edition</span><span>B1</span></div>
+<div class="dline" style="border-bottom:0"><span>Sunday, Oct. 4</span><span>History Edition</span><span>B1</span></div>
 
 <div class="blk nyy" style="border-top:0">
-<p class="k t" style="margin-top:8px">1928 World Series, Game 1</p>
 <h1 class="h lead">Yanks strike first</h1>
-<p class="by">From the Wikipedia entry for Oct. 4</p>
+<p class="k t" style="margin-top:8px">1928 World Series, Game 1</p>
 <img class="ph" style="height:250px;object-position:50% 40%" src="/_blob/0d1139537fe59a8834be6694be5cf53b" alt="Black-and-white team photo of 1928 New York Yankees players in uniform outdoors, ballpark stands behind">
 <p class="cap">The 1928 New York Yankees won the opener over the St. Louis Cardinals, 4-1.</p>
 <p class="cr">Photo: Wikimedia Commons, public domain</p>
@@ -148,8 +147,8 @@ position:relative;width:390px;box-sizing:border-box;padding:14px 16px 20px;backg
 </div>
 
 <div class="blk lad">
-<p class="k t">1955 World Series, Game 7</p>
 <h2 class="h" style="font-size:30px">Next year is here</h2>
+<p class="k t" style="margin:2px 0 8px">1955 World Series, Game 7</p>
 <p class="tx">Johnny Podres pitches the Brooklyn Dodgers to their first World Series title, a 2-0 win over the Yankees. Podres is named MVP of the Series, the first time such an award is given.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/Johnny_Podres" rel="noopener">Read more</a>
 </div>
@@ -158,8 +157,8 @@ position:relative;width:390px;box-sizing:border-box;padding:14px 16px 20px;backg
 <sc-for list="{{cards}}" as="c" hint-placeholder-count="11"><div class="{{c.cls}}">
 <img class="ph" style="height:{{c.ph}}px;object-position:50% 25%" src="{{c.img}}" alt="{{c.alt}}">
 <p class="cr">{{c.cr}}</p>
-<p class="k t">{{c.k}}</p>
 <h2 class="h">{{c.h}}</h2>
+<p class="k t" style="margin:2px 0 8px">{{c.k}}</p>
 <p class="tx" style="font-size:13px">{{c.tx}}</p>
 <a class="rm" href="{{c.href}}" rel="noopener">Read more</a>
 </div></sc-for>

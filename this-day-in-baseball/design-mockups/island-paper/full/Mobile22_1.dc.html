@@ -21,9 +21,9 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 .tz b{display:block;font:900 22px/1.05 var(--kf);letter-spacing:.01em;text-transform:uppercase;color:var(--red);border-bottom:1px solid var(--ink);padding-bottom:4px;margin-bottom:4px}
 .tz span{font:500 13px/1.35 var(--kf)}
 .plw{border:2px solid var(--red);padding:4px}
-.plate{background:var(--blue);color:#fff;text-align:center;padding:16px 0 12px}
-.plate h1{margin:0;font:900 74px/1 var(--hf);letter-spacing:.005em}
-.plate p{margin:6px 0 0;font:800 11px var(--kf);letter-spacing:.24em;text-transform:uppercase}
+.plate{background:var(--blue);color:#fff;text-align:center;padding:12px 0 14px}
+.plate h1{margin:0;font:900 74px/1.2 var(--hf);letter-spacing:.005em}
+.plate p{margin:8px 0 0;font:800 11px var(--kf);letter-spacing:.24em;text-transform:uppercase}
 .dline{display:flex;justify-content:space-between;font:600 12px var(--kf);letter-spacing:.14em;text-transform:uppercase;color:var(--mut);padding:9px 0 8px;border-bottom:1px solid var(--ink)}
 .sec{background:var(--sc);color:#fff;display:flex;justify-content:space-between;align-items:baseline;padding:12px 20px 10px;margin-top:32px;outline:1px solid rgba(255,255,255,.6);outline-offset:-5px}
 .sec h2{margin:0;font:900 38px/1 var(--hf);letter-spacing:.005em}
@@ -43,8 +43,8 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 .rB{grid-template-columns:1fr 2fr}
 .k{font:900 11px var(--kf);letter-spacing:.14em;text-transform:uppercase;color:var(--tc,var(--ink));margin:0 0 5px}
 .k.t::before{content:"";display:inline-block;width:9px;height:9px;background:var(--tc);margin-right:7px}
-.h{font-family:var(--hf);font-weight:800;line-height:1.04;letter-spacing:-.005em;margin:0 0 8px}
-.lead{font-size:76px;line-height:.98;color:var(--red);text-shadow:2px 2px 0 var(--ink);font-weight:900}
+.h{font-family:var(--hf);font-weight:800;line-height:1.12;letter-spacing:.012em;margin:0 0 8px}
+.lead{font-size:76px;line-height:1.1;letter-spacing:.02em;margin-bottom:16px;color:var(--red);text-shadow:2px 2px 0 var(--ink);font-weight:900}
 .tx{font:400 14.5px/1.5 var(--bf);margin:0 0 8px;text-align:justify;hyphens:auto}
 .by{font:800 10px var(--kf);letter-spacing:.14em;text-transform:uppercase;margin:0 0 8px}
 .ph{display:block;width:100%;object-fit:cover;border:1px solid var(--ink);border-bottom:4px solid var(--tc,var(--ink));filter:contrast(1.04) saturate(1.1)}
@@ -240,7 +240,7 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 .sec,.plate,.sod .l,.bx h3,.cd .hd,.dyk b,.tk,.sbp,.dk{background-image:radial-gradient(rgba(20,16,10,.07) .6px,transparent 1px);background-size:3px 3px}
 </style>
 </helmet>
-<div class="pg" style="--paper: {{paper}}">
+<div class="pg" style="--paper: {{paper}};padding-top:0">
 <svg class="tex" aria-hidden="true" preserveAspectRatio="none"><defs><filter id="grainn1" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 0.22  0 0 0 0 0.20  0 0 0 0 0.16  1.3 0 0 0 -0.52"/></filter><filter id="blotn1" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.004 0.02" numOctaves="3" seed="3"/><feColorMatrix values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.24  0.9 0 0 0 -0.32"/></filter><filter id="ink8" color-interpolation-filters="sRGB"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="11" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="0.8" xChannelSelector="R" yChannelSelector="G" result="bleed"/><feColorMatrix in="bleed" type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" result="r"/><feOffset in="r" dx="0.5" dy="0.3" result="ro"/><feColorMatrix in="bleed" type="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" result="gb"/><feBlend in="ro" in2="gb" mode="screen" result="mis"/><feTurbulence type="fractalNoise" baseFrequency="1.1" numOctaves="1" seed="16" result="sp"/><feColorMatrix in="sp" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -5 4.6" result="holes"/><feComposite in="mis" in2="holes" operator="in"/></filter></defs><rect width="100%" height="100%" filter="url(#blotn1)"/><rect width="100%" height="100%" filter="url(#grainn1)"/></svg>
 
 <div class="tz">
@@ -248,13 +248,12 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <div><b>65,934 fans</b><span>The biggest crowd ever to see a game on this date, 2003 / Page B2</span></div>
 </div>
 <div class="plw"><div class="plate"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
-<div class="dline"><span>Thursday, Oct. 22</span><span>History Edition</span><span>Page B1</span></div>
+<div class="dline" style="border-bottom:0"><span>Thursday, Oct. 22</span><span>History Edition</span><span>Page B1</span></div>
 
-<div class="row hv r1">
+<div class="row hv r1" style="border-top:0;margin-top:0;padding-top:4px">
 <div class="c stc">
-<p class="k t">2011 World Series, Game 3</p>
 <h1 class="h lead">Pujols hits three</h1>
-<p class="by">From the Wikipedia entry for Oct. 22</p>
+<p class="k t" style="margin:2px 0 8px">2011 World Series, Game 3</p>
 <img class="ph" style="flex:1 0 440px;object-position:50% 18%" src="/_blob/7b225bf128fa96c8b32812f2826524e1" alt="Player in white Cardinals home jersey number 5, red cap and red wristband, Busch Stadium">
 <p class="cap">Albert Pujols at Busch Stadium in 2008.</p>
 <p class="cr">Photo: shgmom56, CC BY-SA 2.0</p>
@@ -262,15 +261,15 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <a class="rm" href="https://en.wikipedia.org/wiki/Albert_Pujols" rel="noopener">Read more</a>
 </div>
 <div class="c cin">
-<p class="k t">1975 World Series, Game 7</p>
 <h2 class="h" style="font-size:34px">Reds win it at Fenway</h2>
+<p class="k t" style="margin:2px 0 8px">1975 World Series, Game 7</p>
 <img class="ph" style="flex:0 0 150px;object-position:50% 25%" src="/_blob/6b63fb006cafe326db1e104b0ffade39" alt="Batter in red-trimmed Reds road jersey reading MORGAN number 8, red helmet, holding a bat">
 <p class="cr">Joe Morgan. John VanderHaagen, CC BY 2.0</p>
 <p class="tx">The Cincinnati Reds win Game 7 over the Boston Red Sox, 4-3. Cincinnati has come from behind in all four of its victories. Pete Rose is named World Series MVP, and the Reds win their first title since 1940.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/1975_World_Series" rel="noopener">Read more</a>
 <div class="sub chc">
-<p class="k t">2016 NLCS, Game 6</p>
 <h2 class="h" style="font-size:24px">Cubs win first pennant since 1945</h2>
+<p class="k t" style="margin:2px 0 8px">2016 NLCS, Game 6</p>
 <img class="ph" style="flex:1 0 150px;object-position:50% 20%" src="/_blob/0f103dcc3af78698f3fdf3abab9229a0" alt="Pitcher in Dodgers road grays delivering a pitch on the mound, night game">
 <p class="cap">Clayton Kershaw pitches for the Dodgers in the 2016 NLCS.</p>
 <p class="cr">Photo: Arturo Pardavila III, CC BY 2.0</p>
@@ -284,14 +283,14 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <div class="c nyy">
 <img class="ph" style="flex:1 0 250px;object-position:50% 25%" src="/_blob/32c27964c81caab3fd09d422f8a0a387" alt="Pitcher in New York Yankees road grays and cap tossing a baseball, stadium crowd behind">
 <p class="cr">Roger Clemens. Keith Allison, CC BY-SA 2.0</p>
-<p class="k t">2003 World Series, Game 4</p>
 <h2 class="h" style="font-size:30px">Clemens gets a standing ovation</h2>
+<p class="k t" style="margin:2px 0 8px">2003 World Series, Game 4</p>
 <p class="tx">Roger Clemens pitches seven strong innings and leaves to a standing ovation from the crowd and the Marlins, who join in from their dugout. He had announced his retirement at the start of the season.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/2003_World_Series" rel="noopener">Read more</a>
 </div>
 <div class="c sfg">
-<p class="k t">2012 NLCS, Game 7</p>
 <h2 class="h" style="font-size:30px">Giants blank Cardinals, win the pennant</h2>
+<p class="k t" style="margin:2px 0 8px">2012 NLCS, Game 7</p>
 <img class="ph" style="flex:1 0 220px" src="/_blob/31426653937db159a2875e41b77c6f03" alt="Outfield wall and bullpen area of a ballpark with Levi's Landing signage, grass field, bay view">
 <p class="cap">The outfield wall at AT&amp;T Park, now Oracle Park.</p>
 <p class="cr">Photo: Wikimedia Commons, CC BY-SA 3.0</p>
@@ -299,8 +298,8 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <a class="rm" href="https://en.wikipedia.org/wiki/Oracle_Park" rel="noopener">Read more</a>
 </div>
 <div class="c ana">
-<p class="k t">2009 ALCS, Game 5</p>
 <h2 class="h" style="font-size:24px">Morales single lifts Angels</h2>
+<p class="k t" style="margin:2px 0 8px">2009 ALCS, Game 5</p>
 <img class="ph" style="flex:1 0 190px;object-position:50% 20%" src="/_blob/14f3038cd3edae095f9790be874b9c6e" alt="Angels player in grey road uniform number 8, red helmet and batting gloves, in the dugout area">
 <p class="cr">Kendrys Morales. Keith Allison, CC BY-SA 2.0</p>
 <p class="tx">Kendrys Morales drives in the go-ahead run in the seventh, and the Angels beat the Yankees, 7-6, to cut the ALCS lead to 3-2.</p>
@@ -310,8 +309,8 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 
 <div class="row r3">
 <div class="c cws">
-<p class="k t">1920</p>
 <h2 class="h" style="font-size:46px">Eight White Sox indicted for throwing the 1919 World Series</h2>
+<p class="k t" style="margin:2px 0 8px">1920</p>
 <img class="ph" style="flex:1 0 250px;object-position:50% 40%" src="/_blob/70c65fd1ff482507520fb4f10796e59a" alt="Team photo of 1919-era players in white uniforms with Sox lettering, seated and standing outdoors">
 <p class="cap">The 1919 Chicago White Sox.</p>
 <p class="cr">Photo: International, public domain</p>
@@ -321,16 +320,16 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <div class="c oak">
 <img class="ph" style="flex:1 0 210px;object-position:50% 40%" src="/_blob/7a93f2c603e06a3742989774c536ecfc" alt="Two men in baseball uniforms chatting at a ballpark, with name captions Meyers and Bender">
 <p class="cr">Meyers and Bender. Bain News Service, public domain</p>
-<p class="k t">1911 World Series, Game 4</p>
 <h2 class="h" style="font-size:21px">Bender beats Mathewson after six rainy days</h2>
+<p class="k t" style="margin:2px 0 8px">1911 World Series, Game 4</p>
 <p class="tx">Chief Bender beats Christy Mathewson, 4-2, to give the Athletics a 3-1 lead over the Giants.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/1911_World_Series" rel="noopener">Read more</a>
 </div>
 <div class="c sfg">
 <img class="ph" style="flex:1 0 210px;object-position:50% 15%" src="/_blob/06aaddccf3c0bad5d586653060c30b73" alt="Player in Giants uniform leaping to make a catch, glove raised">
 <p class="cr">Ross Youngs, 1922. The New York Herald, public domain</p>
-<p class="k t">1927</p>
 <h2 class="h" style="font-size:21px">Ross Youngs dies at 30</h2>
+<p class="k t" style="margin:2px 0 8px">1927</p>
 <p class="tx">The Hall of Fame right fielder hit .322 for the New York Giants over 10 seasons, with four pennants and two World Series titles.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/Ross_Youngs" rel="noopener">Read more</a>
 </div>
@@ -338,16 +337,16 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 
 <div class="row r2c">
 <div class="c oak">
-<p class="k t">1967</p>
 <h2 class="h" style="font-size:28px">Finley hires DiMaggio as vice president and batting coach</h2>
+<p class="k t" style="margin:2px 0 8px">1967</p>
 <img class="ph" style="flex:1 0 230px;object-position:50% 15%" src="/_blob/907f8fadfe7dae3cdece1088de835909" alt="Smiling man in pinstriped New York Yankees uniform and NY cap">
 <p class="cr">Joe DiMaggio. Tom Sande, public domain</p>
 <p class="tx">Charlie Finley hires the Hall of Famer for his newly renamed Oakland Athletics. The Yankee Clipper, 53, needs two more years of service to qualify for the maximum pension.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/Charlie_Finley" rel="noopener">Read more</a>
 </div>
 <div class="c sdp">
-<p class="k t">1980</p>
 <h2 class="h" style="font-size:28px">Winfield is a free agent, one of 49 freed</h2>
+<p class="k t" style="margin:2px 0 8px">1980</p>
 <img class="ph" style="flex:1 0 230px;object-position:50% 30%" src="/_blob/a7ad3771c40cf0fd15815a95e0a04fc1" alt="Older man in brown and gold baseball jersey, seated and clapping at an indoor event">
 <p class="cr">Dave Winfield, years later. Arturo Pardavila III, CC BY 2.0</p>
 <p class="tx">The Padres outfielder is among 49 players granted free agency by Nov. 28, including future Hall of Famers Gaylord Perry and Don Sutton.</p>

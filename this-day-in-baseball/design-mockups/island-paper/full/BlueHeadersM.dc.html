@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Blue header options mobile</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@500;600;800;900&family=Playfair+Display:ital,wght@0,700;0,800;0,900;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=UnifrakturCook:wght@700&family=Abril+Fatface&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+.pg{--ink:#1a1916;--mut:#46433b;--red:#c23b22;--blue:#2554a5;--hf:'Playfair Display',Georgia,serif;--bf:'Source Serif 4',Georgia,serif;--kf:'Libre Franklin','Helvetica Neue',Arial,sans-serif;--bk:'UnifrakturCook','Old English Text MT',Georgia,serif;position:relative;width:390px;box-sizing:border-box;padding:18px 16px 24px;background:var(--paper);color:var(--ink);font-family:var(--bf);display:flex;flex-direction:column;gap:18px;box-shadow:inset 0 0 90px rgba(70,58,36,.30)}
+.tex{position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:none;mix-blend-mode:multiply;opacity:.5;z-index:5}
+.lab{font:900 9px var(--kf);letter-spacing:.2em;text-transform:uppercase;color:var(--red);margin:0 0 6px}
+.note{font:600 12px/1.4 var(--bf);color:var(--mut);margin:6px 0 0}
+.dl{display:flex;justify-content:space-between;font:600 9px var(--kf);letter-spacing:.12em;text-transform:uppercase;color:var(--mut);padding:8px 0 7px;border-bottom:1px solid var(--ink)}
+.pl{background:var(--bg);color:#fff;text-align:center;padding:12px 0 9px;outline:2px solid var(--red);outline-offset:3px}
+.pl p{margin:6px 0 0;font:800 8px var(--kf);letter-spacing:.24em;text-transform:uppercase}
+.pl h1{margin:0}
+.f1 h1{font:900 34px/1 var(--hf)}.f2 h1{font:400 38px/1 var(--bk)}.f3 h1{font:400 34px/1 "Abril Fatface",Georgia,serif}.f4 h1{font:800 28px/1 var(--kf);letter-spacing:.04em;text-transform:uppercase}
+</style>
+</helmet>
+<div class="pg" style="--paper: {{paper}}">
+<svg class="tex" aria-hidden="true" preserveAspectRatio="none"><defs><filter id="grainHm" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 0.22  0 0 0 0 0.20  0 0 0 0 0.16  1.3 0 0 0 -0.52"/></filter><filter id="blotHm" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.004 0.02" numOctaves="3" seed="3"/><feColorMatrix values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.24  0.9 0 0 0 -0.32"/></filter></defs><rect width="100%" height="100%" filter="url(#blotHm)"/><rect width="100%" height="100%" filter="url(#grainHm)"/></svg>
+<div><p class="lab">Shades of blue (same lettering)</p></div>
+<div><p class="note" style="margin:0 0 8px">1. Royal blue (the one you have now)</p><div class="pl f1" style="--bg:#2554a5"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+<div><p class="note" style="margin:0 0 8px">2. Navy</p><div class="pl f1" style="--bg:#16305c"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+<div><p class="note" style="margin:0 0 8px">3. Cobalt, brighter</p><div class="pl f1" style="--bg:#1a47b8"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+<div><p class="note" style="margin:0 0 8px">4. Dusty steel, softer</p><div class="pl f1" style="--bg:#4a76a8"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+<div><p class="lab" style="margin-top:12px">Lettering styles (royal blue)</p></div>
+<div><p class="note" style="margin:0 0 8px">1. Playfair Display Black (current)</p><div class="pl f1" style="--bg:#2554a5"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+<div><p class="note" style="margin:0 0 8px">2. Old English letters</p><div class="pl f2" style="--bg:#2554a5"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+<div><p class="note" style="margin:0 0 8px">3. Abril Fatface, heavy and sharp</p><div class="pl f3" style="--bg:#2554a5"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+<div><p class="note" style="margin:0 0 8px">4. Libre Franklin caps, plain and modern</p><div class="pl f4" style="--bg:#2554a5"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"paper":{"editor":"color","default":"#dcdad3","options":["#dcdad3","#e6e3dc","#f1e9d8"],"section":"Paper"},"$preview":{"width":390,"height":1800}}'>
+class Component extends DCLogic {
+renderVals() { return { paper: this.props.paper ?? '#dcdad3' }; }
+}
+</script>
+</body>
+</html>

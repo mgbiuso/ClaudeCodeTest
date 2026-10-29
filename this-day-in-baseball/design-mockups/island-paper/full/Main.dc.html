@@ -21,9 +21,9 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 .tz b{display:block;font:900 22px/1.05 var(--kf);letter-spacing:.01em;text-transform:uppercase;color:var(--red);border-bottom:1px solid var(--ink);padding-bottom:4px;margin-bottom:4px}
 .tz span{font:500 13px/1.35 var(--kf)}
 .plw{border:2px solid var(--red);padding:4px}
-.plate{background:var(--blue);color:#fff;text-align:center;padding:16px 0 12px}
-.plate h1{margin:0;font:900 74px/1 var(--hf);letter-spacing:.005em}
-.plate p{margin:6px 0 0;font:800 11px var(--kf);letter-spacing:.24em;text-transform:uppercase}
+.plate{background:var(--blue);color:#fff;text-align:center;padding:12px 0 14px}
+.plate h1{margin:0;font:900 84px/1.2 var(--hf);letter-spacing:.005em}
+.plate p{margin:8px 0 0;font:800 11px var(--kf);letter-spacing:.24em;text-transform:uppercase}
 .dline{display:flex;justify-content:space-between;font:600 12px var(--kf);letter-spacing:.14em;text-transform:uppercase;color:var(--mut);padding:9px 0 8px;border-bottom:1px solid var(--ink)}
 .sec{background:var(--sc);color:#fff;display:flex;justify-content:space-between;align-items:baseline;padding:12px 20px 10px;margin-top:32px;outline:1px solid rgba(255,255,255,.6);outline-offset:-5px}
 .sec h2{margin:0;font:900 38px/1 var(--hf);letter-spacing:.005em}
@@ -43,8 +43,8 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 .rA{grid-template-columns:3fr 1.1fr}
 .k{font:900 11px var(--kf);letter-spacing:.14em;text-transform:uppercase;color:var(--tc,var(--ink));margin:0 0 5px}
 .k.t::before{content:"";display:inline-block;width:9px;height:9px;background:var(--tc);margin-right:7px}
-.h{font-family:var(--hf);font-weight:800;line-height:1.04;letter-spacing:-.005em;margin:0 0 8px}
-.lead{font-size:84px;line-height:.98;color:var(--red);text-shadow:2px 2px 0 var(--ink);font-weight:900}
+.h{font-family:var(--hf);font-weight:800;line-height:1.12;letter-spacing:.012em;margin:0 0 8px}
+.lead{font-size:84px;line-height:1.1;letter-spacing:.02em;margin-bottom:16px;color:var(--red);text-shadow:2px 2px 0 var(--ink);font-weight:900}
 .tx{font:400 14.5px/1.5 var(--bf);margin:0 0 8px;text-align:justify;hyphens:auto}
 .by{font:800 10px var(--kf);letter-spacing:.14em;text-transform:uppercase;margin:0 0 8px}
 .ph{display:block;width:100%;object-fit:cover;border:1px solid var(--ink);border-bottom:4px solid var(--tc,var(--ink));filter:contrast(1.04) saturate(1.1)}
@@ -194,7 +194,7 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 .sec,.plate,.sod .l,.bx h3,.cd .hd,.dyk b,.tk,.sbp,.dk{background-image:radial-gradient(rgba(20,16,10,.07) .6px,transparent 1px);background-size:3px 3px}
 </style>
 </helmet>
-<div class="pg" style="--paper: {{paper}}">
+<div class="pg" style="--paper: {{paper}};padding-top:0">
 <svg class="tex" aria-hidden="true" preserveAspectRatio="none"><defs><filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 0.22  0 0 0 0 0.20  0 0 0 0 0.16  1.3 0 0 0 -0.52"/></filter><filter id="blot" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.004 0.02" numOctaves="3" seed="3"/><feColorMatrix values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.24  0.9 0 0 0 -0.32"/></filter><filter id="ink1" color-interpolation-filters="sRGB"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="4" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="0.8" xChannelSelector="R" yChannelSelector="G" result="bleed"/><feColorMatrix in="bleed" type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" result="r"/><feOffset in="r" dx="0.5" dy="0.3" result="ro"/><feColorMatrix in="bleed" type="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" result="gb"/><feBlend in="ro" in2="gb" mode="screen" result="mis"/><feTurbulence type="fractalNoise" baseFrequency="1.1" numOctaves="1" seed="9" result="sp"/><feColorMatrix in="sp" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -5 4.6" result="holes"/><feComposite in="mis" in2="holes" operator="in"/></filter></defs><rect width="100%" height="100%" filter="url(#blot)"/><rect width="100%" height="100%" filter="url(#grain)"/></svg>
 
 <div class="tz">
@@ -202,13 +202,12 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <div><b>92,394 fans</b><span>The biggest crowd ever to see a game on this date, 1959 / Page B2</span></div>
 </div>
 <div class="plw"><div class="plate"><h1>This Day in Baseball</h1><p>Every game played on this date since 1871</p></div></div>
-<div class="dline"><span>Sunday, Oct. 4</span><span>History Edition</span><span>Page B1</span></div>
+<div class="dline" style="border-bottom:0"><span>Sunday, Oct. 4</span><span>History Edition</span><span>Page B1</span></div>
 
-<div class="row hv r1">
+<div class="row hv r1" style="border-top:0;margin-top:0;padding-top:4px">
 <div class="c nyy">
-<p class="k t">1928 World Series, Game 1</p>
 <h1 class="h lead">Yanks strike first</h1>
-<p class="by">From the Wikipedia entry for Oct. 4</p>
+<p class="k t" style="margin:2px 0 8px">1928 World Series, Game 1</p>
 <img class="ph" style="flex:1 0 400px;object-position:50% 40%" src="/_blob/0d1139537fe59a8834be6694be5cf53b" alt="Black-and-white team photo of 1928 New York Yankees players in uniform outdoors, ballpark stands behind">
 <p class="cap">The 1928 New York Yankees won the opener over the St. Louis Cardinals, 4-1.</p>
 <p class="cr">Photo: Wikimedia Commons, public domain</p>
@@ -216,14 +215,14 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <a class="rm" href="https://en.wikipedia.org/wiki/1928_World_Series" rel="noopener">Read more</a>
 </div>
 <div class="c lad">
-<p class="k t">1955 World Series, Game 7</p>
 <h2 class="h" style="font-size:36px">Next year is here</h2>
+<p class="k t" style="margin:2px 0 8px">1955 World Series, Game 7</p>
 <p class="tx">Johnny Podres pitches the Brooklyn Dodgers to their first World Series title, a 2-0 win over the Yankees. Podres is named MVP of the Series, the first time such an award is given.</p>
 <p class="tx">Podres pitched in the majors from 1953 to 1969, mostly for the Brooklyn and Los Angeles Dodgers, and won four World Series titles.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/Johnny_Podres" rel="noopener">Read more</a>
 <div class="sub">
-<p class="k t">2008 NLCS</p>
 <h2 class="h" style="font-size:24px">Dodgers sweep Cubs, advance</h2>
+<p class="k t" style="margin:2px 0 8px">2008 NLCS</p>
 <img class="ph" style="flex:1 0 150px" src="/_blob/dbfaec4650589c80a5b3ad2b7328b254" alt="Dodger Stadium scoreboard showing NLCS, Phillies vs Dodgers, night game">
 <p class="cap">Dodger Stadium scoreboard, 2008 NLCS.</p>
 <p class="cr">Photo: KennethHan, public domain</p>
@@ -237,14 +236,14 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <div class="c sfg">
 <img class="ph" style="flex:1 0 210px;object-position:50% 30%" src="/_blob/df17d7a6c8a8816eb95c1dd97bb610ca" alt="Man in straw hat shaking hands with player in white W uniform, crowd, flag">
 <p class="cr">Photo: National Photo Company, public domain</p>
-<p class="k t">1924 World Series, Game 1</p>
 <h2 class="h" style="font-size:30px">Giants win opener in extra innings</h2>
+<p class="k t" style="margin:2px 0 8px">1924 World Series, Game 1</p>
 <p class="tx">The New York Giants win Game 1, 4-3, in extra innings. On Oct. 4 in the 1920s, Retrosheet counts 16 games, 11.31 runs a game and an average crowd of 14,577.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/1924_World_Series" rel="noopener">Read more</a>
 </div>
 <div class="c det">
-<p class="k t">1987 American League East</p>
 <h2 class="h" style="font-size:30px">Tanana blanks Blue Jays, Tigers take the division</h2>
+<p class="k t" style="margin:2px 0 8px">1987 American League East</p>
 <img class="ph" style="flex:1 0 300px;object-position:50% 20%" src="/_blob/bfe0ae171921eed8e81a5de011e8b0c6" alt="Pitcher in gray road uniform mid-windup on field, stadium stands behind.">
 <p class="cap">Frank Tanana, seen in 1992.</p>
 <p class="cr">Photo: Mike Fitzpatrick, CC BY 2.0</p>
@@ -252,8 +251,8 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <a class="rm" href="https://en.wikipedia.org/wiki/Frank_Tanana" rel="noopener">Read more</a>
 </div>
 <div class="c lad">
-<p class="k t">1978 NLCS, Game 1</p>
 <h2 class="h" style="font-size:24px">Garvey homers twice in opener</h2>
+<p class="k t" style="margin:2px 0 8px">1978 NLCS, Game 1</p>
 <img class="ph" style="flex:1 0 150px" src="/_blob/0b3fa0e1ff495f2178f82f40375351d1" alt="Batter in Dodgers jersey #6 at plate, catcher in red, umpire, stadium crowd">
 <p class="cr">Photo: Wikimedia Commons, CC BY 2.0</p>
 <p class="tx">Steve Garvey hits two home runs as the Dodgers beat the Phillies, 9-5. Garvey played first base for the Dodgers and Padres from 1969 to 1987.</p>
@@ -263,8 +262,8 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 
 <div class="row r3">
 <div class="c sfg">
-<p class="k t">1922 World Series, Game 1</p>
 <h2 class="h" style="font-size:48px">Giants score three in the eighth to take the opener</h2>
+<p class="k t" style="margin:2px 0 8px">1922 World Series, Game 1</p>
 <img class="ph" style="flex:1 0 260px" src="/_blob/8c4f88ffecc255f7af9e7d068c897f55" alt="Dense crowd filling stands at a ballpark, Murad cigarette advertisement on outfield wall">
 <p class="cap">A World Series crowd at the ballpark.</p>
 <p class="cr">Photo: David Shapinsky, CC BY-SA 2.0</p>
@@ -274,16 +273,16 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <div class="c nyy">
 <img class="ph" style="flex:1 0 210px;object-position:50% 20%" src="/_blob/88d2c8ab8419083db3b19c3a383597fb" alt="Man in pinstriped Yankees uniform and NY cap, black-and-white, ballpark setting">
 <p class="cr">Bill Dickey, 1937. Harris and Ewing, public domain</p>
-<p class="k t">1939 World Series, Game 1</p>
 <h2 class="h" style="font-size:21px">Dickey's ninth-inning single wins it</h2>
+<p class="k t" style="margin:2px 0 8px">1939 World Series, Game 1</p>
 <p class="tx">Bill Dickey's single wins Game 1 for the Yankees, 2-1. On Oct. 4 in the 1930s: 6 games, 6.33 runs a game, an average crowd of 47,766.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/1939_World_Series" rel="noopener">Read more</a>
 </div>
 <div class="c det">
 <img class="ph" style="flex:1 0 210px;object-position:50% 20%" src="/_blob/7349838c118140610078583a37297d97" alt="Painted baseball card portrait of Leon 'Goose' Goslin in white cap and jersey">
 <p class="cr">Goudey card, public domain</p>
-<p class="k t">1934 World Series, Game 2</p>
 <h2 class="h" style="font-size:21px">Goslin's single wins it for Tigers</h2>
+<p class="k t" style="margin:2px 0 8px">1934 World Series, Game 2</p>
 <p class="tx">Goose Goslin's single decides it, and Detroit takes Game 2, 3-2. Goslin was a left fielder for the Senators, Browns and Tigers from 1921 to 1938.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/Goose_Goslin" rel="noopener">Read more</a>
 </div>
@@ -293,14 +292,14 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <div class="c stl">
 <img class="ph" style="flex:1 0 130px" src="/_blob/6956185502bc8bd51549e8451e51334f" alt="1880s St. Louis Browns team portrait in uniform, with a ballpark grandstand behind them">
 <p class="cr">St. Louis Browns, 1880s. Strauss, public domain</p>
-<p class="k t">1891</p>
 <h2 class="h" style="font-size:20px">Breitenstein throws a no-hitter</h2>
+<p class="k t" style="margin:2px 0 8px">1891</p>
 <p class="tx">The Browns beat the Colonels, 8-0. The American Association was a major league from 1882 to 1891.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/American_Association_(1882%E2%80%931891)" rel="noopener">Read more</a>
 </div>
 <div class="c sfg">
-<p class="k t">1904</p>
 <h2 class="h" style="font-size:20px">Mertes hits for the cycle</h2>
+<p class="k t" style="margin:2px 0 8px">1904</p>
 <img class="ph" style="flex:1 0 170px;object-position:50% 20%" src="/_blob/acd3b90fbe6503bd912dcfafdae239ae" alt="Sepia portrait of a man in a New York baseball jersey with collar">
 <p class="cr">Sam Mertes. Carl J. Horner, public domain</p>
 <p class="tx">Sam Mertes completes the cycle in the Giants' 7-3 loss to the Cardinals. Same day: Jack Chesbro gets his 40th career win.</p>
@@ -309,14 +308,14 @@ position:relative;width:1200px;box-sizing:border-box;padding:18px 36px 24px;back
 <div class="c mtl">
 <img class="ph" style="flex:1 0 130px" src="/_blob/4aca3e5b38bdd1c01651396c6b3b8b23" alt="Team photo of baseball players in white uniforms before a stadium with grandstand and scoreboard.">
 <p class="cr">Montreal Royals. Conrad Poirier, public domain</p>
-<p class="k t">1946</p>
 <h2 class="h" style="font-size:20px">Royals win Junior World Series</h2>
+<p class="k t" style="margin:2px 0 8px">1946</p>
 <p class="tx">Montreal beats Louisville, 2-0. Delorimier Stadium held 20,000 and was home to the Royals, the Dodgers' top farm club.</p>
 <a class="rm" href="https://en.wikipedia.org/wiki/Delorimier_Stadium" rel="noopener">Read more</a>
 </div>
 <div class="c tor">
-<p class="k t">2016 AL Wild Card</p>
 <h2 class="h" style="font-size:20px">Encarnación's homer in the 11th</h2>
+<p class="k t" style="margin:2px 0 8px">2016 AL Wild Card</p>
 <img class="ph" style="flex:1 0 170px;object-position:50% 25%" src="/_blob/7c15dea2e792f1f509b464922fde1eb6" alt="Baseball player in Blue Jays road uniform and batting gloves, running on field">
 <p class="cr">Edwin Encarnación. Keith Allison, CC BY-SA 2.0</p>
 <p class="tx">A three-run homer sends the Blue Jays past the Orioles. Encarnación also played for the Reds, Indians, Mariners, Yankees and White Sox.</p>
