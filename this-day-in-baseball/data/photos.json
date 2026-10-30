@@ -7983,6 +7983,22 @@
   "reason": "person: Man in Mets blue jersey and cap on field, mustache",
   "model": "claude-haiku-5-5"
  },
+ "6f2df3ea18428f52": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bill%27s_speech_was_short_and_sweet_%2818183449145%29_%28cropped%29.jpg/960px-Bill%27s_speech_was_short_and_sweet_%2818183449145%29_%28cropped%29.jpg",
+   "credit": "Minda Haas Kuhlmann: flickr, personal website, twitter, instagram",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Bill%27s_speech_was_short_and_sweet_(18183449145)_(cropped).jpg",
+   "alt": "older man in cap holding microphone beside Storm Chasers bowl at ballpark",
+   "source": "checked",
+   "of": "Bill Fischer (baseball)",
+   "w": 3380,
+   "h": 3147,
+   "tier": "person"
+  },
+  "reason": "person: older man in cap holding microphone beside Storm Chasers bowl at ballpark",
+  "model": "claude-haiku-5-5"
+ },
  "6f50ef9d25eaa3ae": {
   "image": null,
   "reason": "rejected Rob Thomson 2011.jpg: The photo shows a Yankees uniform, but the story concerns Thomson's 2022 Phillies role and the file name dates the photo to 2011, when Thomson was not with the Phillies. The visible team and the file-name year do not fit the described event, so I cannot confirm it as a match.",

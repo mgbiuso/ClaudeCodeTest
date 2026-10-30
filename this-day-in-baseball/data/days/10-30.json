@@ -47,7 +47,7 @@
     "Hanshin Tigers",
     "2025 Japan Series"
    ],
-   "score": 52.64843476886458,
+   "score": 53.17691602023749,
    "abouts": [
     "2025 Japan Series",
     "Fukuoka SoftBank Hawks",
@@ -69,7 +69,7 @@
     "2024 Los Angeles Dodgers season",
     "2024 New York Yankees"
    ],
-   "score": 109.70879906907348,
+   "score": 109.71276840167104,
    "abouts": [
     "2024 New York Yankees",
     "2024 Los Angeles Dodgers season"
@@ -125,7 +125,7 @@
     "A. J. Hinch"
    ],
    "about": "A. J. Hinch",
-   "score": 43.481680273010234,
+   "score": 43.33374482954101,
    "abouts": [
     "A. J. Hinch"
    ],
@@ -155,7 +155,7 @@
     "Brad Mills (baseball manager)"
    ],
    "about": "Brad Mills (baseball manager)",
-   "score": 23.937302372592075,
+   "score": 24.222385878728407,
    "abouts": [
     "Brad Mills (baseball manager)"
    ],
@@ -232,6 +232,40 @@
   },
   {
    "src": "yearpage",
+   "kind": "death",
+   "year": "2018",
+   "text": "Bill Fischer, 88, who spent 71 years in baseball as a pitcher and pitching coach, including pitching for six clubs in a span of nine seasons from 1956 to 1964; coaching for the Reds (1979–1983), Red Sox (1985–1991) and Devil Rays (2000–2001); coaching and managing in the Braves minor league system (2002–2006); working as the Royals' senior pitching adviser (2007–2010) and pitching coordinator (2011–2018), winning a…",
+   "links": [
+    "Bill Fischer (baseball)",
+    "pitcher",
+    "coach (baseball)"
+   ],
+   "score": 20.165,
+   "abouts": [
+    "Bill Fischer (baseball)",
+    "pitcher",
+    "coach (baseball)"
+   ],
+   "about": "Bill Fischer (baseball)",
+   "key": "6f2df3ea18428f52",
+   "headline": "Bill Fischer, 88, Longtime Pitcher and Pitching Coach",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bill%27s_speech_was_short_and_sweet_%2818183449145%29_%28cropped%29.jpg/960px-Bill%27s_speech_was_short_and_sweet_%2818183449145%29_%28cropped%29.jpg",
+    "credit": "Minda Haas Kuhlmann: flickr, personal website, twitter, instagram",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bill%27s_speech_was_short_and_sweet_(18183449145)_(cropped).jpg",
+    "alt": "older man in cap holding microphone beside Storm Chasers bowl at ballpark",
+    "source": "checked",
+    "of": "Bill Fischer (baseball)",
+    "w": 3380,
+    "h": 3147,
+    "tier": "person"
+   },
+   "extract": "William Charles Fischer was an American professional baseball pitcher who played in Major League Baseball from 1956 to 1964 for the Chicago White Sox, Detroit Tigers, Washington Senators / Minnesota Twins and Kansas City Athletics. He later was a longtime pitching coach at the major and minor league levels. Born in…",
+   "page": "https://en.wikipedia.org/wiki/Bill_Fischer_(baseball)"
+  },
+  {
+   "src": "yearpage",
    "kind": "event",
    "year": "2015",
    "text": "The New York Mets rallied from an early deficit to beat the Kansas City Royals, 9–3, in the first World Series game ever played at Citi Field, which set a record when 44,781 fans attended the game. Noah Syndergaard settled down after yielding three runs and six hits in the first two innings, Curtis Granderson and David Wright each belted a two-run home run, as the Mets took Game 3 of the series after two tough…",
@@ -240,7 +274,7 @@
     "Noah Syndergaard",
     "Curtis Granderson"
    ],
-   "score": 117.26353113255514,
+   "score": 117.11925912220346,
    "abouts": [
     "Citi Field",
     "Curtis Granderson",
@@ -278,7 +312,7 @@
     "Adalberto Mondesí"
    ],
    "about": "Adalberto Mondesí",
-   "score": 67.29318924512825,
+   "score": 67.31573068363176,
    "abouts": [
     "Adalberto Mondesí"
    ],
@@ -348,7 +382,7 @@
     "Robinson Canó",
     "Curtis Granderson"
    ],
-   "score": 32.16964882804232,
+   "score": 32.088603695378424,
    "abouts": [
     "Curtis Granderson",
     "Bruce Bochy",
@@ -396,21 +430,32 @@
   {
    "src": "article",
    "kind": "event",
-   "year": "2009",
-   "text": "On October 30, 2009, Leyva was reassigned as the Blue Jays' bench coach, with Brian Butterfield taking over as third base coach for the team.",
+   "year": "2007",
+   "text": "On October 30, 2007, Sveum switched positions on the staff and became the team's third base coach.",
    "links": [
-    "Nick Leyva"
+    "Dale Sveum"
    ],
-   "about": "Nick Leyva",
-   "score": 10.0,
+   "about": "Dale Sveum",
+   "score": 28.910929332460082,
    "abouts": [
-    "Nick Leyva"
+    "Dale Sveum"
    ],
-   "key": "7bf949bb936787d6",
-   "headline": "Leyva Reassigned as Blue Jays Bench Coach, Butterfield Takes Third Base",
-   "image": null,
-   "extract": "Nicholas Tomas Leyva is an American former professional baseball player, coach, and manager. After his retirement as a Minor League Baseball (MiLB) player, Leyva moved into coaching. His Major League Baseball (MLB) coaching stops included the St. Louis Cardinals, Toronto Blue Jays, Milwaukee Brewers, and Pittsburgh…",
-   "page": "https://en.wikipedia.org/wiki/Nick_Leyva"
+   "key": "958216b3f034a751",
+   "headline": "Sveum Switches Staff Positions, Becomes Third Base Coach",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sveum_with_Cubs.jpg/960px-Sveum_with_Cubs.jpg",
+    "credit": "thotfulspot",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sveum_with_Cubs.jpg",
+    "alt": "Man in Cubs home pinstripes with glove, stadium crowd, Stanley Cup beside him",
+    "source": "checked",
+    "of": "Dale Sveum",
+    "w": 1307,
+    "h": 2013,
+    "tier": "person"
+   },
+   "extract": "Dale Curtis Sveum is an American former Major League Baseball (MLB) player and manager. He most recently served as the bench coach for the Kansas City Royals. As a player, Sveum saw action in 12 major league seasons between 1986 and 1999. He was a member of the Milwaukee Brewers, Philadelphia Phillies, Chicago White…",
+   "page": "https://en.wikipedia.org/wiki/Dale_Sveum"
   },
   {
    "src": "yearpage",
@@ -454,7 +499,7 @@
    "links": [
     "Al López"
    ],
-   "score": 21.466,
+   "score": 21.506,
    "abouts": [
     "Al López"
    ],
@@ -486,7 +531,7 @@
     "Yankee Stadium",
     "George W. Bush"
    ],
-   "score": 87.800848770425,
+   "score": 87.98787265905568,
    "abouts": [
     "2001 World Series",
     "Yankee Stadium",
@@ -525,7 +570,7 @@
     "president (corporate title)",
     "Chicago Cubs"
    ],
-   "score": 47.0,
+   "score": 66.32492730329898,
    "abouts": [
     "Dallas Green (baseball)",
     "president (corporate title)",
@@ -593,18 +638,18 @@
     "San Francisco Giants",
     "Danny Ozark"
    ],
-   "score": 32.0,
+   "score": 47.31854279695709,
    "abouts": [
-    "Jim Davenport",
     "Danny Ozark",
+    "Jim Davenport",
     "San Francisco Giants"
    ],
-   "about": "Jim Davenport",
+   "about": "Danny Ozark",
    "key": "c987dde1871a1fce",
    "headline": "Jim Davenport, 51, Named Giants Manager for 1985",
    "image": null,
-   "extract": "James Houston Davenport was an American professional baseball infielder and coach who played his entire career with the San Francisco Giants in Major League Baseball (MLB). He also managed the Giants for one season in 1985 and served as a coach in various capacities for nine years over three different terms, spending…",
-   "page": "https://en.wikipedia.org/wiki/Jim_Davenport"
+   "extract": "Daniel Leonard Ozark was an American professional coach and manager in Major League Baseball (MLB).",
+   "page": "https://en.wikipedia.org/wiki/Danny_Ozark"
   },
   {
    "src": "yearpage",
@@ -798,7 +843,7 @@
     "Harry Brecheen",
     "1946 World Series"
    ],
-   "score": 77.33951973261401,
+   "score": 77.65547773435014,
    "abouts": [
     "1946 World Series",
     "Harry Brecheen",
@@ -832,7 +877,7 @@
     "American Association (1882–1891)",
     "Pittsburgh Pirates"
    ],
-   "score": 27.427187405381506,
+   "score": 27.56008484748063,
    "abouts": [
     "American Association (1882–1891)",
     "Columbus Buckeyes (American Association)",
@@ -1072,7 +1117,8 @@
     "park": "Yankee Stadium II",
     "event": "World Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 756,
@@ -1202,5 +1248,37 @@
   "farewellCount": 7,
   "hofDebuts": 0,
   "managerDebuts": []
- }
+ },
+ "papers": [
+  {
+   "year": 1963,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 70,
+   "url": "https://www.loc.gov/resource/sn83045462/1963-10-30/ed-1/?sp=70&q=baseball"
+  },
+  {
+   "year": 1956,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 43,
+   "url": "https://www.loc.gov/resource/sn83045462/1956-10-30/ed-1/?sp=43&q=baseball"
+  },
+  {
+   "year": 1952,
+   "paper": "Le messager (Lewiston, Me.)",
+   "page": 2,
+   "url": "https://www.loc.gov/resource/sn83045313/1952-10-30/ed-1/?sp=2&q=baseball"
+  },
+  {
+   "year": 1884,
+   "paper": "Gloucester County Democrat (Woodbury, N.J.)",
+   "page": 4,
+   "url": "https://www.loc.gov/resource/sn87068079/1884-10-30/ed-1/?sp=4&q=baseball"
+  },
+  {
+   "year": 1875,
+   "paper": "The Wheeling daily register (Wheeling, W. Va.)",
+   "page": 2,
+   "url": "https://www.loc.gov/resource/sn84026847/1875-10-30/ed-1/?sp=2&q=baseball"
+  }
+ ]
 }
