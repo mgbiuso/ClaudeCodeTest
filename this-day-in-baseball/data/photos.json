@@ -15296,6 +15296,11 @@
   "reason": "person: Man in dark cap with white 'A' and collared uniform, black-and-white photo",
   "model": "claude-haiku-5-5"
  },
+ "c7027c2f5bd0e695": {
+  "image": null,
+  "reason": "rejected David Bell and Jim Reynolds, 6.19.21.jpg: The story is about a 2008 minor-league managerial appointment with the Carolina Mudcats, but the photo shows a 2021 MLB game scene (Reds uniforms, MLB-style umpire), which doesn't match the Double-A setting described. The file name also indicates a 2021 date, not 2008.",
+  "model": "claude-haiku-5-5"
+ },
  "c7aba5094c065b89": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Clark_Griffith_LCCN2016840561_%28cropped%29.jpg/960px-Clark_Griffith_LCCN2016840561_%28cropped%29.jpg",

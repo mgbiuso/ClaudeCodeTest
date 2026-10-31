@@ -12,13 +12,13 @@
     "2011 World Series",
     "Connie Mack"
    ],
-   "score": 133.43564810359555,
+   "score": 133.8128835623027,
    "abouts": [
-    "Connie Mack",
     "2011 World Series",
+    "Connie Mack",
     "Tony La Russa"
    ],
-   "about": "Connie Mack",
+   "about": "2011 World Series",
    "key": "4fc482af2a7178e3",
    "headline": "La Russa Retires as Cardinals Manager After World Series Win",
    "image": {
@@ -33,8 +33,8 @@
     "h": 1679,
     "tier": "person"
    },
-   "extract": "Cornelius McGillicuddy, better known as Connie Mack, was an American professional baseball catcher, manager, and team owner. Mack holds records for the most wins (3,731), losses (3,948), ties (76), and games managed (7,755) in Major League Baseball (MLB) history. His victory total is 847 more than the second-highest:…",
-   "page": "https://en.wikipedia.org/wiki/Connie_Mack",
+   "extract": "The 2011 World Series was the championship series of Major League Baseball's (MLB) 2011 season. The 107th edition of the World Series, it was a best-of-seven playoff played between the American League (AL) champion Texas Rangers and the National League (NL) champion St. Louis Cardinals; the Cardinals defeated the…",
+   "page": "https://en.wikipedia.org/wiki/2011_World_Series",
    "lead": true
   },
   {
@@ -47,7 +47,7 @@
     "Hanwha Eagles",
     "2025 Korean Series"
    ],
-   "score": 48.95845324510059,
+   "score": 49.31363764158988,
    "abouts": [
     "2025 Korean Series",
     "LG Twins",
@@ -145,7 +145,7 @@
    "links": [
     "2017 World Series"
    ],
-   "score": 88.14368113367837,
+   "score": 88.35322350562717,
    "abouts": [
     "2017 World Series"
    ],
@@ -207,7 +207,7 @@
     "Citi Field",
     "Tyler Clippard"
    ],
-   "score": 92.26353113255514,
+   "score": 92.1185225443509,
    "abouts": [
     "Citi Field",
     "Daniel Murphy (baseball)",
@@ -246,7 +246,7 @@
     "Rick Renteria",
     "2008 World Series"
    ],
-   "score": 69.01457241415761,
+   "score": 69.84505435173674,
    "abouts": [
     "Joe Maddon",
     "2008 World Series",
@@ -280,7 +280,7 @@
     "Derek Jeter",
     "Derek Jeter"
    ],
-   "score": 20.362,
+   "score": 20.239,
    "abouts": [
     "Brad Halsey",
     "Derek Jeter",
@@ -314,7 +314,7 @@
     "Madison Bumgarner",
     "Buster Posey"
    ],
-   "score": 71.7001373414133,
+   "score": 71.63924577452605,
    "abouts": [
     "Buster Posey",
     "2010 World Series",
@@ -346,7 +346,7 @@
    "links": [
     "Artie Wilson"
    ],
-   "score": 20.178,
+   "score": 20.1755,
    "abouts": [
     "Artie Wilson"
    ],
@@ -416,7 +416,7 @@
     "Al Pedrique"
    ],
    "about": "Al Pedrique",
-   "score": 34.863327961330555,
+   "score": 34.672492256217836,
    "abouts": [
     "Al Pedrique"
    ],
@@ -440,13 +440,32 @@
   {
    "src": "article",
    "kind": "event",
+   "year": "2008",
+   "text": "On October 31, 2008, the Cincinnati Reds named Bell the manager for their Double-A affiliate, the Carolina Mudcats.",
+   "links": [
+    "David Bell (baseball)"
+   ],
+   "about": "David Bell (baseball)",
+   "score": 39.55540422769559,
+   "abouts": [
+    "David Bell (baseball)"
+   ],
+   "key": "c7027c2f5bd0e695",
+   "headline": "Reds Name Bell Manager of Double-A Carolina Mudcats",
+   "image": null,
+   "extract": "David Michael Bell is an American former professional baseball infielder, coach, and manager who most recently managed the Cincinnati Reds of Major League Baseball (MLB). Over the course of his 12-year MLB playing career, Bell appeared at all four infield positions while playing for the Cleveland Indians, St. Louis…",
+   "page": "https://en.wikipedia.org/wiki/David_Bell_(baseball)"
+  },
+  {
+   "src": "article",
+   "kind": "event",
    "year": "2005",
    "text": "When Epstein left his position on October 31, 2005, Hoyer was part of a group of four executives, called the \"Gang of Four\", that kept the club running in Epstein's absence.",
    "links": [
     "Jed Hoyer"
    ],
    "about": "Jed Hoyer",
-   "score": 29.82929968403536,
+   "score": 29.57462324102574,
    "abouts": [
     "Jed Hoyer"
    ],
@@ -475,7 +494,7 @@
    "links": [
     "Bob Thurman"
    ],
-   "score": 20.114,
+   "score": 20.1075,
    "abouts": [
     "Bob Thurman"
    ],
@@ -530,7 +549,7 @@
     "New York Yankees",
     "1977 World Series"
    ],
-   "score": 69.72315350928139,
+   "score": 69.99521749801582,
    "abouts": [
     "1977 World Series",
     "Mike Torrez",
@@ -551,7 +570,7 @@
    "links": [
     "Buddy Myer"
    ],
-   "score": 20.2415,
+   "score": 20.2175,
    "abouts": [
     "Buddy Myer"
    ],
@@ -650,36 +669,6 @@
    "page": "https://en.wikipedia.org/wiki/John_Vukovich"
   },
   {
-   "src": "article",
-   "kind": "event",
-   "year": "1972",
-   "text": "Dempsey spent a few more seasons shuttling between the Twins and their minor league teams, before being traded to the New York Yankees for Danny Walton on October 31, 1972.",
-   "links": [
-    "Rick Dempsey"
-   ],
-   "about": "Rick Dempsey",
-   "score": 35.0,
-   "abouts": [
-    "Rick Dempsey"
-   ],
-   "key": "3e3f93338c29aee3",
-   "headline": "Dempsey Traded From Twins to Yankees for Danny Walton",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/NY1973H46.jpg",
-    "credit": "William F. Henderson",
-    "license": "CC BY 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:NY1973H46.jpg",
-    "alt": "White pinstriped Yankees jersey with navy number 46 and patch",
-    "source": "checked",
-    "of": "Rick Dempsey",
-    "w": 960,
-    "h": 960,
-    "tier": "person"
-   },
-   "extract": "John Rikard Dempsey is an American former professional baseball player. He played for 24 seasons as a catcher in Major League Baseball from 1969 to 1992, most prominently for the Baltimore Orioles where he played for 10 years and was a member of the 1983 World Series winning team. Dempsey was known for being one of…",
-   "page": "https://en.wikipedia.org/wiki/Rick_Dempsey"
-  },
-  {
    "src": "yearpage",
    "kind": "event",
    "year": "1960",
@@ -689,7 +678,7 @@
     "Alvin Dark",
     "Milwaukee Braves"
    ],
-   "score": 52.04690472125353,
+   "score": 52.19693434508842,
    "abouts": [
     "Alvin Dark",
     "San Francisco Giants",
@@ -722,7 +711,7 @@
     "Ebbets Field"
    ],
    "about": "Ebbets Field",
-   "score": 31.93721609959467,
+   "score": 31.996377899753607,
    "abouts": [
     "Ebbets Field"
    ],
@@ -774,7 +763,7 @@
     "h": 527,
     "tier": "person"
    },
-   "extract": "The National Baseball Hall of Fame and Museum is a history museum and hall of fame in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying baseball-related artifacts and exhibits, honoring those who…",
+   "extract": "The National Baseball Hall of Fame and Museum, often simply referred to as \"Cooperstown\", is a history museum and hall of fame located in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying…",
    "page": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
   },
   {
@@ -820,7 +809,7 @@
     "St. Louis Cardinals",
     "Burleigh Grimes"
    ],
-   "score": 27.0823703955011,
+   "score": 27.040351429435926,
    "abouts": [
     "Burleigh Grimes",
     "St. Louis Cardinals"
@@ -993,7 +982,8 @@
     "park": "Rogers Centre",
     "event": "World Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 804,
@@ -1117,13 +1107,5 @@
   "farewellCount": 5,
   "hofDebuts": 0,
   "managerDebuts": []
- },
- "papers": [
-  {
-   "year": 1960,
-   "paper": "Evening star (Washington, D.C.)",
-   "page": 16,
-   "url": "https://www.loc.gov/resource/sn83045462/1960-10-31/ed-1/?sp=16&q=baseball"
-  }
- ]
+ }
 }
