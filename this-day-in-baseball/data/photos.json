@@ -6210,6 +6210,22 @@
   "reason": "person: Umpire in black jacket talking with manager in blue pinstripes on grass",
   "model": "claude-haiku-5-5"
  },
+ "553f3147f163e215": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bob_Pettit_baseball.jpg",
+   "credit": "Unknown",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Bob_Pettit_baseball.jpg",
+   "alt": "Illustrated bearded man in cap wearing Milwaukee jersey, 1880s style",
+   "source": "checked",
+   "of": "Bob Pettit (baseball)",
+   "w": 804,
+   "h": 912,
+   "tier": "person"
+  },
+  "reason": "person: Illustrated bearded man in cap wearing Milwaukee jersey, 1880s style",
+  "model": "claude-haiku-5-5"
+ },
  "55921edee218b6c6": {
   "image": null,
   "reason": "judge found no fitting photo",
@@ -10964,6 +10980,11 @@
    "tier": "person"
   },
   "reason": "person: Vintage tobacco-card style photo of a ballplayer in a uniform with an M sleeve patch, holding a glove.",
+  "model": "claude-haiku-5-5"
+ },
+ "919d47c66f7ca3d9": {
+  "image": null,
+  "reason": "judge found no fitting photo",
   "model": "claude-haiku-5-5"
  },
  "919df155d809daf7": {

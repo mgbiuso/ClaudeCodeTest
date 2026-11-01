@@ -11,6 +11,14 @@
   "reason": "Official MLB video of the final out of the 2024 World Series, published 2024-10-31, showing the Dodgers beating the Yankees, matching the story's year and event",
   "query": "Dodgers defeat Yankees 2024 World Series Game 5 highlights"
  },
+ "01f112c834662cda": {
+  "id": "PLcn0ubinQc",
+  "title": "WS2105 Gm5: Royals take lead with five runs in 12th",
+  "channel": "MLB",
+  "published": "2015-11-02",
+  "reason": "Candidate 1 is an official MLB video of the Game 5 12th-inning five-run rally that clinched the 2015 World Series for the Royals, matching the specific event an",
+  "query": "Royals win 2015 World Series Game 5 Mets 12 innings"
+ },
  "031dc217b68f89c5": {
   "none": "The only candidate is a Hall of Fame biography of Brooks Robinson, not footage or a recap of Jim Palmer's 1976 Cy Young Award win, so it does not match the stor",
   "query": "Jim Palmer 1976 Cy Young Award Orioles highlights"

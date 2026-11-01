@@ -12,13 +12,13 @@
     "George Springer",
     "World Series Most Valuable Player Award"
    ],
-   "score": 153.14368113367837,
+   "score": 154.15691699612074,
    "abouts": [
-    "2017 World Series",
     "George Springer",
+    "2017 World Series",
     "World Series Most Valuable Player Award"
    ],
-   "about": "2017 World Series",
+   "about": "George Springer",
    "key": "1a9fe7bbb56fe4be",
    "headline": "Astros Beat Dodgers 5-1 in Game 7, Win First World Series",
    "image": {
@@ -33,8 +33,8 @@
     "h": 2748,
     "tier": "person"
    },
-   "extract": "The 2017 World Series was the championship series of Major League Baseball's (MLB) 2017 season. The 113th edition of the World Series, it was a best-of-seven playoff played between the National League (NL) champion Los Angeles Dodgers and the American League (AL) champion Houston Astros. The series was played between…",
-   "page": "https://en.wikipedia.org/wiki/2017_World_Series",
+   "extract": "George Chelston Springer III is an American professional baseball outfielder and designated hitter who is a free agent. He has played in Major League Baseball (MLB) for the Houston Astros and Toronto Blue Jays. Springer has played primarily in right field and also spent significant time in center field.",
+   "page": "https://en.wikipedia.org/wiki/George_Springer",
    "video": {
     "id": "gMh6PMwxf-k",
     "title": "WS2017 Gm7: Springer, 'pen lead team to Game 7 win",
@@ -52,11 +52,11 @@
     "2025 Toronto Blue Jays season",
     "2000 New York Yankees season"
    ],
-   "score": 110.87973235047772,
+   "score": 110.96325535333989,
    "abouts": [
     "2025 Los Angeles Dodgers season",
-    "2000 New York Yankees season",
-    "2025 Toronto Blue Jays season"
+    "2025 Toronto Blue Jays season",
+    "2000 New York Yankees season"
    ],
    "about": "2025 Los Angeles Dodgers season",
    "key": "83f058f509fda213",
@@ -82,25 +82,6 @@
    }
   },
   {
-   "src": "article",
-   "kind": "event",
-   "year": "2024",
-   "text": "On November 1, 2024, GCU announced it had accepted an invite from the Mountain West Conference to join no later than the 2027 baseball season.",
-   "links": [
-    "Grand Canyon Antelopes baseball"
-   ],
-   "about": "Grand Canyon Antelopes baseball",
-   "score": 10.0,
-   "abouts": [
-    "Grand Canyon Antelopes baseball"
-   ],
-   "key": "87409094013cb59d",
-   "headline": "GCU Accepts Mountain West Conference Invite for Baseball",
-   "image": null,
-   "extract": "The Grand Canyon Antelopes baseball team represents Grand Canyon University, which is located in Phoenix, Arizona. The Antelopes, also known as the Lopes, are an NCAA Division I college baseball program competing as members of the Mountain West Conference. They were in Division I from 1991 to 1998, the final four…",
-   "page": "https://en.wikipedia.org/wiki/Grand_Canyon_Antelopes_baseball"
-  },
-  {
    "src": "yearpage",
    "kind": "event",
    "year": "2023",
@@ -110,7 +91,7 @@
     "2023 Arizona Diamondbacks season",
     "2023 World Series"
    ],
-   "score": 98.13226644896204,
+   "score": 98.63945414543593,
    "abouts": [
     "2023 World Series",
     "2023 Texas Rangers season",
@@ -131,7 +112,7 @@
     "h": 2000,
     "tier": "team"
    },
-   "extract": "The 2023 World Series was the championship series of Major League Baseball's (MLB) 2023 season, and the 119th edition of the World Series. It was a best-of-seven playoff played between the National League (NL) champion Arizona Diamondbacks and the American League (AL) champion Texas Rangers. The series began on…",
+   "extract": "The 2023 World Series was the championship series of Major League Baseball's (MLB) 2023 season. The 119th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Arizona Diamondbacks and the American League (AL) champion Texas Rangers. The series began on October 27 and…",
    "page": "https://en.wikipedia.org/wiki/2023_World_Series",
    "video": {
     "id": "qKfH3pNwuVs",
@@ -148,7 +129,7 @@
     "Donnie Ecker"
    ],
    "about": "Donnie Ecker",
-   "score": 10.0,
+   "score": 24.097719677709343,
    "abouts": [
     "Donnie Ecker"
    ],
@@ -166,7 +147,7 @@
    "links": [
     "Carlos Beltrán"
    ],
-   "score": 22.0,
+   "score": 44.74863241822442,
    "abouts": [
     "Carlos Beltrán"
    ],
@@ -198,7 +179,7 @@
     "Matt Harvey",
     "shutouts in baseball"
    ],
-   "score": 77.0,
+   "score": 99.10982844112556,
    "abouts": [
     "Citi Field",
     "Matt Harvey",
@@ -220,7 +201,31 @@
     "tier": "person"
    },
    "extract": "Citi Field is a baseball stadium located in Flushing Meadows–Corona Park, in the borough of Queens, New York City, United States. Opened in 2009, Citi Field is the home of Major League Baseball's New York Mets. The ballpark was built as a replacement for the adjacent Shea Stadium, which had been demolished shortly…",
-   "page": "https://en.wikipedia.org/wiki/Citi_Field"
+   "page": "https://en.wikipedia.org/wiki/Citi_Field",
+   "video": {
+    "id": "PLcn0ubinQc",
+    "title": "WS2105 Gm5: Royals take lead with five runs in 12th",
+    "channel": "MLB"
+   }
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2014",
+   "text": "Anderson and his wife Jessica Marie married on November 1, 2014 and divorced in 2023.",
+   "links": [
+    "Brian Anderson (pitcher)"
+   ],
+   "about": "Brian Anderson (pitcher)",
+   "score": 28.566612524935138,
+   "abouts": [
+    "Brian Anderson (pitcher)"
+   ],
+   "key": "919d47c66f7ca3d9",
+   "headline": "Anderson Marries Jessica Marie",
+   "image": null,
+   "extract": "Brian James Anderson is an American former Major League Baseball pitcher, who played 13 seasons for five teams, as well as a sports broadcaster and coach. Currently, Anderson is the color commentator on the Rays TV crew on MLB Local Media.",
+   "page": "https://en.wikipedia.org/wiki/Brian_Anderson_(pitcher)"
   },
   {
    "src": "article",
@@ -231,7 +236,7 @@
     "Gerardo Parra"
    ],
    "about": "Gerardo Parra",
-   "score": 20.0,
+   "score": 35.926293826482926,
    "abouts": [
     "Gerardo Parra"
    ],
@@ -262,7 +267,7 @@
     "Texas Rangers (baseball)",
     "2010 World Series"
    ],
-   "score": 110.42127229555615,
+   "score": 110.99163558861738,
    "abouts": [
     "2010 World Series",
     "San Francisco Giants",
@@ -300,7 +305,7 @@
     "2010 Major League Baseball postseason"
    ],
    "about": "2010 Major League Baseball postseason",
-   "score": 67.73948858781549,
+   "score": 67.91939299249313,
    "abouts": [
     "2010 Major League Baseball postseason"
    ],
@@ -331,7 +336,7 @@
     "stolen base",
     "Brad Lidge"
    ],
-   "score": 50.0,
+   "score": 72.87622796506949,
    "abouts": [
     "Johnny Damon",
     "stolen base",
@@ -365,7 +370,7 @@
     "2007 Japan Series",
     "Hokkaido Nippon Ham Fighters"
    ],
-   "score": 88.33726476444977,
+   "score": 88.40167756707282,
    "abouts": [
     "2007 Japan Series",
     "Chunichi Dragons",
@@ -399,7 +404,7 @@
     "2001 World Series",
     "Tino Martinez"
    ],
-   "score": 92.82066611921053,
+   "score": 93.17399798268728,
    "abouts": [
     "2001 World Series",
     "Tino Martinez",
@@ -459,7 +464,7 @@
     "New York Yankees",
     "American League"
    ],
-   "score": 67.74065672373972,
+   "score": 68.01739990894467,
    "abouts": [
     "American League",
     "Ron Guidry",
@@ -515,7 +520,7 @@
     "Félix Millán"
    ],
    "about": "Félix Millán",
-   "score": 22.0,
+   "score": 37.57305492116086,
    "abouts": [
     "Félix Millán"
    ],
@@ -535,7 +540,7 @@
     "American League",
     "Cy Young Award"
    ],
-   "score": 67.74065672373972,
+   "score": 68.01739990894467,
    "abouts": [
     "American League",
     "Denny McLain",
@@ -558,18 +563,18 @@
     "bonus baby",
     "National League (baseball)"
    ],
-   "score": 70.0,
+   "score": 85.61435461432218,
    "abouts": [
-    "Mike McCormick (pitcher)",
     "bonus baby",
+    "Mike McCormick (pitcher)",
     "National League (baseball)"
    ],
-   "about": "Mike McCormick (pitcher)",
+   "about": "bonus baby",
    "key": "c4b8f70ac585c61e",
    "headline": "Mike McCormick, 29, Wins 1967 NL Cy Young Award",
    "image": null,
-   "extract": "Michael Francis McCormick was an American professional baseball pitcher who played 16 seasons in Major League Baseball (MLB). He played for the New York/San Francisco Giants, Baltimore Orioles, Washington Senators, New York Yankees and Kansas City Royals from 1956 to 1971. He batted and threw left-handed and served…",
-   "page": "https://en.wikipedia.org/wiki/Mike_McCormick_(pitcher)"
+   "extract": "The bonus rule was a contractual rule affecting major league baseball intermittently between 1947 and 1964, meant to prevent teams from assigning certain players to farm teams. The rule stipulated that when a major-league team signed a player to a contract with a signing bonus above a certain threshold, the team was…",
+   "page": "https://en.wikipedia.org/wiki/Bonus_rule"
   },
   {
    "src": "yearpage",
@@ -649,7 +654,7 @@
     "Ferris Fain",
     "batting average (baseball)"
    ],
-   "score": 77.91349951668022,
+   "score": 77.86884411568326,
    "abouts": [
     "batting average (baseball)",
     "Rule 5 draft",
@@ -672,7 +677,7 @@
     "Brooklyn Dodgers",
     "Brooklyn Trust Company"
    ],
-   "score": 34.0,
+   "score": 55.703509193658384,
    "abouts": [
     "Branch Rickey",
     "Brooklyn Trust Company",
@@ -732,36 +737,6 @@
   },
   {
    "src": "yearpage",
-   "kind": "death",
-   "year": "1937",
-   "text": "Benny Frey, 30, pitcher for the Cincinnati Reds from 1929 to 1936, who committed suicide after being unable to make a comeback following an arm injury.",
-   "links": [
-    "Benny Frey"
-   ],
-   "score": 20.05,
-   "abouts": [
-    "Benny Frey"
-   ],
-   "about": "Benny Frey",
-   "key": "da79421fc0c7a796",
-   "headline": "Benny Frey, 30, Pitcher for Reds From 1929 to 1936",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Benjamin_Frey%2C_1929_AP_photo_%28cropped%29.jpg/960px-Benjamin_Frey%2C_1929_AP_photo_%28cropped%29.jpg",
-    "credit": "Associated Press",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Benjamin_Frey,_1929_AP_photo_(cropped).jpg",
-    "alt": "Vintage photo of a pitcher in baseball uniform and cap.",
-    "source": "checked",
-    "of": "Benny Frey",
-    "w": 1149,
-    "h": 2523,
-    "tier": "person"
-   },
-   "extract": "Benjamin Rudolph Frey was an American right-handed pitcher in Major League Baseball from 1929 to 1936, playing primarily with the Cincinnati Reds. He was a sidearm pitcher with a sweeping motion that was effective against right-handed hitters. Frey suffered an arm injury which ultimately led to his retirement and…",
-   "page": "https://en.wikipedia.org/wiki/Benny_Frey"
-  },
-  {
-   "src": "yearpage",
    "kind": "event",
    "year": "1922",
    "text": "Former Philadelphia Athletics catcher Ira Thomas buys the Shreveport Gassers Texas League club for $75,000. Other former players who own pieces of minor league clubs include Ty Cobb (Augusta Georgians), Eddie Collins (Baltimore Orioles), and George Stallings (Rochester Red Wings).",
@@ -796,6 +771,36 @@
   },
   {
    "src": "yearpage",
+   "kind": "death",
+   "year": "1910",
+   "text": "Bob Pettit, 49, infielder/outfielder from 1887 to 1891 for the NL Chicago White Stockings and AA Milwaukee Brewers.",
+   "links": [
+    "Bob Pettit (baseball)"
+   ],
+   "score": 20.1105,
+   "abouts": [
+    "Bob Pettit (baseball)"
+   ],
+   "about": "Bob Pettit (baseball)",
+   "key": "553f3147f163e215",
+   "headline": "Bob Pettit, 49, Former Infielder, Outfielder",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bob_Pettit_baseball.jpg",
+    "credit": "Unknown",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Bob_Pettit_baseball.jpg",
+    "alt": "Illustrated bearded man in cap wearing Milwaukee jersey, 1880s style",
+    "source": "checked",
+    "of": "Bob Pettit (baseball)",
+    "w": 804,
+    "h": 912,
+    "tier": "person"
+   },
+   "extract": "Robert Henry Pettit was an American professional baseball player who played outfield in the Major Leagues from 1887 to 1891. He played for the Chicago White Stockings and Milwaukee Brewers.",
+   "page": "https://en.wikipedia.org/wiki/Bob_Pettit_(baseball)"
+  },
+  {
+   "src": "yearpage",
    "kind": "event",
    "year": "1892",
    "text": "Statistics for the first 154-game season show that Dan Brouthers of the Brooklyn Grooms was the top hitter with a .335 batting average, and Cy Young of the Cleveland Spiders the best pitcher with a 36–11 record and a .766 winning percentage.",
@@ -804,7 +809,7 @@
     "batting average (baseball)",
     "winning percentage"
    ],
-   "score": 80.91349951668022,
+   "score": 80.86884411568326,
    "abouts": [
     "batting average (baseball)",
     "Dan Brouthers",
@@ -837,7 +842,7 @@
     "History of the Philadelphia Phillies"
    ],
    "about": "History of the Philadelphia Phillies",
-   "score": 20.0,
+   "score": 36.29677463654017,
    "abouts": [
     "History of the Philadelphia Phillies"
    ],
@@ -1049,7 +1054,8 @@
     "park": "Rogers Centre",
     "event": "World Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 663,
@@ -1191,25 +1197,5 @@
     "star": false
    }
   ]
- },
- "papers": [
-  {
-   "year": 1957,
-   "paper": "Diario las Américas (Miami, Fla.;Miami Springs, Fla.)",
-   "page": 6,
-   "url": "https://www.loc.gov/resource/sn82001257/1957-11-01/ed-1/?sp=6&q=baseball"
-  },
-  {
-   "year": 1951,
-   "paper": "The prison mirror (Stillwater, Minn.)",
-   "page": 8,
-   "url": "https://www.loc.gov/resource/sn90060766/1951-11-01/ed-1/?sp=8&q=baseball"
-  },
-  {
-   "year": 1946,
-   "paper": "The Poplar standard (Poplar, Mont.)",
-   "page": 8,
-   "url": "https://www.loc.gov/resource/sn86075284/1946-11-01/ed-1/?sp=8&q=baseball"
-  }
- ]
+ }
 }
