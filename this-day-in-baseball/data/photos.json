@@ -15150,6 +15150,22 @@
   "reason": "venue: Aerial view of Yankee Stadium with Yankees signage and surrounding Bronx streets",
   "model": "claude-haiku-5-5"
  },
+ "c4cf50f2e9160bf5": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Clyde_King_1957_Hollywood_Stars.jpg",
+   "credit": "Unknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Clyde_King_1957_Hollywood_Stars.jpg",
+   "alt": "Black-and-white portrait of a man in glasses, Hollywood cap, signed 'Clyde King'.",
+   "source": "checked",
+   "of": "Clyde King",
+   "w": 616,
+   "h": 927,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white portrait of a man in glasses, Hollywood cap, signed 'Clyde King'.",
+  "model": "claude-haiku-5-5"
+ },
  "c523ae9fb9e6b5d2": {
   "image": null,
   "reason": "judge found no fitting photo",
