@@ -3546,6 +3546,22 @@
   "reason": "weak pick (0.2): Los Angeles Angels (PCL) team photo, but from 1935, far outside 5 years of the 1905 story, so weak; included only as a low-confidence fallback.",
   "model": "claude-haiku-5-5"
  },
+ "31feb03cf1231833": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/JackRussellStadium1970s.jpg/960px-JackRussellStadium1970s.jpg",
+   "credit": "Roger Luce Photography",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:JackRussellStadium1970s.jpg",
+   "alt": "Baseball stadium with grass field, infield dirt, grandstand, and light towers.",
+   "source": "checked",
+   "of": "Jack Russell Memorial Stadium",
+   "w": 1230,
+   "h": 802,
+   "tier": "venue"
+  },
+  "reason": "venue: Baseball stadium with grass field, infield dirt, grandstand, and light towers.",
+  "model": "claude-haiku-5-5"
+ },
  "322f3534288df5a3": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ryan_Webb.jpg/960px-Ryan_Webb.jpg",
@@ -4395,6 +4411,22 @@
    "tier": "person"
   },
   "reason": "person: Man in cap and wool overcoat, outdoors near ballpark railings, vintage photo",
+  "model": "claude-haiku-5-5"
+ },
+ "3d7fa4a5bf115077": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%27World_Champs%27_--_2016_Cubs_World_Series_Win_Celebration_Grant_Park_Chicago_%28IL%29_November_4%2C_2016_%2830840440993%29.jpg/960px-%27World_Champs%27_--_2016_Cubs_World_Series_Win_Celebration_Grant_Park_Chicago_%28IL%29_November_4%2C_2016_%2830840440993%29.jpg",
+   "credit": "Ron Cogswell",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%27World_Champs%27_--_2016_Cubs_World_Series_Win_Celebration_Grant_Park_Chicago_(IL)_November_4,_2016_(30840440993).jpg",
+   "alt": "Huge crowd in blue caps, city skyline, 'World Champs' sign, Cubs celebration",
+   "source": "checked",
+   "of": "2016 World Series",
+   "w": 5924,
+   "h": 3651,
+   "tier": "event"
+  },
+  "reason": "event: Huge crowd in blue caps, city skyline, 'World Champs' sign, Cubs celebration",
   "model": "claude-haiku-5-5"
  },
  "3d914ac13ac48069": {
@@ -8382,6 +8414,22 @@
  "741eb4a9b689a31f": {
   "image": null,
   "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "7446cc913d0f801a": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Frank_Smith%2C_Chicago_White_Sox%2C_Boston_Doves%2C_baseball_card_portrait_LCCN2007685668.jpg",
+   "credit": "American Tobacco Company, sponsor",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Frank_Smith,_Chicago_White_Sox,_Boston_Doves,_baseball_card_portrait_LCCN2007685668.jpg",
+   "alt": "Painted baseball card of pitcher in dark blue Chicago uniform on mound",
+   "source": "checked",
+   "of": "Frank Smith (1900s pitcher) (Commons search)",
+   "w": 739,
+   "h": 1024,
+   "tier": "person"
+  },
+  "reason": "person: Painted baseball card of pitcher in dark blue Chicago uniform on mound",
   "model": "claude-haiku-5-5"
  },
  "745e41b5bcb8f9fa": {
@@ -17758,6 +17806,22 @@
    "tier": "person"
   },
   "reason": "person: Sidewalk sign promoting Jim Rice Hall of Fame jersey signing, Red Sox",
+  "model": "claude-haiku-5-5"
+ },
+ "e59ddf6aaec9faa3": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_Molitor_white_house.jpg",
+   "credit": "Paul Morse",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Paul_Molitor_white_house.jpg",
+   "alt": "Smiling man in navy Twins jersey holding cap outdoors",
+   "source": "checked",
+   "of": "Paul Molitor",
+   "w": 515,
+   "h": 624,
+   "tier": "person"
+  },
+  "reason": "person: Smiling man in navy Twins jersey holding cap outdoors",
   "model": "claude-haiku-5-5"
  },
  "e5a2cd166f2fdcd6": {

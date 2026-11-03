@@ -12,7 +12,7 @@
     "Cy Young Award",
     "win–loss record (pitching)"
    ],
-   "score": 97.70901910474088,
+   "score": 97.72313032159781,
    "abouts": [
     "Cy Young Award",
     "Sandy Koufax",
@@ -40,43 +40,13 @@
   {
    "src": "article",
    "kind": "event",
-   "year": "2025",
-   "text": "On November 3, 2025, Mills announced his retirement from professional baseball.",
-   "links": [
-    "Brad Mills (baseball manager)"
-   ],
-   "about": "Brad Mills (baseball manager)",
-   "score": 48.95142582016621,
-   "abouts": [
-    "Brad Mills (baseball manager)"
-   ],
-   "key": "804e052ccf1dfb76",
-   "headline": "Mills Announces Retirement From Professional Baseball",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG/960px-Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
-    "credit": "EricEnfermero",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
-    "alt": "Man in red cap, navy jacket with red C, at ballpark.",
-    "source": "checked",
-    "of": "Brad Mills (baseball manager)",
-    "w": 1898,
-    "h": 2848,
-    "tier": "person"
-   },
-   "extract": "James Bradley Mills is an American former professional baseball player, coach, and manager. He played in Major League Baseball (MLB) as an infielder for the Montreal Expos from 1980 to 1983. He managed the Houston Astros from 2010 to 2012, and served as a coach in MLB for the Expos, Philadelphia Phillies, Boston Red…",
-   "page": "https://en.wikipedia.org/wiki/Brad_Mills_(baseball_manager)"
-  },
-  {
-   "src": "article",
-   "kind": "event",
    "year": "2022",
    "text": "On November 3, 2022, Montoyo was named bench coach of the Chicago White Sox.",
    "links": [
     "Charlie Montoyo"
    ],
    "about": "Charlie Montoyo",
-   "score": 27.430734984032863,
+   "score": 26.9037688540195,
    "abouts": [
     "Charlie Montoyo"
    ],
@@ -107,7 +77,7 @@
     "Jon Daniels",
     "Derek Falvey"
    ],
-   "score": 80.31095495429503,
+   "score": 80.32649749749949,
    "abouts": [
     "Derek Falvey",
     "Jon Daniels",
@@ -121,6 +91,36 @@
    "page": "https://en.wikipedia.org/wiki/Derek_Falvey"
   },
   {
+   "src": "onthisday",
+   "kind": "event",
+   "year": "2016",
+   "text": "The Chicago Cubs beat the Cleveland Indians in the World Series, ending the team's 108-year-long title drought.",
+   "links": [
+    "Chicago Cubs"
+   ],
+   "score": 50.0,
+   "abouts": [
+    "Chicago Cubs"
+   ],
+   "about": "Chicago Cubs",
+   "key": "3d7fa4a5bf115077",
+   "headline": "Cubs Beat Indians in World Series, End 108-Year Title Drought",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%27World_Champs%27_--_2016_Cubs_World_Series_Win_Celebration_Grant_Park_Chicago_%28IL%29_November_4%2C_2016_%2830840440993%29.jpg/960px-%27World_Champs%27_--_2016_Cubs_World_Series_Win_Celebration_Grant_Park_Chicago_%28IL%29_November_4%2C_2016_%2830840440993%29.jpg",
+    "credit": "Ron Cogswell",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%27World_Champs%27_--_2016_Cubs_World_Series_Win_Celebration_Grant_Park_Chicago_(IL)_November_4,_2016_(30840440993).jpg",
+    "alt": "Huge crowd in blue caps, city skyline, 'World Champs' sign, Cubs celebration",
+    "source": "checked",
+    "of": "2016 World Series",
+    "w": 5924,
+    "h": 3651,
+    "tier": "event"
+   },
+   "extract": "The Chicago Cubs are an American professional baseball team based in Chicago. The Cubs compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. The Cubs play their home games at Wrigley Field, a National Historic Landmark on Chicago's North Side. They are one of two MLB…",
+   "page": "https://en.wikipedia.org/wiki/Chicago_Cubs"
+  },
+  {
    "src": "yearpage",
    "kind": "event",
    "year": "2015",
@@ -130,7 +130,7 @@
     "Matt Williams (third baseman)",
     "Bud Black"
    ],
-   "score": 55.08222002038467,
+   "score": 55.05138396458827,
    "abouts": [
     "Dusty Baker",
     "Matt Williams (third baseman)",
@@ -163,7 +163,7 @@
     "Paul Sorrento"
    ],
    "about": "Paul Sorrento",
-   "score": 25.72287103804808,
+   "score": 25.809833081820376,
    "abouts": [
     "Paul Sorrento"
    ],
@@ -183,15 +183,45 @@
     "Saint Paul, Minnesota",
     "University of Minnesota"
    ],
-   "score": 85.31874013179197,
+   "score": 85.29601438732266,
    "abouts": [
     "Saint Paul, Minnesota",
-    "Paul Molitor",
-    "University of Minnesota"
+    "University of Minnesota",
+    "Paul Molitor"
    ],
    "about": "Saint Paul, Minnesota",
    "key": "b852be343cb130a1",
    "headline": "Twins Hire Paul Molitor as New Manager on Three-Year Deal",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_Molitor_white_house.jpg",
+    "credit": "Paul Morse",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Molitor_white_house.jpg",
+    "alt": "Smiling man in navy Twins jersey holding cap outdoors",
+    "source": "checked",
+    "of": "Paul Molitor",
+    "w": 515,
+    "h": 624,
+    "tier": "person"
+   },
+   "extract": "Paul Leo Molitor, nicknamed \"Mollie\" and \"the Ignitor\", is an American former professional baseball player and manager. During his 21-year playing career in Major League Baseball (MLB), he played for the Milwaukee Brewers (1978–1992), Toronto Blue Jays (1993–1995), and Minnesota Twins (1996–1998). He was known for his…",
+   "page": "https://en.wikipedia.org/wiki/Paul_Molitor"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2014",
+   "text": "On November 3, 2014, Molitor was announced as the 13th manager of the Twins.",
+   "links": [
+    "Paul Molitor"
+   ],
+   "about": "Paul Molitor",
+   "score": 22.0,
+   "abouts": [
+    "Paul Molitor"
+   ],
+   "key": "e59ddf6aaec9faa3",
+   "headline": "Molitor Named 13th Manager of Twins",
    "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_Molitor_white_house.jpg",
     "credit": "Paul Morse",
@@ -217,7 +247,7 @@
     "Japan Series",
     "Yomiuri Giants"
    ],
-   "score": 35.0,
+   "score": 55.801141785989294,
    "abouts": [
     "Japan Series",
     "Tohoku Rakuten Golden Eagles",
@@ -251,7 +281,7 @@
     "no-hitter",
     "Ken Forsch"
    ],
-   "score": 20.8515,
+   "score": 20.885,
    "abouts": [
     "Bob Forsch",
     "no-hitter",
@@ -284,7 +314,7 @@
     "Brandon Hyde"
    ],
    "about": "Brandon Hyde",
-   "score": 29.032934671639016,
+   "score": 29.250472971933505,
    "abouts": [
     "Brandon Hyde"
    ],
@@ -314,7 +344,7 @@
     "Brian Sweeney"
    ],
    "about": "Brian Sweeney",
-   "score": 26.84793445368172,
+   "score": 26.735673914550098,
    "abouts": [
     "Brian Sweeney"
    ],
@@ -333,7 +363,7 @@
     "2011 Texas Rangers season"
    ],
    "about": "2011 Texas Rangers season",
-   "score": 26.208977156475996,
+   "score": 26.436768863573732,
    "abouts": [
     "2011 Texas Rangers season"
    ],
@@ -353,7 +383,7 @@
     "Tom Glavine",
     "Baseball Writers' Association of America"
    ],
-   "score": 51.45351121643927,
+   "score": 51.432282348734915,
    "abouts": [
     "Baseball Writers' Association of America",
     "Bill Swift",
@@ -365,6 +395,38 @@
    "image": null,
    "extract": "The Baseball Writers' Association of America (BBWAA) is a professional association for journalists writing about Major League Baseball for daily newspapers, magazines, and qualifying websites. The organization was founded in 1908 and is known for its annual awards and voting on membership in the Baseball Hall of Fame.",
    "page": "https://en.wikipedia.org/wiki/Baseball_Writers'_Association_of_America"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1990",
+   "text": "Jack Russell, 85, All-Star relief pitcher who won 85 games for six teams from 1926 to 1940 and twice led American League in saves (1933–1934); later, critical fundraiser for—and namesake of—Clearwater, Florida's Jack Russell Memorial Stadium, spring training home of the Phillies from 1955 to 2003.",
+   "links": [
+    "Jack Russell (baseball)",
+    "Jack Russell Memorial Stadium"
+   ],
+   "score": 20.0725,
+   "abouts": [
+    "Jack Russell (baseball)",
+    "Jack Russell Memorial Stadium"
+   ],
+   "about": "Jack Russell (baseball)",
+   "key": "31feb03cf1231833",
+   "headline": "Jack Russell, 85, All-Star Relief Pitcher, Namesake of Clearwater Stadium",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/JackRussellStadium1970s.jpg/960px-JackRussellStadium1970s.jpg",
+    "credit": "Roger Luce Photography",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:JackRussellStadium1970s.jpg",
+    "alt": "Baseball stadium with grass field, infield dirt, grandstand, and light towers.",
+    "source": "checked",
+    "of": "Jack Russell Memorial Stadium",
+    "w": 1230,
+    "h": 802,
+    "tier": "venue"
+   },
+   "extract": "Jack Erwin Russell was a Major League Baseball player from 1926 to 1940 for the Boston Red Sox, Chicago Cubs, Cleveland Indians, Washington Senators, Detroit Tigers and St. Louis Cardinals. Russell was mainly a pitcher and his career marks were 85 wins, 141 losses, and a 4.46 ERA. After his baseball career ended,…",
+   "page": "https://en.wikipedia.org/wiki/Jack_Russell_(baseball)"
   },
   {
    "src": "yearpage",
@@ -410,7 +472,7 @@
     "Philadelphia Phillies",
     "1972 Major League Baseball Draft"
    ],
-   "score": 24.337337439295258,
+   "score": 23.669996432691935,
    "abouts": [
     "1972 Major League Baseball Draft",
     "Larry Christenson",
@@ -433,7 +495,7 @@
     "Baltimore Orioles",
     "Jerry Hoffberger"
    ],
-   "score": 10.0,
+   "score": 25.88912485932341,
    "abouts": [
     "Frank Cashen",
     "Jerry Hoffberger",
@@ -456,7 +518,7 @@
     "Cecil Upshaw",
     "Cleveland Guardians"
    ],
-   "score": 37.676470600213854,
+   "score": 37.69538049396388,
    "abouts": [
     "Cecil Upshaw",
     "Houston Astros",
@@ -479,7 +541,7 @@
     "Gold Glove Award",
     "National League (baseball)"
    ],
-   "score": 32.0,
+   "score": 53.94529856753348,
    "abouts": [
     "Gold Glove Award",
     "National League (baseball)",
@@ -513,7 +575,7 @@
     "Vern Law",
     "Cy Young Award"
    ],
-   "score": 117.70901910474088,
+   "score": 117.72313032159781,
    "abouts": [
     "Cy Young Award",
     "Vern Law",
@@ -534,7 +596,7 @@
    "links": [
     "Bobby Wallace (baseball)"
    ],
-   "score": 20.5135,
+   "score": 20.458,
    "abouts": [
     "Bobby Wallace (baseball)"
    ],
@@ -566,7 +628,7 @@
     "Frank Baumann (baseball)",
     "Chicago White Sox"
    ],
-   "score": 35.0,
+   "score": 46.55876930527877,
    "abouts": [
     "Frank Baumann (baseball)",
     "Boston Red Sox",
@@ -581,6 +643,40 @@
   },
   {
    "src": "yearpage",
+   "kind": "death",
+   "year": "1952",
+   "text": "Frank Smith, 73, pitcher who played for the Chicago White Sox, Boston Red Sox, Cincinnati Reds, Baltimore Terrapins and Brooklyn Tip-Tops during 11 seasons spanning 1904–1915, while pitching two no-hitters and winning over 20 games twice, ending his career with a 139–111 record and 2.59 ERA in 2,274 innings.",
+   "links": [
+    "Frank Smith (1900s pitcher)",
+    "Chicago White Sox",
+    "Boston Red Sox"
+   ],
+   "score": 20.091,
+   "abouts": [
+    "Frank Smith (1900s pitcher)",
+    "Chicago White Sox",
+    "Boston Red Sox"
+   ],
+   "about": "Frank Smith (1900s pitcher)",
+   "key": "7446cc913d0f801a",
+   "headline": "Frank Smith, 73, Pitcher With Two No-Hitters, 139-111 Career Record",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Frank_Smith%2C_Chicago_White_Sox%2C_Boston_Doves%2C_baseball_card_portrait_LCCN2007685668.jpg",
+    "credit": "American Tobacco Company, sponsor",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Frank_Smith,_Chicago_White_Sox,_Boston_Doves,_baseball_card_portrait_LCCN2007685668.jpg",
+    "alt": "Painted baseball card of pitcher in dark blue Chicago uniform on mound",
+    "source": "checked",
+    "of": "Frank Smith (1900s pitcher) (Commons search)",
+    "w": 739,
+    "h": 1024,
+    "tier": "person"
+   },
+   "extract": "Frank Elmer Smith was a right-handed pitcher in Major League Baseball from 1904 to 1915. He played for the Chicago White Sox, Boston Red Sox, Cincinnati Reds, Baltimore Terrapins, and Brooklyn Tip-Tops. Nicknamed \"Piano Mover\" because that was his offseason job, Smith was a mainstay of the White Sox pitching staff…",
+   "page": "https://en.wikipedia.org/wiki/Frank_Smith_(1900s_pitcher)"
+  },
+  {
+   "src": "yearpage",
    "kind": "event",
    "year": "1950",
    "text": "Future Baseball Hall of Fame executive Branch Rickey, forced out of the Brooklyn Dodgers' ownership suite and front office just a week earlier, becomes executive vice president and general manager of the last-place Pittsburgh Pirates, succeeding Roy Hamey.",
@@ -589,7 +685,7 @@
     "Branch Rickey",
     "Brooklyn Dodgers"
    ],
-   "score": 73.66945205808062,
+   "score": 73.6624952745909,
    "abouts": [
     "Branch Rickey",
     "Baseball Hall of Fame",
@@ -656,7 +752,7 @@
     "American Association (1882–1891)",
     "National League (baseball)"
    ],
-   "score": 37.4271874053815,
+   "score": 37.54735676051274,
    "abouts": [
     "American Association (1882–1891)",
     "National League (baseball)"
@@ -791,7 +887,8 @@
     "park": "Citizens Bank Park",
     "event": "World Series"
    }
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 1144,
@@ -878,13 +975,5 @@
   "farewellCount": 1,
   "hofDebuts": 0,
   "managerDebuts": []
- },
- "papers": [
-  {
-   "year": 1960,
-   "paper": "Evening star (Washington, D.C.)",
-   "page": 55,
-   "url": "https://www.loc.gov/resource/sn83045462/1960-11-03/ed-1/?sp=55&q=baseball"
-  }
- ]
+ }
 }
