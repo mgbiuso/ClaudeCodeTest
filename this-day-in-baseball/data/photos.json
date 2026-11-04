@@ -10269,6 +10269,11 @@
   "reason": "rejected 2011 04 15Q 030 Gary Matthews.jpg: Nothing visible connects this portrait to baseball, a team, or a ballpark. The file name names Gary Matthews, but a name alone doesn't establish a baseball setting, and the story is about a 1976 contract signing, so a photo of an unidentified man in a cap and sweater in front of a backdrop doesn't plausibly show that event or a period team.",
   "model": "claude-haiku-5-5"
  },
+ "89b90fd0a719903a": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
  "89cca3be6b159a35": {
   "image": null,
   "reason": "rejected 1911 Boston Red Sox at Spring Training, Arizona, March 1911, by an unknown photographer, from the Digital Commonwealth - commonwealth sf268596z.jpg: The story describes a 1948 AL pennant race, but the photo is a 1911 spring training image of people waving on a train engine in Arizona. It shows no baseball, no uniforms, and nothing tied to 1948, so it does not illustrate the event.",
