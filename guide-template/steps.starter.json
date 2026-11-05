@@ -1,0 +1,33 @@
+{
+  "id": "my-guide-v1",
+  "eyebrow": "Project name",
+  "title": "Guide title",
+  "lede": "One small step at a time. Do the step. Tap the green button. Move on.",
+  "flow": ["First", "Second", "Third"],
+  "keys": [
+    {"key": "Cmd + S", "does": "Save your work"}
+  ],
+  "steps": [
+    {
+      "title": "Do the first thing", "minutes": 1,
+      "where": "Say exactly where to look.",
+      "do": ["One action per line.", "Use **bold** for button names and [[Cmd + S]] for keys."],
+      "see": "Say what the screen looks like when it worked.",
+      "tip": "Optional. One helpful extra.",
+      "image": "images/01-first.jpg",
+      "caption": "What to look at (circled)."
+    },
+    {
+      "title": "Do the second thing", "minutes": 2, "new": false,
+      "where": "Where it is.",
+      "do": ["One action."],
+      "see": "What you will see."
+    }
+  ],
+  "stuck": [
+    {"problem": "Plain words for what went wrong.", "fix": "The first thing to try."}
+  ],
+  "finish_title": "You made it.",
+  "finish_text": "Take a break.",
+  "footer": "Guide name, version 1."
+}
