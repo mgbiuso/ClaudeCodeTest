@@ -12,7 +12,7 @@
     "Chicago White Sox",
     "1959 Chicago White Sox season"
    ],
-   "score": 99.14795401111651,
+   "score": 99.45330326678068,
    "abouts": [
     "Al López",
     "1959 Chicago White Sox season",
@@ -47,18 +47,18 @@
     "2022 Philadelphia Phillies",
     "2022 World Series"
    ],
-   "score": 93.8714896924964,
+   "score": 98.79353779737993,
    "abouts": [
-    "2022 Philadelphia Phillies",
     "2022 World Series",
+    "2022 Philadelphia Phillies",
     "2022 Houston Astros season"
    ],
-   "about": "2022 Philadelphia Phillies",
+   "about": "2022 World Series",
    "key": "19ea315417e247ae",
    "headline": "Astros Beat Phillies in Game 6, Win 2022 World Series",
    "image": null,
-   "extract": "The 2022 Philadelphia Phillies season was the 140th season in the history of the franchise, and the 19th season for the Philadelphia Phillies at Citizens Bank Park. The Phillies went 87–75 during the regular season. They went on to win the National League pennant for the first time since 2009.",
-   "page": "https://en.wikipedia.org/wiki/2022_Philadelphia_Phillies_season",
+   "extract": "The 2022 World Series was the championship series of Major League Baseball's (MLB) 2022 season. The 118th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Philadelphia Phillies and the American League (AL) champion Houston Astros. The Astros defeated the Phillies in…",
+   "page": "https://en.wikipedia.org/wiki/2022_World_Series",
    "video": {
     "id": "XWzISdklYOg",
     "title": "Phillies vs. Astros World Series Game 6 Highlights (11/5/22) | MLB Highlights",
@@ -75,13 +75,13 @@
     "Seattle Mariners",
     "Anthony Rizzo"
    ],
-   "score": 10.0,
+   "score": 33.96971983256192,
    "abouts": [
-    "Evan White",
     "Anthony Rizzo",
+    "Evan White",
     "Seattle Mariners"
    ],
-   "about": "Evan White",
+   "about": "Anthony Rizzo",
    "key": "441504a7f9c6b9b8",
    "headline": "Evan White, Anthony Rizzo Win First Gold Glove Awards",
    "image": {
@@ -96,8 +96,8 @@
     "h": 1395,
     "tier": "person"
    },
-   "extract": "Evan McKee White is an American professional baseball first baseman who is a free agent. He has previously played in Major League Baseball (MLB) for the Seattle Mariners and won the Gold Glove Award in 2020. He played college baseball for the Kentucky Wildcats.",
-   "page": "https://en.wikipedia.org/wiki/Evan_White"
+   "extract": "Anthony Vincent Rizzo is an American former professional baseball first baseman. He played in Major League Baseball (MLB) for 14 seasons, primarily for the Chicago Cubs and was pivotal in the team's 2016 World Series victory. Rizzo is a 3-time All-Star, and is the recipient of a Silver Slugger Award, 4 Gold Glove…",
+   "page": "https://en.wikipedia.org/wiki/Anthony_Rizzo"
   },
   {
    "src": "yearpage",
@@ -136,40 +136,51 @@
   {
    "src": "article",
    "kind": "event",
+   "year": "2010",
+   "text": "On November 5, 2010, Kunz was sent down to the minors to Triple-A Buffalo along with Jesús Feliciano and Raul Valdes.",
+   "links": [
+    "Eddie Kunz"
+   ],
+   "about": "Eddie Kunz",
+   "score": 10.0,
+   "abouts": [
+    "Eddie Kunz"
+   ],
+   "key": "69cd65e58862b428",
+   "headline": "Kunz Sent Down to Triple-A Buffalo With Feliciano, Valdes",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Eddie_Kunz_on_February_27%2C_2010_%28cropped%29.jpg/960px-Eddie_Kunz_on_February_27%2C_2010_%28cropped%29.jpg",
+    "credit": "slgckgc",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eddie_Kunz_on_February_27,_2010_(cropped).jpg",
+    "alt": "Smiling man in blue baseball jersey against white background",
+    "source": "checked",
+    "of": "Eddie Kunz",
+    "w": 1839,
+    "h": 1884,
+    "tier": "person"
+   },
+   "extract": "Edward Cory Kunz is an American former professional baseball pitcher. He played in Major League Baseball (MLB) for the New York Mets.",
+   "page": "https://en.wikipedia.org/wiki/Eddie_Kunz"
+  },
+  {
+   "src": "article",
+   "kind": "event",
    "year": "2009",
    "text": "On November 5, 2009, the first day eligible players could file for free agency, the Angels signed Bobby Abreu to a two-year deal, with a club option for 2012.",
    "links": [
     "2010 Los Angeles Angels season"
    ],
    "about": "2010 Los Angeles Angels season",
-   "score": 22.84686954807523,
+   "score": 22.85854415904344,
    "abouts": [
     "2010 Los Angeles Angels season"
    ],
    "key": "aeca36682664580a",
    "headline": "Angels Sign Bobby Abreu to Two-Year Deal on Free Agency's First Day",
    "image": null,
-   "extract": "The 2010 Los Angeles Angels of Anaheim season was the franchise's 50th season and 45th in Anaheim. The Angels began this season as the three-time defending American League West champions. The Angels failed to improved on their 97–65 record from 2009 and missed the postseason for the first time since 2006, along with…",
+   "extract": "The 2010 Los Angeles Angels season was the franchise's 50th season and 45th in Anaheim. The Angels began this season as the three-time defending American League West champions. The Angels failed to improved on their 97–65 record from 2009 and missed the postseason for the first time since 2006, along with clinching…",
    "page": "https://en.wikipedia.org/wiki/2010_Los_Angeles_Angels_season"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "2005",
-   "text": "Dudley Field was finally demolished on November 5, 2005 to make room for the new African wing of the El Paso Zoo.",
-   "links": [
-    "El Paso Diablos"
-   ],
-   "about": "El Paso Diablos",
-   "score": 10.0,
-   "abouts": [
-    "El Paso Diablos"
-   ],
-   "key": "2997ee4d3a109fe0",
-   "headline": "Dudley Field Demolished to Make Room for El Paso Zoo African Wing",
-   "image": null,
-   "extract": "\"El Paso Diablos\" refers to two different professional baseball teams based in El Paso, Texas, in the United States. The most recent Diablos were a member of the South Division of the American Association of Independent Professional Baseball, which is an affiliate league of Major League Baseball since 2020. From 1990…",
-   "page": "https://en.wikipedia.org/wiki/El_Paso_Diablos"
   },
   {
    "src": "yearpage",
@@ -310,7 +321,7 @@
     "1977 Major League Baseball expansion"
    ],
    "about": "1977 Major League Baseball expansion",
-   "score": 50.29402743337953,
+   "score": 50.64522529943979,
    "abouts": [
     "1977 Major League Baseball expansion"
    ],
@@ -329,7 +340,7 @@
     "Alan Ashby"
    ],
    "about": "Alan Ashby",
-   "score": 25.0,
+   "score": 44.51762032235631,
    "abouts": [
     "Alan Ashby"
    ],
@@ -417,7 +428,7 @@
     "1947 New York Yankees season",
     "Washington Senators (1901–1960)"
    ],
-   "score": 36.582269742749624,
+   "score": 36.57435908770025,
    "abouts": [
     "Bucky Harris",
     "1947 New York Yankees season",
@@ -440,6 +451,25 @@
    },
    "extract": "Stanley Raymond \"Bucky\" Harris was an American professional baseball second baseman, manager and executive. While Harris played in Major League Baseball (MLB) for the Washington Senators and Detroit Tigers, it was his long managerial career that led to his enshrinement in the Baseball Hall of Fame by the Veterans…",
    "page": "https://en.wikipedia.org/wiki/Bucky_Harris"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1946",
+   "text": "Alejandro Oms, 51, Cuban center fielder who played in the Negro leagues.",
+   "links": [
+    "Alejandro Oms"
+   ],
+   "score": 20.056,
+   "abouts": [
+    "Alejandro Oms"
+   ],
+   "about": "Alejandro Oms",
+   "key": "c4405f78d98d1ef0",
+   "headline": "Alejandro Oms, 51, Cuban Center Fielder in Negro Leagues",
+   "image": null,
+   "extract": "Alejandro Oms Cosme was a Cuban professional baseball outfielder in the Negro leagues and Cuban League, most notably with the Cuban Stars (East). Born in Santa Clara, Las Villas, he died at age 50 in Havana.",
+   "page": "https://en.wikipedia.org/wiki/Alejandro_Oms"
   },
   {
    "src": "yearpage",
@@ -590,7 +620,8 @@
    "park": "Minute Maid Park",
    "event": "World Series",
    "why": "World Series"
-  }
+  },
+  "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
  },
  "wire": {
   "count": 913,
