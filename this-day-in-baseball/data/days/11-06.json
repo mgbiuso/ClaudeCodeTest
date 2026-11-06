@@ -76,7 +76,7 @@
     "Dusty Blake"
    ],
    "about": "Dusty Blake",
-   "score": 24.372409088497335,
+   "score": 23.783180541229243,
    "abouts": [
     "Dusty Blake"
    ],
@@ -106,7 +106,7 @@
     "Juan Nieves"
    ],
    "about": "Juan Nieves",
-   "score": 25.832150569216417,
+   "score": 26.362688886876185,
    "abouts": [
     "Juan Nieves"
    ],
@@ -137,7 +137,7 @@
     "Josh Byrnes",
     "Andrew Friedman"
    ],
-   "score": 42.31516482519548,
+   "score": 42.343340716429495,
    "abouts": [
     "Andrew Friedman",
     "Farhan Zaidi",
@@ -159,7 +159,7 @@
     "Dave Clark (baseball)"
    ],
    "about": "Dave Clark (baseball)",
-   "score": 25.71663564996023,
+   "score": 25.440680443502757,
    "abouts": [
     "Dave Clark (baseball)"
    ],
@@ -188,7 +188,7 @@
    "links": [
     "Ace Parker"
    ],
-   "score": 20.6875,
+   "score": 20.9055,
    "abouts": [
     "Ace Parker"
    ],
@@ -244,20 +244,31 @@
    "src": "article",
    "kind": "event",
    "year": "2010",
-   "text": "On November 6, 2010, the Chunichi Dragons and Chiba Lotte Marines played the longest game in Japan Series history.",
+   "text": "On November 6, 2010 Ryan signed a minor league deal with the New York Mets with an invitation to Major League spring training.",
    "links": [
-    "Japan Series"
+    "Dusty Ryan"
    ],
-   "about": "Japan Series",
-   "score": 30.08161427006895,
+   "about": "Dusty Ryan",
+   "score": 29.795206961605466,
    "abouts": [
-    "Japan Series"
+    "Dusty Ryan"
    ],
-   "key": "b931b0e2ce0ac5ea",
-   "headline": "Dragons and Marines Play Longest Game in Japan Series History",
-   "image": null,
-   "extract": "The Japan Series, also the Nippon Series, is the annual championship series in Nippon Professional Baseball, the top baseball league in Japan. It is a best-of-seven series between the winning clubs of the league's two circuits, the Central League and the Pacific League, and is played in October or November. The first…",
-   "page": "https://en.wikipedia.org/wiki/Japan_Series"
+   "key": "42c4bd2662f4ebd3",
+   "headline": "Ryan Signs Minor League Deal With Mets, Invited to Spring Training",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/DustyRyan.jpg/960px-DustyRyan.jpg",
+    "credit": "Skatefan on en.wikipedia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:DustyRyan.jpg",
+    "alt": "Catcher in Toledo Mud Hens road grays with gear, smiling in stadium",
+    "source": "checked",
+    "of": "Dusty Ryan",
+    "w": 2464,
+    "h": 3296,
+    "tier": "person"
+   },
+   "extract": "Dusty Mitchell Ryan is an American former professional baseball player. A catcher, Ryan played in Major League Baseball for the Detroit Tigers.",
+   "page": "https://en.wikipedia.org/wiki/Dusty_Ryan"
   },
   {
    "src": "article",
@@ -268,7 +279,7 @@
     "Mazda Stadium"
    ],
    "about": "Mazda Stadium",
-   "score": 25.0,
+   "score": 41.4877083390908,
    "abouts": [
     "Mazda Stadium"
    ],
@@ -299,7 +310,7 @@
     "Minnesota Twins",
     "Montreal Expos"
    ],
-   "score": 37.38270904513715,
+   "score": 37.60307260939118,
    "abouts": [
     "2001 Major League Baseball contraction plan",
     "Minnesota Twins",
@@ -366,7 +377,7 @@
    "key": "b71ebcdbccf39707",
    "headline": "Brewers Switch to National League Central Division",
    "image": null,
-   "extract": "The Milwaukee Brewers are an American professional baseball team based in Milwaukee. The Brewers compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. The team's name alludes to the city's association with the brewing industry and has been used by several other baseball…",
+   "extract": "The Milwaukee Brewers are an American professional baseball team based in Milwaukee. The Brewers compete in Major League Baseball (MLB) as a member club of the National League (NL) Central Division. The team's name, which alludes to the city's beer industry, has been used by several other baseball teams that have…",
    "page": "https://en.wikipedia.org/wiki/Milwaukee_Brewers"
   },
   {
@@ -489,7 +500,7 @@
     "Dave McNally",
     "Seitz decision"
    ],
-   "score": 27.871314148535134,
+   "score": 27.01560260587909,
    "abouts": [
     "Andy Messersmith",
     "Dave McNally",
@@ -600,7 +611,7 @@
     "Hank Greenberg",
     "Detroit Tigers"
    ],
-   "score": 81.40970966720413,
+   "score": 81.48551825074628,
    "abouts": [
     "BBWAA",
     "Hank Greenberg",
