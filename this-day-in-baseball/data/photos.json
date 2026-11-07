@@ -3926,6 +3926,11 @@
   "reason": "person: Smiling man in navy Red Sox cap and gray Red Sox jersey",
   "model": "claude-haiku-5-5"
  },
+ "371bd95cfc2df93a": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
  "372d8c51b2fdc30d": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/1939_Ted_Williams.png/960px-1939_Ted_Williams.png",

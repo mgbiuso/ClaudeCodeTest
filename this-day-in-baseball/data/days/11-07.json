@@ -12,7 +12,7 @@
     "Major League Baseball Most Valuable Player Award",
     "1967 St. Louis Cardinals season"
    ],
-   "score": 74.47711273019704,
+   "score": 74.72241336075085,
    "abouts": [
     "Orlando Cepeda",
     "Major League Baseball Most Valuable Player Award",
@@ -46,7 +46,7 @@
     "Wrigley Field"
    ],
    "about": "Wrigley Field",
-   "score": 33.684013581267195,
+   "score": 33.35197152222608,
    "abouts": [
     "Wrigley Field"
    ],
@@ -77,7 +77,7 @@
     "St. Louis Cardinals",
     "Yuli Gurriel"
    ],
-   "score": 32.88020866720996,
+   "score": 32.31841999891778,
    "abouts": [
     "Paul Goldschmidt",
     "Yuli Gurriel",
@@ -98,8 +98,27 @@
     "h": 3480,
     "tier": "person"
    },
-   "extract": "Paul Edward Goldschmidt is an American professional baseball first baseman for the New York Yankees of Major League Baseball (MLB). He has previously played in MLB for the Arizona Diamondbacks and St. Louis Cardinals, and has represented the United States in international competition.",
+   "extract": "Paul Edward Goldschmidt is an American professional baseball first baseman who is a free agent. He has played in Major League Baseball (MLB) for the Arizona Diamondbacks, St. Louis Cardinals, and New York Yankees, and has represented the United States in international competition.",
    "page": "https://en.wikipedia.org/wiki/Paul_Goldschmidt"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2021",
+   "text": "Murphy was awarded the Gold Glove Award on November 7, 2021.",
+   "links": [
+    "Sean Murphy (baseball)"
+   ],
+   "about": "Sean Murphy (baseball)",
+   "score": 31.138148247855042,
+   "abouts": [
+    "Sean Murphy (baseball)"
+   ],
+   "key": "371bd95cfc2df93a",
+   "headline": "Murphy Wins Gold Glove Award",
+   "image": null,
+   "extract": "Sean Michael Murphy is an American professional baseball catcher for the Atlanta Braves of Major League Baseball (MLB). He was selected by the Oakland Athletics in the third round of the 2016 MLB draft. Murphy made his MLB debut in 2019 with the Athletics and won a Gold Glove Award in 2021. In 2023, He was traded to…",
+   "page": "https://en.wikipedia.org/wiki/Sean_Murphy_(baseball)"
   },
   {
    "src": "article",
@@ -110,7 +129,7 @@
     "Dave Hudgens"
    ],
    "about": "Dave Hudgens",
-   "score": 34.19666346915132,
+   "score": 34.22022397959038,
    "abouts": [
     "Dave Hudgens"
    ],
@@ -141,7 +160,7 @@
     "Walt Weiss",
     "Dusty Baker"
    ],
-   "score": 51.203039395046446,
+   "score": 32.0,
    "abouts": [
     "Bud Black",
     "Walt Weiss",
@@ -174,7 +193,7 @@
     "Citi Field"
    ],
    "about": "Citi Field",
-   "score": 57.30087961759014,
+   "score": 57.02280029546178,
    "abouts": [
     "Citi Field"
    ],
@@ -246,7 +265,7 @@
     "Bill Smith (baseball executive)"
    ],
    "about": "Bill Smith (baseball executive)",
-   "score": 32.32228994613459,
+   "score": 32.2653922174171,
    "abouts": [
     "Bill Smith (baseball executive)"
    ],
@@ -311,7 +330,7 @@
     "Chunichi Dragons",
     "2010 Japan Series"
    ],
-   "score": 86.88288478528256,
+   "score": 86.94583042182266,
    "abouts": [
     "2010 Japan Series",
     "Chiba Lotte Marines",
@@ -332,7 +351,7 @@
    "links": [
     "Bob Dillinger"
    ],
-   "score": 20.1235,
+   "score": 20.0965,
    "abouts": [
     "Bob Dillinger"
    ],
@@ -353,36 +372,6 @@
    },
    "extract": "Robert Bernard Dillinger was an American professional baseball third baseman who appeared in 753 games in the major leagues (MLB) from 1946 through 1951 for the St. Louis Browns, Philadelphia Athletics, Pittsburgh Pirates and Chicago White Sox. Dillinger's six years in the major leagues showcased his batting ability…",
    "page": "https://en.wikipedia.org/wiki/Bob_Dillinger"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "2006",
-   "text": "On November 7, 2006, Howe was hired by the Rangers as Washington's bench coach.",
-   "links": [
-    "Art Howe"
-   ],
-   "about": "Art Howe",
-   "score": 31.392167382687077,
-   "abouts": [
-    "Art Howe"
-   ],
-   "key": "f34d85c45180b1b3",
-   "headline": "Howe Hired by Rangers as Washington's Bench Coach",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/RonWashingtonDugout.jpg/960px-RonWashingtonDugout.jpg",
-    "credit": "MyName (Cacophony)",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:RonWashingtonDugout.jpg",
-    "alt": "Two men in Texas Rangers uniforms and jacket in a dugout",
-    "source": "checked",
-    "of": "Art Howe",
-    "w": 1253,
-    "h": 1419,
-    "tier": "event"
-   },
-   "extract": "Arthur Henry Howe Jr. is an American former professional baseball infielder, coach, scout, and manager, who played in Major League Baseball (MLB) for the Pittsburgh Pirates (1974–1975), Houston Astros (1976–1982), and St. Louis Cardinals (1984–1985). Howe managed the Astros (1989–1993), Oakland Athletics (1996–2002),…",
-   "page": "https://en.wikipedia.org/wiki/Art_Howe"
   },
   {
    "src": "yearpage",
@@ -460,7 +449,7 @@
     "h": 1274,
     "tier": "person"
    },
-   "extract": "The National Baseball Hall of Fame and Museum is a history museum and hall of fame in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying baseball-related artifacts and exhibits, honoring those who…",
+   "extract": "The National Baseball Hall of Fame and Museum, often simply referred to as \"Cooperstown\", is a history museum and hall of fame located in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying…",
    "page": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
   },
   {
@@ -530,7 +519,7 @@
     "American League",
     "Major League Baseball Most Valuable Player Award"
    ],
-   "score": 67.74065672373972,
+   "score": 67.9977779549299,
    "abouts": [
     "American League",
     "Elston Howard",
@@ -591,7 +580,7 @@
     "Tiger Stadium (Detroit)"
    ],
    "about": "Tiger Stadium (Detroit)",
-   "score": 46.26050124416396,
+   "score": 45.985713324862814,
    "abouts": [
     "Tiger Stadium (Detroit)"
    ],
@@ -622,7 +611,7 @@
     "Percy Jones (baseball)",
     "Lou Legett"
    ],
-   "score": 19.722413360750842,
+   "score": 10.0,
    "abouts": [
     "Bruce Cunningham",
     "Percy Jones (baseball)",
@@ -683,7 +672,7 @@
    "key": "9a2619a3aaf65559",
    "headline": "Tigres Del Licey Club Founded in Dominican Republic",
    "image": null,
-   "extract": "Club Atlético Licey inc., better known by its commercial name as Tigres del Licey, is a professional baseball team in the Dominican Professional Baseball League (LIDOM). The team was founded in 1907 and is based in Santo Domingo, Dominican Republic. Tigres is the oldest team in LIDOM and has won 24 titles of league…",
+   "extract": "Club Atlético Licey, Inc., better known by its commercial name as Tigres del Licey, is a professional baseball team in the Dominican Professional Baseball League (LIDOM). The team was founded in 1907 and is based in Santo Domingo, Dominican Republic. Tigres is the oldest team in LIDOM and has won 24 titles of league…",
    "page": "https://en.wikipedia.org/wiki/Tigres_del_Licey"
   },
   {
@@ -695,7 +684,7 @@
     "Players' League",
     "1890 in baseball"
    ],
-   "score": 32.9046248783781,
+   "score": 32.75724998986438,
    "abouts": [
     "1890 in baseball",
     "Players' League"
@@ -853,13 +842,5 @@
     "star": false
    }
   ]
- },
- "papers": [
-  {
-   "year": 1963,
-   "paper": "St. Paul recorder (St. Paul, Minn.)",
-   "page": 7,
-   "url": "https://www.loc.gov/resource/sn83016804/1963-11-07/ed-1/?sp=7&q=baseball"
-  }
- ]
+ }
 }
