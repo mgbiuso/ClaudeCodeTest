@@ -14006,6 +14006,22 @@
   "reason": "person: Pitcher in gray Angels road uniform, red cap, mid-delivery at ballpark",
   "model": "claude-haiku-5-5"
  },
+ "b32a80fd26cbdd4b": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Cupid_Childs_baseball_card.jpg",
+   "credit": "Issued by: Goodwin & Company",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Cupid_Childs_baseball_card.jpg",
+   "alt": "Sepia baseball card of player in Philadelphia uniform, labeled CHILDS, 2d B. Phila",
+   "source": "checked",
+   "of": "Cupid Childs",
+   "w": 875,
+   "h": 1422,
+   "tier": "person"
+  },
+  "reason": "person: Sepia baseball card of player in Philadelphia uniform, labeled CHILDS, 2d B. Phila",
+  "model": "claude-haiku-5-5"
+ },
  "b3a392589c59585d": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/SapporoDome2004-2.jpg/960px-SapporoDome2004-2.jpg",

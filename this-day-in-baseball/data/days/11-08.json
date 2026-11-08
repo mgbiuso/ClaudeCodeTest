@@ -11,7 +11,7 @@
     "National Baseball Hall of Fame and Museum",
     "All-American Girls Professional Baseball League"
    ],
-   "score": 72.10917086752389,
+   "score": 71.58393905801049,
    "abouts": [
     "All-American Girls Professional Baseball League",
     "National Baseball Hall of Fame and Museum"
@@ -44,7 +44,7 @@
     "Blue Cross Park"
    ],
    "about": "Blue Cross Park",
-   "score": 40.80234265559518,
+   "score": 40.49494819700588,
    "abouts": [
     "Blue Cross Park"
    ],
@@ -63,7 +63,7 @@
     "Dodger Stadium"
    ],
    "about": "Dodger Stadium",
-   "score": 33.29981856639178,
+   "score": 33.124399997553915,
    "abouts": [
     "Dodger Stadium"
    ],
@@ -93,7 +93,7 @@
     "Dana LeVangie"
    ],
    "about": "Dana LeVangie",
-   "score": 34.67013053028067,
+   "score": 34.414367918043766,
    "abouts": [
     "Dana LeVangie"
    ],
@@ -112,7 +112,7 @@
     "Joe Morgan"
    ],
    "about": "Joe Morgan",
-   "score": 10.0,
+   "score": 32.03644452765694,
    "abouts": [
     "Joe Morgan"
    ],
@@ -143,7 +143,7 @@
     "Felipe Alou",
     "Tony LaRussa"
    ],
-   "score": 92.27287377647411,
+   "score": 92.76739745010963,
    "abouts": [
     "1984 World Series",
     "Felipe Alou",
@@ -164,7 +164,7 @@
    "links": [
     "Darryl Strawberry"
    ],
-   "score": 33.35173959421263,
+   "score": 32.95270455436551,
    "abouts": [
     "Darryl Strawberry"
    ],
@@ -247,7 +247,7 @@
     "h": 2300,
     "tier": "person"
    },
-   "extract": "The National Baseball Hall of Fame and Museum is a history museum and hall of fame in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying baseball-related artifacts and exhibits, honoring those who…",
+   "extract": "The National Baseball Hall of Fame and Museum, often simply referred to as \"Cooperstown\", is a history museum and hall of fame located in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying…",
    "page": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
   },
   {
@@ -260,7 +260,7 @@
     "Bob Watson",
     "Boston Red Sox"
    ],
-   "score": 38.23740386586838,
+   "score": 38.55058682555908,
    "abouts": [
     "Bob Watson",
     "New York Yankees",
@@ -281,7 +281,7 @@
    "links": [
     "Bucky Harris"
    ],
-   "score": 21.1675,
+   "score": 21.1625,
    "abouts": [
     "Bucky Harris"
    ],
@@ -313,7 +313,7 @@
     "Cito Gaston",
     "Atlanta Braves"
    ],
-   "score": 45.02053161639829,
+   "score": 44.660084532171005,
    "abouts": [
     "Cito Gaston",
     "San Diego Padres",
@@ -345,7 +345,7 @@
    "links": [
     "Bob Chipman"
    ],
-   "score": 20.0755,
+   "score": 20.0645,
    "abouts": [
     "Bob Chipman"
    ],
@@ -400,7 +400,7 @@
     "Art Shamsky",
     "Cincinnati Reds"
    ],
-   "score": 39.79713899879745,
+   "score": 40.00758391825005,
    "abouts": [
     "Art Shamsky",
     "New York Mets",
@@ -468,7 +468,7 @@
     "Bob Porterfield",
     "Johnny Schmitz"
    ],
-   "score": 22.42149919673393,
+   "score": 22.032700902169776,
    "abouts": [
     "Bob Porterfield",
     "Johnny Schmitz",
@@ -594,7 +594,7 @@
     "Washington Senators (1901–1960)",
     "Griffith Stadium"
    ],
-   "score": 41.96524233208389,
+   "score": 41.819939148742456,
    "abouts": [
     "Clark Griffith",
     "Griffith Stadium",
@@ -617,6 +617,36 @@
    },
    "extract": "Clark Calvin Griffith, nicknamed \"the Old Fox\", was an American Major League Baseball (MLB) pitcher, manager and team owner. He began his MLB playing career with the St. Louis Browns (1891), Boston Reds (1891), and Chicago Colts/Orphans (1893–1900). He then served as player-manager for the Chicago White Stockings…",
    "page": "https://en.wikipedia.org/wiki/Clark_Griffith"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1912",
+   "text": "Cupid Childs, 45, second baseman for the Spiders/Orphans/Stars/Perfectos/Quakers from 1888 to 1901, a .306 career hitter with 1214 hits, who topped the American Association in doubles (1890) and the National League in runs (1892), while ranking third all-time in walks (991) upon retirement.",
+   "links": [
+    "Cupid Childs"
+   ],
+   "score": 20.1145,
+   "abouts": [
+    "Cupid Childs"
+   ],
+   "about": "Cupid Childs",
+   "key": "b32a80fd26cbdd4b",
+   "headline": "Cupid Childs, 45, Former Second Baseman",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Cupid_Childs_baseball_card.jpg",
+    "credit": "Issued by: Goodwin & Company",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Cupid_Childs_baseball_card.jpg",
+    "alt": "Sepia baseball card of player in Philadelphia uniform, labeled CHILDS, 2d B. Phila",
+    "source": "checked",
+    "of": "Cupid Childs",
+    "w": 875,
+    "h": 1422,
+    "tier": "person"
+   },
+   "extract": "Clarence Lemuel \"Cupid\" Childs was an American second baseman in Major League Baseball with a 13-season career from 1888, 1890–1901, playing for the Philadelphia Quakers, Cleveland Spiders, St. Louis Perfectos and Chicago Orphans of the National League and the Syracuse Stars of the American Association.",
+   "page": "https://en.wikipedia.org/wiki/Cupid_Childs"
   },
   {
    "src": "yearpage",
@@ -719,5 +749,13 @@
    1928,
    2021
   ]
- }
+ },
+ "papers": [
+  {
+   "year": 1955,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 44,
+   "url": "https://www.loc.gov/resource/sn83045462/1955-11-08/ed-1/?sp=44&q=baseball"
+  }
+ ]
 }
