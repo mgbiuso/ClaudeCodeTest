@@ -112,5 +112,6 @@
  "feats": {
   "count": 0,
   "items": []
- }
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
 }

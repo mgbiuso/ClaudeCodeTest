@@ -12067,6 +12067,11 @@
   "reason": "person: Smiling man in pinstriped New York Yankees uniform and NY cap, black-and-white.",
   "model": "claude-haiku-5-5"
  },
+ "9d83e83db176c79d": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
  "9daf75861587b5d4": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cal_Ripken_Sr._%28cropped%29.JPG",

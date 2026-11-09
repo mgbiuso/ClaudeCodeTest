@@ -12,7 +12,7 @@
     "Luke Appling",
     "American League"
    ],
-   "score": 122.74065672373972,
+   "score": 122.96055054313754,
    "abouts": [
     "American League",
     "Luke Appling",
@@ -36,25 +36,6 @@
    "extract": "The American League of Professional Baseball Clubs, known simply as the American League (AL), is the younger of two leagues constituting Major League Baseball (MLB) in the United States and Canada. It developed from the Western League, a minor league based in the Great Lakes states, which eventually aspired to major…",
    "page": "https://en.wikipedia.org/wiki/American_League",
    "lead": true
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
-   "year": "2025",
-   "text": "Bill Slack, 92, minor league manager and coach from 1961–2003.",
-   "links": [
-    "Bill Slack"
-   ],
-   "score": 20.057,
-   "abouts": [
-    "Bill Slack"
-   ],
-   "about": "Bill Slack",
-   "key": "591c30ee650d7c3a",
-   "headline": "Bill Slack, 92, Minor League Manager and Coach",
-   "image": null,
-   "extract": "William Henry Slack was a Canadian professional baseball pitcher, manager and coach, and a member of the Canadian Baseball Hall of Fame. Although he never played Major League Baseball, Slack spent 50 years at the minor league level, and was a longtime member of the Boston Red Sox and Atlanta Braves organizations. In…",
-   "page": "https://en.wikipedia.org/wiki/Bill_Slack"
   },
   {
    "src": "yearpage",
@@ -99,7 +80,7 @@
     "Joe Mauer"
    ],
    "about": "Joe Mauer",
-   "score": 56.19874905223182,
+   "score": 56.023041446635176,
    "abouts": [
     "Joe Mauer"
    ],
@@ -129,7 +110,7 @@
     "Turner Field"
    ],
    "about": "Turner Field",
-   "score": 30.793018499057382,
+   "score": 30.60484282509688,
    "abouts": [
     "Turner Field"
    ],
@@ -175,27 +156,6 @@
   },
   {
    "src": "yearpage",
-   "kind": "death",
-   "year": "2011",
-   "text": "Benny McCoy, 96, second baseman for the Detroit Tigers and Philadelphia Athletics from 1938 through 1941, who was among 91 Detroit minor league players declared free agents in 1939 by baseball commissioner Kenesaw Mountain Landis.",
-   "links": [
-    "Benny McCoy",
-    "Kenesaw Mountain Landis"
-   ],
-   "score": 20.0605,
-   "abouts": [
-    "Benny McCoy",
-    "Kenesaw Mountain Landis"
-   ],
-   "about": "Benny McCoy",
-   "key": "64da31bd2cf7f7a7",
-   "headline": "Benny McCoy, 96, Second Baseman for Tigers and Athletics",
-   "image": null,
-   "extract": "Benjamin Jenison McCoy was a second baseman in Major League Baseball who played for the Detroit Tigers (1938–1939) and Philadelphia Athletics (1940–1941). Listed at 5 ft 9 in (1.75 m). 170 lb., he batted left-handed and threw right-handed. He was born in Jenison, Michigan.",
-   "page": "https://en.wikipedia.org/wiki/Benny_McCoy"
-  },
-  {
-   "src": "yearpage",
    "kind": "event",
    "year": "2011",
    "text": "Washington Nationals catcher Wilson Ramos is kidnapped by four gunmen from the front yard of his mother's home in Valencia in his native Venezuela. He is rescued by Venezuelan authorities on November 11 during an air operation in the mountains in the state of Carabobo, roughly 40 miles northwest of where he is abducted.",
@@ -204,13 +164,13 @@
     "Valencia, Venezuela",
     "Venezuela"
    ],
-   "score": 10.0,
+   "score": 35,
    "abouts": [
-    "Wilson Ramos",
+    "Venezuela",
     "Valencia, Venezuela",
-    "Venezuela"
+    "Wilson Ramos"
    ],
-   "about": "Wilson Ramos",
+   "about": "Venezuela",
    "key": "181de442be5a60d1",
    "headline": "Nationals Catcher Wilson Ramos Kidnapped at Mother's Home",
    "image": {
@@ -238,7 +198,7 @@
     "Yomiuri Giants",
     "2008 Japan Series"
    ],
-   "score": 21.537480189566065,
+   "score": 21.370789246318402,
    "abouts": [
     "2008 Japan Series",
     "Saitama Seibu Lions",
@@ -272,7 +232,7 @@
     "United States national baseball team",
     "2007 Baseball World Cup"
    ],
-   "score": 39.980368272426375,
+   "score": 39.89090258468707,
    "abouts": [
     "United States national baseball team",
     "2007 Baseball World Cup",
@@ -305,7 +265,7 @@
     "Taichung Intercontinental Baseball Stadium"
    ],
    "about": "Taichung Intercontinental Baseball Stadium",
-   "score": 39.2470970689845,
+   "score": 39.26849105888087,
    "abouts": [
     "Taichung Intercontinental Baseball Stadium"
    ],
@@ -335,7 +295,7 @@
     "Frank Robinson"
    ],
    "about": "Frank Robinson",
-   "score": 31.94707090880842,
+   "score": 31.47299239226854,
    "abouts": [
     "Frank Robinson"
    ],
@@ -400,6 +360,25 @@
   },
   {
    "src": "yearpage",
+   "kind": "death",
+   "year": "1988",
+   "text": "Bob Weiland, 82, left-hander who went 62–94 (4.24) in 277 games in a dozen seasons (1928–1935, 1937–1940) for five clubs, primarily the St. Louis Cardinals and Boston Red Sox.",
+   "links": [
+    "Bob Weiland"
+   ],
+   "score": 20.051,
+   "abouts": [
+    "Bob Weiland"
+   ],
+   "about": "Bob Weiland",
+   "key": "9d83e83db176c79d",
+   "headline": "Bob Weiland, 82, Left-Hander for Five Clubs",
+   "image": null,
+   "extract": "Robert George Weiland was a professional baseball pitcher in the Major Leagues from 1928 to 1940. He played for the Chicago White Sox, Boston Red Sox, Cleveland Indians, St. Louis Browns, and St. Louis Cardinals.",
+   "page": "https://en.wikipedia.org/wiki/Bob_Weiland"
+  },
+  {
+   "src": "yearpage",
    "kind": "event",
    "year": "1982",
    "text": "Robin Yount of the Milwaukee Brewers is named American League MVP. During the Brewers' AL-pennant-winning season season, he batted .318 with 21 home runs, 103 RBIS and 19 steals.",
@@ -441,7 +420,7 @@
     "Oakland Athletics",
     "Billy Williams (left fielder)"
    ],
-   "score": 49.85475467172712,
+   "score": 49.18320270786387,
    "abouts": [
     "Billy Williams (left fielder)",
     "Oakland Athletics"
@@ -486,7 +465,7 @@
     "AL East",
     "Ken Aspromonte"
    ],
-   "score": 42.344452771289674,
+   "score": 42.38174558746729,
    "abouts": [
     "AL East",
     "Ken Aspromonte",
@@ -772,13 +751,5 @@
   "farewellCount": 1,
   "hofDebuts": 0,
   "managerDebuts": []
- },
- "papers": [
-  {
-   "year": 1950,
-   "paper": "Brewery Gulch gazette (Bisbee, Ariz.)",
-   "page": 7,
-   "url": "https://www.loc.gov/resource/sn89070012/1950-11-09/ed-1/?sp=7&q=baseball"
-  }
- ]
+ }
 }
