@@ -4,7 +4,7 @@
 For each park in the Lahman list (345 parks since 1871) this asks Wikimedia Commons for photos,
 keeps only freely licensed ones (public domain first, Creative Commons as backups), and writes:
   .cache/park_photos.json        the answers, so reruns cost nothing (delete a park's entry to redo it)
-  ~/Desktop/ballpark art/Park list.html   a plain running list you open in your browser
+  ~/ballpark art/Park list.html   a plain running list you open in your browser
 
 Polite to Wikimedia: one request at a time, a pause between requests, retries with waiting, cached results.
 Usage:
@@ -28,7 +28,7 @@ ROOT = Path(__file__).resolve().parent.parent
 LAHMAN = ROOT / ".cache" / "lahman" / "Parks.csv"
 RETRO = ROOT / ".cache" / "retrosheet" / "analysis" / "ballparks0.csv"
 CACHE = ROOT / ".cache" / "park_photos.json"
-FOLDER = Path.home() / "Desktop" / "ballpark art"
+FOLDER = Path.home() / "ballpark art"  # not on the Desktop: macOS blocks background jobs from reading the Desktop
 PAGE = FOLDER / "Park list.html"
 DROP = FOLDER / "Drop drawings here"
 PROMPT_FILE = ROOT / "art" / "ballparks" / "PROMPT.md"

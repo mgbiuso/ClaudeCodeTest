@@ -24,6 +24,7 @@ RETRO = ROOT / ".cache" / "retrosheet" / "analysis" / "ballparks0.csv"
 OUT_DIR = ROOT / "images" / "ballparks"
 
 W, H = 1200, 675               # 16:9, a little smaller than a header on a wide screen
+TITLE_H = 92                   # height of the title box at the bottom
 PAPER = (0xE2, 0xDF, 0xD2)     # --paper in style.css
 INK = (0x0F, 0x15, 0x19)       # --ink in style.css
 TITLE_FONT = "/System/Library/Fonts/Supplemental/Copperplate.ttc"
@@ -98,7 +99,7 @@ def decorate(img, title, sub, note):
         d.line([(0, y), (W, y)], fill=faint, width=1)
     d.rectangle([14, 14, W - 15, H - 15], outline=INK, width=2)
     d.rectangle([22, 22, W - 23, H - 23], outline=INK, width=1)
-    bh = 92
+    bh = TITLE_H
     d.rectangle([22, H - 23 - bh, W - 23, H - 23], fill=PAPER + (240,), outline=INK, width=1)
     d.text((W // 2, H - 23 - bh + 34), title.upper(), font=font(TITLE_FONT, 46), fill=INK, anchor="mm")
     d.text((W // 2, H - 23 - 22), sub.upper(), font=font(TITLE_FONT, 20), fill=INK, anchor="mm")

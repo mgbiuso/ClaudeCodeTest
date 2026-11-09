@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>This Day in Baseball: Idea Repository</title>
+<style>
+@page { size: Letter; margin: 0.7in 0.75in 0.8in; @bottom-center { content: "This Day in Baseball idea repository  \00B7  page " counter(page); font: 9pt "Courier New", monospace; color: #3b444a; } }
+@page :first { margin: 0; @bottom-center { content: ""; } }
+:root { --paper:#ffffff; --tint:#e9e6da; --ink:#0f1519; --soft:#3b444a; --red:#b3202a; --navy:#1f4e8c; --green:#1c6b3a; --amber:#7a4e00; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin:0; font: 10.5pt/1.42 Georgia, "Times New Roman", serif; color: var(--ink); background: var(--paper); }
+h1, h2, h3, .cond { font-family: "Franklin Gothic Medium", "Franklin Gothic", "Arial Narrow", Arial, sans-serif; }
+h1 { font-size: 40pt; line-height: 1.02; margin: 0 0 10pt; text-transform: uppercase; letter-spacing: .5pt; }
+h2 { font-size: 20pt; text-transform: uppercase; letter-spacing: .4pt; margin: 0 0 4pt; border-top: 4pt solid var(--ink); padding-top: 6pt; break-after: avoid; }
+h3 { font-size: 12.5pt; margin: 0 0 2pt; text-transform: uppercase; letter-spacing: .3pt; break-after: avoid; }
+p { margin: 0 0 7pt; }
+a { color: var(--navy); }
+.part { break-before: page; }
+.cover { height: 11in; padding: 1.1in 0.9in; background: var(--tint); display: flex; flex-direction: column; justify-content: space-between; }
+.cover .kick { font: 11pt "Courier New", monospace; text-transform: uppercase; letter-spacing: 1pt; border-top: 4pt solid var(--ink); border-bottom: 1pt solid var(--ink); padding: 6pt 0; }
+.cover .sub { font-size: 15pt; max-width: 5.2in; margin-top: 12pt; }
+.cover .how { font-size: 10.5pt; max-width: 5.4in; border-top: 1pt solid var(--ink); padding-top: 8pt; }
+.lead { font-size: 11.5pt; max-width: 6.2in; margin-bottom: 10pt; }
+.toc { list-style: none; padding: 0; margin: 14pt 0; }
+.toc li { display: flex; gap: 8pt; padding: 5pt 0; border-bottom: 1pt dotted var(--soft); font-size: 11.5pt; }
+.toc b { font: 700 11pt "Courier New", monospace; width: 26pt; }
+.idea { border: 1pt solid var(--ink); padding: 7pt 10pt 6pt; margin: 0 0 8pt; break-inside: avoid; }
+.idea .tags { font: 8.5pt "Courier New", monospace; text-transform: uppercase; letter-spacing: .3pt; color: var(--soft); margin-bottom: 3pt; }
+.idea .tags span { margin-right: 8pt; }
+.idea p { margin: 0 0 3pt; }
+.idea .why { color: var(--soft); font-size: 9.5pt; }
+.t-good { color: var(--green); font-weight: 700; } .t-warn { color: var(--amber); font-weight: 700; } .t-bad { color: var(--red); font-weight: 700; }
+.now { background: var(--tint); border: 2pt solid var(--ink); padding: 9pt 12pt; margin: 8pt 0 12pt; break-inside: avoid; }
+.now ul { margin: 4pt 0 0; padding-left: 16pt; }
+table { width: 100%; border-collapse: collapse; margin: 6pt 0 12pt; font-size: 9.5pt; break-inside: auto; }
+th { text-align: left; font: 700 8.5pt "Courier New", monospace; text-transform: uppercase; border-bottom: 2pt solid var(--ink); padding: 3pt 5pt; }
+td { vertical-align: top; padding: 4pt 5pt; border-bottom: 1pt solid #b9b5a6; }
+tr { break-inside: avoid; }
+.swatch { display: inline-block; width: 11pt; height: 11pt; border: 1pt solid var(--ink); vertical-align: -2pt; margin-right: 4pt; }
+.rules li { margin-bottom: 3pt; }
+.lines { margin-top: 8pt; }
+.lines div { border-bottom: 1pt solid #8f8b7c; height: 22pt; }
+small, .small { font-size: 9pt; color: var(--soft); }
+</style></head><body>
+
+<section class="cover">
+  <div>
+    <div class="kick">This Day in Baseball &middot; Working file</div>
+    <h1 style="margin-top:28pt">Idea<br>Repository</h1>
+    <p class="sub">Every "do later" idea we have captured, in one place, so you can read it, argue with it and pick the next one.</p>
+  </div>
+  <div class="how">
+    <p><b>Last updated:</b> Nov. 6, 2026. Compiled from our notes, the data sources file and the pages we have published.</p>
+    <p><b>How to use it:</b> Read Part 1 first, it is the idea you chose. Parts 2 to 6 are the shelf. Each idea shows what it is, what data we already have, and how big the job is. Nothing here is built unless it says so. The last page is blank for your own notes.</p>
+  </div>
+</section>
+
+<section class="part" style="break-before: page">
+  <h2>Contents</h2>
+  <ul class="toc">
+    <li><b>1</b><span>Chosen now: ballpark pages, plus 8 ways to go deeper</span></li>
+    <li><b>2</b><span>Parked data ideas: 14 features built from data we already own</span></li>
+    <li><b>3</b><span>Data sources we researched but have not used</span></li>
+    <li><b>4</b><span>Design ideas on ice</span></li>
+    <li><b>5</b><span>Growth, content and loose ends</span></li>
+    <li><b>6</b><span>Earlier idea pages you can reopen</span></li>
+    <li><b>7</b><span>Rules that apply to every idea</span></li>
+    <li><b>8</b><span>Your notes</span></li>
+  </ul>
+  <h3 style="margin-top:16pt">How we label each idea</h3>
+  <table>
+    <tr><th style="width:90pt">Label</th><th>Meaning</th></tr>
+    <tr><td><span class="t-good">DATA ON HAND</span></td><td>The numbers are already on your computer in the <code>.cache</code> folder.</td></tr>
+    <tr><td><span class="t-warn">NEEDS FETCH</span></td><td>We know where the data is, but we have to download it first.</td></tr>
+    <tr><td><span class="t-bad">NEEDS PERMISSION</span></td><td>The source has no clear reuse terms. We ask the owner, or only link to it.</td></tr>
+    <tr><td>SIZE: S, M, L</td><td>Small is a few hours, medium is a day or two of work, large is a project.</td></tr>
+  </table>
+</section>
+
+<!-- PART 1 -->
+<section class="part">
+  <h2>1. Chosen now: ballpark pages</h2>
+  <p class="lead">One page for every park that ever hosted a major league game. It starts from your hand-inked park drawing and adds the real numbers underneath it. You said this idea stands out, so it comes before everything else.</p>
+  <div class="now">
+    <h3>Where it stands</h3>
+    <ul>
+      <li><b>Drawings:</b> 77 finished pictures in <code>images/ballparks/</code> (62 of the 345 listed parks). You are finishing the rest.</li>
+      <li><b>Checklist:</b> one line per park with the best free photo source, <a href="https://claude.ai/artifact/DAqz3AkbCpQKRDN7mmx6hp">claude.ai/artifact/DAqz3AkbCpQKRDN7mmx6hp</a></li>
+      <li><b>Sample page, desktop:</b> <a href="https://claude.ai/artifact/1TNnFK2Cmaa3Z3fszC3rLz">claude.ai/artifact/1TNnFK2Cmaa3Z3fszC3rLz</a></li>
+      <li><b>Sample page, phone:</b> <a href="https://claude.ai/artifact/7o6XyNeW4GxMx8AXAMPeW6">claude.ai/artifact/7o6XyNeW4GxMx8AXAMPeW6</a></li>
+      <li><b>Data behind it:</b> Retrosheet game logs cover 264 parks and 235,607 games. 139 parks have 100 or more games. 204,540 games have a crowd on record and 220,887 have a game length.</li>
+      <li><b>What the sample shows:</b> by the numbers, a home runs chart, a crowd chart, a big days list. The Polo Grounds beat the league average for home runs in all 49 of its seasons.</li>
+    </ul>
+  </div>
+  <p class="small">The script that rebuilds a park page is <code>design-mockups/ballpark-pages/build_park_mock.py</code>. It takes any park code.</p>
+
+  <h3 style="margin-top:12pt">Eight ways to go deeper</h3>
+  <div class="idea"><h3>1. Park fingerprint</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: M</span></div>
+    <p>Home runs, runs and crowd size against the league, drawn as a small ink sketch for every park. Fenway and the Polo Grounds would look nothing alike. It works as a thumbnail on the index page.</p></div>
+  <div class="idea"><h3>2. Park timeline</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: M</span></div>
+    <p>Every tenant, rename and rebuild on one line, so you can see how a city's parks hand off to each other. Park codes never change when a park is renamed, which makes this safe. Could also show which park held the most of a team's history.</p></div>
+  <div class="idea"><h3>3. First and last</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: S</span></div>
+    <p>First game, last game, first night game and the last big crowd at each park in one box. Retrosheet also publishes a "park firsts" list (<code>park_firsts.htm</code> in the cache) that can check our work.</p></div>
+  <div class="idea"><h3>4. Neighborhood then and now</h3><div class="tags"><span class="t-warn">Needs fetch</span><span>Size: L</span></div>
+    <p>A 1921 aerial photo or a Sanborn fire insurance map from the Library of Congress next to today's coordinates. "What stands where Ebbets Field was" is an easy page to love. Papers and photos from before 1929 are allowed with a credit and a link. Coordinates come from Wikidata and every match needs a hand check, because a search for "Tiger Stadium" once returned a college football stadium.</p></div>
+  <div class="idea"><h3>5. World Series at this park</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: S</span></div>
+    <p>The World Series game logs are already cached. Each page gets a "Series history" strip: which years, which teams, who won at this park.</p></div>
+  <div class="idea"><h3>6. Park versus park</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: M</span></div>
+    <p>Pick any two parks and see them side by side: home runs, runs, crowds, years open. A good way to settle bar arguments. Needs a small chooser on the page, and it stays static.</p></div>
+  <div class="idea"><h3>7. Ballpark index</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: S</span></div>
+    <p>One front page with all the drawings as a grid, sortable by city or era. It becomes the front door for the whole feature and the page people will share. Best first build after the sample page, because it links to every park page.</p></div>
+  <div class="idea"><h3>8. Field dimensions diagram</h3><div class="tags"><span class="t-bad">Needs permission</span><span>Size: M</span></div>
+    <p>An ink outline of the field with wall distances and heights. The best source is the Seamheads Ballparks Database, which states no reuse terms, so we would ask first. The Diamond Mind database covers every park since 1901 but belongs to a commercial game, so link only. The SportsDataverse file is free but starts around 2001.</p></div>
+  <p class="small"><b>Suggested order:</b> ballpark index (7), then park timeline (2), then first and last (3) and World Series (5), which are quick. Neighborhood maps (4) and dimensions (8) need more outside work.</p>
+</section>
+
+<!-- PART 2 -->
+<section class="part">
+  <h2>2. Parked data ideas</h2>
+  <p class="lead">Fourteen features, all built from data we already own. The ballpark idea was number 4 on the original list, so it is not repeated here. Pitch only: nothing is built until you say yes.</p>
+
+  <h3 style="margin-top:10pt">Pictures from the data</h3>
+  <div class="idea"><h3>Line score as a picture</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: S</span></div>
+    <p>Every game log has the inning-by-inning line score. Draw it as a small ink bar chart: a tall bar for a big inning, flat for a shutout. The Game of the Day could carry one, and a 12-run inning shows at a glance.</p></div>
+  <div class="idea"><h3>Game-length clock</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: S</span></div>
+    <p>A clock face or stopwatch strip: "this game took 1:52, the average that year is 3:05." Length is on record for 220,887 games. It suits old games that finished in under two hours.</p></div>
+  <div class="idea"><h3>Attendance crowd</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: M</span></div>
+    <p>Draw the crowd as dots or a grandstand outline, scaled to the park's own average so a packed house looks packed. Capacity is not in our data, so we compare to the average crowd unless we add a capacity source.</p></div>
+  <div class="idea"><h3>Birthplace map</h3><div class="tags"><span class="t-warn">Needs fetch</span><span>Size: M</span></div>
+    <p>A plain ink map with a dot for where each of the day's players was born. The Retrosheet biodata file lists 27,049 people with birth city and state. We would need a free outline map and a way to place cities. Check the license of any map file before using it.</p></div>
+  <div class="idea"><h3>Family tree cards</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: S</span></div>
+    <p>The relatives list has 1,329 pairs of brothers, fathers and sons. Show a small card when a pair played on the same day, or when one of them has a milestone. "Aaron and Aaron" is the kind of line readers repeat.</p></div>
+
+  <h3 style="margin-top:12pt">Boxes and features for the day page</h3>
+  <div class="idea"><h3>Weird endings box</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: S</span></div>
+    <p>Retrosheet's own lists are cached: forfeits, suspended games, hidden-ball tricks, triple plays, cycles, four home runs in a row, perfect games, no-hitters. A box that says "this has happened only N times" is easy to read and easy to share. Same credit line applies.</p></div>
+  <div class="idea"><h3>Trade wire</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: M</span></div>
+    <p>The transactions file holds 101,594 trades, signings and releases, each with a date. A "Transactions of the day" box in small agate type fits the 1999 sports-section look. Needs a check that names match our people list.</p></div>
+  <div class="idea"><h3>Umpire and manager cards, "Today in tempers"</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: M</span></div>
+    <p>The ejections file has 19,780 ejections and the managers file has 859 managers. Show a manager's record that day, an umpire's career games, or a list of that day's ejections.</p></div>
+  <div class="idea"><h3>Day or night</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: S</span></div>
+    <p>The first night game, the last day game at a park, and the share of games played under lights by decade. A good small chart. The Polo Grounds sample shows 303 night games out of 4,536, about 7 percent.</p></div>
+  <div class="idea"><h3>Weather</h3><div class="tags"><span class="t-warn">Needs fetch</span><span>Size: M</span></div>
+    <p>Temperature, sky, wind and rain from Retrosheet's <code>gameinfo.csv</code>, one file of about 8 MB per year. Solid from 1990 on, thin before 1975 (1925 had temperature for 4 of 1,277 games). Use it only where a value exists and skip the line otherwise.</p></div>
+  <div class="idea"><h3>Negro Leagues same-day strip</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: L</span></div>
+    <p>8,215 games from Retrosheet's Negro Leagues files are cached (126 MB). A "same day, other league" strip would be strong and meaningful. The files carry a certainty flag called <code>stattype</code>, so we show uncertain numbers honestly. Same credit line, shown prominently.</p></div>
+  <div class="idea"><h3>Rivalry cards</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: M</span></div>
+    <p>Head-to-head records between two teams as a tug-of-war bar, from the full game logs. Works on any day when the two teams meet.</p></div>
+
+  <h3 style="margin-top:12pt">Reader tools</h3>
+  <div class="idea"><h3>Time capsule picker</h3><div class="tags"><span class="t-warn">Needs full-year build</span><span>Size: M</span></div>
+    <p>A reader types a birthday and sees that day. This is the strongest sharing hook on the list. It needs all 366 day files, and only 49 are built so far.</p></div>
+  <div class="idea"><h3>Your team's best day</h3><div class="tags"><span class="t-good">Data on hand</span><span>Size: M</span></div>
+    <p>A reader picks a team and sees every big day for it. The choice is saved in their own browser, with no login, so the site stays static. Needs a team tag on each story.</p></div>
+</section>
+
+<!-- PART 3 -->
+<section class="part">
+  <h2>3. Data sources researched, not used yet</h2>
+  <p class="lead">From <code>DATA_SOURCES.md</code>, checked Oct. 22 to 26, 2026. Terms can change, so read each site's current terms before building.</p>
+  <table>
+    <tr><th style="width:120pt">Source</th><th>What it gives</th><th style="width:130pt">Terms and limits</th></tr>
+    <tr><td>Retrosheet Negro Leagues files</td><td>8,215 games with players, team stats, batting, pitching, fielding and plays. Box scores for 4,653 games and play by play for 2,192.</td><td>Free. Retrosheet credit line. Uncertain numbers are flagged.</td></tr>
+    <tr><td>Chadwick Bureau Register</td><td>One master list of person IDs that links Retrosheet, MLB, Baseball-Reference, FanGraphs and Wikidata.</td><td>Open Data Commons Attribution. Credit Chadwick Bureau.</td></tr>
+    <tr><td>Retrosheet weather</td><td>Temperature, sky, wind and rain per game in <code>gameinfo.csv</code>.</td><td>Good from 1990. Thin before 1975.</td></tr>
+    <tr><td>Wikidata coordinates</td><td>Latitude and longitude for parks. 14 of 14 test parks matched.</td><td>CC0. Every match needs a hand check. About 520 park codes.</td></tr>
+    <tr><td>Lahman tables we skip</td><td>All-Star games, World Series results, salaries from 1985, managers and more.</td><td>Download the full zip again from sabr.org/lahman-database.</td></tr>
+    <tr><td>Wikipedia "On this day" feed</td><td>About 48 world events for a date, such as Oct. 4.</td><td>CC BY-SA. Credit Wikipedia. Cache it, one call per day.</td></tr>
+    <tr><td>Internet Archive films</td><td>110 baseball films and newsreels dated 1900 to 1965 in one search.</td><td>License varies by item. Embed only after the real-browser test.</td></tr>
+    <tr><td>Library of Congress newspapers</td><td>Front pages and article pictures from Chronicling America.</td><td>Before 1929: small picture with credit and link. 1929 on: link only.</td></tr>
+    <tr><td>MLB Stats API and Statcast</td><td>Schedules, scores, box scores, pitch tracking since 2015.</td><td>Individual, non-commercial, non-bulk use only. Keep it light and cached.</td></tr>
+    <tr><td>Seamheads Ballparks Database</td><td>Field dimensions, wall heights, park factors, capacities.</td><td class="t-bad">No stated terms. Ask first.</td></tr>
+    <tr><td>Diamond Mind ballpark database</td><td>Wall distances and heights at seven outfield points, every park since 1901.</td><td>Commercial game. Link only.</td></tr>
+    <tr><td>SportsDataverse park data</td><td>Season-by-season dimensions and roof type, free to download.</td><td>Starts about 2001. Some gaps.</td></tr>
+    <tr><td>Library of Congress maps</td><td>1921 aerial survey of Manhattan and Sanborn fire maps that show old parks.</td><td>Same pre-1929 rule. Check each item.</td></tr>
+    <tr><td>Wikimedia Commons venues</td><td>Public domain photos for park drawings, in the "Defunct Major League Baseball venues" category.</td><td>Check each file's license before using.</td></tr>
+  </table>
+  <p class="small"><b>Do not use:</b> Baseball-Reference and FanGraphs (their terms bar copying, so link to them), and Seamheads Negro Leagues data without permission. Skip the pybaseball and baseballr packages, which also scrape those sites.</p>
+</section>
+
+<!-- PART 4 -->
+<section class="part">
+  <h2>4. Design ideas on ice</h2>
+  <p class="lead">Nothing here changes the live site. The original look stays untouched while newspaper mockups are explored.</p>
+  <div class="idea"><h3>Palette C: section-coded accents</h3><div class="tags"><span>Chosen as runner-up</span><span>Size: M</span></div>
+    <p>Red for games, navy for moves (trades and hires), ochre for honors, green for other, ink for memoriam. Add a one-line legend under the date header. Calmer colors that pass the 4.5 to 1 contrast rule:
+    <span class="swatch" style="background:#a3262c"></span>#a3262c <span class="swatch" style="background:#24476f"></span>#24476f <span class="swatch" style="background:#7a5200"></span>#7a5200 <span class="swatch" style="background:#2f5f46"></span>#2f5f46.
+    Across 34 days that sorts about 322 moves, 213 games, 145 honors, 157 other and 94 memoriam.</p></div>
+  <div class="idea"><h3>Other paper tones</h3><div class="tags"><span>Size: S</span></div>
+    <p>
+    <span class="swatch" style="background:#f6dcca"></span>Salmon pink #f6dcca (Financial Times style) &nbsp;
+    <span class="swatch" style="background:#f1e6b9"></span>Reference cream #f1e6b9 &nbsp;
+    <span class="swatch" style="background:#e6d9b8"></span>Aged broadsheet #e6d9b8 &nbsp;
+    <span class="swatch" style="background:#fbfaf5"></span>Bright white #fbfaf5 &nbsp;
+    <span class="swatch" style="background:#d6caa9"></span>Vintage tan #d6caa9. Current paper: <span class="swatch" style="background:#e2dfd2"></span>#e2dfd2.</p></div>
+  <div class="idea"><h3>Other riffs</h3><div class="tags"><span>Size: S</span></div>
+    <p>Black reverse boxes for tags and section headers. A red date band. Bigger display type. Red used only for the lead story.</p></div>
+  <div class="idea"><h3>Ink on paper text</h3><div class="tags"><span>Queued next</span><span>Size: M</span></div>
+    <p>Make the text and colored blocks look printed on the gray newspaper, like the grain you already like, while keeping the colors as they are. Questions to settle first: how strong (subtle, medium, heavy), text only or colored blocks and photos too, whether to add slight ink bleed, misregistration or halftone dots, and whether to test on Oct. 4 only. Mockup only.</p></div>
+  <div class="idea"><h3>New header</h3><div class="tags"><span class="t-warn">Undecided</span></div>
+    <p>You are not loving the blue masthead and do not yet know what you want. Plan: show a few different directions side by side instead of tweaking the blue plate. Color, type, shape and the logo idea are all open. No rush.</p></div>
+  <div class="idea"><h3>The original look</h3><div class="tags"><span>On ice</span></div>
+    <p>The live 1999 sports-section design stays as it is. You grew up reading Newsday on Long Island, which is why the front-page mockups exist. Five mocks were built in the Newsday, Globe, Daily News, Telegraph and Post styles. You have not decided to replace the original.</p></div>
+  <div class="idea"><h3>Games section</h3><div class="tags"><span>Removed Oct. 29, saved</span><span>Size: S</span></div>
+    <p>Quick Play ("which came first") and Real Trivia (Speaker 1923, Clemens 1987, Beltre 2011) were taken out of the October 4 mockups. Working code is in <code>_backup_before_changes/games_section_removed_2026-10-29/</code>. Bring back when the layout settles.</p></div>
+</section>
+
+<!-- PART 5 -->
+<section class="part">
+  <h2>5. Growth, content and loose ends</h2>
+  <div class="idea"><h3>Keep ideas from the July 4 dataset guide</h3><div class="tags"><span class="t-warn">Waiting on you</span></div>
+    <p>You planned to mark each dataset Keep, Maybe or Drop in the July 4 guide, then build the Keeps. The plan was to apply them to the 4 sample days, then the 30 days around the World Series, then the full year. Open items from the guide:</p>
+    <p>&bull; Elston Howard's 1948 debut has no career line (probably a Negro Leagues start that Lahman does not cover).<br>&bull; 11 of 43 July 4 stories are the same "leads by N games at midseason" snapshot.<br>&bull; The record book idea overlaps By the Numbers, so merge them.</p></div>
+  <div class="idea"><h3>Keep readers coming back</h3><div class="tags"><span>To discuss</span></div>
+    <p>You asked to talk about retention once the to-do list wraps. Starting points: a daily email, share cards, one page per day so search engines can find each day, and more content types such as the ones in this file.</p></div>
+  <div class="idea"><h3>Other sports</h3><div class="tags"><span>To discuss</span></div>
+    <p>Expand into other sports, or make a copy of the site for another sport. Data differs by sport. nflverse (NFL, code is MIT, data owned by its owners), balldontlie (NBA only, no key, terms unconfirmed) and the unofficial NHL web API (terms unconfirmed) came up in research. The trade-offs: more readers against double the upkeep.</p></div>
+  <div class="idea"><h3>Per-day pages and hosting</h3><div class="tags"><span>Parked</span></div>
+    <p>One static page per calendar day. Free GitHub Pages hosting needs a public repo. A contact email and a domain name are also parked.</p></div>
+  <div class="idea"><h3>Full-year build</h3><div class="tags"><span>Held</span></div>
+    <p>Currently 49 day files are built. You chose to wait on the full year until the kinks are worked out. The time capsule picker and per-day pages both depend on it.</p></div>
+  <div class="idea"><h3>Video and newspaper clippings</h3><div class="tags"><span>Parked</span></div>
+    <p>Embeddable video channels (only videos that pass the real-browser test in <code>data/video_playable.json</code> may embed) and more Library of Congress clippings. Better sources for playable old footage: the National Archives, Library of Congress, Internet Archive and Wikimedia Commons.</p></div>
+  <div class="idea"><h3>Small reader layers</h3><div class="tags"><span>Pitch only</span></div>
+    <p>Comments, reader accounts, forms and search are the layers the <code>static-site-layers</code> skill can pitch. The site stays static unless you say yes.</p></div>
+</section>
+
+<!-- PART 6 -->
+<section class="part" style="break-before: auto">
+  <h2 style="margin-top:20pt">6. Earlier idea pages</h2>
+  <p>These private pages hold earlier brainstorms and mockups. Open them to see the pictures.</p>
+  <table>
+    <tr><th>Page</th><th>Link</th></tr>
+    <tr><td>This Day in Baseball: 29 idea mockups</td><td><a href="https://claude.ai/artifact/LvVVStQykLUGfCjQaERUEF">claude.ai/artifact/LvVVStQykLUGfCjQaERUEF</a></td></tr>
+    <tr><td>Fact, trend and anomaly ideas</td><td><a href="https://claude.ai/artifact/6AgizQWTZg7BFdffk3PP8W">claude.ai/artifact/6AgizQWTZg7BFdffk3PP8W</a></td></tr>
+    <tr><td>Box Score Data Ideas</td><td><a href="https://claude.ai/artifact/8hGsn9ff5Y6ZLhqsrFmpHh">claude.ai/artifact/8hGsn9ff5Y6ZLhqsrFmpHh</a></td></tr>
+    <tr><td>July 4 dataset guide (Keep, Maybe, Drop)</td><td><a href="https://claude.ai/artifact/77MSBUkQLaZdDtVqLm4Zv7">claude.ai/artifact/77MSBUkQLaZdDtVqLm4Zv7</a></td></tr>
+    <tr><td>Video on This Day in Baseball: can we embed it?</td><td><a href="https://claude.ai/artifact/MdjMTGrBX23PNowYA7yL8B">claude.ai/artifact/MdjMTGrBX23PNowYA7yL8B</a></td></tr>
+    <tr><td>Island paper full day Oct 4</td><td><a href="https://claude.ai/artifact/Gy4fdEkGcX7BaVMziWF4Ff">claude.ai/artifact/Gy4fdEkGcX7BaVMziWF4Ff</a></td></tr>
+    <tr><td>Island paper games</td><td><a href="https://claude.ai/artifact/PboDCP1Qfei3GD4oZDWNVk">claude.ai/artifact/PboDCP1Qfei3GD4oZDWNVk</a></td></tr>
+    <tr><td>Five front pages, desktop</td><td><a href="https://claude.ai/artifact/6k4Xru93pGq9EcoA59Fv1B">claude.ai/artifact/6k4Xru93pGq9EcoA59Fv1B</a></td></tr>
+    <tr><td>Timeline ribbon, desktop and mobile</td><td><a href="https://claude.ai/artifact/CikKR8NiykPUwF7MDxDyzr">desktop</a> &middot; <a href="https://claude.ai/artifact/8z77hPsjFfCNfPs3t1Gp8b">mobile</a></td></tr>
+    <tr><td>Ballpark Plates, Ballpark Ink Drawing, Ballpark Diorama, Fenway Ink Aerial</td><td><a href="https://claude.ai/artifact/DRD7ZyxAruf2uJRke3hat6">Plates</a> &middot; <a href="https://claude.ai/artifact/S1KP3fNLcc7wU8YMoKyeAu">Ink Drawing</a> &middot; <a href="https://claude.ai/artifact/Wr4ozQ6MQuGM2ZoLapY9c1">Diorama</a> &middot; <a href="https://claude.ai/artifact/J6hB4ForynkWdycFWVf8Gc">Aerial</a></td></tr>
+  </table>
+</section>
+
+<!-- PART 7 -->
+<section>
+  <h2 style="margin-top:20pt">7. Rules that apply to every idea</h2>
+  <ul class="rules">
+    <li><b>Retrosheet credit stays visible:</b> "The information used here was obtained free of charge from and is copyrighted by Retrosheet."</li>
+    <li>Also credit Lahman and SABR, Chadwick Bureau, the Library of Congress, Wikimedia and Wikipedia where they are used.</li>
+    <li>Keep the site static: no server, database, login or paid service without a pitch and your yes.</li>
+    <li>No outside fonts, scripts or CDNs on the live site without asking.</li>
+    <li>New data fields are optional, so old days still show. Every fetch needs error handling.</li>
+    <li>Be polite to outside sites: cache results and pace requests. MLB data is for individual, non-commercial, non-bulk use.</li>
+    <li>Do not copy data from sites whose terms bar it (Baseball-Reference, FanGraphs). Link to them.</li>
+    <li>Back up before editing. Nothing is committed, pushed or merged without your yes.</li>
+  </ul>
+</section>
+
+<!-- PART 8 -->
+<section class="part">
+  <h2>8. Your notes</h2>
+  <p class="small">Ideas to add, ideas to cut, what you want next.</p>
+  <div class="lines">
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div>
+  </div>
+</section>
+</body></html>
