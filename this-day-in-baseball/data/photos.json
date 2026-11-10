@@ -12786,6 +12786,22 @@
   "reason": "person: Player in white Braves jersey #43 'SNITKER', hands on hips, at field",
   "model": "claude-haiku-5-5"
  },
+ "a4cd2f37ea28f6c3": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Chuck_Connors_Brooklyn_Dodgers.JPG",
+   "credit": "Photo Associates",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Chuck_Connors_Brooklyn_Dodgers.JPG",
+   "alt": "Black-and-white photo of a batter in a Brooklyn cap holding a bat, stadium stands behind",
+   "source": "checked",
+   "of": "Chuck Connors",
+   "w": 646,
+   "h": 816,
+   "tier": "person"
+  },
+  "reason": "person: Black-and-white photo of a batter in a Brooklyn cap holding a bat, stadium stands behind",
+  "model": "claude-haiku-5-5"
+ },
  "a4fba9e748f0e158": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tal_Smith_at_SABR_annual_convention_2014.jpg/960px-Tal_Smith_at_SABR_annual_convention_2014.jpg",
