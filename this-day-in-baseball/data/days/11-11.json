@@ -12,7 +12,7 @@
     "New York Yankees",
     "American League"
    ],
-   "score": 112.74065672373972,
+   "score": 112.95754904497326,
    "abouts": [
     "American League",
     "Joe DiMaggio",
@@ -51,7 +51,7 @@
     "Clayton McCullough"
    ],
    "about": "Clayton McCullough",
-   "score": 40.856099509747665,
+   "score": 40.35447476760105,
    "abouts": [
     "Clayton McCullough"
    ],
@@ -70,7 +70,7 @@
     "American Family Field"
    ],
    "about": "American Family Field",
-   "score": 33.45576123585341,
+   "score": 34.947649527877786,
    "abouts": [
     "American Family Field"
    ],
@@ -88,7 +88,7 @@
     "h": 1199,
     "tier": "venue"
    },
-   "extract": "American Family Field, known as Miller Park until 2020, is a retractable roof stadium in Milwaukee, Wisconsin. Located southwest of the intersection of Interstate 94 and Brewers Boulevard, it is the ballpark of Major League Baseball's Milwaukee Brewers. It opened in 2001 under the name Miller Park as a replacement for…",
+   "extract": "American Family Field is a retractable roof stadium in Milwaukee, Wisconsin. Located southwest of the intersection of Interstate 94 and Brewers Boulevard, it is the ballpark of Major League Baseball's Milwaukee Brewers. It opened in 2001 under the name Miller Park as a replacement for Milwaukee County Stadium.",
    "page": "https://en.wikipedia.org/wiki/American_Family_Field"
   },
   {
@@ -108,6 +108,29 @@
   },
   {
    "src": "yearpage",
+   "kind": "death",
+   "year": "2021",
+   "text": "Art Stewart, 94, front office executive and director of scouting for the Kansas City Royals from 1969 to 2021 who started his scouting career in 1953 with the New York Yankees.",
+   "links": [
+    "Art Stewart",
+    "Kansas City Royals",
+    "New York Yankees"
+   ],
+   "score": 20.0665,
+   "abouts": [
+    "Art Stewart",
+    "Kansas City Royals",
+    "New York Yankees"
+   ],
+   "about": "Art Stewart",
+   "key": "a190de1b78b8e041",
+   "headline": "Art Stewart, 94, Royals Front Office Executive and Scout",
+   "image": null,
+   "extract": "Arthur Stewart was an American baseball front-office executive and scout. He began his Major League Baseball (MLB) scouting career with the New York Yankees in 1953. He later joined the Kansas City Royals in 1969, becoming its scouting director in 1984, before serving as senior advisor to the general manager from 1997…",
+   "page": "https://en.wikipedia.org/wiki/Art_Stewart"
+  },
+  {
+   "src": "yearpage",
    "kind": "event",
    "year": "2021",
    "text": "The 2021 Sliver Slugger Awards were announced winners included Bryce Harper from the Philadelphia Phillies who won his second sliver slugger award and Shohei Ohtani from the LA Angels wins his first career sliver slugger award.",
@@ -116,7 +139,7 @@
     "Philadelphia Phillies",
     "Shohei Ohtani"
    ],
-   "score": 35,
+   "score": 10.0,
    "abouts": [
     "Bryce Harper",
     "Shohei Ohtani",
@@ -139,29 +162,6 @@
    },
    "extract": "Bryce Aron Max Harper is an American professional baseball first baseman and outfielder for the Philadelphia Phillies of Major League Baseball (MLB). He has previously played in MLB for the Washington Nationals.",
    "page": "https://en.wikipedia.org/wiki/Bryce_Harper"
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
-   "year": "2021",
-   "text": "Art Stewart, 94, front office executive and director of scouting for the Kansas City Royals from 1969 to 2021 who started his scouting career in 1953 with the New York Yankees.",
-   "links": [
-    "Art Stewart",
-    "Kansas City Royals",
-    "New York Yankees"
-   ],
-   "score": 20.07,
-   "abouts": [
-    "Art Stewart",
-    "Kansas City Royals",
-    "New York Yankees"
-   ],
-   "about": "Art Stewart",
-   "key": "a190de1b78b8e041",
-   "headline": "Art Stewart, 94, Royals Front Office Executive and Scout",
-   "image": null,
-   "extract": "Arthur Stewart was an American baseball front-office executive and scout. He began his Major League Baseball (MLB) scouting career with the New York Yankees in 1953. He later joined the Kansas City Royals in 1969, becoming its scouting director in 1984, before serving as senior advisor to the general manager from 1997…",
-   "page": "https://en.wikipedia.org/wiki/Art_Stewart"
   },
   {
    "src": "yearpage",
@@ -194,7 +194,7 @@
     "h": 6048,
     "tier": "person"
    },
-   "extract": "Shane Robert Bieber is an American professional baseball pitcher for the Toronto Blue Jays of Major League Baseball (MLB). He has previously played in MLB for the Cleveland Indians / Guardians. As a walk-on, Bieber played college baseball for the UC Santa Barbara Gauchos. He was selected by the Cleveland Indians in…",
+   "extract": "Shane Robert Bieber is an American professional baseball pitcher who is a free agent. He has played in Major League Baseball (MLB) for the Cleveland Indians / Guardians and Toronto Blue Jays. As a walk-on, Bieber played college baseball for the UC Santa Barbara Gauchos. He was selected by the Cleveland Indians in the…",
    "page": "https://en.wikipedia.org/wiki/Shane_Bieber"
   },
   {
@@ -206,7 +206,7 @@
     "Corey Ragsdale"
    ],
    "about": "Corey Ragsdale",
-   "score": 33.162286460923625,
+   "score": 32.47077297009221,
    "abouts": [
     "Corey Ragsdale"
    ],
@@ -236,7 +236,7 @@
     "Buster Posey"
    ],
    "about": "Buster Posey",
-   "score": 31.700137341413303,
+   "score": 31.43014800254095,
    "abouts": [
     "Buster Posey"
    ],
@@ -266,7 +266,7 @@
     "2014 MLB Japan All-Star Series"
    ],
    "about": "2014 MLB Japan All-Star Series",
-   "score": 37.585979489749874,
+   "score": 37.326914257242095,
    "abouts": [
     "2014 MLB Japan All-Star Series"
    ],
@@ -326,7 +326,7 @@
    "key": "edb9cda7d0ba8553",
    "headline": "Florida Marlins Officially Renamed Miami Marlins",
    "image": null,
-   "extract": "LoanDepot Park is a retractable roof stadium located in Miami, Florida, United States. It is the ballpark of Major League Baseball's Miami Marlins. It is located on 17 acres (6.9 ha) on the site of the former Miami Orange Bowl in Little Havana about 2 miles (3 km) west of Downtown Miami. Construction was completed in…",
+   "extract": "LoanDepot Park is a stadium with a retractable roof located in Miami, Florida, United States. It is the ballpark of Major League Baseball's Miami Marlins. It is located on 17 acres (6.9 ha) on the site of the former Miami Orange Bowl in Little Havana about 2 miles (3 km) west of Downtown Miami. Construction was…",
    "page": "https://en.wikipedia.org/wiki/LoanDepot_Park"
   },
   {
@@ -338,7 +338,7 @@
     "Cheney Stadium"
    ],
    "about": "Cheney Stadium",
-   "score": 41.223858807476475,
+   "score": 40.64038006334358,
    "abouts": [
     "Cheney Stadium"
    ],
@@ -514,7 +514,7 @@
    "links": [
     "Bennie Borgmann"
    ],
-   "score": 20.142,
+   "score": 20.128,
    "abouts": [
     "Bennie Borgmann"
    ],
@@ -573,38 +573,6 @@
   },
   {
    "src": "yearpage",
-   "kind": "death",
-   "year": "1949",
-   "text": "Brick Owens, 64, American League umpire from 1916 to 1937, who officiated in five World Series and the 1934 MLB All-Star Game.",
-   "links": [
-    "Brick Owens",
-    "1934 Major League Baseball All-Star Game"
-   ],
-   "score": 20.1055,
-   "abouts": [
-    "Brick Owens",
-    "1934 Major League Baseball All-Star Game"
-   ],
-   "about": "Brick Owens",
-   "key": "a399e8c9f8048989",
-   "headline": "Brick Owens, 64, AL Umpire Who Worked Five World Series",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Brick_Owens_injured%2C_June_1925.jpg/960px-Brick_Owens_injured%2C_June_1925.jpg",
-    "credit": "Unknown",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Brick_Owens_injured,_June_1925.jpg",
-    "alt": "Newspaper photo of players tending a fallen umpire on a baseball field",
-    "source": "checked",
-    "of": "Brick Owens (Commons search)",
-    "w": 1326,
-    "h": 1407,
-    "tier": "person"
-   },
-   "extract": "Clarence Bernard \"Brick\" Owens was an American umpire in Major League Baseball who worked in the National League in 1908 and 1912–1913, and in the American League from 1916 through 1937. He officiated in the World Series in 1918, 1922, 1925, 1928 and 1934, serving as crew chief for the last two Series. He also worked…",
-   "page": "https://en.wikipedia.org/wiki/Brick_Owens"
-  },
-  {
-   "src": "yearpage",
    "kind": "event",
    "year": "1943",
    "text": "The Baseball Writers' Association of America bestows its 1943 MLB Most Valuable Player Awards.",
@@ -612,7 +580,7 @@
     "Baseball Writers' Association of America",
     "MLB Most Valuable Player Award"
    ],
-   "score": 26.45351121643927,
+   "score": 26.508404746467882,
    "abouts": [
     "Baseball Writers' Association of America",
     "MLB Most Valuable Player Award"
