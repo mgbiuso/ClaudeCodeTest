@@ -11756,6 +11756,22 @@
   "reason": "no free-licensed candidates",
   "model": "claude-haiku-5-5"
  },
+ "99cffdc2b19279c0": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Glenn_Hoffman_June_10%2C_2018_%2841036537740%29.jpg/960px-Glenn_Hoffman_June_10%2C_2018_%2841036537740%29.jpg",
+   "credit": "Adam Moss from East Amherst, New York, United States",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Glenn_Hoffman_June_10,_2018_(41036537740).jpg",
+   "alt": "Player in navy jersey 'HOFFMAN 26' on field, batting helmet, grey pants",
+   "source": "checked",
+   "of": "Glenn Hoffman (Commons search)",
+   "w": 4608,
+   "h": 3456,
+   "tier": "person"
+  },
+  "reason": "person: Player in navy jersey 'HOFFMAN 26' on field, batting helmet, grey pants",
+  "model": "claude-haiku-5-5"
+ },
  "99ed5bff57f5d20a": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alan_Trammell.jpg/960px-Alan_Trammell.jpg",
@@ -12329,6 +12345,11 @@
  "a00f7f446c02f508": {
   "image": null,
   "reason": "weak pick (0.2): Astrodome exterior from 1965 is a Houston Astros ballpark but not the event venue in 2011; weak fit",
+  "model": "claude-haiku-5-5"
+ },
+ "a01bbb7ba4665cdc": {
+  "image": null,
+  "reason": "could not fetch Dauvray Cup.webp",
   "model": "claude-haiku-5-5"
  },
  "a02d20d5a10f7bee": {

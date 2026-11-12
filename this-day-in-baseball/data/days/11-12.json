@@ -12,7 +12,7 @@
     "Bob Turley",
     "strikeout"
    ],
-   "score": 101.38804607152045,
+   "score": 101.33115848344947,
    "abouts": [
     "Bob Turley",
     "strikeout",
@@ -40,43 +40,13 @@
   {
    "src": "article",
    "kind": "event",
-   "year": "2024",
-   "text": "On November 12, 2024, Mills was hired to serve as the bench coach for the Cincinnati Reds.",
-   "links": [
-    "Brad Mills (baseball manager)"
-   ],
-   "about": "Brad Mills (baseball manager)",
-   "score": 23.951425820166207,
-   "abouts": [
-    "Brad Mills (baseball manager)"
-   ],
-   "key": "0d33c0938938c696",
-   "headline": "Mills Hired as Bench Coach for Cincinnati Reds",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG/960px-Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
-    "credit": "EricEnfermero",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Brad_Mills_Cleveland_Indians_April_2015_Houston.JPG",
-    "alt": "Bald man in red cap and navy Cleveland jacket at ballpark",
-    "source": "checked",
-    "of": "Brad Mills (baseball manager)",
-    "w": 1898,
-    "h": 2848,
-    "tier": "person"
-   },
-   "extract": "James Bradley Mills is an American former professional baseball player, coach, and manager. He played in Major League Baseball (MLB) as an infielder for the Montreal Expos from 1980 to 1983. He managed the Houston Astros from 2010 to 2012, and served as a coach in MLB for the Expos, Philadelphia Phillies, Boston Red…",
-   "page": "https://en.wikipedia.org/wiki/Brad_Mills_(baseball_manager)"
-  },
-  {
-   "src": "article",
-   "kind": "event",
    "year": "2023",
    "text": "On November 12, 2023, Young confirmed that he would be leaving the Braves to join the Los Angeles Angels coaching staff as their new third base coach under newly appointed manager Ron Washington.",
    "links": [
     "Eric Young Sr."
    ],
    "about": "Eric Young Sr.",
-   "score": 40.95775152513665,
+   "score": 40.46026682517041,
    "abouts": [
     "Eric Young Sr."
    ],
@@ -132,6 +102,36 @@
    "page": "https://en.wikipedia.org/wiki/Freddie_Freeman"
   },
   {
+   "src": "article",
+   "kind": "event",
+   "year": "2020",
+   "text": "On November 12, 2020, Hoffman retired from coaching and began working for the Padres front office in an advisory role.",
+   "links": [
+    "Glenn Hoffman"
+   ],
+   "about": "Glenn Hoffman",
+   "score": 49.87945568200897,
+   "abouts": [
+    "Glenn Hoffman"
+   ],
+   "key": "99cffdc2b19279c0",
+   "headline": "Hoffman Retires From Coaching, Joins Padres Front Office",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Glenn_Hoffman_June_10%2C_2018_%2841036537740%29.jpg/960px-Glenn_Hoffman_June_10%2C_2018_%2841036537740%29.jpg",
+    "credit": "Adam Moss from East Amherst, New York, United States",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Glenn_Hoffman_June_10,_2018_(41036537740).jpg",
+    "alt": "Player in navy jersey 'HOFFMAN 26' on field, batting helmet, grey pants",
+    "source": "checked",
+    "of": "Glenn Hoffman (Commons search)",
+    "w": 4608,
+    "h": 3456,
+    "tier": "person"
+   },
+   "extract": "Glenn Edward Hoffman is an American former professional baseball shortstop, coach, and manager. Hoffman had a nine-year playing career in Major League Baseball (MLB), and served as the manager of the Los Angeles Dodgers for the last 88 games of the season in 1998. A native of Orange, California, he is the older…",
+   "page": "https://en.wikipedia.org/wiki/Glenn_Hoffman"
+  },
+  {
    "src": "yearpage",
    "kind": "event",
    "year": "2019",
@@ -139,7 +139,7 @@
    "links": [
     "Gabe Kapler"
    ],
-   "score": 68.72294371289357,
+   "score": 68.41277071425901,
    "abouts": [
     "Gabe Kapler"
    ],
@@ -170,7 +170,7 @@
     "Corey Kluber",
     "Clayton Kershaw"
    ],
-   "score": 69.08200200823849,
+   "score": 68.75924274746825,
    "abouts": [
     "Clayton Kershaw",
     "Corey Kluber"
@@ -221,42 +221,12 @@
    "src": "article",
    "kind": "event",
    "year": "2006",
-   "text": "On November 12, 2006, the Yankees traded Wright to the Baltimore Orioles for Chris Britton and cash considerations.",
-   "links": [
-    "Jaret Wright"
-   ],
-   "about": "Jaret Wright",
-   "score": 41.65308333647219,
-   "abouts": [
-    "Jaret Wright"
-   ],
-   "key": "e4d515dbc77220b0",
-   "headline": "Yankees Trade Wright to Orioles for Chris Britton and Cash",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/IMG_0372_Jaret_Wright.jpg/960px-IMG_0372_Jaret_Wright.jpg",
-    "credit": "User Keith Allison on Flickr",
-    "license": "CC BY-SA 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:IMG_0372_Jaret_Wright.jpg",
-    "alt": "Pitcher in gray Yankees road uniform, NY cap, mid-windup on mound.",
-    "source": "checked",
-    "of": "Jaret Wright",
-    "w": 1035,
-    "h": 1729,
-    "tier": "person"
-   },
-   "extract": "Jaret Samuel Wright is an American former professional baseball pitcher. He played all or parts of 11 seasons in Major League Baseball for the Cleveland Indians, San Diego Padres, Atlanta Braves, New York Yankees, and Baltimore Orioles, primarily as a starting pitcher.",
-   "page": "https://en.wikipedia.org/wiki/Jaret_Wright"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "2006",
    "text": "On November 12, 2006, Ramírez signed a five-year deal with the Cubs.",
    "links": [
     "Aramis Ramírez"
    ],
    "about": "Aramis Ramírez",
-   "score": 28.678792687218696,
+   "score": 27.73333012535092,
    "abouts": [
     "Aramis Ramírez"
    ],
@@ -286,7 +256,7 @@
     "Debs Garms"
    ],
    "about": "Debs Garms",
-   "score": 51.68229866924265,
+   "score": 51.483325951307656,
    "abouts": [
     "Debs Garms"
    ],
@@ -306,13 +276,13 @@
     "Miguel Tejada",
     "George Bell (outfielder)"
    ],
-   "score": 65.511482330768,
+   "score": 63.372009064226404,
    "abouts": [
-    "Miguel Tejada",
     "George Bell (outfielder)",
+    "Miguel Tejada",
     "Oakland Athletics"
    ],
-   "about": "Miguel Tejada",
+   "about": "George Bell (outfielder)",
    "key": "a28c59045e5cbc30",
    "headline": "Miguel Tejada Named American League MVP With 21 First-Place Votes",
    "image": {
@@ -327,8 +297,8 @@
     "h": 1630,
     "tier": "person"
    },
-   "extract": "Miguel Odalis Tejada Martínez is a Dominican former professional baseball shortstop who played 16 seasons in Major League Baseball (MLB). He played for six teams, most notably the Oakland Athletics and Baltimore Orioles, before short stints with the Houston Astros, San Diego Padres, San Francisco Giants, and Kansas…",
-   "page": "https://en.wikipedia.org/wiki/Miguel_Tejada"
+   "extract": "Jorge Antonio Bell Mathey, better known as George Bell, is a Dominican former left fielder and American League MVP in Major League Baseball who played 12 seasons for the Toronto Blue Jays, Chicago Cubs (1991) and Chicago White Sox (1992–1993). Bell batted and threw right-handed.",
+   "page": "https://en.wikipedia.org/wiki/George_Bell_(outfielder)"
   },
   {
    "src": "yearpage",
@@ -338,7 +308,7 @@
    "links": [
     "Joe Torre"
    ],
-   "score": 55.711386275679615,
+   "score": 55.463353495781845,
    "abouts": [
     "Joe Torre"
    ],
@@ -370,7 +340,7 @@
     "Seattle Mariners",
     "Frank Thomas"
    ],
-   "score": 89.32818443849814,
+   "score": 89.00245125684921,
    "abouts": [
     "Ken Griffey Jr.",
     "Frank Thomas",
@@ -409,7 +379,7 @@
     "Toronto Blue Jays",
     "Andy Pettitte"
    ],
-   "score": 91.92669053904527,
+   "score": 91.84552242785814,
    "abouts": [
     "Andy Pettitte",
     "Pat Hentgen",
@@ -441,7 +411,7 @@
    "links": [
     "Bill Dickey"
    ],
-   "score": 23.8565,
+   "score": 23.531,
    "abouts": [
     "Bill Dickey"
    ],
@@ -494,7 +464,7 @@
     "San Francisco Giants",
     "Earl Weaver"
    ],
-   "score": 42.3946391684036,
+   "score": 42.30367801724659,
    "abouts": [
     "Earl Weaver",
     "Joe Altobelli",
@@ -517,25 +487,6 @@
    },
    "extract": "Earl Sidney Weaver was an American professional baseball manager, author, and television color commentator. Weaver played in minor league baseball as a second baseman from 1948 to 1960. In 1956, he began his managerial career, serving as a player–manager for five seasons before he stopped playing to concentrate on…",
    "page": "https://en.wikipedia.org/wiki/Earl_Weaver"
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
-   "year": "1982",
-   "text": "Cass Michaels, 56, All-Star second baseman for the White Sox, Senators, Browns and Athletics whose career ended prematurely when he was hit by a pitch in the head in 1954.",
-   "links": [
-    "Cass Michaels"
-   ],
-   "score": 20.1045,
-   "abouts": [
-    "Cass Michaels"
-   ],
-   "about": "Cass Michaels",
-   "key": "e8efe5a5c25111a8",
-   "headline": "Cass Michaels, 56, All-Star Second Baseman for White Sox",
-   "image": null,
-   "extract": "Cass Michaels was an American Major League Baseball infielder. He joined the Chicago White Sox at just seventeen years old, and played twelve seasons in the majors until a beanball ended his career at just 28 years old.",
-   "page": "https://en.wikipedia.org/wiki/Cass_Michaels"
   },
   {
    "src": "yearpage",
@@ -668,7 +619,7 @@
     "St. Louis Cardinals",
     "Bing Devine"
    ],
-   "score": 50.2369148505731,
+   "score": 49.96643033510229,
    "abouts": [
     "Bing Devine",
     "Frank Lane",
@@ -748,7 +699,7 @@
     "strikeout",
     "earned run average"
    ],
-   "score": 79.8210623648491,
+   "score": 79.62630254759718,
    "abouts": [
     "Bobby Shantz",
     "strikeout",
@@ -794,7 +745,7 @@
     "Cleveland Indians",
     "1940 Cleveland Indians season"
    ],
-   "score": 20.265392217417098,
+   "score": 20.0,
    "abouts": [
     "Roger Peckinpaugh",
     "1940 Cleveland Indians season",
@@ -828,7 +779,7 @@
     "John McGraw",
     "Casey Stengel"
    ],
-   "score": 58.230892022554315,
+   "score": 58.20137303739445,
    "abouts": [
     "Casey Stengel",
     "John McGraw",
@@ -885,6 +836,25 @@
    },
    "extract": "Kenesaw Mountain Landis was an American jurist who served as a United States federal judge from 1905 to 1922 and as the first commissioner of baseball from 1920 until his death in 1944. He is remembered for his resolution of the Black Sox Scandal, in which he expelled eight members of the Chicago White Sox from…",
    "page": "https://en.wikipedia.org/wiki/Kenesaw_Mountain_Landis"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1893",
+   "text": "According to John Thorn, official historian of Major League Baseball, the last mention of the presence of the Dauvray Cup was on November 12, 1893, in Newport, Kentucky.",
+   "links": [
+    "Dauvray Cup"
+   ],
+   "about": "Dauvray Cup",
+   "score": 34.256291743595376,
+   "abouts": [
+    "Dauvray Cup"
+   ],
+   "key": "a01bbb7ba4665cdc",
+   "headline": "Dauvray Cup Last Mentioned in Newport, Kentucky",
+   "image": null,
+   "extract": "The Dauvray Cup was a championship trophy awarded in professional baseball from 1887 to 1893. Named after stage actress Helen Dauvray, who presented the cup, it was initially awarded to the winner of the World Series between the National League and American Association. It was the first World Series trophy. The last…",
+   "page": "https://en.wikipedia.org/wiki/Dauvray_Cup"
   },
   {
    "src": "yearpage",
