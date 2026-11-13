@@ -12574,6 +12574,11 @@
   "reason": "person: Player in white Tigers jersey number 39, batting, Wilcox name visible",
   "model": "claude-haiku-5-5"
  },
+ "a26e3678a6b478a1": {
+  "image": null,
+  "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
  "a27230f4ae10a7e1": {
   "image": null,
   "reason": "no free-licensed candidates",
@@ -12731,6 +12736,22 @@
    "tier": "venue"
   },
   "reason": "venue: Exterior of Citi Field stadium with CitiField signage at dusk",
+  "model": "claude-haiku-5-5"
+ },
+ "a3fa3eef8b98918b": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/DeMarlo_Hale_4-6-12.jpg/960px-DeMarlo_Hale_4-6-12.jpg",
+   "credit": "Keith Allison from Owings Mills, USA",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:DeMarlo_Hale_4-6-12.jpg",
+   "alt": "Man in Orioles white home jersey #45, orange visor helmet, sunglasses, on field",
+   "source": "checked",
+   "of": "DeMarlo Hale",
+   "w": 1122,
+   "h": 1262,
+   "tier": "person"
+  },
+  "reason": "person: Man in Orioles white home jersey #45, orange visor helmet, sunglasses, on field",
   "model": "claude-haiku-5-5"
  },
  "a40e068dd6534c7d": {

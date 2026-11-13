@@ -403,6 +403,14 @@
   "reason": "Candidate 1 is an official MLB video of the 2011 World Series Game 3 (10/22/11) covering Pujols' five hits and six RBIs, matching the story's records. Candidate",
   "query": "Albert Pujols three home runs 2011 World Series Game 3"
  },
+ "59d88d9bb02d542b": {
+  "id": "ijJS2ErjnT0",
+  "title": "Bob Gibson was one of the greatest to EVER do it! The 1968 MVP was absolutely dominant!",
+  "channel": "MLB Vault",
+  "published": "2022-02-15",
+  "reason": "Candidate 1 is an MLB Vault retrospective focused on Bob Gibson's 1968 MVP season, matching the event and year. The others concern the 1968 World Series, his de",
+  "query": "Bob Gibson Cardinals 1968 National League MVP highlights"
+ },
  "5a99a838be6f2e5b": {
   "none": "no official embeddable video",
   "query": "Philadelphia Athletics win 1910 World Series Game 5 Cubs"
@@ -1070,6 +1078,10 @@
   "published": "2016-07-22",
   "reason": "Candidate 1 is an official Mariners/MLB video explicitly about Griffey's unanimous 1997 MVP season, which matches the story. Candidate 2 covers a different even",
   "query": "Ken Griffey Jr. MVP 1997 Mariners highlights"
+ },
+ "f0c5c97ae6ed67f1": {
+  "none": "no official embeddable video",
+  "query": "Espada Astros manager promoted Dusty Baker retirement 2023"
  },
  "f1454734795cdf09": {
   "none": "no official embeddable video",

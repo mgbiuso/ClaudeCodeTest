@@ -10,7 +10,7 @@
    "links": [
     "Jacob DeGrom"
    ],
-   "score": 85.0,
+   "score": 106.55876930527877,
    "abouts": [
     "Jacob DeGrom"
    ],
@@ -47,7 +47,7 @@
     "Craig Albernaz"
    ],
    "about": "Craig Albernaz",
-   "score": 42.25537653837874,
+   "score": 41.25200573998579,
    "abouts": [
     "Craig Albernaz"
    ],
@@ -71,13 +71,32 @@
   {
    "src": "article",
    "kind": "event",
+   "year": "2024",
+   "text": "On November 13, 2024, Holt was hired by the Boston Red Sox to serve as their bullpen coach.",
+   "links": [
+    "Chris Holt (baseball coach)"
+   ],
+   "about": "Chris Holt (baseball coach)",
+   "score": 23.669996432691935,
+   "abouts": [
+    "Chris Holt (baseball coach)"
+   ],
+   "key": "a26e3678a6b478a1",
+   "headline": "Holt Hired as Red Sox Bullpen Coach",
+   "image": null,
+   "extract": "Christopher Anthony Holt is an American professional baseball coach and former pitcher. He is currently the bullpen coach for the Boston Red Sox of Major League Baseball (MLB). He previously served as pitching coach for the Baltimore Orioles for three seasons.",
+   "page": "https://en.wikipedia.org/wiki/Chris_Holt_(baseball_coach)"
+  },
+  {
+   "src": "article",
+   "kind": "event",
    "year": "2023",
    "text": "On November 13, 2023, following the 2023 season, Espada was promoted to manage the Astros after the retirement of Dusty Baker, as 25th in franchise history.",
    "links": [
     "Joe Espada"
    ],
    "about": "Joe Espada",
-   "score": 50.0,
+   "score": 71.6615862227049,
    "abouts": [
     "Joe Espada"
    ],
@@ -101,67 +120,32 @@
   {
    "src": "article",
    "kind": "event",
-   "year": "2019",
-   "text": "On November 13, 2019, it was reported that Cora, along with former Astros player Carlos Beltrán, played a key role in the Houston Astros sign stealing scandal during their time with the team, which included Houston's 2017 championship season.",
+   "year": "2023",
+   "text": "On November 13, 2023, Hale was hired by the Toronto Blue Jays to serve as associate manager under John Schneider.",
    "links": [
-    "Alex Cora"
+    "DeMarlo Hale"
    ],
-   "about": "Alex Cora",
-   "score": 58.10520596552749,
+   "about": "DeMarlo Hale",
+   "score": 37.481072926732026,
    "abouts": [
-    "Alex Cora"
+    "DeMarlo Hale"
    ],
-   "key": "7f147caf2c74ecce",
-   "headline": "Cora, Beltrán Key Figures in Astros Sign Stealing Scandal",
+   "key": "a3fa3eef8b98918b",
+   "headline": "Hale Hired as Blue Jays Associate Manager Under Schneider",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Alex_Cora_%28alWnEAerYqM%29.png",
-    "credit": "Latinos En Pelota",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Alex_Cora_(alWnEAerYqM).png",
-    "alt": "Man in Red Sox cap and jersey at Fenway Park, smiling outdoors.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/DeMarlo_Hale_4-6-12.jpg/960px-DeMarlo_Hale_4-6-12.jpg",
+    "credit": "Keith Allison from Owings Mills, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:DeMarlo_Hale_4-6-12.jpg",
+    "alt": "Man in Orioles white home jersey #45, orange visor helmet, sunglasses, on field",
     "source": "checked",
-    "of": "Alex Cora",
-    "w": 417,
-    "h": 556,
+    "of": "DeMarlo Hale",
+    "w": 1122,
+    "h": 1262,
     "tier": "person"
    },
-   "extract": "Jose Alexander Cora is a Puerto Rican professional baseball manager and former infielder who most recently managed the Boston Red Sox in Major League Baseball (MLB). He previously played in MLB for 14 seasons with the Red Sox, Los Angeles Dodgers, Cleveland Indians, New York Mets, Texas Rangers, and Washington…",
-   "page": "https://en.wikipedia.org/wiki/Alex_Cora"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "2018",
-   "text": "On November 13, 2018, Snitker was awarded the National League Manager of the Year Award for the 2018 season.",
-   "links": [
-    "Brian Snitker"
-   ],
-   "about": "Brian Snitker",
-   "score": 52.72831235353773,
-   "abouts": [
-    "Brian Snitker"
-   ],
-   "key": "80b239805d25e025",
-   "headline": "Snitker Wins NL Manager of the Year Award",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Brian_Snitker.jpg",
-    "credit": "Chrisjnelson on en.wikipedia",
-    "license": "CC BY 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Brian_Snitker.jpg",
-    "alt": "Baseball player in white Braves jersey #43 'SNITKER', standing on field",
-    "source": "checked",
-    "of": "Brian Snitker",
-    "w": 662,
-    "h": 772,
-    "tier": "person"
-   },
-   "extract": "Brian Gerald Snitker is an American professional baseball coach and manager. He was the manager for the Atlanta Braves of Major League Baseball (MLB) for 10 seasons from 2016 to 2025. Snitker has spent 49 years in the Braves organization, starting as a catcher and first baseman in the Braves' minor league system from…",
-   "page": "https://en.wikipedia.org/wiki/Brian_Snitker",
-   "video": {
-    "id": "VsjNM2O61Ys",
-    "title": "MLB.com FastCast: Melvin, Snitker are MOY - 11/13/18",
-    "channel": "MLB"
-   }
+   "extract": "DeMarlo Hale is an American professional baseball coach for the Toronto Blue Jays of Major League Baseball (MLB). Hale played minor league baseball from 1983 to 1988 in the Boston Red Sox and Oakland Athletics organizations.",
+   "page": "https://en.wikipedia.org/wiki/DeMarlo_Hale"
   },
   {
    "src": "yearpage",
@@ -171,7 +155,7 @@
    "links": [
     "Bobby Doerr"
    ],
-   "score": 20.0,
+   "score": 22.0565,
    "abouts": [
     "Bobby Doerr"
    ],
@@ -203,13 +187,13 @@
     "Free agent",
     "Colby Rasmus"
    ],
-   "score": 33.232361726060404,
+   "score": 30.586190710699096,
    "abouts": [
+    "Free agent",
     "Colby Rasmus",
-    "Brett Anderson (baseball)",
-    "Free agent"
+    "Brett Anderson (baseball)"
    ],
-   "about": "Colby Rasmus",
+   "about": "Free agent",
    "key": "92f5f45800a0472e",
    "headline": "Brett Anderson Accepts Dodgers' Qualifying Offer, $15.8 Million",
    "image": {
@@ -237,7 +221,7 @@
     "Clayton Kershaw",
     "Major League Baseball Most Valuable Player Award"
    ],
-   "score": 44.08200200823849,
+   "score": 43.74937695587561,
    "abouts": [
     "Clayton Kershaw",
     "Mike Trout",
@@ -269,7 +253,7 @@
    "links": [
     "Alvin Dark"
    ],
-   "score": 22.0335,
+   "score": 22.1175,
    "abouts": [
     "Alvin Dark"
    ],
@@ -301,7 +285,7 @@
     "Detroit Tigers",
     "Clayton Kershaw"
    ],
-   "score": 69.08200200823849,
+   "score": 68.74937695587562,
    "abouts": [
     "Clayton Kershaw",
     "Max Scherzer",
@@ -339,7 +323,7 @@
     "Dante Bichette"
    ],
    "about": "Dante Bichette",
-   "score": 30.06713563535348,
+   "score": 29.29779286313027,
    "abouts": [
     "Dante Bichette"
    ],
@@ -426,7 +410,7 @@
     "1997 Cleveland Indians season"
    ],
    "about": "1997 Cleveland Indians season",
-   "score": 43.00758391825005,
+   "score": 42.956992756406244,
    "abouts": [
     "1997 Cleveland Indians season"
    ],
@@ -509,7 +493,7 @@
    "key": "9404abbe486912a0",
    "headline": "Reggie Jackson, Ferguson Jenkins Among Free Agents",
    "image": null,
-   "extract": "The National Baseball Hall of Fame and Museum is a history museum and hall of fame in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying baseball-related artifacts and exhibits, honoring those who…",
+   "extract": "The National Baseball Hall of Fame and Museum, often simply referred to as \"Cooperstown\", is a history museum and hall of fame located in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying…",
    "page": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
   },
   {
@@ -590,7 +574,7 @@
     "St. Louis Cardinals",
     "National League (baseball)"
    ],
-   "score": 45.0,
+   "score": 66.97243351581292,
    "abouts": [
     "Bob Gibson",
     "National League (baseball)",
@@ -612,7 +596,12 @@
     "tier": "person"
    },
    "extract": "Pack Robert Gibson Jr., nicknamed \"Gibby\" and \"Hoot\", was an American professional baseball pitcher in Major League Baseball (MLB) who played his entire career for the St. Louis Cardinals from 1959 to 1975. Known for his fiercely competitive nature, Gibson tallied 251 wins, 3,117 strikeouts, and a 2.91 earned run…",
-   "page": "https://en.wikipedia.org/wiki/Bob_Gibson"
+   "page": "https://en.wikipedia.org/wiki/Bob_Gibson",
+   "video": {
+    "id": "ijJS2ErjnT0",
+    "title": "Bob Gibson was one of the greatest to EVER do it! The 1968 MVP was absolutely dominant!",
+    "channel": "MLB Vault"
+   }
   },
   {
    "src": "yearpage",
@@ -715,7 +704,7 @@
     "Cincinnati Red Stockings (AA)",
     "American Association (1882–1891)"
    ],
-   "score": 37.4271874053815,
+   "score": 37.48533968199253,
    "abouts": [
     "American Association (1882–1891)",
     "Cincinnati Red Stockings (AA)",
