@@ -4354,6 +4354,22 @@
   "reason": "person: Man in Detroit 'D' road uniform and cap, outdoors, grayscale.",
   "model": "claude-haiku-5-5"
  },
+ "3c31a8a540cfdc5b": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Erik_Gonz%C3%A1lez.jpg/960px-Erik_Gonz%C3%A1lez.jpg",
+   "credit": "Keith Allison",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Erik_Gonz%C3%A1lez.jpg",
+   "alt": "Smiling baseball player in navy Indians jersey holding glove",
+   "source": "checked",
+   "of": "Erik González",
+   "w": 2504,
+   "h": 3464,
+   "tier": "person"
+  },
+  "reason": "person: Smiling baseball player in navy Indians jersey holding glove",
+  "model": "claude-haiku-5-5"
+ },
  "3c56118b5366301c": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1882_Buffalo_Bisons.jpg",

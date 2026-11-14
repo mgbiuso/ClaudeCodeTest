@@ -33,7 +33,7 @@
     "h": 712,
     "tier": "person"
    },
-   "extract": "The National Baseball Hall of Fame and Museum is a history museum and hall of fame in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying baseball-related artifacts and exhibits, honoring those who…",
+   "extract": "The National Baseball Hall of Fame and Museum, often simply referred to as \"Cooperstown\", is a history museum and hall of fame located in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying…",
    "page": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum",
    "lead": true
   },
@@ -46,7 +46,7 @@
     "Daniel Espino"
    ],
    "about": "Daniel Espino",
-   "score": 30.616317379514125,
+   "score": 30.670885537883834,
    "abouts": [
     "Daniel Espino"
    ],
@@ -76,7 +76,7 @@
     "Brady Williams"
    ],
    "about": "Brady Williams",
-   "score": 24.751824271880615,
+   "score": 26.036825187345357,
    "abouts": [
     "Brady Williams"
    ],
@@ -98,6 +98,36 @@
    "page": "https://en.wikipedia.org/wiki/Brady_Williams"
   },
   {
+   "src": "article",
+   "kind": "event",
+   "year": "2018",
+   "text": "On November 14, 2018, González (along with minor leaguers Tahnaj Thomas and Dante Mendoza) were traded to the Pittsburgh Pirates in exchange for Max Moroff and Jordan Luplow.",
+   "links": [
+    "Erik González"
+   ],
+   "about": "Erik González",
+   "score": 49.01728557824207,
+   "abouts": [
+    "Erik González"
+   ],
+   "key": "3c31a8a540cfdc5b",
+   "headline": "González Traded to Pirates for Moroff and Luplow",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Erik_Gonz%C3%A1lez.jpg/960px-Erik_Gonz%C3%A1lez.jpg",
+    "credit": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Erik_Gonz%C3%A1lez.jpg",
+    "alt": "Smiling baseball player in navy Indians jersey holding glove",
+    "source": "checked",
+    "of": "Erik González",
+    "w": 2504,
+    "h": 3464,
+    "tier": "person"
+   },
+   "extract": "Erik González is a Dominican professional baseball shortstop for the Leones de Yucatán of the Mexican League. He has previously played in Major League Baseball (MLB) for the Cleveland Indians, Pittsburgh Pirates, and Miami Marlins.",
+   "page": "https://en.wikipedia.org/wiki/Erik_Gonz%C3%A1lez"
+  },
+  {
    "src": "yearpage",
    "kind": "event",
    "year": "2015",
@@ -107,7 +137,7 @@
     "Manuel Margot",
     "Javy Guerra (baseball, born 1995)"
    ],
-   "score": 42.45953860457415,
+   "score": 41.14943264622946,
    "abouts": [
     "Craig Kimbrel",
     "Manuel Margot",
@@ -128,7 +158,7 @@
     "h": 2161,
     "tier": "person"
    },
-   "extract": "Craig Michael Kimbrel is an American professional baseball pitcher for the Kansas City Royals of Major League Baseball (MLB). He has previously played in MLB for the Atlanta Braves, San Diego Padres, Boston Red Sox, Chicago Cubs, Chicago White Sox, Los Angeles Dodgers, Philadelphia Phillies, Baltimore Orioles, Houston…",
+   "extract": "Craig Michael Kimbrel is an American professional baseball pitcher who is a free agent. He has played in Major League Baseball (MLB) for the Atlanta Braves, San Diego Padres, Boston Red Sox, Chicago Cubs, Chicago White Sox, Los Angeles Dodgers, Philadelphia Phillies, Baltimore Orioles, Houston Astros, New York Mets,…",
    "page": "https://en.wikipedia.org/wiki/Craig_Kimbrel"
   },
   {
@@ -170,7 +200,7 @@
     "instant replay",
     "2014 Major League Baseball season"
    ],
-   "score": 38.71087521611838,
+   "score": 38.78773926734622,
    "abouts": [
     "instant replay",
     "2014 Major League Baseball season"
@@ -191,7 +221,7 @@
     "Brad Snyder (baseball)"
    ],
    "about": "Brad Snyder (baseball)",
-   "score": 31.52675684723312,
+   "score": 31.202746241412996,
    "abouts": [
     "Brad Snyder (baseball)"
    ],
@@ -256,7 +286,7 @@
     "Gold Glove Award",
     "Texas Rangers (baseball)"
    ],
-   "score": 22.0,
+   "score": 44.341219573260986,
    "abouts": [
     "Gold Glove Award",
     "California Angels",
@@ -290,7 +320,7 @@
     "Oakland Athletics",
     "Seattle Mariners"
    ],
-   "score": 50.32976490156935,
+   "score": 50.16912846976655,
    "abouts": [
     "Bruce Bochte",
     "Oakland Athletics",
@@ -313,7 +343,7 @@
     "Duane Kuiper",
     "San Francisco Giants"
    ],
-   "score": 47.02835360860663,
+   "score": 46.741426937613056,
    "abouts": [
     "Duane Kuiper",
     "Cleveland Indians",
@@ -347,7 +377,7 @@
     "Dave Goltz",
     "Minnesota Twins"
    ],
-   "score": 23.323209877780627,
+   "score": 22.769415133219372,
    "abouts": [
     "Dave Goltz",
     "Los Angeles Dodgers",
@@ -413,7 +443,7 @@
    "links": [
     "Bill Sherdel"
    ],
-   "score": 22.698,
+   "score": 20.2535,
    "abouts": [
     "Bill Sherdel"
    ],
@@ -434,7 +464,7 @@
     "New York Mets",
     "Bing Devine"
    ],
-   "score": 78.2073705525205,
+   "score": 77.9829854781323,
    "abouts": [
     "Bing Devine",
     "George Weiss (baseball)",
@@ -457,18 +487,18 @@
     "Continental League",
     "Branch Rickey"
    ],
-   "score": 68.66945205808062,
+   "score": 47.0,
    "abouts": [
-    "Branch Rickey",
     "Continental League",
+    "Branch Rickey",
     "New York Mets"
    ],
-   "about": "Branch Rickey",
+   "about": "Continental League",
    "key": "919df155d809daf7",
    "headline": "Charles Hurth, 55, Resigns as Mets General Manager",
    "image": null,
-   "extract": "Wesley Branch Rickey was an American professional baseball catcher, manager, sports executive, and team owner. He was instrumental in breaking the baseball color line by signing black player Jackie Robinson. He also created the framework for the modern minor league farm system, encouraged the major leagues to add new…",
-   "page": "https://en.wikipedia.org/wiki/Branch_Rickey"
+   "extract": "The Continental League of Professional Baseball Clubs was a proposed third major league for baseball in the United States and Canada. The league was announced in 1959 and scheduled to begin play in the 1961 season. Unlike previous attempts at competitor leagues to Major League Baseball such as the Players' League…",
+   "page": "https://en.wikipedia.org/wiki/Continental_League"
   },
   {
    "src": "yearpage",
@@ -480,7 +510,7 @@
     "National League (baseball)",
     "Bay St. Louis, Mississippi"
    ],
-   "score": 108.69033357388734,
+   "score": 108.69944327542271,
    "abouts": [
     "Bay St. Louis, Mississippi",
     "Mel Ott",
@@ -598,36 +628,6 @@
   {
    "src": "yearpage",
    "kind": "death",
-   "year": "1932",
-   "text": "Boss Schmidt, 52, catcher who played six seasons with the Detroit Tigers from 1906 to 1911, helping them to clinch three American League pennants from 1907 to 1909.",
-   "links": [
-    "Boss Schmidt"
-   ],
-   "score": 20.207,
-   "abouts": [
-    "Boss Schmidt"
-   ],
-   "about": "Boss Schmidt",
-   "key": "a2d3378bfcd7f6ed",
-   "headline": "Boss Schmidt, 52, Catcher for Detroit Tigers 1906-1911",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Charles_Schmidt.jpg/960px-Charles_Schmidt.jpg",
-    "credit": "unknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Charles_Schmidt.jpg",
-    "alt": "Man in Detroit Tigers 'D' road uniform and cap, full-length, black-and-white.",
-    "source": "checked",
-    "of": "Boss Schmidt",
-    "w": 1044,
-    "h": 3106,
-    "tier": "person"
-   },
-   "extract": "Charles \"Boss\" Schmidt was an American professional baseball catcher for the Detroit Tigers of Major League Baseball (MLB)",
-   "page": "https://en.wikipedia.org/wiki/Boss_Schmidt"
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
    "year": "1929",
    "text": "Joe McGinnity, 58, Hall of Fame pitcher whose 246 victories included eight 20-win seasons, while leading the National League in wins five times, in innings four times and games six times, as his 31 wins for the 1903 New York Giants included three complete August doubleheaders, and also won 239 games in the minor leagues.",
    "links": [
@@ -667,7 +667,7 @@
     "American Association (1882–1891)",
     "Western League (original)"
    ],
-   "score": 37.4271874053815,
+   "score": 37.45820896738793,
    "abouts": [
     "American Association (1882–1891)",
     "Western League (original)",
@@ -851,13 +851,5 @@
   "farewellCount": 3,
   "hofDebuts": 0,
   "managerDebuts": []
- },
- "papers": [
-  {
-   "year": 1961,
-   "paper": "Montgomery County sentinel (Rockville, Md.)",
-   "page": 8,
-   "url": "https://www.loc.gov/resource/sn83016209/1961-11-14/ed-1/?sp=8&q=baseball"
-  }
- ]
+ }
 }
