@@ -13293,6 +13293,22 @@
   "reason": "person: Padres pitcher in gray road uniform on field, fielder behind, packed stands",
   "model": "claude-haiku-5-5"
  },
+ "aa60bcc5952b310a": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Turang_2_61824_%28cropped%29.jpg/960px-Turang_2_61824_%28cropped%29.jpg",
+   "credit": "Sewageboy",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Turang_2_61824_(cropped).jpg",
+   "alt": "Batter in Brewers gray road uniform #2 on base, Cardinals infielder nearby",
+   "source": "checked",
+   "of": "Brice Turang",
+   "w": 1112,
+   "h": 1378,
+   "tier": "person"
+  },
+  "reason": "person: Batter in Brewers gray road uniform #2 on base, Cardinals infielder nearby",
+  "model": "claude-haiku-5-5"
+ },
  "aa86622bf27a617b": {
   "image": null,
   "reason": "weak pick (0.2): 1888 Cincinnati team photo is from a different era (~66 years before 1954), so it fails the within-5-years team criterion; included only as the closest Cincinnati team photo, low confidence.",

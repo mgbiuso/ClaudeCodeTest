@@ -12,7 +12,7 @@
     "posting system",
     "Seibu Lions"
    ],
-   "score": 78.02760261718734,
+   "score": 77.99066822906619,
    "abouts": [
     "posting system",
     "Boston Red Sox",
@@ -46,7 +46,7 @@
     "David Bell (baseball)"
    ],
    "about": "David Bell (baseball)",
-   "score": 39.68342336310465,
+   "score": 39.61938237819066,
    "abouts": [
     "David Bell (baseball)"
    ],
@@ -70,13 +70,43 @@
   {
    "src": "article",
    "kind": "event",
+   "year": "2022",
+   "text": "On November 15, 2022, the Brewers added Turang to their 40–man roster to protect him from the Rule 5 draft.",
+   "links": [
+    "Brice Turang"
+   ],
+   "about": "Brice Turang",
+   "score": 35,
+   "abouts": [
+    "Brice Turang"
+   ],
+   "key": "aa60bcc5952b310a",
+   "headline": "Brewers Add Turang to 40-Man Roster, Protect Him From Rule 5",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Turang_2_61824_%28cropped%29.jpg/960px-Turang_2_61824_%28cropped%29.jpg",
+    "credit": "Sewageboy",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Turang_2_61824_(cropped).jpg",
+    "alt": "Batter in Brewers gray road uniform #2 on base, Cardinals infielder nearby",
+    "source": "checked",
+    "of": "Brice Turang",
+    "w": 1112,
+    "h": 1378,
+    "tier": "person"
+   },
+   "extract": "Brice Craig Turang is an American professional baseball second baseman for the Milwaukee Brewers of Major League Baseball (MLB). The Brewers selected Turang in the first round, with the 21st overall selection, of the 2018 MLB draft. He made his MLB debut in 2023 and won a Gold Glove Award and Platinum Glove Award in…",
+   "page": "https://en.wikipedia.org/wiki/Brice_Turang"
+  },
+  {
+   "src": "article",
+   "kind": "event",
    "year": "2016",
    "text": "On November 15, 2016, Cora became the bench coach for the Houston Astros.",
    "links": [
     "Alex Cora"
    ],
    "about": "Alex Cora",
-   "score": 33.10380244997103,
+   "score": 32.931979964749786,
    "abouts": [
     "Alex Cora"
    ],
@@ -107,7 +137,7 @@
     "Euclid High School",
     "Ohio"
    ],
-   "score": 20.0575,
+   "score": 20.0515,
    "abouts": [
     "Bob Addis",
     "Euclid High School",
@@ -129,7 +159,7 @@
     "Dodger Stadium"
    ],
    "about": "Dodger Stadium",
-   "score": 73.29981856639178,
+   "score": 73.0602617758988,
    "abouts": [
     "Dodger Stadium"
    ],
@@ -160,7 +190,7 @@
     "Peoria Javelinas",
     "Arizona Fall League"
    ],
-   "score": 59.16892187328239,
+   "score": 59.3270005908965,
    "abouts": [
     "Arizona Fall League",
     "Salt River Rafters",
@@ -174,36 +204,6 @@
    "page": "https://en.wikipedia.org/wiki/Arizona_Fall_League"
   },
   {
-   "src": "article",
-   "kind": "event",
-   "year": "2010",
-   "text": "On November 15, 2010, Blum signed a two-year contract worth $2.",
-   "links": [
-    "Geoff Blum"
-   ],
-   "about": "Geoff Blum",
-   "score": 30.120580364133854,
-   "abouts": [
-    "Geoff Blum"
-   ],
-   "key": "4f5e95f0b438e10a",
-   "headline": "Blum Signs Two-Year Contract Worth $2",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Geoff_Blum.jpg/960px-Geoff_Blum.jpg",
-    "credit": "William Holtkamp on Flickr (Original version) User UCinternational",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Geoff_Blum.jpg",
-    "alt": "Pinstriped MLB player, back view, jersey 'BLUM' number 27, glove",
-    "source": "checked",
-    "of": "Geoff Blum",
-    "w": 1150,
-    "h": 1600,
-    "tier": "person"
-   },
-   "extract": "Geoffrey Edward Blum is an American former professional baseball infielder in Major League Baseball who played for the Montreal Expos, Houston Astros, Tampa Bay Devil Rays, San Diego Padres, Chicago White Sox and Arizona Diamondbacks. He is currently the TV color analyst for the Houston Astros.",
-   "page": "https://en.wikipedia.org/wiki/Geoff_Blum"
-  },
-  {
    "src": "yearpage",
    "kind": "event",
    "year": "2005",
@@ -213,7 +213,7 @@
     "St. Louis Cardinals",
     "Willie McGee"
    ],
-   "score": 59.11234420929706,
+   "score": 58.82860348381908,
    "abouts": [
     "Albert Pujols",
     "Willie McGee",
@@ -238,29 +238,6 @@
    "page": "https://en.wikipedia.org/wiki/Albert_Pujols"
   },
   {
-   "src": "yearpage",
-   "kind": "event",
-   "year": "1991",
-   "text": "Gary Carter returns to the Montreal Expos when they claim him off waivers from the Los Angeles Dodgers.",
-   "links": [
-    "Gary Carter",
-    "Montreal Expos",
-    "Los Angeles Dodgers"
-   ],
-   "score": 31.772942939386205,
-   "abouts": [
-    "Gary Carter",
-    "Montreal Expos",
-    "Los Angeles Dodgers"
-   ],
-   "about": "Gary Carter",
-   "key": "9cdafd001d4be3bc",
-   "headline": "Expos Reclaim Gary Carter off Waivers From Dodgers",
-   "image": null,
-   "extract": "Gary Edmund Carter was an American professional baseball catcher whose 19-year Major League Baseball (MLB) career was spent primarily with the Montreal Expos and New York Mets. Nicknamed \"the Kid\" for his youthful exuberance, Carter was named an All-Star 11 times and was a member of the 1986 World Series champion Mets.",
-   "page": "https://en.wikipedia.org/wiki/Gary_Carter"
-  },
-  {
    "src": "article",
    "kind": "event",
    "year": "1991",
@@ -269,7 +246,7 @@
     "Scott Scudder"
    ],
    "about": "Scott Scudder",
-   "score": 25.0,
+   "score": 37.26659170023519,
    "abouts": [
     "Scott Scudder"
    ],
@@ -293,6 +270,29 @@
   {
    "src": "yearpage",
    "kind": "event",
+   "year": "1991",
+   "text": "Gary Carter returns to the Montreal Expos when they claim him off waivers from the Los Angeles Dodgers.",
+   "links": [
+    "Gary Carter",
+    "Montreal Expos",
+    "Los Angeles Dodgers"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Gary Carter",
+    "Montreal Expos",
+    "Los Angeles Dodgers"
+   ],
+   "about": "Gary Carter",
+   "key": "9cdafd001d4be3bc",
+   "headline": "Expos Reclaim Gary Carter off Waivers From Dodgers",
+   "image": null,
+   "extract": "Gary Edmund Carter was an American professional baseball catcher whose 19-year Major League Baseball (MLB) career was spent primarily with the Montreal Expos and New York Mets. Nicknamed \"the Kid\" for his youthful exuberance, Carter was named an All-Star 11 times and was a member of the 1986 World Series champion Mets.",
+   "page": "https://en.wikipedia.org/wiki/Gary_Carter"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
    "year": "1989",
    "text": "Bret Saberhagen of the Kansas City Royals wins his second career AL Cy Young Award, capturing 27 of a possible 28 first-place votes. Saberhagen, 25, led the AL in victories (23), earned run average (2.16) and innings pitched (262<small>1/3</small>).",
    "links": [
@@ -300,7 +300,7 @@
     "Kansas City Royals",
     "Cy Young Award"
    ],
-   "score": 54.171785563592024,
+   "score": 53.96440872692698,
    "abouts": [
     "Bret Saberhagen",
     "Cy Young Award",
@@ -415,7 +415,7 @@
     "winning percentage",
     "Joe McCarthy (manager)"
    ],
-   "score": 20.77,
+   "score": 20.7765,
    "abouts": [
     "Billy Southworth",
     "winning percentage",
@@ -449,13 +449,13 @@
     "Carl Yastrzemski",
     "Major League Baseball Most Valuable Player Award"
    ],
-   "score": 34.771526181671604,
+   "score": 10.0,
    "abouts": [
-    "Carl Yastrzemski",
     "Triple crown (baseball)",
+    "Carl Yastrzemski",
     "Major League Baseball Most Valuable Player Award"
    ],
-   "about": "Carl Yastrzemski",
+   "about": "Triple crown (baseball)",
    "key": "5f38b80822ec39ae",
    "headline": "Carl Yastrzemski Wins Near-Unanimous AL MVP After Triple Crown",
    "image": {
@@ -470,8 +470,8 @@
     "h": 800,
     "tier": "person"
    },
-   "extract": "Carl Michael Yastrzemski Sr., nicknamed \"Yaz\", is an American former professional baseball player who played his entire 23-year career with the Boston Red Sox of Major League Baseball (MLB). He started his career primarily as a left fielder, but also played 33 games as a third baseman. Later in his career, he was…",
-   "page": "https://en.wikipedia.org/wiki/Carl_Yastrzemski"
+   "extract": "In baseball, a player earns a Triple Crown when they lead a league in three specific statistical categories in the same season. The term \"Triple Crown\" generally refers to the batting achievement of leading a league in batting average, home runs, and runs batted in (RBI) over the same season. The term \"Pitching Triple…",
+   "page": "https://en.wikipedia.org/wiki/Triple_Crown_(baseball)"
   },
   {
    "src": "yearpage",
@@ -539,7 +539,7 @@
     "1934 Cincinnati Reds season"
    ],
    "about": "1934 Cincinnati Reds season",
-   "score": 34.569069261918585,
+   "score": 34.647094628571466,
    "abouts": [
     "1934 Cincinnati Reds season"
    ],
@@ -557,7 +557,7 @@
    "links": [
     "Billy Nash"
    ],
-   "score": 20.084,
+   "score": 20.081,
    "abouts": [
     "Billy Nash"
    ],
@@ -669,19 +669,5 @@
    1884,
    2021
   ]
- },
- "papers": [
-  {
-   "year": 1961,
-   "paper": "Amerikanski srbobran (Pittsburg, Pa.;Pittsburgh, Pa.)",
-   "page": 1,
-   "url": "https://www.loc.gov/resource/sn85055101/1961-11-15/ed-1/?sp=1&q=baseball"
-  },
-  {
-   "year": 1951,
-   "paper": "Montana farmer-stockman (Great Falls, Mont.)",
-   "page": 13,
-   "url": "https://www.loc.gov/resource/sn86075096/1951-11-15/ed-1/?sp=13&q=baseball"
-  }
- ]
+ }
 }
