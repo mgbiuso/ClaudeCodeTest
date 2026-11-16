@@ -12,7 +12,7 @@
     "Baltimore Orioles",
     "Major League Baseball Most Valuable Player Award"
    ],
-   "score": 93.94225603511728,
+   "score": 93.48645191939441,
    "abouts": [
     "Cal Ripken Jr.",
     "Major League Baseball Most Valuable Player Award",
@@ -76,12 +76,12 @@
     "Kevin Cash",
     "Gabe Kapler"
    ],
-   "score": 55.734921476370374,
+   "score": 53.443928062012525,
    "abouts": [
-    "Kevin Cash",
-    "Gabe Kapler"
+    "Gabe Kapler",
+    "Kevin Cash"
    ],
-   "about": "Kevin Cash",
+   "about": "Gabe Kapler",
    "key": "e0cd35b79701bcf5",
    "headline": "Kevin Cash Named AL Manager of the Year for Second Straight Year",
    "image": {
@@ -96,8 +96,8 @@
     "h": 3648,
     "tier": "person"
    },
-   "extract": "Kevin Forrest Cash is an American professional baseball manager and former player who is the manager of the Tampa Bay Rays of Major League Baseball (MLB). Previously, Cash played catcher in MLB for the Toronto Blue Jays, Tampa Bay Devil Rays, Boston Red Sox, New York Yankees, and Houston Astros. As a player, Cash was…",
-   "page": "https://en.wikipedia.org/wiki/Kevin_Cash"
+   "extract": "Gabriel Stefan Kapler, nicknamed \"Kap\", is an American professional baseball executive and former outfielder and manager who serves as the general manager of the Miami Marlins of Major League Baseball (MLB).",
+   "page": "https://en.wikipedia.org/wiki/Gabe_Kapler"
   },
   {
    "src": "article",
@@ -108,7 +108,7 @@
     "Citi Field"
    ],
    "about": "Citi Field",
-   "score": 57.30087961759014,
+   "score": 56.793575569010656,
    "abouts": [
     "Citi Field"
    ],
@@ -161,7 +161,7 @@
     "Brandon Wood"
    ],
    "about": "Brandon Wood",
-   "score": 33.72146491561338,
+   "score": 33.468634744618235,
    "abouts": [
     "Brandon Wood"
    ],
@@ -191,7 +191,7 @@
     "Dale Sveum"
    ],
    "about": "Dale Sveum",
-   "score": 40.00595266307667,
+   "score": 41.181937096632055,
    "abouts": [
     "Dale Sveum"
    ],
@@ -222,7 +222,7 @@
     "Michael Dunn (baseball)",
     "Omar Infante"
    ],
-   "score": 43.110551801806096,
+   "score": 42.62975670624006,
    "abouts": [
     "Dan Uggla",
     "Michael Dunn (baseball)",
@@ -274,7 +274,7 @@
     "Andrew Bailey (baseball)"
    ],
    "about": "Andrew Bailey (baseball)",
-   "score": 38.1582333147921,
+   "score": 37.36378224658606,
    "abouts": [
     "Andrew Bailey (baseball)"
    ],
@@ -303,7 +303,7 @@
    "links": [
     "Barry Bonds"
    ],
-   "score": 34.88889230037377,
+   "score": 34.55666711223806,
    "abouts": [
     "Barry Bonds"
    ],
@@ -322,7 +322,7 @@
     "h": 1342,
     "tier": "person"
    },
-   "extract": "Barry Lamar Bonds is an American former professional baseball left fielder who played 22 seasons in Major League Baseball (MLB). Bonds was a member of the Pittsburgh Pirates from 1986 to 1992 and the San Francisco Giants from 1993 to 2007. He is considered one of the greatest baseball players of all time.",
+   "extract": "Barry Lamar Bonds is an American former professional baseball left fielder who played 22 seasons in Major League Baseball (MLB). He was a member of the Pittsburgh Pirates from 1986 to 1992 and the San Francisco Giants from 1993 to 2007. Bonds is widely considered to be one of the greatest baseball players of all time.",
    "page": "https://en.wikipedia.org/wiki/Barry_Bonds"
   },
   {
@@ -334,7 +334,7 @@
     "Jeff Kent",
     "San Francisco Giants"
    ],
-   "score": 67.14593422452356,
+   "score": 65.50409197865768,
    "abouts": [
     "Jeff Kent",
     "San Francisco Giants"
@@ -367,7 +367,7 @@
     "Gold Glove Award",
     "second base"
    ],
-   "score": 20.6985,
+   "score": 20.3925,
    "abouts": [
     "Charlie Neal",
     "Gold Glove Award",
@@ -401,7 +401,7 @@
     "Andrés Galarraga",
     "Don Baylor"
    ],
-   "score": 30.203802621143492,
+   "score": 29.410344722180742,
    "abouts": [
     "Don Baylor",
     "Andrés Galarraga",
@@ -435,7 +435,7 @@
     "Kevin Bass",
     "Houston Astros"
    ],
-   "score": 26.36847793965046,
+   "score": 10.0,
    "abouts": [
     "Kevin Bass",
     "San Francisco Giants",
@@ -458,7 +458,7 @@
     "MLB Most Valuable Player Award",
     "slugging percentage"
    ],
-   "score": 69.38901560847567,
+   "score": 68.50408084641806,
    "abouts": [
     "José Canseco",
     "MLB Most Valuable Player Award",
@@ -481,13 +481,13 @@
     "WGN-TV",
     "Harry Caray"
    ],
-   "score": 32.522965908704705,
+   "score": 10.0,
    "abouts": [
-    "Harry Caray",
     "WGN-TV",
+    "Harry Caray",
     "Chicago Cubs"
    ],
-   "about": "Harry Caray",
+   "about": "WGN-TV",
    "key": "8765cede91e2e151",
    "headline": "Cubs Sign Harry Caray Away From White Sox for WGN-TV",
    "image": {
@@ -514,7 +514,7 @@
     "Angel Stadium"
    ],
    "about": "Angel Stadium",
-   "score": 72.17938102294376,
+   "score": 70.92615208083781,
    "abouts": [
     "Angel Stadium"
    ],
@@ -534,18 +534,18 @@
     "Pittsburgh Pirates",
     "Dave Parker"
    ],
-   "score": 70.87958753255046,
+   "score": 50.0,
    "abouts": [
-    "Dave Parker",
     "National Baseball Hall of Fame and Museum",
+    "Dave Parker",
     "Pittsburgh Pirates"
    ],
-   "about": "Dave Parker",
+   "about": "National Baseball Hall of Fame and Museum",
    "key": "5de0a03f71d08653",
    "headline": "Dave Parker Wins 1978 NL MVP With 21 of 24 First-Place Votes",
    "image": null,
-   "extract": "David Gene Parker, nicknamed \"the Cobra\", was an American professional baseball player. He played in Major League Baseball as a right fielder from 1973 to 1991. A seven-time All-Star, Parker won two National League (NL) batting titles and was the 1978 NL Most Valuable Player. He was a member of two World Series…",
-   "page": "https://en.wikipedia.org/wiki/Dave_Parker"
+   "extract": "The National Baseball Hall of Fame and Museum, often simply referred to as \"Cooperstown\", is a history museum and hall of fame located in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying…",
+   "page": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
   },
   {
    "src": "yearpage",
@@ -557,7 +557,7 @@
     "Minnesota Twins",
     "Al Cowens"
    ],
-   "score": 60.44422281363502,
+   "score": 60.244150432641746,
    "abouts": [
     "Al Cowens",
     "Rod Carew",
@@ -648,18 +648,18 @@
     "Grace Comiskey",
     "Chuck Comiskey"
    ],
-   "score": 36.641979261283566,
+   "score": 22.0,
    "abouts": [
-    "Chuck Comiskey",
     "Grace Comiskey",
+    "Chuck Comiskey",
     "Chicago White Sox"
    ],
-   "about": "Chuck Comiskey",
+   "about": "Grace Comiskey",
    "key": "e169c62105ecae88",
    "headline": "Comiskey, Rigney to Share White Sox Baseball Operations Duties",
    "image": null,
-   "extract": "Charles Albert Comiskey II was part-owner of the Chicago White Sox from 1956 to 1961. A native of Chicago, Comiskey was the grandson of the team's founder, Charles Comiskey.",
-   "page": "https://en.wikipedia.org/wiki/Chuck_Comiskey"
+   "extract": "Grace Elizabeth Reidy Comiskey was an American businesswoman who was the owner of the Chicago White Sox of the American League from 1939 through 1956. Comiskey was the daughter-in-law of Charles Comiskey and inherited control of the White Sox upon the death of her husband, J. Louis Comiskey.",
+   "page": "https://en.wikipedia.org/wiki/Grace_Comiskey"
   },
   {
    "src": "yearpage",
@@ -705,25 +705,6 @@
   },
   {
    "src": "yearpage",
-   "kind": "death",
-   "year": "1937",
-   "text": "Dick Burns, 73, pitcher/outfielder for the Detroit Wolverines, Cincinnati Outlaw Reds and St. Louis Maroons from 1883 through 1885, who hurled a no-hitter against the Kansas City Cowboys in the 1884 season.",
-   "links": [
-    "Dick Burns"
-   ],
-   "score": 20.068,
-   "abouts": [
-    "Dick Burns"
-   ],
-   "about": "Dick Burns",
-   "key": "67ceaf27eb8f2a68",
-   "headline": "Dick Burns, 73, Former Pitcher and Outfielder, Detroit Wolverines",
-   "image": null,
-   "extract": "Richard Simon Burns was an American professional baseball player from 1883 to 1890. He played three seasons in Major League Baseball, principally as a pitcher and outfielder, for the Detroit Wolverines, Cincinnati Outlaw Reds and St. Louis Maroons.",
-   "page": "https://en.wikipedia.org/wiki/Dick_Burns"
-  },
-  {
-   "src": "yearpage",
    "kind": "event",
    "year": "1914",
    "text": "Eddie Plank reportedly jumps from the Philadelphia Athletics of the American League to the Federal League's Chicago Federals after Athletics owner Connie Mack instigates a fire sale, asking waivers for Plank, Jack Coombs, and Chief Bender.",
@@ -732,7 +713,7 @@
     "Philadelphia Athletics",
     "American League"
    ],
-   "score": 42.74065672373972,
+   "score": 42.910487342344936,
    "abouts": [
     "American League",
     "Eddie Plank",
@@ -810,7 +791,7 @@
     "National League (baseball)",
     "American Association (1882–1891)"
    ],
-   "score": 52.4271874053815,
+   "score": 52.432152394272165,
    "abouts": [
     "American Association (1882–1891)",
     "National League (baseball)"
