@@ -12,13 +12,13 @@
     "National League Most Valuable Player Award",
     "Atlanta Braves"
    ],
-   "score": 86.46493333292051,
+   "score": 87.71978177132794,
    "abouts": [
-    "Dale Murphy",
     "National League Most Valuable Player Award",
+    "Dale Murphy",
     "Atlanta Braves"
    ],
-   "about": "Dale Murphy",
+   "about": "National League Most Valuable Player Award",
    "key": "3019cec0d00cfd59",
    "headline": "Dale Murphy Wins NL MVP, First Braves Player Honored Since Aaron",
    "image": {
@@ -33,8 +33,8 @@
     "h": 579,
     "tier": "person"
    },
-   "extract": "Dale Bryan Murphy is an American former outfielder in Major League Baseball (MLB) who played for three National League (NL) teams, mainly the Atlanta Braves, from 1976 to 1993. A seven-time All-Star, he led the NL in home runs, runs batted in and slugging percentage twice each. Playing on frequently poor teams that…",
-   "page": "https://en.wikipedia.org/wiki/Dale_Murphy",
+   "extract": "The Major League Baseball Most Valuable Player Award (MVP) is an annual Major League Baseball (MLB) award given to one outstanding player in the American League (AL) and one in the National League (NL). The award has been presented by the Baseball Writers' Association of America (BBWAA) since 1931.",
+   "page": "https://en.wikipedia.org/wiki/Major_League_Baseball_Most_Valuable_Player_Award",
    "lead": true
   },
   {
@@ -46,7 +46,7 @@
     "Kyle Lewis"
    ],
    "about": "Kyle Lewis",
-   "score": 42.88630976792908,
+   "score": 42.44345849158471,
    "abouts": [
     "Kyle Lewis"
    ],
@@ -66,36 +66,6 @@
    },
    "extract": "Kyle Alexander Lewis is an American former professional baseball outfielder. He played in Major League Baseball (MLB) for the Seattle Mariners and Arizona Diamondbacks. Prior to his MLB debut, he played college baseball for the Mercer Bears.",
    "page": "https://en.wikipedia.org/wiki/Kyle_Lewis"
-  },
-  {
-   "src": "article",
-   "kind": "event",
-   "year": "2022",
-   "text": "On November 17, 2022, Conine was hired by the Miami Marlins to serve as a special assistant for the 2023 season.",
-   "links": [
-    "Jeff Conine"
-   ],
-   "about": "Jeff Conine",
-   "score": 30.861992889696523,
-   "abouts": [
-    "Jeff Conine"
-   ],
-   "key": "1d0c0799845475dc",
-   "headline": "Conine Hired by Miami Marlins as Special Assistant for 2023",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/JeffConineMarlinsPark2019.jpg",
-    "credit": "Rabbethan",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:JeffConineMarlinsPark2019.jpg",
-    "alt": "Smiling man in white pinstriped Marlins jersey number 19 before teal scoreboard",
-    "source": "checked",
-    "of": "Jeff Conine",
-    "w": 864,
-    "h": 1536,
-    "tier": "person"
-   },
-   "extract": "Jeffrey Guy Conine is an American former professional baseball left fielder / first baseman and current front office assistant for the Miami Marlins, who played in Major League Baseball (MLB) for 17 seasons, with six teams. An inaugural member of the Florida Marlins who was with the franchise for both of its World…",
-   "page": "https://en.wikipedia.org/wiki/Jeff_Conine"
   },
   {
    "src": "yearpage",
@@ -122,7 +92,7 @@
     "Zack Wheeler",
     "Robbie Ray"
    ],
-   "score": 65.88710528741585,
+   "score": 65.85555932590219,
    "abouts": [
     "Corbin Burnes",
     "Zack Wheeler",
@@ -154,13 +124,43 @@
   {
    "src": "article",
    "kind": "event",
+   "year": "2021",
+   "text": "On November 17, 2021, the Marlins hired Pedrique as their third base and infield coach for the 2022 season.",
+   "links": [
+    "Al Pedrique"
+   ],
+   "about": "Al Pedrique",
+   "score": 24.423976819744905,
+   "abouts": [
+    "Al Pedrique"
+   ],
+   "key": "7c1b109c2af86102",
+   "headline": "Marlins Hire Pedrique as Third Base, Infield Coach",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Al_jax.jpg",
+    "credit": "Tnullet",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Al_jax.jpg",
+    "alt": "Smiling player in navy cap with red script B, pinstriped jersey, dugout rail",
+    "source": "checked",
+    "of": "Al Pedrique",
+    "w": 576,
+    "h": 534,
+    "tier": "person"
+   },
+   "extract": "Alfredo José Pedrique García is a Venezuelan professional baseball player, coach, and manager. He played in Major League Baseball (MLB) as a shortstop for the New York Mets (1987), Pittsburgh Pirates (1987–88), and Detroit Tigers (1989).",
+   "page": "https://en.wikipedia.org/wiki/Al_Pedrique"
+  },
+  {
+   "src": "article",
+   "kind": "event",
    "year": "2020",
    "text": "On November 17, 2020, the Cubs named Hoyer president of baseball operations, taking over following Epstein's resignation.",
    "links": [
     "Jed Hoyer"
    ],
    "about": "Jed Hoyer",
-   "score": 29.82929968403536,
+   "score": 29.19141124957344,
    "abouts": [
     "Jed Hoyer"
    ],
@@ -190,7 +190,7 @@
     "John Hart (baseball)",
     "John Coppolella"
    ],
-   "score": 20.0,
+   "score": 36.051592599131155,
    "abouts": [
     "John Hart (baseball)",
     "John Coppolella"
@@ -203,6 +203,25 @@
    "page": "https://en.wikipedia.org/wiki/John_Hart_(baseball)"
   },
   {
+   "src": "onthisday",
+   "kind": "death",
+   "year": "2013",
+   "text": "Mary Nesbitt Wisham, American baseball player (born 1925)",
+   "links": [
+    "Mary Nesbitt Wisham"
+   ],
+   "score": 20.075,
+   "abouts": [
+    "Mary Nesbitt Wisham"
+   ],
+   "about": "Mary Nesbitt Wisham",
+   "key": "0417a57c73aa32d5",
+   "headline": "Mary Nesbitt Wisham, American Baseball Player",
+   "image": null,
+   "extract": "Mary Nesbitt Wisham was an American baseball pitcher and first basewoman who played from 1943 through 1950 in the All-American Girls Professional Baseball League (AAGPBL). Listed at 5 ft 8 in (1.73 m), 155 lb., Nesbitt batted and threw left-handed. She was born Marie Crews Nesbitt in Greenville, South Carolina. Before…",
+   "page": "https://en.wikipedia.org/wiki/Mary_Nesbitt_Wisham"
+  },
+  {
    "src": "yearpage",
    "kind": "event",
    "year": "2011",
@@ -212,7 +231,7 @@
     "Jim Crane",
     "American League"
    ],
-   "score": 42.74065672373972,
+   "score": 42.899603602963296,
    "abouts": [
     "American League",
     "Jim Crane",
@@ -234,7 +253,7 @@
     "Bo Schembechler",
     "Ernie Harwell"
    ],
-   "score": 31.5985,
+   "score": 31.572499999999998,
    "abouts": [
     "Bo Schembechler",
     "Ernie Harwell"
@@ -256,13 +275,13 @@
     "Oakland Athletics",
     "Frank Thomas"
    ],
-   "score": 45.0,
+   "score": 67.15778370524072,
    "abouts": [
-    "Jason Giambi",
     "Frank Thomas",
+    "Jason Giambi",
     "Oakland Athletics"
    ],
-   "about": "Jason Giambi",
+   "about": "Frank Thomas",
    "key": "73d05d5565dfae0a",
    "headline": "Jason Giambi Named AL MVP Over Frank Thomas, Alex Rodriguez",
    "image": {
@@ -277,8 +296,8 @@
     "h": 2592,
     "tier": "person"
    },
-   "extract": "Jason Gilbert Giambi is an American former professional baseball first baseman and designated hitter. In his Major League Baseball (MLB) career, which began in 1995, Giambi played for the Oakland Athletics, New York Yankees, Colorado Rockies, and Cleveland Indians. He is the older brother of the late MLB player Jeremy…",
-   "page": "https://en.wikipedia.org/wiki/Jason_Giambi"
+   "extract": "Frank Edward Thomas Jr., nicknamed \"the Big Hurt,\" is an American former baseball designated hitter and first baseman in Major League Baseball (MLB). He played for three American League (AL) teams from 1990 to 2008, all but the last three years with the Chicago White Sox. A five-time All-Star, he is the only player in…",
+   "page": "https://en.wikipedia.org/wiki/Frank_Thomas"
   },
   {
    "src": "yearpage",
@@ -290,7 +309,7 @@
     "Atlanta Braves",
     "Cy Young Award"
    ],
-   "score": 67.70901910474088,
+   "score": 67.92527222993314,
    "abouts": [
     "Cy Young Award",
     "Tom Glavine",
@@ -323,7 +342,7 @@
     "1992 Major League Baseball expansion draft"
    ],
    "about": "1992 Major League Baseball expansion draft",
-   "score": 34.54778014620588,
+   "score": 34.26239996818428,
    "abouts": [
     "1992 Major League Baseball expansion draft"
    ],
@@ -400,7 +419,7 @@
     "Toronto Blue Jays",
     "American League"
    ],
-   "score": 67.74065672373972,
+   "score": 67.8996036029633,
    "abouts": [
     "American League",
     "George Bell (outfielder)",
@@ -468,7 +487,7 @@
     "Don Stanhouse",
     "Baltimore Orioles"
    ],
-   "score": 10.0,
+   "score": 24.133612600844963,
    "abouts": [
     "Don Stanhouse",
     "Los Angeles Dodgers",
@@ -490,7 +509,7 @@
     "Gary Matthews"
    ],
    "about": "Gary Matthews",
-   "score": 27.727772536170324,
+   "score": 27.340997930363063,
    "abouts": [
     "Gary Matthews"
    ],
@@ -541,7 +560,7 @@
     "Dick Selma"
    ],
    "about": "Dick Selma",
-   "score": 37.72653558232912,
+   "score": 37.625224035184225,
    "abouts": [
     "Dick Selma"
    ],
@@ -561,13 +580,13 @@
     "Johnny Callison",
     "Major League Baseball All-Star Game"
    ],
-   "score": 10.0,
+   "score": 31.029268477324624,
    "abouts": [
-    "Johnny Callison",
     "Major League Baseball All-Star Game",
+    "Johnny Callison",
     "Philadelphia Phillies"
    ],
-   "about": "Johnny Callison",
+   "about": "Major League Baseball All-Star Game",
    "key": "7b6992a5f2881f08",
    "headline": "Phillies Deal Johnny Callison, 30, to Chicago Cubs",
    "image": {
@@ -582,8 +601,38 @@
     "h": 366,
     "tier": "person"
    },
-   "extract": "John Wesley Callison was an American professional baseball player. He played in Major League Baseball (MLB) for 16 seasons and is best known for the 10 years he spent with the Philadelphia Phillies as a right fielder, from 1960 through 1969. He was an All-Star for three seasons and four All-Star games. He led the…",
-   "page": "https://en.wikipedia.org/wiki/Johnny_Callison"
+   "extract": "The Major League Baseball All-Star Game, also known as the \"Midsummer Classic\", is an annual professional baseball game sanctioned by Major League Baseball (MLB) and contested between the all-stars from the American League (AL) and National League (NL). Starting position players and designated hitters are selected by…",
+   "page": "https://en.wikipedia.org/wiki/Major_League_Baseball_All-Star_Game"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1968",
+   "text": "Earl Hamilton, 77, pitcher who appeared in 410 games in MLB between 1911 and 1924, mostly with the St. Louis Browns and Pittsburgh Pirates; later a minor league team owner.",
+   "links": [
+    "Earl Hamilton"
+   ],
+   "score": 20.068,
+   "abouts": [
+    "Earl Hamilton"
+   ],
+   "about": "Earl Hamilton",
+   "key": "14e5b6523b477936",
+   "headline": "Earl Hamilton, 77, Pitcher, Later Minor League Owner",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Earl_Andrew_Hamilton%2C_baseball_player_with_St._Louis_%28Am.%29%2C_standing%2C_facing_left%2C_in_uniform_LCCN90706261.jpg/960px-Earl_Andrew_Hamilton%2C_baseball_player_with_St._Louis_%28Am.%29%2C_standing%2C_facing_left%2C_in_uniform_LCCN90706261.jpg",
+    "credit": "George Grantham Bain Collection",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Earl_Andrew_Hamilton,_baseball_player_with_St._Louis_(Am.),_standing,_facing_left,_in_uniform_LCCN90706261.jpg",
+    "alt": "Player in 'St. Louis' jersey holding glove, outdoor ballpark, 1910s.",
+    "source": "checked",
+    "of": "Earl Hamilton",
+    "w": 1089,
+    "h": 1536,
+    "tier": "person"
+   },
+   "extract": "Earl Andrew Hamilton was an American left-handed pitcher for the St. Louis Browns, Detroit Tigers (1916), Pittsburgh Pirates (1918–23), and the Philadelphia Phillies (1924) of Major League Baseball (MLB). He pitched a no-hitter against Detroit on August 30, 1912, becoming the first player to pitch a no-hitter without…",
+   "page": "https://en.wikipedia.org/wiki/Earl_Hamilton"
   },
   {
    "src": "yearpage",
@@ -593,7 +642,7 @@
    "links": [
     "Benny Kauff"
    ],
-   "score": 20.498,
+   "score": 20.319,
    "abouts": [
     "Benny Kauff"
    ],
@@ -617,6 +666,70 @@
   },
   {
    "src": "yearpage",
+   "kind": "death",
+   "year": "1958",
+   "text": "Mort Cooper, 45, pitcher for the St. Louis Cardinals, Boston Braves, New York Giants and Chicago Cubs over 12 seasons from 1938 to 1949; selected to four National League All-Star teams (1942–1943 and 1945–1946); led NL with 22 wins, 10 shutouts and a 1.78 ERA in 1942, earning Most Valuable Player honors, while anchoring Cardinals' pitching staff during three consecutive pennant-winning seasons (1942–1944), when he…",
+   "links": [
+    "Mort Cooper",
+    "St. Louis Cardinals",
+    "Boston Braves"
+   ],
+   "score": 20.2425,
+   "abouts": [
+    "Mort Cooper",
+    "St. Louis Cardinals",
+    "Boston Braves"
+   ],
+   "about": "Mort Cooper",
+   "key": "ac6bdff72ad12fba",
+   "headline": "Mort Cooper, 45, NL MVP Pitcher for Cardinals",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mort_Cooper_1943.jpg/960px-Mort_Cooper_1943.jpg",
+    "credit": "Unknown",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Mort_Cooper_1943.jpg",
+    "alt": "Smiling man in Cardinals jersey with Head sleeve patch, dugout background",
+    "source": "checked",
+    "of": "Mort Cooper (Commons search)",
+    "w": 1279,
+    "h": 1883,
+    "tier": "person"
+   },
+   "extract": "Morton Cecil Cooper was an American professional baseball pitcher. He played 11 seasons in Major League Baseball (MLB) for the St. Louis Cardinals, Boston Braves, New York Giants, and Chicago Cubs. A four-time MLB All-Star, Cooper won the National League (NL) Most Valuable Player (MVP) Award in 1942. His younger…",
+   "page": "https://en.wikipedia.org/wiki/Mort_Cooper"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1949",
+   "text": "Fred Hoey, 65, sportswriter and pioneering baseball broadcaster in Boston; radio voice of both the Braves (1925–1938) and Red Sox (1927–1938).",
+   "links": [
+    "Fred Hoey"
+   ],
+   "score": 20.0905,
+   "abouts": [
+    "Fred Hoey"
+   ],
+   "about": "Fred Hoey",
+   "key": "92d46e448413edad",
+   "headline": "Fred Hoey, 65, Pioneering Boston Baseball Broadcaster",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fred_Hoey%2C_Athens%2C_Georgia_-_DPLA_-_14de8ddc9c5b7bf58464d909e7f87490.jpg",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Fred_Hoey,_Athens,_Georgia_-_DPLA_-_14de8ddc9c5b7bf58464d909e7f87490.jpg",
+    "alt": "Smiling man in Boston uniform cap and jersey, dated 1913 handwritten caption.",
+    "source": "checked",
+    "of": "Fred Hoey",
+    "w": 514,
+    "h": 800,
+    "tier": "person"
+   },
+   "extract": "Fred James Hoey was an American radio sports announcer who was the first full-time voice of Major League Baseball in Boston. Hoey called games for the Boston Braves from 1925 to 1938 and the Boston Red Sox from 1927 to 1938.",
+   "page": "https://en.wikipedia.org/wiki/Fred_Hoey"
+  },
+  {
+   "src": "yearpage",
    "kind": "event",
    "year": "1947",
    "text": "The cash-strapped Browns make the first of two blockbuster trades with the wealthy Boston Red Sox, sending hard-hitting, three-time AL All-Star shortstop Vern Stephens and pitcher Jack Kramer to the Bosox for $310,000 and six players: pitchers Joe Ostrowski, Al Widmar and Jim Wilson, catcher Roy Partee, infielder Eddie Pellagrini and outfielder Pete Layden.",
@@ -625,7 +738,7 @@
     "Boston Red Sox",
     "Major League Baseball All-Star Game"
    ],
-   "score": 25.0,
+   "score": 46.02926847732462,
    "abouts": [
     "Major League Baseball All-Star Game",
     "St. Louis Browns",
@@ -674,13 +787,13 @@
     "John Montgomery Ward",
     "Ned Hanlon (baseball)"
    ],
-   "score": 10.0,
+   "score": 26.508404746467882,
    "abouts": [
-    "Players' League",
     "John Montgomery Ward",
+    "Players' League",
     "Ned Hanlon (baseball)"
    ],
-   "about": "Players' League",
+   "about": "John Montgomery Ward",
    "key": "e6ae892bfc923b4d",
    "headline": "Club Owners Recognize Brotherhood of Professional Base-Ball Players",
    "image": {
@@ -695,8 +808,8 @@
     "h": 423,
     "tier": "person"
    },
-   "extract": "The Players' National League of Professional Base Ball Clubs, popularly known as the Players' League (PL), was a short-lived but star-studded American professional baseball league of the 19th century. The PL was formed by the Brotherhood of Professional Base Ball Players in November 1889, after a dispute over pay with…",
-   "page": "https://en.wikipedia.org/wiki/Players'_League"
+   "extract": "John Montgomery Ward, also known as Monte Ward, was an American professional baseball player, manager, executive, union organizer, owner and author. Ward, of English descent, was born in Bellefonte, Pennsylvania and grew up in Renovo, Pennsylvania. He led the formation of the first professional sports players union…",
+   "page": "https://en.wikipedia.org/wiki/John_Montgomery_Ward"
   }
  ],
  "wire": {

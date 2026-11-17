@@ -359,6 +359,11 @@
   "reason": "person: Man in cap bearing a 'B' logo, black-and-white portrait photo",
   "model": "claude-haiku-5-5"
  },
+ "0417a57c73aa32d5": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
  "045519c9da26a3d9": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1949_Bowman_Al_Dark.jpg",
@@ -1545,6 +1550,22 @@
  "14b3406ebbe7e137": {
   "image": null,
   "reason": "judge found no fitting photo",
+  "model": "claude-haiku-5-5"
+ },
+ "14e5b6523b477936": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Earl_Andrew_Hamilton%2C_baseball_player_with_St._Louis_%28Am.%29%2C_standing%2C_facing_left%2C_in_uniform_LCCN90706261.jpg/960px-Earl_Andrew_Hamilton%2C_baseball_player_with_St._Louis_%28Am.%29%2C_standing%2C_facing_left%2C_in_uniform_LCCN90706261.jpg",
+   "credit": "George Grantham Bain Collection",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Earl_Andrew_Hamilton,_baseball_player_with_St._Louis_(Am.),_standing,_facing_left,_in_uniform_LCCN90706261.jpg",
+   "alt": "Player in 'St. Louis' jersey holding glove, outdoor ballpark, 1910s.",
+   "source": "checked",
+   "of": "Earl Hamilton",
+   "w": 1089,
+   "h": 1536,
+   "tier": "person"
+  },
+  "reason": "person: Player in 'St. Louis' jersey holding glove, outdoor ballpark, 1910s.",
   "model": "claude-haiku-5-5"
  },
  "14ff117bb2d20d75": {
@@ -9146,6 +9167,22 @@
   "reason": "no free-licensed candidates",
   "model": "claude-haiku-5-5"
  },
+ "7c1b109c2af86102": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Al_jax.jpg",
+   "credit": "Tnullet",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Al_jax.jpg",
+   "alt": "Smiling player in navy cap with red script B, pinstriped jersey, dugout rail",
+   "source": "checked",
+   "of": "Al Pedrique",
+   "w": 576,
+   "h": 534,
+   "tier": "person"
+  },
+  "reason": "person: Smiling player in navy cap with red script B, pinstriped jersey, dugout rail",
+  "model": "claude-haiku-5-5"
+ },
  "7c60abf271d54461": {
   "image": null,
   "reason": "rejected Bruce Bochy (2011).jpg: The story is about Bochy managing the Rangers in 2022-2023, but the photo shows a Giants uniform and a 2011-era setting, matching the file name's 2011 date and the 2010 World Series article rather than the Rangers period described.",
@@ -11276,6 +11313,22 @@
    "tier": "person"
   },
   "reason": "person: Batter in white road uniform swinging at pitch; catcher, umpire, crowd, MLB ballpark",
+  "model": "claude-haiku-5-5"
+ },
+ "92d46e448413edad": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fred_Hoey%2C_Athens%2C_Georgia_-_DPLA_-_14de8ddc9c5b7bf58464d909e7f87490.jpg",
+   "credit": "Wikimedia Commons",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Fred_Hoey,_Athens,_Georgia_-_DPLA_-_14de8ddc9c5b7bf58464d909e7f87490.jpg",
+   "alt": "Smiling man in Boston uniform cap and jersey, dated 1913 handwritten caption.",
+   "source": "checked",
+   "of": "Fred Hoey",
+   "w": 514,
+   "h": 800,
+   "tier": "person"
+  },
+  "reason": "person: Smiling man in Boston uniform cap and jersey, dated 1913 handwritten caption.",
   "model": "claude-haiku-5-5"
  },
  "92f5f45800a0472e": {
@@ -13438,6 +13491,22 @@
  "ac669ef6b5e4d425": {
   "image": null,
   "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
+ "ac6bdff72ad12fba": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mort_Cooper_1943.jpg/960px-Mort_Cooper_1943.jpg",
+   "credit": "Unknown",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Mort_Cooper_1943.jpg",
+   "alt": "Smiling man in Cardinals jersey with Head sleeve patch, dugout background",
+   "source": "checked",
+   "of": "Mort Cooper (Commons search)",
+   "w": 1279,
+   "h": 1883,
+   "tier": "person"
+  },
+  "reason": "person: Smiling man in Cardinals jersey with Head sleeve patch, dugout background",
   "model": "claude-haiku-5-5"
  },
  "ac7d3f14656ac338": {
