@@ -2986,6 +2986,22 @@
   "reason": "venue: Aerial view of a baseball diamond with empty stands and scoreboards",
   "model": "claude-haiku-5-5"
  },
+ "29efaeec7f3a0b16": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dauri_Moreta_%2843752873481%29_%28cropped%29.jpg/960px-Dauri_Moreta_%2843752873481%29_%28cropped%29.jpg",
+   "credit": "Marshall Dunlap",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Dauri_Moreta_(43752873481)_(cropped).jpg",
+   "alt": "Pitcher in white Mariners-style uniform, jersey reads MORETA 10, mid-delivery.",
+   "source": "checked",
+   "of": "Dauri Moreta",
+   "w": 2423,
+   "h": 2654,
+   "tier": "person"
+  },
+  "reason": "person: Pitcher in white Mariners-style uniform, jersey reads MORETA 10, mid-delivery.",
+  "model": "claude-haiku-5-5"
+ },
  "2a078d90662a45a2": {
   "image": null,
   "reason": "judge found no fitting photo",
@@ -3581,6 +3597,11 @@
    "tier": "venue"
   },
   "reason": "venue: Baseball stadium with grass field, infield dirt, grandstand, and light towers.",
+  "model": "claude-haiku-5-5"
+ },
+ "3225ccd1609efdfe": {
+  "image": null,
+  "reason": "judge found no fitting photo",
   "model": "claude-haiku-5-5"
  },
  "322f3534288df5a3": {
@@ -11818,6 +11839,22 @@
    "tier": "event"
   },
   "reason": "event: Gold World Series trophy on red pedestal in a museum display case",
+  "model": "claude-haiku-5-5"
+ },
+ "9957a650c759c408": {
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/IMGP8184_Ben_Cherington_%283x4a%29.jpg",
+   "credit": "Bob P. B. on Flickr (Original version) UCinternational (Crop)",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:IMGP8184_Ben_Cherington_(3x4a).jpg",
+   "alt": "Man in red hoodie and black Pittsburgh Pirates-style cap outdoors",
+   "source": "checked",
+   "of": "Ben Cherington",
+   "w": 950,
+   "h": 1265,
+   "tier": "person"
+  },
+  "reason": "person: Man in red hoodie and black Pittsburgh Pirates-style cap outdoors",
   "model": "claude-haiku-5-5"
  },
  "99c17d74808048ee": {
