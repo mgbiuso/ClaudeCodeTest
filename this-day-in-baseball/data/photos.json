@@ -242,6 +242,11 @@
   "reason": "venue: Black-and-white baseball game at a packed stadium with outfield wall, players and umpire",
   "model": "claude-haiku-5-5"
  },
+ "0350fa504523fca7": {
+  "image": null,
+  "reason": "no free-licensed candidates",
+  "model": "claude-haiku-5-5"
+ },
  "0358e0b89bb36e3a": {
   "image": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Harry_Wright_Baseball_Card.jpg/960px-Harry_Wright_Baseball_Card.jpg",

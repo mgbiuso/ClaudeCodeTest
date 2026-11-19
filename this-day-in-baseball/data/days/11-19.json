@@ -10,7 +10,7 @@
    "links": [
     "Cal Ripken Jr."
    ],
-   "score": 88.94225603511728,
+   "score": 88.40783418076364,
    "abouts": [
     "Cal Ripken Jr."
    ],
@@ -46,7 +46,7 @@
    "links": [
     "Bart Shirley"
    ],
-   "score": 20.063,
+   "score": 20.051,
    "abouts": [
     "Bart Shirley"
    ],
@@ -66,7 +66,7 @@
     "Chris Woodward"
    ],
    "about": "Chris Woodward",
-   "score": 27.86783886519609,
+   "score": 27.394274837643316,
    "abouts": [
     "Chris Woodward"
    ],
@@ -86,6 +86,25 @@
    },
    "extract": "Christopher Michael Woodward is an American former professional baseball utility player and current coach for the Los Angeles Dodgers of Major League Baseball (MLB). He played in MLB for the Toronto Blue Jays, New York Mets, Atlanta Braves, Seattle Mariners, and Boston Red Sox, from 1999 through 2012. He then served…",
    "page": "https://en.wikipedia.org/wiki/Chris_Woodward"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2021",
+   "text": "The newly named Cleveland Guardians selected Morris to their 40-man roster on November 19, 2021.",
+   "links": [
+    "Cody Morris"
+   ],
+   "about": "Cody Morris",
+   "score": 22.960883786979334,
+   "abouts": [
+    "Cody Morris"
+   ],
+   "key": "0350fa504523fca7",
+   "headline": "Guardians Add Morris to 40-Man Roster",
+   "image": null,
+   "extract": "Cody McKinley Morris is an American former professional baseball pitcher. He played in Major League Baseball (MLB) for the Cleveland Guardians. He played college baseball at the University of South Carolina, and was drafted by Cleveland in the seventh round of the 2018 MLB draft.",
+   "page": "https://en.wikipedia.org/wiki/Cody_Morris"
   },
   {
    "src": "yearpage",
@@ -116,13 +135,13 @@
     "Justus Sheffield",
     "Erik Swanson"
    ],
-   "score": 37.18713248970312,
+   "score": 38.98012448304297,
    "abouts": [
-    "Erik Swanson",
     "James Paxton (baseball)",
+    "Erik Swanson",
     "Justus Sheffield"
    ],
-   "about": "Erik Swanson",
+   "about": "James Paxton (baseball)",
    "key": "35d7a36c0dc9a7c5",
    "headline": "Yankees Acquire James Paxton From Mariners",
    "image": {
@@ -137,8 +156,8 @@
     "h": 2953,
     "tier": "person"
    },
-   "extract": "Erik Donald Swanson is an American former professional baseball pitcher. He played in Major League Baseball (MLB) for the Seattle Mariners and Toronto Blue Jays.",
-   "page": "https://en.wikipedia.org/wiki/Erik_Swanson"
+   "extract": "James Alston Paxton, nicknamed \"Big Maple\", is a Canadian former professional baseball pitcher. He played in Major League Baseball (MLB) for the Seattle Mariners, New York Yankees, Boston Red Sox, and Los Angeles Dodgers.",
+   "page": "https://en.wikipedia.org/wiki/James_Paxton_(baseball)"
   },
   {
    "src": "yearpage",
@@ -149,7 +168,7 @@
     "Giancarlo Stanton",
     "Jeffrey Loria"
    ],
-   "score": 50.0,
+   "score": 73.5148653276891,
    "abouts": [
     "Giancarlo Stanton",
     "Jeffrey Loria"
@@ -169,27 +188,8 @@
     "h": 2228,
     "tier": "person"
    },
-   "extract": "Giancarlo Cruz-Michael Stanton, known until 2012 as Mike Stanton, is an American professional baseball designated hitter and outfielder for the New York Yankees of Major League Baseball (MLB). He has previously played in MLB for the Florida/Miami Marlins. Stanton stands 6 feet 6 inches (1.98 m) tall and weighs 245…",
+   "extract": "Giancarlo Cruz-Michael Stanton, known until 2012 as Mike Stanton, is an American professional baseball designated hitter and outfielder for the New York Yankees of Major League Baseball (MLB). He has previously played in MLB for the Florida / Miami Marlins. Stanton stands 6 feet 6 inches (1.98 m) tall and weighs 245…",
    "page": "https://en.wikipedia.org/wiki/Giancarlo_Stanton"
-  },
-  {
-   "src": "yearpage",
-   "kind": "death",
-   "year": "2013",
-   "text": "Babe Birrer, 85, pitcher for the Detroit Tigers, Baltimore Orioles and Los Angeles Dodgers in a span of three seasons from 1955 to 1958, who also had a distinguished 18-year career in the Minor leagues, Canadian baseball and the Caribbean winter leagues.",
-   "links": [
-    "Babe Birrer"
-   ],
-   "score": 20.05,
-   "abouts": [
-    "Babe Birrer"
-   ],
-   "about": "Babe Birrer",
-   "key": "6e236fe03b7850ce",
-   "headline": "Babe Birrer, 85, Pitcher for Tigers, Orioles and Dodgers",
-   "image": null,
-   "extract": "Werner Joseph Birrer was an American pitcher in Major League Baseball. Listed at 6' 0\", 195 lb., Birrer batted and threw right handed. He was born in Buffalo, New York. Graduated from Kensington High School in Buffalo, New York (1947). Signed by Detroit Tigers Scout \"Cy\" Williams, not the ball player in 1947.",
-   "page": "https://en.wikipedia.org/wiki/Babe_Birrer"
   },
   {
    "src": "article",
@@ -200,7 +200,7 @@
     "Félix Bautista (baseball)"
    ],
    "about": "Félix Bautista (baseball)",
-   "score": 28.465555577310706,
+   "score": 27.8515469271794,
    "abouts": [
     "Félix Bautista (baseball)"
    ],
@@ -219,7 +219,7 @@
     "Aaron Heilman"
    ],
    "about": "Aaron Heilman",
-   "score": 35.843190506238074,
+   "score": 35.52503979666668,
    "abouts": [
     "Aaron Heilman"
    ],
@@ -280,7 +280,7 @@
     "free agent",
     "Alfonso Soriano"
    ],
-   "score": 32.03950270071317,
+   "score": 31.323498960835728,
    "abouts": [
     "Alfonso Soriano",
     "free agent",
@@ -312,7 +312,7 @@
    "links": [
     "Brian Traxler"
    ],
-   "score": 20.116,
+   "score": 20.105,
    "abouts": [
     "Brian Traxler"
    ],
@@ -326,43 +326,13 @@
   {
    "src": "article",
    "kind": "event",
-   "year": "1996",
-   "text": "On November 19, 1996, Belle signed a five-year, $55 million (equivalent to $110 million today) deal with the Chicago White Sox as a free agent.",
-   "links": [
-    "Albert Belle"
-   ],
-   "about": "Albert Belle",
-   "score": 33.15457900359203,
-   "abouts": [
-    "Albert Belle"
-   ],
-   "key": "294ac30c2f5d25d7",
-   "headline": "Albert Belle Signs Five-Year, $55 Million Deal With White Sox",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Albert_Belle_1997.jpg",
-    "credit": "clare_and_ben",
-    "license": "CC BY-SA 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Albert_Belle_1997.jpg",
-    "alt": "Player in White Sox pinstripes and cap, fielding, outfield, blue wall",
-    "source": "checked",
-    "of": "Albert Belle",
-    "w": 547,
-    "h": 670,
-    "tier": "person"
-   },
-   "extract": "Albert Jojuan Belle Jr., until 1990 known as Joey Belle, is an American former Major League Baseball outfielder who played from 1989 to 2000, most notably for the Cleveland Indians. Known for his taciturn personality and intimidating stature, Belle was one of the leading sluggers of his time, and in 1995 became the…",
-   "page": "https://en.wikipedia.org/wiki/Albert_Belle"
-  },
-  {
-   "src": "article",
-   "kind": "event",
    "year": "1993",
    "text": "On November 19, 1993, DeShields was traded to the Los Angeles Dodgers for then-prospect Pedro Martínez.",
    "links": [
     "Delino DeShields"
    ],
    "about": "Delino DeShields",
-   "score": 42.95030615401871,
+   "score": 42.455407067115935,
    "abouts": [
     "Delino DeShields"
    ],
@@ -423,7 +393,7 @@
    "links": [
     "Barry Bonds"
    ],
-   "score": 69.88889230037377,
+   "score": 69.52625323521099,
    "abouts": [
     "Barry Bonds"
    ],
@@ -431,7 +401,7 @@
    "key": "6e893a364f12e152",
    "headline": "Barry Bonds Wins First NL MVP With Pittsburgh Pirates",
    "image": null,
-   "extract": "Barry Lamar Bonds is an American former professional baseball left fielder who played 22 seasons in Major League Baseball (MLB). Bonds was a member of the Pittsburgh Pirates from 1986 to 1992 and the San Francisco Giants from 1993 to 2007. He is considered one of the greatest baseball players of all time.",
+   "extract": "Barry Lamar Bonds is an American former professional baseball left fielder who played 22 seasons in Major League Baseball (MLB). He was a member of the Pittsburgh Pirates from 1986 to 1992 and the San Francisco Giants from 1993 to 2007. Bonds is widely considered to be one of the greatest baseball players of all time.",
    "page": "https://en.wikipedia.org/wiki/Barry_Bonds"
   },
   {
@@ -443,7 +413,7 @@
     "Carl Hubbell"
    ],
    "about": "Carl Hubbell",
-   "score": 28.0660367605188,
+   "score": 27.946396106179836,
    "abouts": [
     "Carl Hubbell"
    ],
@@ -588,13 +558,13 @@
     "Bing Devine",
     "Don Cardwell"
    ],
-   "score": 70.2369148505731,
+   "score": 72.16912846976655,
    "abouts": [
-    "Bing Devine",
     "Don Cardwell",
+    "Bing Devine",
     "St. Louis Cardinals"
    ],
-   "about": "Bing Devine",
+   "about": "Don Cardwell",
    "key": "4212027b9aea4d30",
    "headline": "Cardinals Send Don Cardwell, Julio Gotay to Pirates for Dick Groat",
    "image": {
@@ -609,8 +579,8 @@
     "h": 365,
     "tier": "person"
    },
-   "extract": "Vaughan Pallmore \"Bing\" Devine was an American front office executive in Major League Baseball and a major architect of four National League champions and three World Series champions in the six years from 1964 through 1969. He was selected The Sporting News MLB Executive of the Year in back-to-back seasons: 1963 and…",
-   "page": "https://en.wikipedia.org/wiki/Bing_Devine"
+   "extract": "Donald Eugene Cardwell was an American Major League Baseball (MLB) right-handed pitcher who played for five National League (NL) teams from 1957 to 1970. He was the first pitcher in major league history to pitch a no-hitter in his first game after being traded. He pitched a no-hit, 4–0 winning game for the Chicago…",
+   "page": "https://en.wikipedia.org/wiki/Don_Cardwell"
   },
   {
    "src": "yearpage",
@@ -622,7 +592,7 @@
     "Del Ennis",
     "St. Louis Cardinals"
    ],
-   "score": 25.0,
+   "score": 39.62397997898956,
    "abouts": [
     "Del Ennis",
     "Philadelphia Phillies",
@@ -705,36 +675,6 @@
   },
   {
    "src": "yearpage",
-   "kind": "death",
-   "year": "1937",
-   "text": "Cub Stricker, 78, second baseman for seven different teams during an 11-season career spanning 1882–1893, who compiled 1,106 hits and also managed the St. Louis Browns in 1892.",
-   "links": [
-    "Cub Stricker"
-   ],
-   "score": 20.053,
-   "abouts": [
-    "Cub Stricker"
-   ],
-   "about": "Cub Stricker",
-   "key": "8d977e2473627590",
-   "headline": "Cub Stricker, 78, Former Second Baseman and Browns Manager",
-   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cub_Stricker%2C_Cleveland_Blues%2C_Spiders%2C_and_Infants%2C_baseball_card_portrait_LCCN2007686990.jpg",
-    "credit": "Goodwin & Co., sponsor",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Cub_Stricker,_Cleveland_Blues,_Spiders,_and_Infants,_baseball_card_portrait_LCCN2007686990.jpg",
-    "alt": "Sepia baseball card of a player in uniform, labeled Stricker, 2d B., Cleveland",
-    "source": "checked",
-    "of": "Cub Stricker (Commons search)",
-    "w": 548,
-    "h": 1024,
-    "tier": "person"
-   },
-   "extract": "John A. \"Cub\" Stricker, born John A. Streaker was an American professional baseball second baseman. He played in Major League Baseball (MLB) for seven different teams during his 11-season career, mostly with the Philadelphia Athletics and Cleveland Blues/Spiders.",
-   "page": "https://en.wikipedia.org/wiki/Cub_Stricker"
-  },
-  {
-   "src": "yearpage",
    "kind": "event",
    "year": "1930",
    "text": "John Russell, pitcher for the Brooklyn Robins and Chicago White Sox between 1917 and 1922.",
@@ -762,7 +702,7 @@
     "Abraham G. Mills",
     "Nicholas Young (executive)"
    ],
-   "score": 32.532525162024356,
+   "score": 32.04966561665647,
    "abouts": [
     "Abraham G. Mills",
     "National League (baseball)",
@@ -857,19 +797,5 @@
    1885,
    2021
   ]
- },
- "papers": [
-  {
-   "year": 1963,
-   "paper": "Evening star (Washington, D.C.)",
-   "page": 22,
-   "url": "https://www.loc.gov/resource/sn83045462/1963-11-19/ed-1/?sp=22&q=baseball"
-  },
-  {
-   "year": 1962,
-   "paper": "Evening star (Washington, D.C.)",
-   "page": 3,
-   "url": "https://www.loc.gov/resource/sn83045462/1962-11-19/ed-1/?sp=3&q=baseball"
-  }
- ]
+ }
 }

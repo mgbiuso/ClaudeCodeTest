@@ -19,6 +19,10 @@
   "reason": "Candidate 1 is an official MLB video of the Game 5 12th-inning five-run rally that clinched the 2015 World Series for the Royals, matching the specific event an",
   "query": "Royals win 2015 World Series Game 5 Mets 12 innings"
  },
+ "024eb909b9ca5f0c": {
+  "none": "No candidate shows or officially recaps the 1975 NL MVP announcement. Candidate 1 is a generic MVP-montage highlight reel, candidate 2 is a Hall of Fame biograp",
+  "query": "Joe Morgan Reds 1975 MVP World Series highlights"
+ },
  "031dc217b68f89c5": {
   "none": "The only candidate is a Hall of Fame biography of Brooks Robinson, not footage or a recap of Jim Palmer's 1976 Cy Young Award win, so it does not match the stor",
   "query": "Jim Palmer 1976 Cy Young Award Orioles highlights"
@@ -487,6 +491,10 @@
   "reason": "Candidate 2 is an official MLB daily recap of the 2015 World Series Game 4 eighth-inning rally on Murphy's error, matching the story's year and event. Candidate",
   "query": "Royals 2015 World Series Game 4 eighth inning Daniel Murphy error Mets"
  },
+ "6e893a364f12e152": {
+  "none": "The only candidate is a general highlights compilation of Bonds' Pirates career, not footage or an official recap of his 1990 NL MVP season or award, so it does",
+  "query": "Barry Bonds 1990 NL MVP Pirates highlights"
+ },
  "71bd756daf1588ec": {
   "none": "Neither candidate covers the 1977 AL MVP award; one is Carew's 3,000th hit in 1985 and the other is his 1967 Rookie of the Year win, so no video fits this story",
   "query": "Rod Carew 1977 AL MVP Twins highlights"
@@ -827,6 +835,10 @@
   "reason": "Both candidates show the same 1992 Game 6 footage, but candidate 1 is the MLB channel's official upload and candidate 2 is a duplicate from the Blue Jays channe",
   "query": "Blue Jays win 1992 World Series Game 6 Winfield double"
  },
+ "b7825748d36e0d77": {
+  "none": "The only candidate is footage of a 1980 World Series home run, not the 1986 NL MVP award story, so it does not match the event or year.",
+  "query": "Mike Schmidt Phillies 1986 MVP highlights"
+ },
  "b83b85485e92f99b": {
   "id": "UAKdMJfwMzM",
   "title": "2010 WS Gm5: Lincecum hurls eight solid frames",
@@ -950,6 +962,10 @@
  "cf30496ac9711f6a": {
   "none": "no official embeddable video",
   "query": "1919 Black Sox scandal White Sox indicted 1920"
+ },
+ "cfc0f936517ac49b": {
+  "none": "no official embeddable video",
+  "query": "Giancarlo Stanton Marlins 13-year contract 2014 highlights"
  },
  "d218715cf38379bf": {
   "none": "no official embeddable video",
