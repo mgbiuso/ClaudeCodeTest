@@ -1,0 +1,97 @@
+{
+ "month": 11,
+ "day": 20,
+ "games": 0,
+ "items": [],
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 481,
+  "items": [
+   {
+    "year": 2017,
+    "text": "Yankees trade Garrett Cooper and Caleb Smith to the Marlins for Michael King and cash",
+    "star": false
+   },
+   {
+    "year": 2014,
+    "text": "Rays trade Joel Peralta and Adam Liberatore to the Dodgers for Jose Dominguez and Greg Harris",
+    "star": false
+   },
+   {
+    "year": 2006,
+    "text": "Mets trade Henry Owens and Matt Lindstrom to the Marlins for Adam Bostick and Jason Vargas",
+    "star": false
+   },
+   {
+    "year": 1997,
+    "text": "Tigers trade Rick Greene, Mike Myers and Santiago Perez to the Brewers for Bryce Florie",
+    "star": false
+   },
+   {
+    "year": 1996,
+    "text": "John Smoltz signs with the Braves",
+    "star": true
+   },
+   {
+    "year": 1981,
+    "text": "Indians trade Bo Diaz to the Phillies",
+    "star": false
+   },
+   {
+    "year": 1962,
+    "text": "White Sox release Early Wynn",
+    "star": true
+   },
+   {
+    "year": 1962,
+    "text": "Red Sox trade Jim Pagliaroni and Don Schwall to the Pirates for Dick Stuart and Jack Lamabe",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "21",
+    "note": "most in 1990 (2)"
+   },
+   {
+    "label": "Trades made",
+    "value": "131",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "208",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2014",
+    "note": "37 transactions"
+   }
+  ],
+  "years": [
+   1891,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ },
+ "feats": {
+  "count": 0,
+  "items": []
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}
