@@ -1,0 +1,97 @@
+{
+ "month": 11,
+ "day": 21,
+ "games": 0,
+ "items": [],
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 231,
+  "items": [
+   {
+    "year": 2018,
+    "text": "Dodgers trade Tim Locastro to the Yankees for Drew Finley and cash",
+    "star": false
+   },
+   {
+    "year": 1983,
+    "text": "Mariners trade Bill Caudill and Darrel Akerfelds to the Athletics for Dave Beard and Bob Kearney",
+    "star": false
+   },
+   {
+    "year": 1967,
+    "text": "Reds trade Tommy Harper to the Indians for George Culver, Fred Whitfield and Bob Raudman",
+    "star": false
+   },
+   {
+    "year": 1950,
+    "text": "Indians release Lou Boudreau",
+    "star": true
+   },
+   {
+    "year": 1934,
+    "text": "Cubs trade cash, Bud Tinning and Dick Ward to the Cardinals for Tex Carleton",
+    "star": false
+   },
+   {
+    "year": 1933,
+    "text": "Cubs trade cash, Ted Kleinhans, Mark Koenig and Harvey Hendrick to the Phillies for Chuck Klein",
+    "star": true
+   },
+   {
+    "year": 1888,
+    "text": "Pirates buy Ned Hanlon from the Wolverines",
+    "star": true
+   },
+   {
+    "year": 1887,
+    "text": "Athletics trade cash, Fred Mann, Chippy McGarr and Jocko Milligan to the Cardinals for Bill Gleason and Curt Welch",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "13",
+    "note": "most in 2001 (3)"
+   },
+   {
+    "label": "Trades made",
+    "value": "65",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "123",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2013",
+    "note": "12 transactions"
+   }
+  ],
+  "years": [
+   1887,
+   2019
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ },
+ "feats": {
+  "count": 0,
+  "items": []
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}
